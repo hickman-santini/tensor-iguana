@@ -1,0 +1,23 @@
+blocks: <h3>~5.1 miles @ ~11.0 min/mi</h3><p>"Which side of the oval would be better to puke on?" Sir Ken and I do laps at Walter Johnson High School track on a cloudy-cool Saturday afternoon. Girls play soccer on the field, their gear spilling across lanes 1 and 2. The crowd in the bleachers restrain their cheers as we saunter past. Our average speed is identical, but my variance is far higher since Ken keeps a steady ~10 min/mi pace while I "dash" 400m and then walk 200m to recover. <em>(Interval splits: 1:44 + 1:45 + 1:47 + 1:45 + 1:47; peak heart rate ~160.)</em> Then we meander around the 'hood, reviewing recent races and discussing upcoming events. A big rabbit scampers across a lawn.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/981869401">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-06-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.68
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.1 miles @ ~11.0 min/mi
+	
+	"Which side of the oval would be better to puke on?" Sir Ken and I do laps at Walter Johnson High School track on a cloudy-cool Saturday afternoon. Girls play soccer on the field, their gear spilling across lanes 1 and 2. The crowd in the bleachers restrain their cheers as we saunter past. Our average speed is identical, but my variance is far higher since Ken keeps a steady ~10 min/mi pace while I "dash" 400m and then walk 200m to recover. //(Interval splits: 1:44 + 1:45 + 1:47 + 1:45 + 1:47; peak heart rate ~160.)// Then we meander around the 'hood, reviewing recent races and discussing upcoming events. A big rabbit scampers across a lawn.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/981869401|trackfile]])// - //**^z**// - 2017-06-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.1 miles @ ~11.0 min/mi<br />&gt; "Which side of the oval would be better to puke on?" Sir Ken and I do laps at Walter Johnson High School track on a cloudy-cool Saturday afternoon. Girls play soccer on the field, their gear spilling across lanes 1 and 2. The crowd in the bleachers restrain their cheers as we saunter past. Our average speed is identical, but my variance is far higher since Ken keeps a steady ~10 min/mi pace while I "dash" 400m and then walk 200m to recover. //(Interval splits: 1:44 + 1:45 + 1:47 + 1:45 + 1:47; peak heart rate ~160.)// Then we meander around the 'hood, reviewing recent races and discussing upcoming events. A big rabbit scampers across a lawn.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/981869401|trackfile]])// - //**^z**// - 2017-06-10</strong></p></div>
+flags: 0
+ts: 1528057680
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057680

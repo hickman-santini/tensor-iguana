@@ -1,0 +1,23 @@
+blocks: <h3>~5 miles @ ~11 min/mi</h3><p>Three rabbits appear, at miles 1, 3, and 5. I'm the rabbit for Kristin and Amber, as they do a self-calibration speed test on the McLean HS track, swinging wide to dodge walkers. I trot at ~2 min/lap, encouraging A &amp; K to push. Amber kicks hard on the bell lap and finishes in 7:54. Kristin later confesses to keeping something in reserve, in anticipation of the next 3 miles of the morning, but still hits 8:25 for what may be a lifetime mile PB. <em>Yay!</em> <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/394114962">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/548145694">Garmin</a> tell the tale.</p><p><em><strong>^z</strong></em> - 2014-08-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.209.198
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5 miles @ ~11 min/mi
+	
+	Three rabbits appear, at miles 1, 3, and 5. I'm the rabbit for Kristin and Amber, as they do a self-calibration speed test on the McLean HS track, swinging wide to dodge walkers. I trot at ~2 min/lap, encouraging A & K to push. Amber kicks hard on the bell lap and finishes in 7:54. Kristin later confesses to keeping something in reserve, in anticipation of the next 3 miles of the morning, but still hits 8:25 for what may be a lifetime mile PB. //Yay!// [[http://runkeeper.com/user/zhurnaly/activity/394114962|Runkeeper]] and [[http://connect.garmin.com/modern/activity/548145694|Garmin]] tell the tale.
+	
+	//**^z**// - 2014-08-01
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5 miles @ ~11 min/mi<br />&gt; Three rabbits appear, at miles 1, 3, and 5. I'm the rabbit for Kristin and Amber, as they do a self-calibration speed test on the McLean HS track, swinging wide to dodge walkers. I trot at ~2 min/lap, encouraging A &amp; K to push. Amber kicks hard on the bell lap and finishes in 7:54. Kristin later confesses to keeping something in reserve, in anticipation of the next 3 miles of the morning, but still hits 8:25 for what may be a lifetime mile PB. //Yay!// [[http://runkeeper.com/user/zhurnaly/activity/394114962|Runkeeper]] and [[http://connect.garmin.com/modern/activity/548145694|Garmin]] tell the tale.<br />&gt; //**^z**// - 2014-08-01</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057690

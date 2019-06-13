@@ -1,0 +1,23 @@
+blocks: <h3>~5.4 miles @ ~13.0 min/mi</h3><p>"Good morning, Ladies!" says the inbound fellow to Kristin and me as we walk out in the dark to the loading dock. It's Nathan's last run before he heads west to grad school in Washington. Beth leads through gloom along the bumpy path under the Toll Toad bypass, with discussion of scientific frauds and irreproducible experiments <em>(organic molecular semiconductors or superconductors? cold fusion? polywater?)</em>. Kerry tells of her son's "Nerd Herd" study group and his first days away at college. We admire the McLean High School track and football field, follow Westmoreland to Kerry's cut-through, circle back into Lewinsville Park, wrinkle noses at garbage day morning odors, and loop by an exercise class crab-walking on the company basketball court. A low-hanging branch takes off Nathan's cap and narrowly misses spearing his skull.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/642687074">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-09-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.4 miles @ ~13.0 min/mi
+	
+	"Good morning, Ladies!" says the inbound fellow to Kristin and me as we walk out in the dark to the loading dock. It's Nathan's last run before he heads west to grad school in Washington. Beth leads through gloom along the bumpy path under the Toll Toad bypass, with discussion of scientific frauds and irreproducible experiments //(organic molecular semiconductors or superconductors? cold fusion? polywater?)//. Kerry tells of her son's "Nerd Herd" study group and his first days away at college. We admire the McLean High School track and football field, follow Westmoreland to Kerry's cut-through, circle back into Lewinsville Park, wrinkle noses at garbage day morning odors, and loop by an exercise class crab-walking on the company basketball court. A low-hanging branch takes off Nathan's cap and narrowly misses spearing his skull.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/642687074|trackfile]])// - //**^z**// - 2015-09-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.4 miles @ ~13.0 min/mi<br />&gt; "Good morning, Ladies!" says the inbound fellow to Kristin and me as we walk out in the dark to the loading dock. It's Nathan's last run before he heads west to grad school in Washington. Beth leads through gloom along the bumpy path under the Toll Toad bypass, with discussion of scientific frauds and irreproducible experiments //(organic molecular semiconductors or superconductors? cold fusion? polywater?)//. Kerry tells of her son's "Nerd Herd" study group and his first days away at college. We admire the McLean High School track and football field, follow Westmoreland to Kerry's cut-through, circle back into Lewinsville Park, wrinkle noses at garbage day morning odors, and loop by an exercise class crab-walking on the company basketball court. A low-hanging branch takes off Nathan's cap and narrowly misses spearing his skull.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/642687074|trackfile]])// - //**^z**// - 2015-09-11</strong></p></div>
+flags: 0
+ts: 1528057702
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057702

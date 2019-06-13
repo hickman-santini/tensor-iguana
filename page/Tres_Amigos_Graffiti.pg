@@ -1,0 +1,27 @@
+blocks: <p>Wall art seen in Austin Texas at the Tres Amigos restaurant parking lot:</p><p><img class="url http" src="http://zhurnaly.com/images/Tres_Amigos_graffiti_1.jpg" alt="http://zhurnaly.com/images/Tres_Amigos_graffiti_1.jpg" /></p><p><img class="url http" src="http://zhurnaly.com/images/Tres_Amigos_graffiti_2.jpg" alt="http://zhurnaly.com/images/Tres_Amigos_graffiti_2.jpg" /></p><p><img class="url http" src="http://zhurnaly.com/images/Tres_Amigos_graffiti_3.jpg" alt="http://zhurnaly.com/images/Tres_Amigos_graffiti_3.jpg" /></p><p><em><strong>^z</strong></em> - 2014-06-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Wall art seen in Austin Texas at the Tres Amigos restaurant parking lot:
+	
+	http://zhurnaly.com/images/Tres_Amigos_graffiti_1.jpg
+	
+	http://zhurnaly.com/images/Tres_Amigos_graffiti_2.jpg
+	
+	http://zhurnaly.com/images/Tres_Amigos_graffiti_3.jpg
+	
+	//**^z**// - 2014-06-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Wall art seen in Austin Texas at the Tres Amigos restaurant parking lot:<br />&gt; http://zhurnaly.com/images/Tres_Amigos_graffiti_1.jpg<br />&gt; http://zhurnaly.com/images/Tres_Amigos_graffiti_2.jpg<br />&gt; http://zhurnaly.com/images/Tres_Amigos_graffiti_3.jpg<br />&gt; //**^z**// - 2014-06-19</strong></p></div>
+flags: 0
+ts: 1528057685
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057685

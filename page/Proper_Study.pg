@@ -1,0 +1,34 @@
+flags: 0
+blocks: <p>A person's interests shift as the years go by. In grad school a friend noted that physicists, when they get old, become cosmologists. They ponder the universe as a whole instead of lesser things. He was joking&mdash;maybe. My own interests have certainly changed over the years. For the first few decades the big three were:<br /></p><ul><li>astronomy</li><li>chess</li><li>science fiction</li></ul><p>I spent countless hours immersed in each: in the back yard with binoculars or telescope; bent over a chessboard analyzing positions; reading mountains of SF books from the local library. Other topics were peripheral distractions. <em>(cars? girls? money? music? drugs? sports? not for me!)</em></p><p>Times change; work and family force a shift in priorities. When those began to quiet down, for a while recreation to me meant watching baseball and collecting coins. Both are still entertaining, as are the old reliables astronomy, chess, and science fiction. But perhaps life memberships in the US Chess Federation and the American Numismatic Association weren't really such great "investments" as they seemed at the time. My big three have evolved&mdash;thank goodness! Top of the list now and for the past 5-15 years:<br /></p><ul><li>mind</li><li>literature</li><li>running</li></ul><p>Yesterday insightful Caren Jew correctly diagnosed me once again. "Mark," she said as we ran along Rock Creek, "you really like <strong>people</strong>."</p><p>"No, I hate people," I disagreed, "I've just learned to fake it well!" I was joking&mdash;maybe. The universes of science fiction, chess, astronomy, numismatics, and baseball are pristine and orderly. People are complex, puzzling, flawed, frustrating animals. Immanuel Kant <em>(whom I need to read some day)</em> said, "Out of the crooked timber of humanity no straight thing was ever made." Alexander Pope <em>(ditto)</em> observed, "The proper study of Mankind is Man." Maybe, belatedly, I'm starting to learn.</p><p><em>(Hmmm ... instead of "Man" in Pope's poem, shouldn't that be "Woman"? Alas, the change would spoil the iambic pentameter. "Girl" is too flip and breaks the rhyme with the previous line. Ugh!)</em> - <em><strong>^z</strong></em> - 2009-02-02</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; I spent countless hours immersed in each: in the back yard with binoculars or telescope; bent over a chessboard analyzing positions; reading mountains of SF books from the local library. Other topics were peripheral distractions. //(cars? girls? money? music? drugs? not for me!)//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; I spent countless hours immersed in each: in the back yard with binoculars or telescope; bent over a chessboard analyzing positions; reading mountains of SF books from the local library. Other topics were peripheral distractions. //(cars? girls? money? music? drugs? <strong class="changes">sports?</strong> not for me!)//</p></div>
+ip: 138.88.168.68
+ts: 1233616831
+minor: 1
+host: pool-138-88-168-68.res.east.verizon.net
+username: MarkZimmermann
+revision: 4
+diff-major: 
+summary: tweaks 2
+languages: 
+text: A person's interests shift as the years go by. In grad school a friend noted that physicists, when they get old, become cosmologists. They ponder the universe as a whole instead of lesser things. He was joking&mdash;maybe. My own interests have certainly changed over the years. For the first few decades the big three were:
+	* astronomy
+	* chess
+	* science fiction
+	
+	I spent countless hours immersed in each: in the back yard with binoculars or telescope; bent over a chessboard analyzing positions; reading mountains of SF books from the local library. Other topics were peripheral distractions. //(cars? girls? money? music? drugs? sports? not for me!)//
+	
+	Times change; work and family force a shift in priorities. When those began to quiet down, for a while recreation to me meant watching baseball and collecting coins. Both are still entertaining, as are the old reliables astronomy, chess, and science fiction.  But perhaps life memberships in the US Chess Federation and the American Numismatic Association weren't really such great "investments" as they seemed at the time. My big three have evolved&mdash;thank goodness! Top of the list now and for the past 5-15 years:
+	* mind
+	* literature
+	* running
+	
+	Yesterday insightful Caren Jew correctly diagnosed me once again. "Mark," she said as we ran along Rock Creek, "you really like **people**." 
+	
+	"No, I hate people," I disagreed, "I've just learned to fake it well!" I was joking&mdash;maybe. The universes of science fiction, chess, astronomy, numismatics, and baseball are pristine and orderly. People are complex, puzzling, flawed, frustrating animals. Immanuel Kant //(whom I need to read some day)// said, "Out of the crooked timber of humanity no straight thing was ever made." Alexander Pope //(ditto)// observed, "The proper study of Mankind is Man." Maybe, belatedly, I'm starting to learn.
+	
+	//(Hmmm ... instead of "Man" in Pope's poem, shouldn't that be "Woman"? Alas, the change would spoil the iambic pentameter. "Girl" is too flip and breaks the rhyme with the previous line. Ugh!)// - //**^z**// - 2009-02-02
+	
+lastmajor: 1
+keep-ts: 1233616831

@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~10.2 mi @ ~13.8 min/mi</h3><table class="user"><tr><td align="center">"Drop and give me 5!" orders drill sergeant Barry. He's preparing Roadkill for the Disney Marathon, where at mile 23 the green Army man from "Toy Story" promotes discipline. A tree-trimming crew's traffic cone offers the caption: "Drop Zone - Danger!" Today's run meanders around Kensington, as kids amble home from school and Stoneybrook Dr provides a hillwork challenge. Strings of Christmas lights are just being installed on the shrubberies in front of the Mormon Temple. A crossing guard protects us as we dash past a school.</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Drop_Zone_Danger_z_by_Barry_2018-11-12_t.jpg" alt="http://zhurnaly.com/images/running/Drop_Zone_Danger_z_by_Barry_2018-11-12_t.jpg" /></td></tr></table><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1255651524">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-12-09</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; | "Drop and give me 5!" orders drill sergeant Barry. He's preparing Roadkill for the Disney Marathon, where at mile 23 the green Army man from "Toy Story" promotes discipline. A tree-trimming crew's traffic cone offers the caption: "Drop Zone - Danger!" Today's run meanders around Kensington, as kids amble home from school and Stoneybrook Dr provides a hillwork challenge. Strings of Christmas lights are just being installed on the shrubberies in front of the Mormon Temple. A crossing guard protects us as we dash <strong class="changes">through</strong> a school <strong class="changes">zone</strong>. | http://zhurnaly.com/images/running/Drop_Zone_Danger_z_by_Barry_2018-11-12_t.jpg |</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; | "Drop and give me 5!" orders drill sergeant Barry. He's preparing Roadkill for the Disney Marathon, where at mile 23 the green Army man from "Toy Story" promotes discipline. A tree-trimming crew's traffic cone offers the caption: "Drop Zone - Danger!" Today's run meanders around Kensington, as kids amble home from school and Stoneybrook Dr provides a hillwork challenge. Strings of Christmas lights are just being installed on the shrubberies in front of the Mormon Temple. A crossing guard protects us as we dash <strong class="changes">past</strong> a school. | http://zhurnaly.com/images/running/Drop_Zone_Danger_z_by_Barry_2018-11-12_t.jpg |</p></div>
+lastmajorsummary: tweak
+ts: 1544357041
+minor: 
+host: 71.178.86.172
+username: z
+revision: 2
+diff-major: 1
+summary: tweak
+languages: 
+text: === ~10.2 mi @ ~13.8 min/mi
+	
+	| "Drop and give me 5!" orders drill sergeant Barry. He's preparing Roadkill for the Disney Marathon, where at mile 23 the green Army man from "Toy Story" promotes discipline. A tree-trimming crew's traffic cone offers the caption: "Drop Zone - Danger!" Today's run meanders around Kensington, as kids amble home from school and Stoneybrook Dr provides a hillwork challenge. Strings of Christmas lights are just being installed on the shrubberies in front of the Mormon Temple. A crossing guard protects us as we dash past a school. | http://zhurnaly.com/images/running/Drop_Zone_Danger_z_by_Barry_2018-11-12_t.jpg |
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1255651524|trackfile]])// - //**^z**// - 2018-12-09
+	
+lastmajor: 2
+keep-ts: 1544357041

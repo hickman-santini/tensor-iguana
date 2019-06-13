@@ -1,0 +1,23 @@
+flags: 0
+blocks: <p>My friend Bob Williams is almost as close to retirement as I am. Sometimes he draws cartoons, usually with a political or personal theme. Here's a recent one, inspired by a photo of icicles on my whiskers after a winter run:</p><p><img class="url http" src="http://zhurnaly.com/images/Bob_Williams/Bob_Williams_z_frozen_beard.gif" alt="http://zhurnaly.com/images/Bob_Williams/Bob_Williams_z_frozen_beard.gif" /></p><p><em><strong>^z</strong></em> - 2011-01-31</p><p><h4>1 person liked this</h4></p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ====1 person liked this====</p></div>
+ip: 192.114.71.13
+ts: 1320264317
+minor: 1
+host: bzq-114-71-13.static.bezeqint.net
+username: 
+revision: 4
+diff-major: 
+summary: I like this!
+languages: 
+text: My friend Bob Williams is almost as close to retirement as I am. Sometimes he draws cartoons, usually with a political or personal theme. Here's a recent one, inspired by a photo of icicles on my whiskers after a winter run:
+	
+	http://zhurnaly.com/images/Bob_Williams/Bob_Williams_z_frozen_beard.gif
+	
+	//**^z**// - 2011-01-31
+	
+	====1 person liked this====
+	
+lastmajor: 1
+keep-ts: 1320264317

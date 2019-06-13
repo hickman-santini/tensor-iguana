@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Steve Cisler <strong class="changes">passed away in 2008 ... proper eulogy later --- he is missed ... ^z<br />&lt; ----<br />&lt; //(correlates: [[BlogAndWiki]], [[ThanksAlot]], [[QuestionsWithoutAnswers2]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[</strong>Steve Cisler<strong class="changes">]]</strong></p></div>
+ip: 141.156.131.48
+ts: 1314539170
+minor: 1
+host: pool-141-156-131-48.res.east.verizon.net
+username: Mark Zimmermann
+revision: 5
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>correlates: [[BlogAndWiki]], [[ThanksAlot]], [[QuestionsWithoutAnswers2]], <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>correlates: [[BlogAndWiki]], [[ThanksAlot]], [[QuestionsWithoutAnswers2]], <strong class="changes">...)//</strong></p></div>
+summary: make into a redirect to Steve Cisler
+languages: 
+text: #REDIRECT [[Steve Cisler]]
+	
+lastmajor: 2
+keep-ts: 1314539170

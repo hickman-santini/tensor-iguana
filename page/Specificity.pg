@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p>29,000 feet above a sere west Texas landscape I read the first few pages of Verlyn Klinkenborg's book <strong>The Rural Life</strong>, about what he wants to record in his journal, and I realize that <span style="font-variant: small-caps">specificity</span> is key to good writing&mdash;not just who/what/when facts, but the tiny diamond stud in the nose of the high school girl napping by me in seat 16B, brown puppy-eyes closed behind long lashes and too much makeup, streaky blonde hair pulled back tight, on her way to Puerto Rico while I head for home and my daughter crosses the stage in her graduation ceremony without me, becapped and begowned, red tassel for honors.</p><p><em><strong>^z</strong></em> - 2009-05-31</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; 29,000 feet above a sere west Texas landscape I read the first few pages of Verlyn Klinkenborg's book **The Rural Life**, about what he wants to record in his journal, and I realize that %%<strong class="changes">specficity</strong>%% is key to good writing&amp;mdash;not just who/what/when facts, but the tiny diamond stud in the nose of the high school girl napping by me in seat 16B, brown puppy-eyes closed behind long lashes and too much makeup, streaky blonde hair pulled back tight, on her way to Puerto Rico while I head for home and my daughter crosses the stage in her graduation ceremony without me, becapped and begowned, red tassel for honors.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; 29,000 feet above a sere west Texas landscape I read the first few pages of Verlyn Klinkenborg's book **The Rural Life**, about what he wants to record in his journal, and I realize that %%<strong class="changes">specificity</strong>%% is key to good writing&amp;mdash;not just who/what/when facts, but the tiny diamond stud in the nose of the high school girl napping by me in seat 16B, brown puppy-eyes closed behind long lashes and too much makeup, streaky blonde hair pulled back tight, on her way to Puerto Rico while I head for home and my daughter crosses the stage in her graduation ceremony without me, becapped and begowned, red tassel for honors.</p></div>
+ip: 141.156.149.234
+ts: 1243769049
+minor: 1
+host: pool-141-156-149-234.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: typo fix
+languages: 
+text: 29,000 feet above a sere west Texas landscape I read the first few pages of Verlyn Klinkenborg's book **The Rural Life**, about what he wants to record in his journal, and I realize that %%specificity%% is key to good writing&mdash;not just who/what/when facts, but the tiny diamond stud in the nose of the high school girl napping by me in seat 16B, brown puppy-eyes closed behind long lashes and too much makeup, streaky blonde hair pulled back tight, on her way to Puerto Rico while I head for home and my daughter crosses the stage in her graduation ceremony without me, becapped and begowned, red tassel for honors.
+	
+	//**^z**// - 2009-05-31
+	
+lastmajor: 1
+keep-ts: 1243769049

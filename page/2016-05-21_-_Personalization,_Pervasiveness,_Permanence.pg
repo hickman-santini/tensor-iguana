@@ -1,0 +1,27 @@
+blocks: <h3>~9.0 miles @ ~8.8 min/mi</h3><p>"Permanence, Pervasiveness, and Personalization!" After a couple of miles I recollect the three P's of resilience that Sheryl Sandberg quoted <em>(from Martin Seligman's "learned optimism")</em> in her lovely-wise UC Berkeley commencement speech one week ago. Cold rain drenches Amber and me during our brisk trot along the Mount Vernon Trail. We dance around puddles and give thanks for the gift of running with a friend.</p><p>Gray waters of the Potomac are a perfect match for wet asphalt at the Jefferson Memorial; at first glance, the river seems to have flooded our path. Two geese arch their necks in parallel to hunt for bugs in the wet grass. A mallard duck hunkers down. Jets roar overhead every two minutes as they take off from National Airport. Dr A describes <strong>The Golem and the Jinni</strong>, a novel by Helene Wecker; I summarize <strong>Roads to Infinity</strong>, a math book by John Stillwell that I'm trying to read.</p><p>GPS mile splits: 8:28 + 8:17 + 8:33 + 8:51 + 9:10 + 8:53 + 8:50 + 8:56 + 8:41.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/792054910">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-06-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.253
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.0 miles @ ~8.8 min/mi
+	
+	"Permanence, Pervasiveness, and Personalization!" After a couple of miles I recollect the three P's of resilience that Sheryl Sandberg quoted //(from Martin Seligman's "learned optimism")// in her lovely-wise UC Berkeley commencement speech one week ago. Cold rain drenches Amber and me during our brisk trot along the Mount Vernon Trail. We dance around puddles and give thanks for the gift of running with a friend.
+	
+	Gray waters of the Potomac are a perfect match for wet asphalt at the Jefferson Memorial; at first glance, the river seems to have flooded our path. Two geese arch their necks in parallel to hunt for bugs in the wet grass. A mallard duck hunkers down. Jets roar overhead every two minutes as they take off from National Airport. Dr A describes **The Golem and the Jinni**, a novel by Helene Wecker; I summarize **Roads to Infinity**, a math book by John Stillwell that I'm trying to read.
+	
+	GPS mile splits: 8:28 + 8:17 + 8:33 + 8:51 + 9:10 + 8:53 + 8:50 + 8:56 + 8:41.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/792054910|trackfile]])// - //**^z**// - 2016-06-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.0 miles @ ~8.8 min/mi<br />&gt; "Permanence, Pervasiveness, and Personalization!" After a couple of miles I recollect the three P's of resilience that Sheryl Sandberg quoted //(from Martin Seligman's "learned optimism")// in her lovely-wise UC Berkeley commencement speech one week ago. Cold rain drenches Amber and me during our brisk trot along the Mount Vernon Trail. We dance around puddles and give thanks for the gift of running with a friend.<br />&gt; Gray waters of the Potomac are a perfect match for wet asphalt at the Jefferson Memorial; at first glance, the river seems to have flooded our path. Two geese arch their necks in parallel to hunt for bugs in the wet grass. A mallard duck hunkers down. Jets roar overhead every two minutes as they take off from National Airport. Dr A describes **The Golem and the Jinni**, a novel by Helene Wecker; I summarize **Roads to Infinity**, a math book by John Stillwell that I'm trying to read.<br />&gt; GPS mile splits: 8:28 + 8:17 + 8:33 + 8:51 + 9:10 + 8:53 + 8:50 + 8:56 + 8:41.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/792054910|trackfile]])// - //**^z**// - 2016-06-05</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

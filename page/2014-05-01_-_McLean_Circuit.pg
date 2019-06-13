@@ -1,0 +1,23 @@
+blocks: <h3>~3.3 miles @ ~11.3 min/mi</h3><p>Bunny count in the 'hood = 3 &mdash; tall Ed runs in front under the junipers, his head brushing the branches and causing a cascade of water onto me, while Kristin and David jog ahead and point out mud puddles. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/345528608">Runkeeper</a> shows Ed's usual loop.</p><p><em><strong>^z</strong></em> - 2014-06-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.3 miles @ ~11.3 min/mi
+	
+	Bunny count in the 'hood = 3 &mdash; tall Ed runs in front under the junipers, his head brushing the branches and causing a cascade of water onto me, while Kristin and David jog ahead and point out mud puddles. [[http://runkeeper.com/user/zhurnaly/activity/345528608|Runkeeper]] shows Ed's usual loop.
+	
+	//**^z**// - 2014-06-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.3 miles @ ~11.3 min/mi<br />&gt; Bunny count in the 'hood = 3 &amp;mdash; tall Ed runs in front under the junipers, his head brushing the branches and causing a cascade of water onto me, while Kristin and David jog ahead and point out mud puddles. [[http://runkeeper.com/user/zhurnaly/activity/345528608|Runkeeper]] shows Ed's usual loop.<br />&gt; //**^z**// - 2014-06-07</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057688

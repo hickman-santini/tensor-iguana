@@ -1,0 +1,16 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3></p><p>I dread to think of this unthinkable situation....</p>
+ip: 141.156.143.26
+ts: 1309102377
+minor: 
+host: pool-141-156-143-26.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+summary: Rollback to 2008-12-27 02:46 UTC
+languages: 
+text: === 1 Comment. ===
+	
+	I dread to think of this unthinkable situation....
+	
+lastmajor: 3
+keep-ts: 1309102377

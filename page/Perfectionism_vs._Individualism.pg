@@ -1,0 +1,26 @@
+blocks: <p>In Chapter 7 of <strong>Norwegian Rosemaling: Decorative Painting on Wood</strong> <em>(by Margaret M. Miller and Sigmund Aarseth, 1974)</em> the section "Advanced Concepts" begins with an insightful observation:<br /></p><blockquote><p>In the chapter on brush strokes perfectionism was stressed. The beginner in any art form must strive for perfection in technique, but once he achieves it he should strive to become as individualistic as he can. If he tries to suppress this individualism his work will become commercially repetitive and he will find himself doing the same things over and over; his style will be stiff, leaving no room for experimentation and development. Understand, however, that it is one thing to paint freely and another to be careless so that you have only errors. Actually, there seem to be three stages through which the proficient rosemaler passes on the way to creative individualism: the first stage is marked by the struggle to acquire technique; the second stage is marked by the ability to make strokes perfectly and the struggle with design; and the third is the stage where the artist becomes so skilled in both technique and traditional design that he can be fresh and free in the variation of each through his own individuality.<br /></p></blockquote><p>... applicable to all sorts of other crafts, including that of writing.</p><p><em><strong>^z</strong></em> - 2009-03-30</p>
+lastmajorsummary: fix date
+ip: 138.88.176.69
+diff-major: 1
+summary: fix date
+languages: 
+text: In Chapter 7 of **Norwegian Rosemaling: Decorative Painting on Wood** //(by Margaret M. Miller and Sigmund Aarseth, 1974)// the section "Advanced Concepts" begins with an insightful observation:
+	"""
+	In the chapter on brush strokes perfectionism was stressed. The beginner in any art form must strive for perfection in technique, but once he achieves it he should strive to become as individualistic as he can. If he tries to suppress this individualism his work will become commercially repetitive and he will find himself doing the same things over and over; his style will be stiff, leaving no room for experimentation and development. Understand, however, that it is one thing to paint freely and another to be careless so that you have only errors. Actually, there seem to be three stages through which the proficient rosemaler passes on the way to creative individualism: the first stage is marked by the struggle to acquire technique; the second stage is marked by the ability to make strokes perfectly and the struggle with design; and the third is the stage where the artist becomes so skilled in both technique and traditional design that he can be fresh and free in the variation of each through his own individuality.
+	"""
+	
+	... applicable to all sorts of other crafts, including that of writing.
+	
+	//**^z**// - 2009-03-30
+	
+lastmajor: 2
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //**^z**// - 2009-03<strong class="changes">-??</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; //**^z**// - 2009-03<strong class="changes">-30</strong></p></div>
+flags: 0
+ts: 1555143465
+minor: 
+username: z
+host: 107.77.106.33
+revision: 2
+keep-ts: 1555143465

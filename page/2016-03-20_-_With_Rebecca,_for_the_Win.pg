@@ -1,0 +1,25 @@
+blocks: <h3>~15.7 miles @ ~13.5 min/mi</h3><p>"This is not Wise!" I observe. Rebecca interprets it as a judgment, but what I'm trying to say is that the street we've stopped at isn't Wise Road NW, but rather Bingham Drive. We take the Western Ridge Trail in Rock Creek Park, then come back along the Valley Trail. A big white horse wearing plastic ankle-skirts pauses at a stream crossing. "She's afraid of slipping in the mud!" says the lady leading her.</p><p>It's a dog day, with lots of cute pups and their owners out on strolls through the woods. Rebecca and I do ~3 miles on the Rock Creek Trail before meeting up with Rebecca's friend Win for ~7 together on muddy natural-surface paths. Win, appropriately named, is a children's chess instructor, gardener, and enthusiastically voluble companion.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/753559151">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.93.243
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~15.7 miles @ ~13.5 min/mi
+	
+	"This is not Wise!" I observe. Rebecca interprets it as a judgment, but what I'm trying to say is that the street we've stopped at isn't Wise Road NW, but rather Bingham Drive. We take the Western Ridge Trail in Rock Creek Park, then come back along the Valley Trail. A big white horse wearing plastic ankle-skirts pauses at a stream crossing. "She's afraid of slipping in the mud!" says the lady leading her.
+	
+	It's a dog day, with lots of cute pups and their owners out on strolls through the woods. Rebecca and I do ~3 miles on the Rock Creek Trail before meeting up with Rebecca's friend Win for ~7 together on muddy natural-surface paths. Win, appropriately named, is a children's chess instructor, gardener, and enthusiastically voluble companion.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/753559151|trackfile]])// - //**^z**// - 2016-04-12
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~15.7 miles @ ~13.5 min/mi<br />&gt; "This is not Wise!" I observe. Rebecca interprets it as a judgment, but what I'm trying to say is that the street we've stopped at isn't Wise Road NW, but rather Bingham Drive. We take the Western Ridge Trail in Rock Creek Park, then come back along the Valley Trail. A big white horse wearing plastic ankle-skirts pauses at a stream crossing. "She's afraid of slipping in the mud!" says the lady leading her.<br />&gt; It's a dog day, with lots of cute pups and their owners out on strolls through the woods. Rebecca and I do ~3 miles on the Rock Creek Trail before meeting up with Rebecca's friend Win for ~7 together on muddy natural-surface paths. Win, appropriately named, is a children's chess instructor, gardener, and enthusiastically voluble companion.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/753559151|trackfile]])// - //**^z**// - 2016-04-12</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

@@ -1,0 +1,23 @@
+blocks: <h3>~15.0 miles @ ~14.0 min/mi</h3><p>"Are you running home with that?" the lady on the W&amp;OD Trail asks as I sprint by holding a cup of coffee. Courtney Jenkins and I have just emerged from the Whole Foods in downtown Vienna, a quarter of the way into today's training trek. Two hours later we pause the GPS again to refuel at a Rite Aid drugstore in Falls Church, where a chocolate-peanut-butter ice cream cup cancels out several more of my miles. A light drizzle begins mid-morning, but temperatures stay warm. Fine conversation includes race anecdotes, injury reports, training tips, and random reminisces. A gray-brown female cardinal flits away next to her scarlet mate. We admire a Bavarian-style mansion with turrets and stonework.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/738036574">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-03-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.131
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~15.0 miles @ ~14.0 min/mi
+	
+	"Are you running home with that?" the lady on the W&OD Trail asks as I sprint by holding a cup of coffee. Courtney Jenkins and I have just emerged from the Whole Foods in downtown Vienna, a quarter of the way into today's training trek. Two hours later we pause the GPS again to refuel at a Rite Aid drugstore in Falls Church, where a chocolate-peanut-butter ice cream cup cancels out several more of my miles. A light drizzle begins mid-morning, but temperatures stay warm. Fine conversation includes race anecdotes, injury reports, training tips, and random reminisces. A gray-brown female cardinal flits away next to her scarlet mate. We admire a Bavarian-style mansion with turrets and stonework.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/738036574|trackfile]])// - //**^z**// - 2016-03-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~15.0 miles @ ~14.0 min/mi<br />&gt; "Are you running home with that?" the lady on the W&amp;OD Trail asks as I sprint by holding a cup of coffee. Courtney Jenkins and I have just emerged from the Whole Foods in downtown Vienna, a quarter of the way into today's training trek. Two hours later we pause the GPS again to refuel at a Rite Aid drugstore in Falls Church, where a chocolate-peanut-butter ice cream cup cancels out several more of my miles. A light drizzle begins mid-morning, but temperatures stay warm. Fine conversation includes race anecdotes, injury reports, training tips, and random reminisces. A gray-brown female cardinal flits away next to her scarlet mate. We admire a Bavarian-style mansion with turrets and stonework.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/738036574|trackfile]])// - //**^z**// - 2016-03-03</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

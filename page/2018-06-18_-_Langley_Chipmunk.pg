@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~5.0 mi @ ~13.0 min/mi</h3><p>"Rat or chipmunk? Better call it a chipmunk &mdash; wouldn't want to hurt property values!" Dawn Patrol rambles with a midcourse pause for iced coffee at Starbucks. Eagle-eyed K2 spies a fox and two rabbits near McLean Central Park. She reports on recent family journeys &mdash; all went well, modulo pickpockets!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/118289075">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-07-06</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Rat or chipmunk? Better call it a chipmunk <strong class="changes">-</strong> wouldn't want to hurt property values!" Dawn Patrol rambles with a midcourse pause for iced coffee at Starbucks. Eagle-eyed K2 spies a fox and two rabbits near McLean Central Park. She reports on recent family journeys <strong class="changes">-</strong> all went well, modulo pickpockets!<br />&lt;  <strong class="changes">- https://runkeeper.com/user/zhurnaly/activity/</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "Rat or chipmunk? Better call it a chipmunk <strong class="changes">&amp;mdash;</strong> wouldn't want to hurt property values!" Dawn Patrol rambles with a midcourse pause for iced coffee at Starbucks. Eagle-eyed K2 spies a fox and two rabbits near McLean Central Park. She reports on recent family journeys <strong class="changes">&amp;mdash;</strong> all went well, modulo pickpockets!</p></div>
+lastmajorsummary: tweak
+ts: 1530866386
+minor: 
+host: 71.178.85.70
+username: z
+revision: 2
+diff-major: 1
+summary: tweak
+languages: 
+text: === ~5.0 mi @ ~13.0 min/mi
+	
+	"Rat or chipmunk? Better call it a chipmunk &mdash; wouldn't want to hurt property values!" Dawn Patrol rambles with a midcourse pause for iced coffee at Starbucks. Eagle-eyed K2 spies a fox and two rabbits near McLean Central Park. She reports on recent family journeys &mdash; all went well, modulo pickpockets!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/118289075|trackfile]])// - //**^z**// - 2018-07-06
+	
+lastmajor: 2
+keep-ts: 1530866386

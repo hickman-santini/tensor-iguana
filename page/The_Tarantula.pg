@@ -1,0 +1,22 @@
+blocks: <p>From the final paragraph of <strong>The Tarantula</strong>, a delightful little book by William J. Baerg, published in 1958 and given to me recently by brother-in-law Michael Lawrence Dickerson:<br /></p><table class="user"><tr><td align="center">When Professor Comstock of Cornell University, an eminent entomologist and a recognized authority on spiders, was asked by a visitor, "What good are spiders?" he seemed at first somewhat baffled; then he explosively replied: "What good are they? They are damned interesting."</td></tr></table><p><em><strong>^z</strong></em> - 2013-07-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.67
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: From the final paragraph of **The Tarantula**, a delightful little book by William J. Baerg, published in 1958 and given to me recently by brother-in-law Michael Lawrence Dickerson:
+	| When Professor Comstock of Cornell University, an eminent entomologist and a recognized authority on spiders, was asked by a visitor, "What good are spiders?" he seemed at first somewhat baffled; then he explosively replied: "What good are they? They are damned interesting." |
+	
+	//**^z**// - 2013-07-11
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">From the final paragraph of **The Tarantula**, a delightful little book by William J. Baerg, published in 1958 and given to me recently by brother-in-law Michael Lawrence Dickerson:<br />&gt; | When Professor Comstock of Cornell University, an eminent entomologist and a recognized authority on spiders, was asked by a visitor, "What good are spiders?" he seemed at first somewhat baffled; then he explosively replied: "What good are they? They are damned interesting." |<br />&gt; //**^z**// - 2013-07-11</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057679

@@ -1,0 +1,23 @@
+blocks: <h3>~5.0 miles @ ~14.3 min/mi</h3><p>"Jalape&ntilde;o cheddar poppers and onion rings," I observe, "are not the optimal bedtime meal!" But acid reflux recedes, and at sunrise I explore neighborhood trails before temperatures in Austin Texas rise to the 104°F that they reached yesterday and are aiming for again today. Two jackrabbits race into the brush at a playground. Limestone and tree roots along the creek make for gnarly slow trekking. Dragonflies dance about my ears and quail flutter away from my ankles. The front-yard tree trunk carved into a giant "Hook 'em Horns!" statue is tempting, but the light isn't good enough to make a selfie stop worthwhile.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/633160474">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-08-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.117
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.0 miles @ ~14.3 min/mi
+	
+	"Jalape&ntilde;o cheddar poppers and onion rings," I observe, "are not the optimal bedtime meal!" But acid reflux recedes, and at sunrise I explore neighborhood trails before temperatures in Austin Texas rise to the 104°F that they reached yesterday and are aiming for again today. Two jackrabbits race into the brush at a playground. Limestone and tree roots along the creek make for gnarly slow trekking. Dragonflies dance about my ears and quail flutter away from my ankles. The front-yard tree trunk carved into a giant "Hook 'em Horns!" statue is tempting, but the light isn't good enough to make a selfie stop worthwhile.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/633160474|trackfile]])// - //**^z**// - 2015-08-29
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.0 miles @ ~14.3 min/mi<br />&gt; "Jalape&amp;ntilde;o cheddar poppers and onion rings," I observe, "are not the optimal bedtime meal!" But acid reflux recedes, and at sunrise I explore neighborhood trails before temperatures in Austin Texas rise to the 104°F that they reached yesterday and are aiming for again today. Two jackrabbits race into the brush at a playground. Limestone and tree roots along the creek make for gnarly slow trekking. Dragonflies dance about my ears and quail flutter away from my ankles. The front-yard tree trunk carved into a giant "Hook 'em Horns!" statue is tempting, but the light isn't good enough to make a selfie stop worthwhile.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/633160474|trackfile]])// - //**^z**// - 2015-08-29</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057688

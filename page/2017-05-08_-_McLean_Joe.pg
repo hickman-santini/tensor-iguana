@@ -1,0 +1,25 @@
+blocks: <h3>~6.4 miles @ ~14.1 min/mi</h3><p>"A Beautiful Thing!" Dr Kristin describes caffeine, specifically eight shots of espresso in the morning, as Dr Kerry sips iced coffee. The line inside Starbucks is long but we score extra mojo points when an office colleague sees us there. With temps in the lower 40's sunrise is welcome. We cut through McLean Central Park and Bryn Mawr Park. Kerry spies deer in the high grass beside Pimmit Run. A house for sale features horse's head statues wearing baseball caps flanking the front door.</p><p>"Three months old - his name is Sam!" A neighbor is walking her new uber-cute rescue hound. Puppy break!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/978683014">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-06-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.138
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.4 miles @ ~14.1 min/mi
+	
+	"A Beautiful Thing!" Dr Kristin describes caffeine, specifically eight shots of espresso in the morning, as Dr Kerry sips iced coffee. The line inside Starbucks is long but we score extra mojo points when an office colleague sees us there. With temps in the lower 40's sunrise is welcome. We cut through McLean Central Park and Bryn Mawr Park. Kerry spies deer in the high grass beside Pimmit Run. A house for sale features horse's head statues wearing baseball caps flanking the front door.
+	
+	"Three months old - his name is Sam!" A neighbor is walking her new uber-cute rescue hound. Puppy break!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/978683014|trackfile]])// - //**^z**// - 2017-06-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.4 miles @ ~14.1 min/mi<br />&gt; "A Beautiful Thing!" Dr Kristin describes caffeine, specifically eight shots of espresso in the morning, as Dr Kerry sips iced coffee. The line inside Starbucks is long but we score extra mojo points when an office colleague sees us there. With temps in the lower 40's sunrise is welcome. We cut through McLean Central Park and Bryn Mawr Park. Kerry spies deer in the high grass beside Pimmit Run. A house for sale features horse's head statues wearing baseball caps flanking the front door.<br />&gt; "Three months old - his name is Sam!" A neighbor is walking her new uber-cute rescue hound. Puppy break!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/978683014|trackfile]])// - //**^z**// - 2017-06-05</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057690

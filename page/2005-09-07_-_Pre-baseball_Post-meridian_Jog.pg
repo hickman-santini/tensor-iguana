@@ -1,0 +1,19 @@
+flags: 0
+blocks: <p><h3>4+ miles @ ~11.2 min/mi</h3></p><p>Pleasantly warm weather, off work early with an hour to spare before taking the Metro to a baseball game, so it's a quick jog around the little local loop <em>(Seminary mermaid fountain, Rock Creek Trail, Georgetown Branch)</em> ... I <em>(barely!)</em> manage to maintain a 2:1 ratio jog:walk, with <em>(barely!)</em> sub-11-minute middle measured mile, as my "Team MCRRC" singlet and shorts <em>(barely!)</em> expose a less-than-stylish band of midriff bulge. Fortunately there are few witnesses. Pretty butterfly count = 4. The local major league team loses 12-1, but at least I've burned off a few hundred calories of peanuts and snow-cone ...</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; === 4+ miles @ ~11<strong class="changes">:10</strong> min/mi</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === 4+ miles @ ~11<strong class="changes">.2</strong> min/mi</p></div>
+ip: 138.88.115.251
+ts: 1316966656
+minor: 1
+host: pool-138-88-115-251.res.east.verizon.net
+username: Zimm
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: === 4+ miles @ ~11.2 min/mi
+	
+	Pleasantly warm weather, off work early with an hour to spare before taking the Metro to a baseball game, so it's a quick jog around the little local loop //(Seminary mermaid fountain, Rock Creek Trail, Georgetown Branch)// ... I //(barely!)// manage to maintain a 2:1 ratio jog:walk, with //(barely!)// sub-11-minute middle measured mile, as my "Team MCRRC" singlet and shorts //(barely!)// expose a less-than-stylish band of midriff bulge. Fortunately there are few witnesses. Pretty butterfly count = 4. The local major league team loses 12-1, but at least I've burned off a few hundred calories of peanuts and snow-cone ...
+	
+keep-ts: 1316966656

@@ -1,0 +1,25 @@
+blocks: <h3>~7 miles @ ~13 min/mi</h3><p>"<em><strong>Now</strong></em> is the perfect time," Kristin says, as we glide through the twilight separating night from day. Kerry and I quietly agree. Today is the funeral of a local high school student who died suddenly, unexpectedly. We share in the sadness. We're exploring a new area, the Southridge neighborhood of McLean. After temperatures in the teens this morning's 31&deg;F feels almost warm. We unzip jackets, take off gloves and caps. Summer seems unimaginable.</p><p>Birds greet us, school buses rattle by, and angular architecture provokes commentary. On Opalocka Dr a brilliant blue bungalow clashes with a garish green one a few houses down. A cat sits on an outside window sill, eying us, then turning back to peek into the home. I pause to rescue a not-too-shabby ice-scraper abandoned on Westmoreland St, and Kristin almost falls down laughing. "I knew you would pick that up!"</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/519158759">Trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-03-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.98.108
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~7 miles @ ~13 min/mi
+	
+	"//**Now**// is the perfect time," Kristin says, as we glide through the twilight separating night from day. Kerry and I quietly agree. Today is the funeral of a local high school student who died suddenly, unexpectedly. We share in the sadness. We're exploring a new area, the Southridge neighborhood of McLean. After temperatures in the teens this morning's 31&deg;F feels almost warm. We unzip jackets, take off gloves and caps. Summer seems unimaginable.
+	
+	Birds greet us, school buses rattle by, and angular architecture provokes commentary. On Opalocka Dr a brilliant blue bungalow clashes with a garish green one a few houses down. A cat sits on an outside window sill, eying us, then turning back to peek into the home. I pause to rescue a not-too-shabby ice-scraper abandoned on Westmoreland St, and Kristin almost falls down laughing. "I knew you would pick that up!" 
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/519158759|Trackfile]])// - //**^z**// - 2015-03-18
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7 miles @ ~13 min/mi<br />&gt; "//**Now**// is the perfect time," Kristin says, as we glide through the twilight separating night from day. Kerry and I quietly agree. Today is the funeral of a local high school student who died suddenly, unexpectedly. We share in the sadness. We're exploring a new area, the Southridge neighborhood of McLean. After temperatures in the teens this morning's 31&amp;deg;F feels almost warm. We unzip jackets, take off gloves and caps. Summer seems unimaginable.<br />&gt; Birds greet us, school buses rattle by, and angular architecture provokes commentary. On Opalocka Dr a brilliant blue bungalow clashes with a garish green one a few houses down. A cat sits on an outside window sill, eying us, then turning back to peek into the home. I pause to rescue a not-too-shabby ice-scraper abandoned on Westmoreland St, and Kristin almost falls down laughing. "I knew you would pick that up!" <br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/519158759|Trackfile]])// - //**^z**// - 2015-03-18</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

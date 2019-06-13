@@ -1,0 +1,35 @@
+blocks: <table class="user"><tr><td align="right">If everything is temporary, in flux, contingent on other things ...<br />If "I, me, mine" are entirely illusion ...<br />If all judgment is false, and there is neither better nor worse ...<br />If the universe is one, and individual parts don't exist ...<br /><br />Then, what reason can there be ...<br />For <em><strong>caring</strong></em> ...<br />For one another ...<br />For the earth ...<br />For the cosmos ...<br /><br />Why practice loving-kindness ...<br />Or obey any rules at all?<br /><br /><em>Hmmmmm ...</em></td></tr></table><p><em><strong>^z</strong></em> - 2013-11-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.210.244
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | If everything is temporary, in flux, contingent on other things ...
+	If "I, me, mine" are entirely illusion ...
+	If all judgment is false, and there is neither better nor worse ...
+	If the universe is one, and individual parts don't exist ...
+	\\
+	Then, what reason can there be ...
+	For //**caring**// ...
+	For one another ...
+	For the earth ...
+	For the cosmos ...
+	\\
+	Why practice loving-kindness ...
+	Or obey any rules at all?
+	\\
+	//Hmmmmm ...// |
+	
+	//**^z**// - 2013-11-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| If everything is temporary, in flux, contingent on other things ...<br />&gt; If "I, me, mine" are entirely illusion ...<br />&gt; If all judgment is false, and there is neither better nor worse ...<br />&gt; If the universe is one, and individual parts don't exist ...<br />&gt; \\<br />&gt; Then, what reason can there be ...<br />&gt; For //**caring**// ...<br />&gt; For one another ...<br />&gt; For the earth ...<br />&gt; For the cosmos ...<br />&gt; \\<br />&gt; Why practice loving-kindness ...<br />&gt; Or obey any rules at all?<br />&gt; \\<br />&gt; //Hmmmmm ...// |<br />&gt; //**^z**// - 2013-11-20</strong></p></div>
+flags: 0
+ts: 1528057702
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057702

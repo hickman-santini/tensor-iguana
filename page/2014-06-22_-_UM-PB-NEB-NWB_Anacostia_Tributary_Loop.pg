@@ -1,0 +1,23 @@
+blocks: <h3>~12.5 miles @ ~10.5 min/mi</h3><p><em>Whew!</em> Crash &amp; burn after the first 8 miles on a sunny summer afternoon; perhaps the extra loop around Lake Artemesia was hubris? From the University of Maryland campus head down Paint Branch Trail to Northeast Branch, then up Northwest Branch to close the loop.Walk breaks begin after ~80 minutes and lengthen thereafter. The <a class="url http outside" href="http://connect.garmin.com/modern/activity/526598774">Garmin</a> GPS reads within ~1% of <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/379023923">Runkeeper</a> on the iPhone, and estimates mile splits as 9:51-9:46-9:50-9:42-9:42-9:34-9:48-9:54-10:30-11:52-11:32-13:35 <em>(waiting for a traffic light)</em>, plus a final fraction at ~10:48 min/mi pace. Arrive back at the perfect time to meet DW as DD's concert ends.</p><p><em><strong>^z</strong></em> - 2014-07-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12.5 miles @ ~10.5 min/mi
+	
+	//Whew!// Crash & burn after the first 8 miles on a sunny summer afternoon; perhaps the extra loop around Lake Artemesia was hubris? From the University of Maryland campus head down Paint Branch Trail to Northeast Branch, then up Northwest Branch to close the loop.Walk breaks begin after ~80 minutes and lengthen thereafter. The [[http://connect.garmin.com/modern/activity/526598774|Garmin]] GPS reads within ~1% of [[http://runkeeper.com/user/zhurnaly/activity/379023923|Runkeeper]] on the iPhone, and estimates mile splits as 9:51-9:46-9:50-9:42-9:42-9:34-9:48-9:54-10:30-11:52-11:32-13:35 //(waiting for a traffic light)//, plus a final fraction at ~10:48 min/mi pace. Arrive back at the perfect time to meet DW as DD's concert ends.
+	
+	//**^z**// - 2014-07-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12.5 miles @ ~10.5 min/mi<br />&gt; //Whew!// Crash &amp; burn after the first 8 miles on a sunny summer afternoon; perhaps the extra loop around Lake Artemesia was hubris? From the University of Maryland campus head down Paint Branch Trail to Northeast Branch, then up Northwest Branch to close the loop.Walk breaks begin after ~80 minutes and lengthen thereafter. The [[http://connect.garmin.com/modern/activity/526598774|Garmin]] GPS reads within ~1% of [[http://runkeeper.com/user/zhurnaly/activity/379023923|Runkeeper]] on the iPhone, and estimates mile splits as 9:51-9:46-9:50-9:42-9:42-9:34-9:48-9:54-10:30-11:52-11:32-13:35 //(waiting for a traffic light)//, plus a final fraction at ~10:48 min/mi pace. Arrive back at the perfect time to meet DW as DD's concert ends.<br />&gt; //**^z**// - 2014-07-07</strong></p></div>
+flags: 0
+ts: 1528057682
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057682

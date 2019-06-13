@@ -1,0 +1,27 @@
+blocks: <h3>~3.8 miles @ ~18.4 min/mi</h3><p>"But with four of them in the class, they turned into total jerks*!" Mary tells of the meltdown of a Relativistic Quantum Mechanics course long ago, when too many elderly show-offs auditing the class hijacked the lectures by trying to outdo one another's cleverness. No good for the grad students who came to learn!</p><p>Umbrella unfurls and hood goes up as misty drizzle turns into real rain at mile 2. The W&amp;OD pathway is virtually empty as we start at scientist-named Michael Faraday Court for a brisk out-and-back walk. Result: soggy socks, wet windbreakers, and wonderful conversation!<br /></p><blockquote><p><em>* "jerks" isn't quite as, uh, spicy as the actual word Mary uses. Trail talk!</em><br /></p></blockquote><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/914164701">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-01-28</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 70.117.106.239
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.8 miles @ ~18.4 min/mi
+	
+	"But with four of them in the class, they turned into total jerks*!" Mary tells of the meltdown of a Relativistic Quantum Mechanics course long ago, when too many elderly show-offs auditing the class hijacked the lectures by trying to outdo one another's cleverness. No good for the grad students who came to learn!
+	
+	Umbrella unfurls and hood goes up as misty drizzle turns into real rain at mile 2. The W&OD pathway is virtually empty as we start at scientist-named Michael Faraday Court for a brisk out-and-back walk. Result: soggy socks, wet windbreakers, and wonderful conversation!
+	"""
+	//* "jerks" isn't quite as, uh, spicy as the actual word Mary uses. Trail talk!//
+	"""
+	//([[http://runkeeper.com/user/zhurnaly/activity/914164701|trackfile]])// - //**^z**// - 2017-01-28
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.8 miles @ ~18.4 min/mi<br />&gt; "But with four of them in the class, they turned into total jerks*!" Mary tells of the meltdown of a Relativistic Quantum Mechanics course long ago, when too many elderly show-offs auditing the class hijacked the lectures by trying to outdo one another's cleverness. No good for the grad students who came to learn!<br />&gt; Umbrella unfurls and hood goes up as misty drizzle turns into real rain at mile 2. The W&amp;OD pathway is virtually empty as we start at scientist-named Michael Faraday Court for a brisk out-and-back walk. Result: soggy socks, wet windbreakers, and wonderful conversation!<br />&gt; """<br />&gt; //* "jerks" isn't quite as, uh, spicy as the actual word Mary uses. Trail talk!//<br />&gt; """<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/914164701|trackfile]])// - //**^z**// - 2017-01-28</strong></p></div>
+flags: 0
+ts: 1528057684
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057684

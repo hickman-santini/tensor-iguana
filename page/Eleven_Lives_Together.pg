@@ -1,0 +1,26 @@
+blocks: <table class="user"><tr><td align="right">Eleven lives together, two as one &mdash;<br /> &nbsp; Elven love, across the centuries,<br />Even, balanced, perfect pair &mdash; and when<br /> &nbsp; Eve begins, and night creeps over us,<br />Ever and always, until that final breath:<br /> &nbsp; Fever, passion, single heart and mind &mdash;<br />Forever!</td></tr></table><p><em><strong>^z</strong></em> - 2016-07-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.27
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Eleven lives together, two as one &mdash;
+	 &nbsp; Elven love, across the centuries,
+	Even, balanced, perfect pair &mdash; and when
+	 &nbsp; Eve begins, and night creeps over us,
+	Ever and always, until that final breath:
+	 &nbsp;  Fever, passion, single heart and mind &mdash;
+	Forever! |
+	
+	//**^z**// - 2016-07-12
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; | Eleven lives together, two as one &amp;mdash;<br />&gt;  &amp;nbsp; Elven love, across the centuries,<br />&gt; Even, balanced, perfect pair &amp;mdash; and when<br />&gt;  &amp;nbsp; Eve begins, and night creeps over us,<br />&gt; Ever and always, until that final breath:<br />&gt;  &amp;nbsp;  Fever, passion, single heart and mind &amp;mdash;<br />&gt; Forever! |<br />&gt; //**^z**// - 2016-07-12</p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057708

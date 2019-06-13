@@ -1,0 +1,28 @@
+flags: 0
+blocks: <p><h3>2 Comments.</h3>Not bad. The comment to executable LOC ratio is about right, and you've got your curly braces in the right places. I might write the regexes a bit differently to avoid having to escape the internal virgules, but that's a personal choice.</p><p>regards,<br />dbw</p><p>-- dave w 2010-05-04 23:05 UTC</p><hr /><p>tnx Dave! --- I was very proud of myself when I learned the "last if" construction, and figured out how to escape from the loops at the right moment to output the lines I needed and not one line too few (or too many) ... agreed, should have used a different pattern delimiter, but I didn't want to learn TOO many new things in one day! (^_^)</p><p>-- <a class="url http outside" href="http://zhurnaly.com">zz</a> 2010-05-04 23:36 UTC</p>
+ip: 128.29.43.2
+ts: 1340906881
+minor: 0
+host: mw-128-29-43-2.mitre.org
+username: z0
+revision: 147
+summary: Rollback to 2011-06-26 23:23 UTC
+languages: 
+text: === 2 Comments. ===
+	Not bad.   The comment to executable LOC ratio is about right, and you've got your curly braces in the right places.  I might write the regexes a bit differently to avoid having to escape the internal virgules, but that's a personal choice.
+	
+	regards,
+	dbw
+	
+	-- dave w 2010-05-04 23:05 UTC
+	
+	
+	----
+	
+	tnx Dave! --- I was very proud of myself when I learned the "last if" construction, and figured out how to escape from the loops at the right moment to output the lines I needed and not one line too few (or too many) ... agreed, should have used a different pattern delimiter, but I didn't want to learn TOO many new things in one day!  (^_^)
+	
+	-- [http://zhurnaly.com zz] 2010-05-04 23:36 UTC
+	
+	
+lastmajor: 147
+keep-ts: 1340906881

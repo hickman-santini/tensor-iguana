@@ -1,0 +1,23 @@
+blocks: <h3>~4.9 miles @ ~15.3 min/mi</h3><p>"And <em><strong>who</strong></em> is feeling <em><strong>that</strong></em>?" Clair Sullivan poses the archetypal Zen question. She's in town for an intensive data science/analysis course, and so we take an early Sunday morning trek along the Western Ridge Trail starting at Peirce Mill, returning along Rock Creek. Clair pushes mirror shades up onto her forehead as we enter the woods. We pause to admire spiderwebs and sunbeams, a stack of stones in a tributary stream, a picnic bench gone flotsam in the middle of the channel. Conversation is wonderful. Thank you, Prof CJ!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/592004883">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-07-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 67.198.77.136
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 miles @ ~15.3 min/mi
+	
+	"And //**who**// is feeling //**that**//?" Clair Sullivan poses the archetypal Zen question. She's in town for an intensive data science/analysis course, and so we take an early Sunday morning trek along the Western Ridge Trail starting at Peirce Mill, returning along Rock Creek. Clair pushes mirror shades up onto her forehead as we enter the woods. We pause to admire spiderwebs and sunbeams, a stack of stones in a tributary stream, a picnic bench gone flotsam in the middle of the channel. Conversation is wonderful. Thank you, Prof CJ!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/592004883|trackfile]])// - //**^z**// - 2015-07-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 miles @ ~15.3 min/mi<br />&gt; "And //**who**// is feeling //**that**//?" Clair Sullivan poses the archetypal Zen question. She's in town for an intensive data science/analysis course, and so we take an early Sunday morning trek along the Western Ridge Trail starting at Peirce Mill, returning along Rock Creek. Clair pushes mirror shades up onto her forehead as we enter the woods. We pause to admire spiderwebs and sunbeams, a stack of stones in a tributary stream, a picnic bench gone flotsam in the middle of the channel. Conversation is wonderful. Thank you, Prof CJ!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/592004883|trackfile]])// - //**^z**// - 2015-07-11</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057690

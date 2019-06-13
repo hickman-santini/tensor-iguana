@@ -1,0 +1,29 @@
+blocks: <table class="user"><tr><td align="right">Like the squeaky step on the staircase,<br /> &nbsp; &nbsp; When you're coming home late:<br /> &nbsp; &nbsp; &nbsp; &nbsp; Avoid it?<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sneak past it?<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiptoe over it?<br /><br />No!<br />Tread on it, wake the family,<br />And embrace the shame with pride!</td></tr></table><p><em><strong>^z</strong></em> - 2016-16-25</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.186
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Like the squeaky step on the staircase,
+	 &nbsp; &nbsp; When you're coming home late:
+	 &nbsp; &nbsp; &nbsp; &nbsp; Avoid it?
+	 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sneak past it?
+	 &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiptoe over it?
+	\\
+	No!
+	Tread on it, wake the family,
+	And embrace the shame with pride! |
+	
+	//**^z**// - 2016-16-25
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Like the squeaky step on the staircase,<br />&gt;  &amp;nbsp; &amp;nbsp; When you're coming home late:<br />&gt;  &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Avoid it?<br />&gt;  &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Sneak past it?<br />&gt;  &amp;nbsp;  &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Tiptoe over it?<br />&gt; \\<br />&gt; No!<br />&gt; Tread on it, wake the family,<br />&gt; And embrace the shame with pride! |<br />&gt; //**^z**// - 2016-16-25</strong></p></div>
+flags: 0
+ts: 1528057702
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057702

@@ -1,0 +1,23 @@
+blocks: <p><em><strong>^z</strong></em> and Dad, aka Werner Zimmermann, on Father's Day of 2015:</p><p><img class="url http" src="http://zhurnaly.com/images/Zimmermann_fathers_day.jpg" alt="http://zhurnaly.com/images/Zimmermann_fathers_day.jpg" /></p><p><em><strong>^z</strong></em> - 2015-07-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: //**^z**// and Dad, aka Werner Zimmermann, on Father's Day of 2015:
+	
+	http://zhurnaly.com/images/Zimmermann_fathers_day.jpg
+	
+	//**^z**// - 2015-07-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//**^z**// and Dad, aka Werner Zimmermann, on Father's Day of 2015:<br />&gt; http://zhurnaly.com/images/Zimmermann_fathers_day.jpg<br />&gt; //**^z**// - 2015-07-16</strong></p></div>
+flags: 0
+ts: 1528057698
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057698

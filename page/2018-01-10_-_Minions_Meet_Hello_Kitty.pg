@@ -1,0 +1,23 @@
+blocks: <h3>~7.1 mi @ ~12.5 min/mi</h3><table class="user"><tr><td align="center">"Knock, knock! - It's the Dawn Patrol, Ma'am - we need you to turn on your Christmas lights, so we can inspect them!" Most front yards are dark, but a few displays remain active. One features a flock of inflatables, including multiple Minions (one dynamically popping out from a tree), Hello Kitty * 2, and Queen Elsa of "Frozen". Photo op! Kristin leads the way through a forgotten McLean neighborhood. New bike lanes on a resurfaced road add an extra safety buffer. Crimson clouds reflect the rising sun's glow.</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Dawn_Patrol_McLean_XMAS_front_yard_2018-01-10a.jpg" alt="http://zhurnaly.com/images/running/Dawn_Patrol_McLean_XMAS_front_yard_2018-01-10a.jpg" /></td></tr></table><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1106531465">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-02-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.146
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.1 mi @ ~12.5 min/mi
+	
+	| "Knock, knock! - It's the Dawn Patrol, Ma'am - we need you to turn on your Christmas lights, so we can inspect them!" Most front yards are dark, but a few displays remain active. One features a flock of inflatables, including multiple Minions (one dynamically popping out from a tree), Hello Kitty * 2, and Queen Elsa of "Frozen". Photo op! Kristin leads the way through a forgotten McLean neighborhood. New bike lanes on a resurfaced road add an extra safety buffer. Crimson clouds reflect the rising sun's glow. | http://zhurnaly.com/images/running/Dawn_Patrol_McLean_XMAS_front_yard_2018-01-10a.jpg |
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1106531465|trackfile]])// - //**^z**// - 2018-02-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.1 mi @ ~12.5 min/mi<br />&gt; | "Knock, knock! - It's the Dawn Patrol, Ma'am - we need you to turn on your Christmas lights, so we can inspect them!" Most front yards are dark, but a few displays remain active. One features a flock of inflatables, including multiple Minions (one dynamically popping out from a tree), Hello Kitty * 2, and Queen Elsa of "Frozen". Photo op! Kristin leads the way through a forgotten McLean neighborhood. New bike lanes on a resurfaced road add an extra safety buffer. Crimson clouds reflect the rising sun's glow. | http://zhurnaly.com/images/running/Dawn_Patrol_McLean_XMAS_front_yard_2018-01-10a.jpg |<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1106531465|trackfile]])// - //**^z**// - 2018-02-07</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

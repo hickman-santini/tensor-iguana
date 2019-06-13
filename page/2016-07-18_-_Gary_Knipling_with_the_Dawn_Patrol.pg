@@ -1,0 +1,29 @@
+blocks: <h3>~8.1 miles @ ~13.5 min/mi</h3><p>At mile 7, melting in morning heat and humidity, Drs K&amp;K and I pause to watch a video that friend Stephanie took on Saturday. Ultra-tough John Hord is in the midst of yet another 100 miler, and ultra-legend Gary Knipling offers an ultra-inspirational message of encouragement:<br /></p><blockquote><p>"John, you're up there, halfway through Vermont now &mdash; you're going to kick ass the rest of the way! I know you are. You are! And at 2 AM, at 3 AM, at 4 AM, when you don't think anybody's with you, we're going to be with you, John. We're with you! You just take it in, and we're going to finish with you. We're all for you!"<br /></p></blockquote><p>... <em>wow!</em> - how can we stop running now?</p><p>Ninety minutes earlier: "Baby blanket colors!" A pastel sunrise lures feet eastward. Near mommy doe, two spotted fawns nibble flowers in a McLean front yard. Rabbit count grows to 5 during a ramble over the hills of Lewinsville Heights. Then a new route beckons, North West Street, past a mix of classic architecture and hypermodern angular contra-dormers. Conversation likewise rambles, from Cambodia to athletes' lack of inhibitions. Another beautiful day in the neighborhood!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/827679050">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-08-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.54
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.1 miles @ ~13.5 min/mi
+	
+	At mile 7, melting in morning heat and humidity, Drs K&K and I pause to watch a video that friend Stephanie took on Saturday. Ultra-tough John Hord is in the midst of yet another 100 miler, and ultra-legend Gary Knipling offers an ultra-inspirational message of encouragement:
+	"""
+	"John, you're up there, halfway through Vermont now &mdash; you're going to kick ass the rest of the way! I know you are. You are! And at 2 AM, at 3 AM, at 4 AM, when you don't think anybody's with you, we're going to be with you, John. We're with you! You just take it in, and we're going to finish with you. We're all for you!"
+	"""
+	... //wow!// - how can we stop running now?
+	
+	Ninety minutes earlier: "Baby blanket colors!" A pastel sunrise lures feet eastward. Near mommy doe, two spotted fawns nibble flowers in a McLean front yard. Rabbit count grows to 5 during a ramble over the hills of Lewinsville Heights. Then a new route beckons, North West Street, past a mix of classic architecture and hypermodern angular contra-dormers. Conversation likewise rambles, from Cambodia to athletes' lack of inhibitions. Another beautiful day in the neighborhood!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/827679050|trackfile]])// - //**^z**// - 2016-08-09
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.1 miles @ ~13.5 min/mi<br />&gt; At mile 7, melting in morning heat and humidity, Drs K&amp;K and I pause to watch a video that friend Stephanie took on Saturday. Ultra-tough John Hord is in the midst of yet another 100 miler, and ultra-legend Gary Knipling offers an ultra-inspirational message of encouragement:<br />&gt; """<br />&gt; "John, you're up there, halfway through Vermont now &amp;mdash; you're going to kick ass the rest of the way! I know you are. You are! And at 2 AM, at 3 AM, at 4 AM, when you don't think anybody's with you, we're going to be with you, John. We're with you! You just take it in, and we're going to finish with you. We're all for you!"<br />&gt; """<br />&gt; ... //wow!// - how can we stop running now?<br />&gt; Ninety minutes earlier: "Baby blanket colors!" A pastel sunrise lures feet eastward. Near mommy doe, two spotted fawns nibble flowers in a McLean front yard. Rabbit count grows to 5 during a ramble over the hills of Lewinsville Heights. Then a new route beckons, North West Street, past a mix of classic architecture and hypermodern angular contra-dormers. Conversation likewise rambles, from Cambodia to athletes' lack of inhibitions. Another beautiful day in the neighborhood!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/827679050|trackfile]])// - //**^z**// - 2016-08-09</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

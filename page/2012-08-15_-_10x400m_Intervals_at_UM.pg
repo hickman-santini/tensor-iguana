@@ -1,0 +1,25 @@
+blocks: <h3>~3.5 miles @ ~9.2 min/mi</h3><p>"Excuse me, Sir, how long have you been running?" a young fellow asks me. It's unclear whether he means this evening or more historically. I pick the second and tell him, "About 10 years." He's impressed, or maybe confused. His workout this evening is 800m repeats. "Good job," I say. "That's a tough distance!"</p><p>Earlier this evening, during the walk home from the Metro station, I phone the Marathon Deli. "How late are you open tonight?" I ask. They're available until 8pm, and with a Montgomery County Coin Club meeting, daughter Gray to pick up, and an Olympic-sized craving to do some speedwork on the University of Maryland track, there's just enough time to change into running clothes and head over to College Park. Robin investigates the Student Union and Library for half an hour while I do oval orbits, hoping after halfway that he gets back early. He doesn't, so I have to do all 10 planned repeats: 400 meter laps in the 1:45ish zone, with half-lap (~2 minute) walks between. Grounds crews with gasoline-fueled leaf blowers are tidying up the infield, and big bleachers block lanes 1 and 2 on the east side of the arena. Temperatures are near 90&deg;F and the humidity makes it slightly tough. The <a class="url http outside" href="http://connect.garmin.com/activity/212055783">Garmin GPS trackfile</a> has details: laps splits in seconds, a warmup 107 followed by 99 + 100 + 98 + 101 + 103 + 104 + 104 + 104 + 103.</p><p><em><strong>^z</strong></em> - 2012-08-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.30.123
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.5 miles @ ~9.2 min/mi
+	
+	"Excuse me, Sir, how long have you been running?" a young fellow asks me. It's unclear whether he means this evening or more historically. I pick the second and tell him, "About 10 years." He's impressed, or maybe confused. His workout this evening is 800m repeats. "Good job," I say. "That's a tough distance!"
+	
+	Earlier this evening, during the walk home from the Metro station, I phone the Marathon Deli. "How late are you open tonight?" I ask. They're available until 8pm, and with a Montgomery County Coin Club meeting, daughter Gray to pick up, and an Olympic-sized craving to do some speedwork on the University of Maryland track, there's just enough time to change into running clothes and head over to College Park. Robin investigates the Student Union and Library for half an hour while I do oval orbits, hoping after halfway that he gets back early. He doesn't, so I have to do all 10 planned repeats: 400 meter laps in the 1:45ish zone, with half-lap (~2 minute) walks between. Grounds crews with gasoline-fueled leaf blowers are tidying up the infield, and big bleachers block lanes 1 and 2 on the east side of the arena. Temperatures are near 90&deg;F and the humidity makes it slightly tough. The [[http://connect.garmin.com/activity/212055783|Garmin GPS trackfile]] has details: laps splits in seconds, a warmup 107 followed by 99 + 100 + 98 + 101 + 103 + 104 + 104 + 104 + 103.
+	
+	//**^z**// - 2012-08-29
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.5 miles @ ~9.2 min/mi<br />&gt; "Excuse me, Sir, how long have you been running?" a young fellow asks me. It's unclear whether he means this evening or more historically. I pick the second and tell him, "About 10 years." He's impressed, or maybe confused. His workout this evening is 800m repeats. "Good job," I say. "That's a tough distance!"<br />&gt; Earlier this evening, during the walk home from the Metro station, I phone the Marathon Deli. "How late are you open tonight?" I ask. They're available until 8pm, and with a Montgomery County Coin Club meeting, daughter Gray to pick up, and an Olympic-sized craving to do some speedwork on the University of Maryland track, there's just enough time to change into running clothes and head over to College Park. Robin investigates the Student Union and Library for half an hour while I do oval orbits, hoping after halfway that he gets back early. He doesn't, so I have to do all 10 planned repeats: 400 meter laps in the 1:45ish zone, with half-lap (~2 minute) walks between. Grounds crews with gasoline-fueled leaf blowers are tidying up the infield, and big bleachers block lanes 1 and 2 on the east side of the arena. Temperatures are near 90&amp;deg;F and the humidity makes it slightly tough. The [[http://connect.garmin.com/activity/212055783|Garmin GPS trackfile]] has details: laps splits in seconds, a warmup 107 followed by 99 + 100 + 98 + 101 + 103 + 104 + 104 + 104 + 103.<br />&gt; //**^z**// - 2012-08-29</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057700

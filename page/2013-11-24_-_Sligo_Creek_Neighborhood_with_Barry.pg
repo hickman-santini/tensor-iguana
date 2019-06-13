@@ -1,0 +1,27 @@
+blocks: <h3>~8 miles @ ~11.4 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Sligo_Creek_Deer_2013-11-24.jpg" alt="http://zhurnaly.com/images/running/Sligo_Creek_Deer_2013-11-24.jpg" /></td><td align="right">Two big bucks amble through the woods on a frigid-blustery Sunday morning. As Barry Smith and I approach, the stags race across a tributary stream of Sligo Creek to escape.</td></tr></table><p>Temps are in the mid-20s and wind gusts in the 30s, making for chill index in the teens and watery eyes &mdash; brrrrrr! My zig-zag path home explores old neighborhood streets just inside the Beltway to add a bit of mileage.</p><p><a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/274084089">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/408230224">Garmin</a> record the route. |</p><p><em><strong>^z</strong></em> - 2013-12-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.214.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8 miles @ ~11.4 min/mi
+	
+	| http://zhurnaly.com/images/running/Sligo_Creek_Deer_2013-11-24.jpg | Two big bucks amble through the woods on a frigid-blustery Sunday morning. As Barry Smith and I approach, the stags race across a tributary stream of Sligo Creek to escape.
+	
+	Temps are in the mid-20s and wind gusts in the 30s, making for chill index in the teens and watery eyes &mdash; brrrrrr! My zig-zag path home explores old neighborhood streets just inside the Beltway to add a bit of mileage.
+	
+	[[http://runkeeper.com/user/zhurnaly/activity/274084089|Runkeeper]] and [[http://connect.garmin.com/activity/408230224|Garmin]] record the route. |
+	
+	//**^z**// - 2013-12-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8 miles @ ~11.4 min/mi<br />&gt; | http://zhurnaly.com/images/running/Sligo_Creek_Deer_2013-11-24.jpg | Two big bucks amble through the woods on a frigid-blustery Sunday morning. As Barry Smith and I approach, the stags race across a tributary stream of Sligo Creek to escape.<br />&gt; Temps are in the mid-20s and wind gusts in the 30s, making for chill index in the teens and watery eyes &amp;mdash; brrrrrr! My zig-zag path home explores old neighborhood streets just inside the Beltway to add a bit of mileage.<br />&gt; [[http://runkeeper.com/user/zhurnaly/activity/274084089|Runkeeper]] and [[http://connect.garmin.com/activity/408230224|Garmin]] record the route. |<br />&gt; //**^z**// - 2013-12-15</strong></p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057687

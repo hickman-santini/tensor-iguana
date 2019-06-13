@@ -1,0 +1,24 @@
+flags: 0
+blocks: <p><h3>~2 miles @ ~14 min/mi</h3></p><p>Colleague Clair and I meet at 0855 at the gym, early enough to avoid locker room crowds and some morning heat. We jog to the woodsy path and do 1 mile in ~12 min, walking the hills and enjoying the conversation. Clair, who has already experienced major knee problems and surgery, demonstrates how to adjust one's stride to minimize stress on an achy knee, and how <em>not</em> to swing one's hips to avoid back or ITB pain. Clair has The Eye: she points out birds, rabbits, etc. that I overlook.</p><p>And there's happy news, embargoed until 1 June ... Clair is expecting. <em>Congratulations!</em></p><p><em><strong>^z</strong></em> - 2010-06-03</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Colleague Clair and I meet at 0855 at the gym, early enough to avoid locker room crowds and some morning heat. We jog to the woodsy path and do 1 mile in ~12 min, walking the hills and enjoying the conversation. Clair, who has already experienced major knee problems and surgery, demonstrates how to adjust one's stride to minimize stress on an achy knee, and how //not// to swing one's hips to avoid back or ITB pain. <strong class="changes">And</strong> Clair has The Eye: she points out birds, rabbits, etc. that I overlook.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Colleague Clair and I meet at 0855 at the gym, early enough to avoid locker room crowds and some morning heat. We jog to the woodsy path and do 1 mile in ~12 min, walking the hills and enjoying the conversation. Clair, who has already experienced major knee problems and surgery, demonstrates how to adjust one's stride to minimize stress on an achy knee, and how //not// to swing one's hips to avoid back or ITB pain. Clair has The Eye: she points out birds, rabbits, etc. that I overlook.</p></div>
+ip: 141.156.137.114
+ts: 1275554901
+minor: 1
+host: pool-141-156-137-114.res.east.verizon.net
+username: ZZ
+revision: 3
+diff-major: 
+summary: tweak 2
+languages: 
+text: === ~2 miles @ ~14 min/mi
+	
+	Colleague Clair and I meet at 0855 at the gym, early enough to avoid locker room crowds and some morning heat. We jog to the woodsy path and do 1 mile in ~12 min, walking the hills and enjoying the conversation. Clair, who has already experienced major knee problems and surgery, demonstrates how to adjust one's stride to minimize stress on an achy knee, and how //not// to swing one's hips to avoid back or ITB pain. Clair has The Eye: she points out birds, rabbits, etc. that I overlook.
+	
+	And there's happy news, embargoed until 1 June ... Clair is expecting. //Congratulations!//
+	
+	//**^z**// - 2010-06-03
+	
+lastmajor: 1
+keep-ts: 1275554901

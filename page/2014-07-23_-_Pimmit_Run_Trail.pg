@@ -1,0 +1,23 @@
+blocks: <h3>~4.8 miles @ ~11.7 min/mi</h3><p>3 McLean bunnies seen on a warm and humid trek with Kerry, Kristin, and David. Into the rising sun, we follow the natural-surface Pimmit Run Trail downstream to reach Westmoreland Av. Kerry leads at a brisk pace, taking spider webs to the face for the group. At McLean HS we search in vain for a water fountain near the track. Kristin does an extra half-mile and then leads me in <em>&lt;&lt;ouch!&gt;&gt;</em> stretches afterwards. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/398798947">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/548145753">Garmin</a> trackfiles capture data.</p><p><em><strong>^z</strong></em> - 2014-08-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.89
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.8 miles @ ~11.7 min/mi
+	
+	3 McLean bunnies seen on a warm and humid trek with Kerry, Kristin, and David. Into the rising sun, we follow the natural-surface Pimmit Run Trail downstream to reach Westmoreland Av. Kerry leads at a brisk pace, taking spider webs to the face for the group. At McLean HS we search in vain for a water fountain near the track. Kristin does an extra half-mile and then leads me in //<<ouch!>>// stretches afterwards. [[http://runkeeper.com/user/zhurnaly/activity/398798947|Runkeeper]] and [[http://connect.garmin.com/modern/activity/548145753|Garmin]] trackfiles capture data.
+	
+	//**^z**// - 2014-08-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.8 miles @ ~11.7 min/mi<br />&gt; 3 McLean bunnies seen on a warm and humid trek with Kerry, Kristin, and David. Into the rising sun, we follow the natural-surface Pimmit Run Trail downstream to reach Westmoreland Av. Kerry leads at a brisk pace, taking spider webs to the face for the group. At McLean HS we search in vain for a water fountain near the track. Kristin does an extra half-mile and then leads me in //&lt;&lt;ouch!&gt;&gt;// stretches afterwards. [[http://runkeeper.com/user/zhurnaly/activity/398798947|Runkeeper]] and [[http://connect.garmin.com/modern/activity/548145753|Garmin]] trackfiles capture data.<br />&gt; //**^z**// - 2014-08-10</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057712

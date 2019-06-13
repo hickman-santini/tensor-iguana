@@ -1,0 +1,23 @@
+blocks: <h3>~6.2 miles @ ~11.9 min/mi</h3><p>"... and THAT's why we have eyelashes!" says the woman in the bright artichoke-shamrock tutu to her similarly-clad friend. Dr Beth and I are at mile 6 of the 10k "Run for Shelter" in Alexandria, and with a pair of ladies in funny green skirts we've just encountered fierce winds swirling around the local office buildings, blowing sand and leaves and dust into our faces. It's a lovely morning, temps in the upper 40's, partly cloudy. Beth tells me about Krave, a chocolate-filled cereal that I must try ASAP, and with her friend Alexis we discuss whether custom varieties of Pocky candy could be produced using 3-D printing (additive manufacturing) technology. The sub-12 min/mi pace is perfect.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/695508180">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-12-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.27
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.2 miles @ ~11.9 min/mi
+	
+	"... and THAT's why we have eyelashes!" says the woman in the bright artichoke-shamrock tutu to her similarly-clad friend. Dr Beth and I are at mile 6 of the 10k "Run for Shelter" in Alexandria, and with a pair of ladies in funny green skirts we've just encountered fierce winds swirling around the local office buildings, blowing sand and leaves and dust into our faces. It's a lovely morning, temps in the upper 40's, partly cloudy. Beth tells me about Krave, a chocolate-filled cereal that I must try ASAP, and with her friend Alexis we discuss whether custom varieties of Pocky candy could be produced using 3-D printing (additive manufacturing) technology. The sub-12 min/mi pace is perfect.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/695508180|trackfile]])// - //**^z**// - 2015-12-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.2 miles @ ~11.9 min/mi<br />&gt; "... and THAT's why we have eyelashes!" says the woman in the bright artichoke-shamrock tutu to her similarly-clad friend. Dr Beth and I are at mile 6 of the 10k "Run for Shelter" in Alexandria, and with a pair of ladies in funny green skirts we've just encountered fierce winds swirling around the local office buildings, blowing sand and leaves and dust into our faces. It's a lovely morning, temps in the upper 40's, partly cloudy. Beth tells me about Krave, a chocolate-filled cereal that I must try ASAP, and with her friend Alexis we discuss whether custom varieties of Pocky candy could be produced using 3-D printing (additive manufacturing) technology. The sub-12 min/mi pace is perfect.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/695508180|trackfile]])// - //**^z**// - 2015-12-07</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

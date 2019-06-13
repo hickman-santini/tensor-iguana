@@ -1,0 +1,25 @@
+blocks: <h3>~7.1 miles @ ~13.2 min/mi</h3><p>"Shards of broken glass! And snakes!" The Dawn Patrol reviews some of its members' phobias. "And worst of all: snakes in a serpentarium, breaking out through the glass!" We random-walk around an apartment complex, seeking a hole in the fence without success. Cute dogs cavort on the other side, yearning to be petted. <em>Maybe another day!</em></p><p>"Are those zombies?" Kids stand like statues on the corner awaiting a school bus. Near Jupiter a last-quarter moon peeks between clouds. Kristin and Caitlin discuss default assumptions and their sometimes-humorous consequences. We cut through Tysons Pimmit Park as the sun rises. "Such a wonderful morning &mdash; thank you for running with me!".</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/921110220">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-02-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.22
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.1 miles @ ~13.2 min/mi
+	
+	"Shards of broken glass! And snakes!" The Dawn Patrol reviews some of its members' phobias. "And worst of all: snakes in a serpentarium, breaking out through the glass!" We random-walk around an apartment complex, seeking a hole in the fence without success. Cute dogs cavort on the other side, yearning to be petted. //Maybe another day!//
+	
+	"Are those zombies?" Kids stand like statues on the corner awaiting a school bus. Near Jupiter a last-quarter moon peeks between clouds. Kristin and Caitlin discuss default assumptions and their sometimes-humorous consequences. We cut through Tysons Pimmit Park as the sun rises. "Such a wonderful morning &mdash; thank you for running with me!".
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/921110220|trackfile]])// - //**^z**// - 2017-02-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.1 miles @ ~13.2 min/mi<br />&gt; "Shards of broken glass! And snakes!" The Dawn Patrol reviews some of its members' phobias. "And worst of all: snakes in a serpentarium, breaking out through the glass!" We random-walk around an apartment complex, seeking a hole in the fence without success. Cute dogs cavort on the other side, yearning to be petted. //Maybe another day!//<br />&gt; "Are those zombies?" Kids stand like statues on the corner awaiting a school bus. Near Jupiter a last-quarter moon peeks between clouds. Kristin and Caitlin discuss default assumptions and their sometimes-humorous consequences. We cut through Tysons Pimmit Park as the sun rises. "Such a wonderful morning &amp;mdash; thank you for running with me!".<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/921110220|trackfile]])// - //**^z**// - 2017-02-17</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

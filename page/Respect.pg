@@ -1,0 +1,63 @@
+flags: 0
+blocks: <p>From Neal Stephenson's 1992 sf novel <strong>Snow Crash</strong> <em>(Chapter 21)</em>, elderly Uncle Enzo is speaking to young-thing character Y.T.:</p><table class="user"><tr><td align="right"><em><strong> "You don't respect those people very much, Y.T., because you're young and arrogant.<br />But I don't respect them much either, because I'm old and wise." </strong></em></td></tr></table><p>... a clever double-reverse logic-linguistic-literary move &mdash; and perhaps sometimes real-world true!</p><p>And, in a larger context, the passage means even more &mdash; as one person recognizes quality in another, and offers a helping hand:</p><blockquote><p>"Sometimes I wonder who'll come after me," he says. "Oh, we have plenty of excellent people in the next generation. But after that &mdash; well, I don't know. I guess all old people feel like the world is coming to an end."</p><p>"You got millions of those Young Mafia types," Y.T. says.</p><p>"All destined to wear blazers and shuffle papers in suburbia. You don't respect those people very much, Y.T., because you're young and arrogant. But I don't respect them much either, because I'm old and wise."</p><p>This is a fairly shocking thing for Uncle Enzo to be saying, but Y.T. doesn't feel shocked. It just seems like a reasonable statement coming from her reasonable pal, Uncle Enzo.</p><p>"None of them would ever volunteer to go get his legs shot off in the jungle, just to piss off his old man. They lack a certain fiber. They are lifeless and beaten down."</p><p>"That's sad," Y.T. says. It feels better to say this than to trash them, which was her first inclination.</p><p>"Well," says Uncle Enzo. It is the "well" that begins the end of a conversation. "I was going to send you some roses, but you wouldn't really be interested in that, would you?"</p><p>"Oh, I wouldn't mind," she says, sounding pathetically weak to herself.</p><p>"Here's something better, since we are comrades in arms," he says. He loosens his tie and collar, reaches down into his shirt, pulls out an amazingly cheap steel chain with a couple of stamped silver tags dangling from it. "These are my old dog tags," he says. "Been carrying them around for years, just for the hell of it. I would be amused if you would wear them."</p><p>Trying to keep her knees steady, she puts the dog tags on. They dangle down onto her coverall.</p><p>"Better put them inside," Uncle Enzo says.</p><p>She drops them down into the secret place between her breasts. They are still warm from Uncle Enzo.</p><p>"Thanks."</p><p>"It's just for fun," he says, "but if you ever get into trouble, and you show those dog tags to whoever it is that's giving you a bad time, then things will probably change very quickly."</p><p>"Thanks, Uncle Enzo."</p><p>"Take care of yourself. Be good to your mother. She loves you."<br /></p></blockquote><p>... a lovely gift, and wise counsel!</p><p><em><strong>^z</strong></em> - 2018-05-30</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">From Neal Stephenson's 1992 sf novel **Snow Crash** //(Chapter 21)//, elderly Uncle Enzo is speaking to young-thing character Y.T.:<br />&gt; | //** "You don't respect those people very much, Y.T., because you're young and arrogant.<br />&gt; But I don't respect them much either, because I'm old and wise." **// |<br />&gt; ... a clever double-reverse logic-linguistic-literary move &amp;mdash; and perhaps sometimes real-world true!<br />&gt; And, in a larger context, the passage means even more &amp;mdash; as one person recognizes quality in another, and offers a helping hand:<br />&gt; """<br />&gt; "Sometimes I wonder who'll come after me," he says. "Oh, we have plenty of excellent people in the next generation. But after that &amp;mdash; well, I don't know. I guess all old people feel like the world is coming to an end."<br />&gt; "You got millions of those Young Mafia types," Y.T. says.<br />&gt; "All destined to wear blazers and shuffle papers in suburbia. You don't respect those people very much, Y.T., because you're young and arrogant. But I don't respect them much either, because I'm old and wise."<br />&gt; This is a fairly shocking thing for Uncle Enzo to be saying, but Y.T. doesn't feel shocked. It just seems like a reasonable statement coming from her reasonable pal, Uncle Enzo.<br />&gt; "None of them would ever volunteer to go get his legs shot off in the jungle, just to piss off his old man. They lack a certain fiber. They are lifeless and beaten down."<br />&gt; "That's sad," Y.T. says. It feels better to say this than to trash them, which was her first inclination.<br />&gt; "Well," says Uncle Enzo. It is the "well" that begins the end of a conversation. "I was going to send you some roses, but you wouldn't really be interested in that, would you?"<br />&gt; "Oh, I wouldn't mind," she says, sounding pathetically weak to herself.<br />&gt; "Here's something better, since we are comrades in arms," he says. He loosens his tie and collar, reaches down into his shirt, pulls out an amazingly cheap steel chain with a couple of stamped silver tags dangling from it. "These are my old dog tags," he says. "Been carrying them around for years, just for the hell of it. I would be amused if you would wear them."<br />&gt; Trying to keep her knees steady, she puts the dog tags on. They dangle down onto her coverall.<br />&gt; "Better put them inside," Uncle Enzo says.<br />&gt; She drops them down into the secret place between her breasts. They are still warm from Uncle Enzo.<br />&gt; "Thanks."<br />&gt; "It's just for fun," he says, "but if you ever get into trouble, and you show those dog tags to whoever it is that's giving you a bad time, then things will probably change very quickly."<br />&gt; "Thanks, Uncle Enzo."<br />&gt; "Take care of yourself. Be good to your mother. She loves you."<br />&gt; """<br />&gt; ... a lovely gift, and wise counsel!<br />&gt; //**^z**// - 2018-05-30</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057692
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: From Neal Stephenson's 1992 sf novel **Snow Crash** //(Chapter 21)//, elderly Uncle Enzo is speaking to young-thing character Y.T.:
+	
+	| //** "You don't respect those people very much, Y.T., because you're young and arrogant.
+	But I don't respect them much either, because I'm old and wise." **// |
+	
+	... a clever double-reverse logic-linguistic-literary move &mdash; and perhaps sometimes real-world true!
+	
+	And, in a larger context, the passage means even more &mdash; as one person recognizes quality in another, and offers a helping hand:
+	
+	"""
+	"Sometimes I wonder who'll come after me," he says. "Oh, we have plenty of excellent people in the next generation. But after that &mdash; well, I don't know. I guess all old people feel like the world is coming to an end."
+	
+	"You got millions of those Young Mafia types," Y.T. says.
+	
+	"All destined to wear blazers and shuffle papers in suburbia. You don't respect those people very much, Y.T., because you're young and arrogant. But I don't respect them much either, because I'm old and wise."
+	
+	This is a fairly shocking thing for Uncle Enzo to be saying, but Y.T. doesn't feel shocked. It just seems like a reasonable statement coming from her reasonable pal, Uncle Enzo.
+	
+	"None of them would ever volunteer to go get his legs shot off in the jungle, just to piss off his old man. They lack a certain fiber. They are lifeless and beaten down."
+	
+	"That's sad," Y.T. says. It feels better to say this than to trash them, which was her first inclination.
+	
+	"Well," says Uncle Enzo. It is the "well" that begins the end of a conversation. "I was going to send you some roses, but you wouldn't really be interested in that, would you?"
+	
+	"Oh, I wouldn't mind," she says, sounding pathetically weak to herself.
+	
+	"Here's something better, since we are comrades in arms," he says. He loosens his tie and collar, reaches down into his shirt, pulls out an amazingly cheap steel chain with a couple of stamped silver tags dangling from it. "These are my old dog tags," he says. "Been carrying them around for years, just for the hell of it. I would be amused if you would wear them."
+	
+	Trying to keep her knees steady, she puts the dog tags on. They dangle down onto her coverall.
+	
+	"Better put them inside," Uncle Enzo says.
+	
+	She drops them down into the secret place between her breasts. They are still warm from Uncle Enzo.
+	
+	"Thanks."
+	
+	"It's just for fun," he says, "but if you ever get into trouble, and you show those dog tags to whoever it is that's giving you a bad time, then things will probably change very quickly."
+	
+	"Thanks, Uncle Enzo."
+	
+	"Take care of yourself. Be good to your mother. She loves you."
+	"""
+	
+	... a lovely gift, and wise counsel!
+	
+	//**^z**// - 2018-05-30
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057692

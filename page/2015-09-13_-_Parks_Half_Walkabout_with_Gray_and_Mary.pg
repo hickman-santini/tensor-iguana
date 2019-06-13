@@ -1,0 +1,23 @@
+blocks: <h3>~5.8 miles @ ~19.9 min/mi</h3><p>"We will look for you at Mile 10!" I tell Amy Couch, when she texts me to report that she has just passed Mile 8 of the Parks Half Marathon. We last met at dawn: I was a volunteer course marshal, rubbing the sleep out of my eyes at mile ~0.6 and happily surprised to see Amy dash past. DD Gray and I are doing a walk that includes the one-lane Grace Church Rd bridge. After a couple of miles we join Mary Ewell, who accompanies us on the trek to Rock Creek. Perfect timing: Amy appears just as we arrive! After a quick pause for photos Mary, Gray, and I continue up the long Mormon Temple hill, then return home via a woodsy path near Forest Glen.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/655173862">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.8 miles @ ~19.9 min/mi
+	
+	"We will look for you at Mile 10!" I tell Amy Couch, when she texts me to report that she has just passed Mile 8 of the Parks Half Marathon. We last met at dawn: I was a volunteer course marshal, rubbing the sleep out of my eyes at mile ~0.6 and happily surprised to see Amy dash past. DD Gray and I are doing a walk that includes the one-lane Grace Church Rd bridge. After a couple of miles we join Mary Ewell, who accompanies us on the trek to Rock Creek. Perfect timing: Amy appears just as we arrive! After a quick pause for photos Mary, Gray, and I continue up the long Mormon Temple hill, then return home via a woodsy path near Forest Glen.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/655173862|trackfile]])// - //**^z**// - 2015-10-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.8 miles @ ~19.9 min/mi<br />&gt; "We will look for you at Mile 10!" I tell Amy Couch, when she texts me to report that she has just passed Mile 8 of the Parks Half Marathon. We last met at dawn: I was a volunteer course marshal, rubbing the sleep out of my eyes at mile ~0.6 and happily surprised to see Amy dash past. DD Gray and I are doing a walk that includes the one-lane Grace Church Rd bridge. After a couple of miles we join Mary Ewell, who accompanies us on the trek to Rock Creek. Perfect timing: Amy appears just as we arrive! After a quick pause for photos Mary, Gray, and I continue up the long Mormon Temple hill, then return home via a woodsy path near Forest Glen.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/655173862|trackfile]])// - //**^z**// - 2015-10-05</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

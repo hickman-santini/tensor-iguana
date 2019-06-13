@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~4.0 mi @ ~11.2 min/mi</h3><p>"Happy Earth Day! May I make a video?" Two men practicing Taiji pushing-hands in Sligo Creek Park kindly give permission. It's a 20 second detour during a run with a Mission: turn in a library book that's due tomorrow! En route, compliment an elderly lady on the street-side book-exchange in front of her home. "Not mine," she demurs. "My daughter likes to freecycle!" After turning in the book enjoy lunch with daughter Robin on her way to a DC meeting, then walk home rather than await a bus. Spy a striking "Purpleleaf Sand Cherry" in bloom on the way. What a lovely day!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1151903465">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-05-12</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.0 mi @ ~11.2 min/mi<br />&gt; "Happy Earth Day! May I make a video?" Two men practicing Taiji pushing-hands in Sligo Creek Park kindly give permission. It's a 20 second detour during a run with a Mission: turn in a library book that's due tomorrow! En route, compliment an elderly lady on the street-side book-exchange in front of her home. "Not mine," she demurs. "My daughter likes to freecycle!" After turning in the book enjoy lunch with daughter Robin on her way to a DC meeting, then walk home rather than await a bus. Spy a striking "Purpleleaf Sand Cherry" in bloom on the way. What a lovely day!<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1151903465|trackfile]])// - //**^z**// - 2018-05-12</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057678
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.0 mi @ ~11.2 min/mi
+	
+	"Happy Earth Day! May I make a video?" Two men practicing Taiji pushing-hands in Sligo Creek Park kindly give permission. It's a 20 second detour during a run with a Mission: turn in a library book that's due tomorrow! En route, compliment an elderly lady on the street-side book-exchange in front of her home. "Not mine," she demurs. "My daughter likes to freecycle!" After turning in the book enjoy lunch with daughter Robin on her way to a DC meeting, then walk home rather than await a bus. Spy a striking "Purpleleaf Sand Cherry" in bloom on the way. What a lovely day!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1151903465|trackfile]])// - //**^z**// - 2018-05-12
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057678

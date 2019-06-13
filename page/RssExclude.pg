@@ -1,0 +1,27 @@
+flags: 0
+blocks: <p> BannedContent<br /> BannedHosts<br /> HomePage<br /> InterMap<br /> RssExclude<br /> RssInterwikiTranslate<br /> SandBox<br /> ZhurnalyWikiStyleSheet<br /> ZzDrafts<br /> ZzzDrafts<br /> ZzzzDrafts</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt;  ZzzzDrafts</p></div>
+ip: 141.156.134.20
+ts: 1336352897
+minor: 
+host: pool-141-156-134-20.res.east.verizon.net
+username: Zimm
+revision: 7
+diff-major: 1
+summary: add ZzzzDrafts to RssExclude list
+languages: 
+text:  BannedContent
+	 BannedHosts
+	 HomePage
+	 InterMap
+	 RssExclude
+	 RssInterwikiTranslate
+	 SandBox
+	 ZhurnalyWikiStyleSheet
+	 ZzDrafts
+	 ZzzDrafts
+	 ZzzzDrafts
+	
+lastmajor: 7
+keep-ts: 1336352897

@@ -1,0 +1,23 @@
+blocks: <h3>~5.1 miles @ ~17.6 min/mi</h3><p>"Watch out for copperheads!" Mary Ewell warns as we circumnavigate Lake Fairfax on the weedy narrow path. Dragonflies flit and ducks dabble. A stream crossing gives us cool toes and soggy socks. Mountain bikers are mostly courteous, but a young fisherman unknowingly threatens those who pass behind her as she whips back her pole to cast. After the warm humid run: a deli lunch, an oenophile shopping expedition, and ongoing great conversation. TY, Dr M!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/592191325">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-07-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 67.198.77.136
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~5.1 miles @ ~17.6 min/mi
+	
+	"Watch out for copperheads!" Mary Ewell warns as we circumnavigate Lake Fairfax on the weedy narrow path. Dragonflies flit and ducks dabble. A stream crossing gives us cool toes and soggy socks. Mountain bikers are mostly courteous, but a young fisherman unknowingly threatens those who pass behind her as she whips back her pole to cast. After the warm humid run: a deli lunch, an oenophile shopping expedition, and ongoing great conversation. TY, Dr M!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/592191325|trackfile]])// - //**^z**// - 2015-07-11
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.1 miles @ ~17.6 min/mi<br />&gt; "Watch out for copperheads!" Mary Ewell warns as we circumnavigate Lake Fairfax on the weedy narrow path. Dragonflies flit and ducks dabble. A stream crossing gives us cool toes and soggy socks. Mountain bikers are mostly courteous, but a young fisherman unknowingly threatens those who pass behind her as she whips back her pole to cast. After the warm humid run: a deli lunch, an oenophile shopping expedition, and ongoing great conversation. TY, Dr M!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/592191325|trackfile]])// - //**^z**// - 2015-07-11</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

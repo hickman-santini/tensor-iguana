@@ -1,0 +1,23 @@
+blocks: <h3>~3.9 miles @ ~12.2 min/mi</h3><p>"Oh-My-God!" Big startle, as with a mega-<em><strong>THWHACK</strong></em> a newspaper hits the driveway behind us. Dawn Patrol monitors Langley Forest via dark streets, sharing flashlights and memories, stepping aside as cars swoop by. Dr Kerry greets a neighbor who runs past, and who again meets us a mile later. "You must have taken a short cut!" he says. "No, we're just really fast when you're not looking!" we reply. Molly tells of her high school basketball squad, that finished in 6th place - out of 6 teams!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1075822490">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-11-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.105
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.9 miles @ ~12.2 min/mi
+	
+	"Oh-My-God!" Big startle, as with a mega-//**THWHACK**// a newspaper hits the driveway behind us. Dawn Patrol monitors Langley Forest via dark streets, sharing flashlights and memories, stepping aside as cars swoop by. Dr Kerry greets a neighbor who runs past, and who again meets us a mile later. "You must have taken a short cut!" he says. "No, we're just really fast when you're not looking!" we reply. Molly tells of her high school basketball squad, that finished in 6th place - out of 6 teams!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1075822490|trackfile]])// - //**^z**// - 2017-11-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.9 miles @ ~12.2 min/mi<br />&gt; "Oh-My-God!" Big startle, as with a mega-//**THWHACK**// a newspaper hits the driveway behind us. Dawn Patrol monitors Langley Forest via dark streets, sharing flashlights and memories, stepping aside as cars swoop by. Dr Kerry greets a neighbor who runs past, and who again meets us a mile later. "You must have taken a short cut!" he says. "No, we're just really fast when you're not looking!" we reply. Molly tells of her high school basketball squad, that finished in 6th place - out of 6 teams!<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1075822490|trackfile]])// - //**^z**// - 2017-11-24</strong></p></div>
+flags: 0
+ts: 1528057704
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057704

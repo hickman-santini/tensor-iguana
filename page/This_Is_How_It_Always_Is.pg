@@ -1,0 +1,28 @@
+blocks: <p>A heart-wrenching social theme &mdash; a collection of finger-puppets that act a version of the author's own history &mdash; a wealthy, well-educated, liberal, loving couple who struggle to deal with their young transgender child's struggles &mdash; a parable-lecture with a too-blatant message: <strong>This Is How It Always Is</strong>, by Laurie Frankel (2017).</p><p><em>Well written?</em> Not really. Far too much clunky language and jarring set-piece scenes and one-dimensional characterizations. <em>Important?</em> Of course. The topic is part of humanity's exploration of what comes next, how to transcend our animal heritage. <em>A novel?</em> Not the best form or forum for this challenge. Better is Frankel's own <strong>New York Times</strong> <em>Modern Love</em> essay, "<a class="url http outside" href="https://www.nytimes.com/2016/09/18/fashion/modern-love-transgender-child-identity-parenting.html">From He to She in First Grade</a>". It asks the rich questions:<br /></p><blockquote><p>... Do we love our children best by protecting them at all costs or by supporting them unconditionally? Does love mean saying, "Nothing, not even your happiness, is as important as your safety"? Or does love mean saying, "Be who you are, and I will love that person no matter what"? ...<br /></p></blockquote><p>Unlike <strong>This Is How It Always Is</strong>: no easy answers ...</p><p><em><strong>^z</strong></em> - 2018-02-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.14
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: A heart-wrenching social theme &mdash; a collection of finger-puppets that act a version of the author's own history &mdash; a wealthy, well-educated, liberal, loving couple who struggle to deal with their young transgender child's struggles &mdash; a parable-lecture with a too-blatant message: **This Is How It Always Is**, by Laurie Frankel (2017).
+	
+	//Well written?// Not really. Far too much clunky language and jarring set-piece scenes and one-dimensional characterizations. //Important?// Of course. The topic is part of humanity's exploration of what comes next, how to transcend our animal heritage. //A novel?// Not the best form or forum for this challenge. Better is Frankel's own **New York Times** //Modern Love// essay, "[[https://www.nytimes.com/2016/09/18/fashion/modern-love-transgender-child-identity-parenting.html|From He to She in First Grade]]". It asks the rich questions:
+	"""
+	... Do we love our children best by protecting them at all costs or by supporting them unconditionally? Does love mean saying, "Nothing, not even your happiness, is as important as your safety"? Or does love mean saying, "Be who you are, and I will love that person no matter what"? ...
+	"""
+	
+	Unlike **This Is How It Always Is**: no easy answers ...
+	
+	//**^z**// - 2018-02-02
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">A heart-wrenching social theme &amp;mdash; a collection of finger-puppets that act a version of the author's own history &amp;mdash; a wealthy, well-educated, liberal, loving couple who struggle to deal with their young transgender child's struggles &amp;mdash; a parable-lecture with a too-blatant message: **This Is How It Always Is**, by Laurie Frankel (2017).<br />&gt; //Well written?// Not really. Far too much clunky language and jarring set-piece scenes and one-dimensional characterizations. //Important?// Of course. The topic is part of humanity's exploration of what comes next, how to transcend our animal heritage. //A novel?// Not the best form or forum for this challenge. Better is Frankel's own **New York Times** //Modern Love// essay, "[[https://www.nytimes.com/2016/09/18/fashion/modern-love-transgender-child-identity-parenting.html|From He to She in First Grade]]". It asks the rich questions:<br />&gt; """<br />&gt; ... Do we love our children best by protecting them at all costs or by supporting them unconditionally? Does love mean saying, "Nothing, not even your happiness, is as important as your safety"? Or does love mean saying, "Be who you are, and I will love that person no matter what"? ...<br />&gt; """<br />&gt; Unlike **This Is How It Always Is**: no easy answers ...<br />&gt; //**^z**// - 2018-02-02</strong></p></div>
+flags: 0
+ts: 1528057710
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057710

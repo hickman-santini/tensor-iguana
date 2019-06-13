@@ -1,0 +1,22 @@
+blocks: <h3>11+ miles @ ~11 min/mi pace</h3><p>Ken invites some young Capitol Hill friends to join us at Sligo Dennis Avenue Park early Saturday morning, and shortly after 7am Langston arrives; he's training for the Army 10 Miler next month. We proceed downstream at 10-11 pace (far faster than I usually train at) and arrive at Sligo Creek Trail's intersection with East-West Highway a few minutes past an hour <em>en route</em>. Less than a mile into the return journey another Congressional staffer, Dom, meets us; he's getting ready for his first marathon, Honolulu in December. We chat as we jog back to Dennis Ave., still averaging sub-11 min/mi, while twinges on the bottom of my left foot develop into a sporadic pain. Dom continues north on the trail as the rest of us cool down. This will likely be my last run before Ken and I try the <a class="url http outside" href="http://www.wineglassmarathon.com/">Wineglass Marathon</a> on 1 October, from Bath to Corning in New York state.</p>
+lastmajorsummary: remove excess whitespace in link
+ip: 70.21.38.24
+diff-major: 1
+summary: remove excess whitespace in link
+languages: 
+text: ===11+ miles @ ~11 min/mi pace
+	
+	Ken invites some young Capitol Hill friends to join us at Sligo Dennis Avenue Park early Saturday morning, and shortly after 7am Langston arrives; he's training for the Army 10 Miler next month. We proceed downstream at 10-11 pace (far faster than I usually train at) and arrive at Sligo Creek Trail's intersection with East-West Highway a few minutes past an hour //en route//. Less than a mile into the return journey another Congressional staffer, Dom, meets us; he's getting ready for his first marathon, Honolulu in December. We chat as we jog back to Dennis Ave., still averaging sub-11 min/mi, while twinges on the bottom of my left foot develop into a sporadic pain. Dom continues north on the trail as the rest of us cool down. This will likely be my last run before Ken and I try the [[http://www.wineglassmarathon.com/|Wineglass Marathon]] on 1 October, from Bath to Corning in New York state.
+	
+	
+lastmajor: 2
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Ken invites some young Capitol Hill friends to join us at Sligo Dennis Avenue Park early Saturday morning, and shortly after 7am Langston arrives; he's training for the Army 10 Miler next month. We proceed downstream at 10-11 pace (far faster than I usually train at) and arrive at Sligo Creek Trail's intersection with East-West Highway a few minutes past an hour //en route//. Less than a mile into the return journey another Congressional staffer, Dom, meets us; he's getting ready for his first marathon, Honolulu in December. We chat as we jog back to Dennis Ave., still averaging sub-11 min/mi, while twinges on the bottom of my left foot develop into a sporadic pain. Dom continues north on the trail as the rest of us cool down. This will likely be my last run before Ken and I try the [[http://www.wineglassmarathon.com<strong class="changes">/ |</strong> Wineglass Marathon ]] on 1 October, from Bath to Corning in New York state.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Ken invites some young Capitol Hill friends to join us at Sligo Dennis Avenue Park early Saturday morning, and shortly after 7am Langston arrives; he's training for the Army 10 Miler next month. We proceed downstream at 10-11 pace (far faster than I usually train at) and arrive at Sligo Creek Trail's intersection with East-West Highway a few minutes past an hour //en route//. Less than a mile into the return journey another Congressional staffer, Dom, meets us; he's getting ready for his first marathon, Honolulu in December. We chat as we jog back to Dennis Ave., still averaging sub-11 min/mi, while twinges on the bottom of my left foot develop into a sporadic pain. Dom continues north on the trail as the rest of us cool down. This will likely be my last run before Ken and I try the [[http://www.wineglassmarathon.com<strong class="changes">/|</strong>Wineglass Marathon]] on 1 October, from Bath to Corning in New York state.</p></div>
+flags: 0
+ts: 1529868659
+minor: 
+username: z
+host: 166.137.240.80
+revision: 2
+keep-ts: 1529868659

@@ -1,0 +1,33 @@
+blocks: <p>In his recent <strong>New York Times</strong> op-ed column "<a class="url http outside" href="https://www.nytimes.com/2017/08/22/opinion/trump-moderates-bipartisanship-truth.html">What Moderates Believe</a>" David Brooks sketches a thoughtful vision of civil society, beginning with an image:<br /></p><blockquote><p>... politics is a voyage with a fractious fleet. Wisdom is finding the right formation of ships for each specific circumstance so the whole assembly can ride the waves forward for another day. ...<br /></p></blockquote><p>His eight-fold way:<br /></p><ul><li>The truth is plural ...</li><li>Politics is a limited activity ...</li><li>Creativity is syncretistic ...</li><li>In politics, the lows are lower than the highs are high ...</li><li>Truth before justice ...</li><li>Beware the danger of a single identity ...</li><li>Partisanship is necessary but blinding ...</li><li>Humility is the fundamental virtue ...</li></ul><p><em><strong>^z</strong></em> - 2017-08-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.194
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: In his recent **New York Times** op-ed column "[[https://www.nytimes.com/2017/08/22/opinion/trump-moderates-bipartisanship-truth.html|What Moderates Believe]]" David Brooks sketches a thoughtful vision of civil society, beginning with an image:
+	"""
+	... politics is a voyage with a fractious fleet. Wisdom is finding the right formation of ships for each specific circumstance so the whole assembly can ride the waves forward for another day. ...
+	"""
+	His eight-fold way:
+	* The truth is plural ...
+	* Politics is a limited activity ...
+	* Creativity is syncretistic ...
+	* In politics, the lows are lower than the highs are high ...
+	* Truth before justice ...
+	* Beware the danger of a single identity ...
+	* Partisanship is necessary but blinding ...
+	* Humility is the fundamental virtue ...
+	
+	//**^z**// - 2017-08-26
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">In his recent **New York Times** op-ed column "[[https://www.nytimes.com/2017/08/22/opinion/trump-moderates-bipartisanship-truth.html|What Moderates Believe]]" David Brooks sketches a thoughtful vision of civil society, beginning with an image:<br />&gt; """<br />&gt; ... politics is a voyage with a fractious fleet. Wisdom is finding the right formation of ships for each specific circumstance so the whole assembly can ride the waves forward for another day. ...<br />&gt; """<br />&gt; His eight-fold way:<br />&gt; * The truth is plural ...<br />&gt; * Politics is a limited activity ...<br />&gt; * Creativity is syncretistic ...<br />&gt; * In politics, the lows are lower than the highs are high ...<br />&gt; * Truth before justice ...<br />&gt; * Beware the danger of a single identity ...<br />&gt; * Partisanship is necessary but blinding ...<br />&gt; * Humility is the fundamental virtue ...<br />&gt; //**^z**// - 2017-08-26</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057711

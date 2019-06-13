@@ -1,0 +1,27 @@
+flags: 0
+blocks: <p><h3>~6 miles @ ~12 min/mi</h3></p><p>"Look at that!" Mary Ewell points as we cross the bridge high above Goose Creek. At first I see a pair of great blue herons flying silently upstream below us, a dark shadowy one just behind the leader, wings flapping out of phase. Then suddenly I realize: it's <strong>one</strong> bird, perfectly mirrored in the still water.</p><p>Our run begins about four miles earlier at a landmark of ancient Ashburn: Partlow Brothers' country store on the W&amp;OD Trail near milepost 28. After a mini-debate in the chill wind on the propriety of wearing gloves, hat, and jacket&mdash;all of which we eventually doff&mdash;we head west past the quarry overlook. Flocks of joggers and occasional cyclists zip along the pavement. We follow the parallel horse trail and enjoy its gravel surface. Whenever I pause to water a bush or tie my shoes Mary runs away from me. I sprint to catch up. "You told me to keep going!" is her excuse, amid protestations of how slow and out-of-shape she is.</p><p>At the Two Creeks Nature Area we take an unplanned side excursion on a winding forest trail. Another great blue heron, or maybe the same one, glides above Sycolin Creek. During the return journey our pace slows slightly. I grant Mary a quota of one "I'm sorry!" per mile, and she exhausts her balance before we get back to our cars. "Sprint - Walk - Sprint - Walk," is how she describes our pattern of gentle speedwork on the rolling hills.</p><p><em><strong>^z</strong></em> - 2009-01-24</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; At the Two Creeks Nature Area we take an unplanned side excursion on a winding forest <strong class="changes">path</strong> trail. Another great blue heron, or maybe the same one, glides above Sycolin Creek. During the return journey our pace slows slightly. I grant Mary a quota of one "I'm sorry!" per mile, and she exhausts her balance before we get back to our cars.  "Sprint - Walk - Sprint - Walk," is how she describes our pattern of gentle speedwork on the rolling hills.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; At the Two Creeks Nature Area we take an unplanned side excursion on a winding forest trail. Another great blue heron, or maybe the same one, glides above Sycolin Creek. During the return journey our pace slows slightly. I grant Mary a quota of one "I'm sorry!" per mile, and she exhausts her balance before we get back to our cars.  "Sprint - Walk - Sprint - Walk," is how she describes our pattern of gentle speedwork on the rolling hills.</p></div>
+ip: 138.88.112.52
+ts: 1232786227
+minor: 1
+host: pool-138-88-112-52.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: 
+summary: tweak words 2
+languages: 
+text: === ~6 miles @ ~12 min/mi
+	
+	"Look at that!" Mary Ewell points as we cross the bridge high above Goose Creek. At first I see a pair of great blue herons flying silently upstream below us, a dark shadowy one just behind the leader, wings flapping out of phase. Then suddenly I realize: it's **one** bird, perfectly mirrored in the still water.
+	
+	Our run begins about four miles earlier at a landmark of ancient Ashburn: Partlow Brothers' country store on the W&OD Trail near milepost 28. After a mini-debate in the chill wind on the propriety of wearing gloves, hat, and jacket&mdash;all of which we eventually doff&mdash;we head west past the quarry overlook. Flocks of joggers and occasional cyclists zip along the pavement. We follow the parallel horse trail and enjoy its gravel surface. Whenever I pause to water a bush or tie my shoes Mary runs away from me. I sprint to catch up. "You told me to keep going!" is her excuse, amid protestations of how slow and out-of-shape she is.
+	
+	At the Two Creeks Nature Area we take an unplanned side excursion on a winding forest trail. Another great blue heron, or maybe the same one, glides above Sycolin Creek. During the return journey our pace slows slightly. I grant Mary a quota of one "I'm sorry!" per mile, and she exhausts her balance before we get back to our cars.  "Sprint - Walk - Sprint - Walk," is how she describes our pattern of gentle speedwork on the rolling hills.
+	
+	//**^z**// - 2009-01-24
+	
+	
+lastmajor: 1
+keep-ts: 1232786227

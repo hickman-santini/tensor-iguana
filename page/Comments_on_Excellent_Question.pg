@@ -1,0 +1,18 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3>Wow...that's lovely Mark.</p><p>-- Caren Jew 2008-11-04 01:35 UTC</p>
+ip: 65.222.202.204
+ts: 1237402930
+minor: 0
+host: 65.222.202.204
+username: Mark Zimmermann
+revision: 8
+summary: Rollback to 2008-12-09 22:00 UTC
+languages: 
+text: === 1 Comment. ===
+	Wow...that's lovely Mark.
+	
+	-- Caren Jew 2008-11-04 01:35 UTC
+	
+	
+lastmajor: 8
+keep-ts: 1237402930

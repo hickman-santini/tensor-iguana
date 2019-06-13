@@ -1,0 +1,17 @@
+flags: 0
+blocks: <p>A lovingly-written article in honor of a clearly wonderful person appears in the February 2011 issue of <strong>Physics Today</strong>. It's by Robert N. Compton and James E. Parks and begins, "George Samuel Hurst, a world-acclaimed scientist, inventor, and entrepreneur, passed away in Oak Ridge, Tennessee, on 4 July 2010 from a brain aneurysm." and goes on to discuss Hurst's life and accomplishments. The last paragraph is particularly moving:<br /></p><blockquote><p>Sam had a generous spirit and gave freely of his time, encouragement, and ideas. His personality, much admired by his colleagues and friends, was best summed up by his friend Fletcher Gabbard: "Sam Hurst is a gentle man with a quiet and efficient manner. He is an irrepressible optimist and a delightful companion. Quiet and unassuming in his relationships, Sam brings out the best in fellow workers through congenial and encouraging direction. His criticism is gentle, his sense of direction is strong, and his praise filled with good will."<br /></p></blockquote><p><em><strong>^z</strong></em> - 2011-02-23</p>
+ip: 138.88.177.215
+ts: 1298453666
+minor: 
+host: pool-138-88-177-215.res.east.verizon.net
+username: Mark Zimmermann
+revision: 1
+summary: A lovingly-written article in honor of a clearly wonderful person appears in the February 2011 issue of **Physics Today**. It's by Robert N. Compton . . .
+languages: 
+text: A lovingly-written article in honor of a clearly wonderful person appears in the February 2011 issue of **Physics Today**. It's by Robert N. Compton and James E. Parks and begins, "George Samuel Hurst, a world-acclaimed scientist, inventor, and entrepreneur, passed away in Oak Ridge, Tennessee, on 4 July 2010 from a brain aneurysm." and goes on to discuss Hurst's life and accomplishments. The last paragraph is particularly moving:
+	"""
+	Sam had a generous spirit and gave freely of his time, encouragement, and ideas. His personality, much admired by his colleagues and friends, was best summed up by his friend Fletcher Gabbard: "Sam Hurst is a gentle man with a quiet and efficient manner. He is an irrepressible optimist and a delightful companion. Quiet and unassuming in his relationships, Sam brings out the best in fellow workers through congenial and encouraging direction. His criticism is gentle, his sense of direction is strong, and his praise filled with good will."
+	"""
+	//**^z**// - 2011-02-23
+	
+lastmajor: 1

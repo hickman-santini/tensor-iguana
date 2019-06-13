@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~5.7 mi @ ~12.1 min/mi</h3><p>"Only a number!" reminds Dr Kristin, in response to obsessive kvetches about weight (157+ lbs) and pace (12+ min/mi). Purple haze on the horizon tells Dawn Patrol to be thankful for the singer-songwriter formerly and again known as Prince. Morning's mission: find the McLean Post Office and mail a letter. Meandering ensues until, from a distance, we espy a parking lot full of mail-carrier vehicles. <em>Mission accomplished!</em></p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1127237239">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-03-29</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.7 mi @ ~12.1 min/mi<br />&gt; "Only a number!" reminds Dr Kristin, in response to obsessive kvetches about weight (157+ lbs) and pace (12+ min/mi). Purple haze on the horizon tells Dawn Patrol to be thankful for the singer-songwriter formerly and again known as Prince. Morning's mission: find the McLean Post Office and mail a letter. Meandering ensues until, from a distance, we espy a parking lot full of mail-carrier vehicles. //Mission accomplished!//<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1127237239|trackfile]])// - //**^z**// - 2018-03-29</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057713
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.7 mi @ ~12.1 min/mi
+	
+	"Only a number!" reminds Dr Kristin, in response to obsessive kvetches about weight (157+ lbs) and pace (12+ min/mi). Purple haze on the horizon tells Dawn Patrol to be thankful for the singer-songwriter formerly and again known as Prince. Morning's mission: find the McLean Post Office and mail a letter. Meandering ensues until, from a distance, we espy a parking lot full of mail-carrier vehicles. //Mission accomplished!//
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1127237239|trackfile]])// - //**^z**// - 2018-03-29
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057713

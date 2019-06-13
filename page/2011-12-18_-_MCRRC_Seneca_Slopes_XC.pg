@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>5.4 miles @ ~9.3 min/mi</h3></p><p>"Trample the Weak &mdash; Hurdle the Dead" reads the fluorescent lime-green shirt of the runner in front of me at the start of this morning's cross-country race. The outside edge of my left foot hurts. Did I over-stress it in yesterday's jog, or bump it into something last night? Ken Swab doesn't have to DNF in order to game the tiebreak system for the <a class="url http outside" href="http://mcrrc.org">Montgomery County Road Runners</a> XC series competition, as he beats his arch-rival comfortably. I push hard the whole way and find the hills challenging. Dee Nelson starts ahead but I squeeze by her after a mile. Peggy Dickison in her yellow goggles and orienteering shirt pulls me along for the middle miles, then slows slightly on a climb near the end. Official result: 62nd of 118 finishers, 4th of 10 in the male 55-59 year group, 50:04 minutes for an initially-advertised "8k" course that was ~5.4 miles around Clopper Lake in Seneca Creek State Park.</p><p><em>(cf. <a class="url http outside" href="http://connect.garmin.com/activity/135164523">GPS trackfile</a>, ...)</em> - <em><strong>^z</strong></em> - 2011-12-29</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Trample the Weak &amp;mdash; Hurdle the Dead" reads the fluorescent lime-green shirt of the runner in front of me at the start of this morning's cross-country race. The outside edge of my left foot hurts. Did I over-stress it in yesterday's jog, or bump it into something last night? Ken Swab doesn't have to DNF in order to game the tiebreak system for the <strong class="changes">[</strong>http://mcrrc.org|Montgomery County Road Runners]] XC series competition, as he beats his arch-rival comfortably. I push hard the whole way and find the hills challenging. Dee Nelson starts ahead but I squeeze by her after a mile. Peggy Dickison in her yellow goggles and orienteering shirt pulls me along for the middle miles, then slows slightly on a climb near the end. Official result: 62nd of 118 finishers, 4th of 10 in the male 55-59 year group, 50:04 minutes for an initially-advertised "8k" course that was ~5.4 miles around Clopper Lake in Seneca Creek State Park.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "Trample the Weak &amp;mdash; Hurdle the Dead" reads the fluorescent lime-green shirt of the runner in front of me at the start of this morning's cross-country race. The outside edge of my left foot hurts. Did I over-stress it in yesterday's jog, or bump it into something last night? Ken Swab doesn't have to DNF in order to game the tiebreak system for the <strong class="changes">[[</strong>http://mcrrc.org|Montgomery County Road Runners]] XC series competition, as he beats his arch-rival comfortably. I push hard the whole way and find the hills challenging. Dee Nelson starts ahead but I squeeze by her after a mile. Peggy Dickison in her yellow goggles and orienteering shirt pulls me along for the middle miles, then slows slightly on a climb near the end. Official result: 62nd of 118 finishers, 4th of 10 in the male 55-59 year group, 50:04 minutes for an initially-advertised "8k" course that was ~5.4 miles around Clopper Lake in Seneca Creek State Park.</p></div>
+ip: 138.88.175.123
+ts: 1325152693
+minor: 1
+host: pool-138-88-175-123.res.east.verizon.net
+username: Zimm
+revision: 2
+diff-major: 
+summary: typo fix in link
+languages: 
+text: === 5.4 miles @ ~9.3 min/mi
+	
+	"Trample the Weak &mdash; Hurdle the Dead" reads the fluorescent lime-green shirt of the runner in front of me at the start of this morning's cross-country race. The outside edge of my left foot hurts. Did I over-stress it in yesterday's jog, or bump it into something last night? Ken Swab doesn't have to DNF in order to game the tiebreak system for the [[http://mcrrc.org|Montgomery County Road Runners]] XC series competition, as he beats his arch-rival comfortably. I push hard the whole way and find the hills challenging. Dee Nelson starts ahead but I squeeze by her after a mile. Peggy Dickison in her yellow goggles and orienteering shirt pulls me along for the middle miles, then slows slightly on a climb near the end. Official result: 62nd of 118 finishers, 4th of 10 in the male 55-59 year group, 50:04 minutes for an initially-advertised "8k" course that was ~5.4 miles around Clopper Lake in Seneca Creek State Park.
+	
+	//(cf. [[http://connect.garmin.com/activity/135164523|GPS trackfile]], ...)// - //**^z**// - 2011-12-29
+	
+lastmajor: 1
+keep-ts: 1325152693

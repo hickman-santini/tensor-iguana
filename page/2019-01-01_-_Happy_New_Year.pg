@@ -1,0 +1,28 @@
+flags: 0
+blocks: <h3>~28 mi @ ~15.5 min/mi</h3><p>"From now on, thou shalt be called 'Shar Pei'!" Today a new title is awarded to J-Bird aka Court Jester aka Counselor Troi &mdash; to be pronounced "Sharp Eye" in honor of his uncanny ability to spot tiny, infrequent, often concealed signs along the Metropolitan Branch Trail. Whoever marked that urban path was thrifty indeed! A small home on Gallatin St NW features a dense display of holiday lawn ornaments, including Darth Vader taking a selfie; Roadkill takes a meta-selfie in front of it.</p><p>"That will be funny at mile 10, and after mile 20 it will be hilarious!" As usual Trail Talk flows in comic directions, often too naughty to repeat. We teach one another how to pronounce words in various languages and dialects. Four deer pause in the bushes near Catholic University to watch us pass by. Running friends Paul Sherlock and Sakurako Narita shout out greetings in fortuitous encounters. Near the US Capitol the local Cobra Club meets &mdash; displaying sports cars, not snakes.</p><p>"I'm hoping to at least make the podium!" Today's attempt to start the new year with a record-setting Fonda 50k falls a few miles short, as the trio of Slow-twitch, Roadkill, and Shar Pei suffer various reversals of fortune and wisely declare victory in downtown Silver Spring. "No Goals!" clearly should be our goal in 2019. The morning begins warm and humid, but temperatures fall and winds gust as the day progresses.</p><p>"Are you OK, Ma'am?" We check on the driver of a car stuck in the mud askew between the Capital Crescent Trail and the C&amp;O Canal. It's far out of place, thankfully with no injuries.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1272596091">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2019-01-28</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "That will be funny at mile 10, and after mile 20 it will be hilarious!" As usual Trail Talk flows in comic directions, often too naughty to repeat. We teach one another how to pronounce words in various languages and dialects. Four deer pause in the bushes near Catholic University to watch us pass by. Running friends Paul Sherlock and Sakurako Narita shout out greetings in fortuitous encounters. Near the US Capitol the local Cobra Club meets <strong class="changes">--</strong> displaying sports cars, not snakes.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "That will be funny at mile 10, and after mile 20 it will be hilarious!" As usual Trail Talk flows in comic directions, often too naughty to repeat. We teach one another how to pronounce words in various languages and dialects. Four deer pause in the bushes near Catholic University to watch us pass by. Running friends Paul Sherlock and Sakurako Narita shout out greetings in fortuitous encounters. Near the US Capitol the local Cobra Club meets <strong class="changes">&amp;mdash;</strong> displaying sports cars, not snakes.</p></div>
+lastmajorsummary: tweaks
+ts: 1548666726
+minor: 
+host: 71.178.84.76
+username: z
+revision: 2
+diff-major: 1
+summary: tweaks
+languages: 
+text: === ~28 mi @ ~15.5 min/mi
+	
+	"From now on, thou shalt be called 'Shar Pei'!" Today a new title is awarded to J-Bird aka Court Jester aka Counselor Troi &mdash; to be pronounced "Sharp Eye" in honor of his uncanny ability to spot tiny, infrequent, often concealed signs along the Metropolitan Branch Trail. Whoever marked that urban path was thrifty indeed! A small home on Gallatin St NW features a dense display of holiday lawn ornaments, including Darth Vader taking a selfie; Roadkill takes a meta-selfie in front of it.
+	
+	"That will be funny at mile 10, and after mile 20 it will be hilarious!" As usual Trail Talk flows in comic directions, often too naughty to repeat. We teach one another how to pronounce words in various languages and dialects. Four deer pause in the bushes near Catholic University to watch us pass by. Running friends Paul Sherlock and Sakurako Narita shout out greetings in fortuitous encounters. Near the US Capitol the local Cobra Club meets &mdash; displaying sports cars, not snakes.
+	
+	"I'm hoping to at least make the podium!" Today's attempt to start the new year with a record-setting Fonda 50k falls a few miles short, as the trio of Slow-twitch, Roadkill, and Shar Pei suffer various reversals of fortune and wisely declare victory in downtown Silver Spring. "No Goals!" clearly should be our goal in 2019. The morning begins warm and humid, but temperatures fall and winds gust as the day progresses.
+	
+	"Are you OK, Ma'am?" We check on the driver of a car stuck in the mud askew between the Capital Crescent Trail and the C&O Canal. It's far out of place, thankfully with no injuries.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1272596091|trackfile]])// - //**^z**// - 2019-01-28
+	
+lastmajor: 2
+keep-ts: 1548666726

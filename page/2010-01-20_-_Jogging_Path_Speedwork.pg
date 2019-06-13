@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~4 miles @ ~8.5 min/mi</h3><p>Early afternoon and work is quiet enough that I have a chance to get out and run, foolish as it may be with my right knee still twingey when I descend stairs or sit too long. The usual three fast loops on the woodsy paved trail, witnessed only by squirrels, with marked miles accelerating: 9:11 + 8:21 + 7:16, that last at near redline.</p><p>The next day my knee makes serious complaints when descending stairs. I rest it a couple of days, and over the weekend watch DVDs while pedaling on Paulette's recumbent exercise bicycle, about 90 minutes each day. The machine claims it's ~21 miles and ~700 calories, though my pulse is barely above 100. I am sweating a lot though ...</p><p><em><strong>^z</strong></em> - 2010-01-27</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Early afternoon and work is quiet enough that I have a chance to get out and run, foolish as it may be with my right knee still twingey when I descend stairs or sit too long. The usual three fast loops on the <strong class="changes">woodsey</strong> paved trail, witnessed only by squirrels, with marked miles accelerating: 9:11 + 8:21 + 7:16, that last at near redline.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4 miles @ ~8.5 min/mi</strong><br />&gt; Early afternoon and work is quiet enough that I have a chance to get out and run, foolish as it may be with my right knee still twingey when I descend stairs or sit too long. The usual three fast loops on the <strong class="changes">woodsy</strong> paved trail, witnessed only by squirrels, with marked miles accelerating: 9:11 + 8:21 + 7:16, that last at near redline.</p></div>
+ip: 128.29.43.1
+ts: 1528057700
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 6
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4 miles @ ~8.5 min/mi
+	
+	Early afternoon and work is quiet enough that I have a chance to get out and run, foolish as it may be with my right knee still twingey when I descend stairs or sit too long. The usual three fast loops on the woodsy paved trail, witnessed only by squirrels, with marked miles accelerating: 9:11 + 8:21 + 7:16, that last at near redline.
+	
+	The next day my knee makes serious complaints when descending stairs. I rest it a couple of days, and over the weekend watch DVDs while pedaling on Paulette's recumbent exercise bicycle, about 90 minutes each day. The machine claims it's ~21 miles and ~700 calories, though my pulse is barely above 100. I am sweating a lot though ...
+	
+	//**^z**// - 2010-01-27
+	
+languages: 
+lastmajor: 1
+keep-ts: 1528057700

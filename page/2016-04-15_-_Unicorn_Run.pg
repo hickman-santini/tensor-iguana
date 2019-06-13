@@ -1,0 +1,29 @@
+blocks: <h3>~19.8 miles @ ~14.3 min/mi</h3><p>"No!" Kristin corrects me, and gestures toward the river, the land, the sky, "It's <em><strong>all special</strong>!</em>" We're in the middle miles of a joyful run along the Potomac River and around the National Mall. She and Kerry humor my requests for photo pauses. After a coffee break in Union Station we divert past a lovely home where Kristin once lived. Hydrangeas and crab apple tree that she planted more than a decade ago are thriving.</p><p>"Did I forget to lock my car?" I ask at 0540, a few blocks into the journey. As the sun rises over the Potomac a rat scurries away at the Jefferson Memorial. The boardwalk near Teddy Roosevelt Island sways and squeaks underfoot. Yesterday during planning I ask everybody to keep expectations low and warn, "We may not see any unicorns this time."</p><p>Kerry replies, "Well, I'll be disappointed if we don't see at least two!"</p><p>Running past the Library of Congress we concur, this isn't good &mdash; it's perfect. And yes, the car is unlocked when we return. All's well. <em>"Best Day Ever!"</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/769076852">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-05-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.225
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~19.8 miles @ ~14.3 min/mi
+	
+	"No!" Kristin corrects me, and gestures toward the river, the land, the sky, "It's //**all special**!//" We're in the middle miles of a joyful run along the Potomac River and around the National Mall. She and Kerry humor my requests for photo pauses. After a coffee break in Union Station we divert past a lovely home where Kristin once lived. Hydrangeas and crab apple tree that she planted more than a decade ago are thriving.
+	
+	"Did I forget to lock my car?" I ask at 0540, a few blocks into the journey. As the sun rises over the Potomac a rat scurries away at the Jefferson Memorial. The boardwalk near Teddy Roosevelt Island sways and squeaks underfoot. Yesterday during planning I ask everybody to keep expectations low and warn, "We may not see any unicorns this time."
+	
+	Kerry replies, "Well, I'll be disappointed if we don't see at least two!"
+	
+	Running past the Library of Congress we concur, this isn't good &mdash; it's perfect. And yes, the car is unlocked when we return. All's well. //"Best Day Ever!"//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/769076852|trackfile]])// - //**^z**// - 2016-05-09
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~19.8 miles @ ~14.3 min/mi<br />&gt; "No!" Kristin corrects me, and gestures toward the river, the land, the sky, "It's //**all special**!//" We're in the middle miles of a joyful run along the Potomac River and around the National Mall. She and Kerry humor my requests for photo pauses. After a coffee break in Union Station we divert past a lovely home where Kristin once lived. Hydrangeas and crab apple tree that she planted more than a decade ago are thriving.<br />&gt; "Did I forget to lock my car?" I ask at 0540, a few blocks into the journey. As the sun rises over the Potomac a rat scurries away at the Jefferson Memorial. The boardwalk near Teddy Roosevelt Island sways and squeaks underfoot. Yesterday during planning I ask everybody to keep expectations low and warn, "We may not see any unicorns this time."<br />&gt; Kerry replies, "Well, I'll be disappointed if we don't see at least two!"<br />&gt; Running past the Library of Congress we concur, this isn't good &amp;mdash; it's perfect. And yes, the car is unlocked when we return. All's well. //"Best Day Ever!"//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/769076852|trackfile]])// - //**^z**// - 2016-05-09</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

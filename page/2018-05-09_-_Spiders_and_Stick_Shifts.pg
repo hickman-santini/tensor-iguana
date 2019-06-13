@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~4.8 mi @ ~13.3 min/mi</h3><p>"Cobwebs! Did ...?" asks K2.</p><p>"Yep - me too!" replies K-Rex, as the Dawn Patrol clears a pathway beneath the trees of McLean Central Park. Blood-orange sunrise ripens in the east; iced coffee from Starbucks counters a humid morning. We commiserate over the challenge of finding a stick-shift car to rent nowadays.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1161122045">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-05-23</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.8 mi @ ~13.3 min/mi<br />&gt; "Cobwebs! Did ...?" asks K2.<br />&gt; "Yep - me too!" replies K-Rex, as the Dawn Patrol clears a pathway beneath the trees of McLean Central Park. Blood-orange sunrise ripens in the east; iced coffee from Starbucks counters a humid morning. We commiserate over the challenge of finding a stick-shift car to rent nowadays.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1161122045|trackfile]])// - //**^z**// - 2018-05-23</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057691
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.8 mi @ ~13.3 min/mi
+	
+	"Cobwebs! Did ...?" asks K2.
+	
+	"Yep - me too!" replies K-Rex, as the Dawn Patrol clears a pathway beneath the trees of McLean Central Park. Blood-orange sunrise ripens in the east; iced coffee from Starbucks counters a humid morning. We commiserate over the challenge of finding a stick-shift car to rent nowadays.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1161122045|trackfile]])// - //**^z**// - 2018-05-23
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057691

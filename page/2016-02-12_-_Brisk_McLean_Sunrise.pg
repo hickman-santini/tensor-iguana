@@ -1,0 +1,23 @@
+blocks: <h3>~5.7 miles @ ~12.4 min/mi</h3><p>"Chill AM run, Dawn Patrol??" Kristin throws down the gauntlet Thursday evening via text-message. Peer pressure plus bragging rights compel Kerry and me to pick it up. Temps hover in the mid-to-upper 'teens as we meander around the local 'hood, sharing family news and reminiscing about unconventional placement of hand warmers. <em>("Don't look, children!")</em> Near Ursa Minor an Iridium satellite flare shines through the clouds. Frozen fingers tingle-thaw during a welcome warm shower afterwards.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/733307616">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-02-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.61
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.7 miles @ ~12.4 min/mi
+	
+	"Chill AM run, Dawn Patrol??" Kristin throws down the gauntlet Thursday evening via text-message. Peer pressure plus bragging rights compel Kerry and me to pick it up. Temps hover in the mid-to-upper 'teens as we meander around the local 'hood, sharing family news and reminiscing about unconventional placement of hand warmers. //("Don't look, children!")// Near Ursa Minor an Iridium satellite flare shines through the clouds. Frozen fingers tingle-thaw during a welcome warm shower afterwards.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/733307616|trackfile]])// - //**^z**// - 2016-02-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.7 miles @ ~12.4 min/mi<br />&gt; "Chill AM run, Dawn Patrol??" Kristin throws down the gauntlet Thursday evening via text-message. Peer pressure plus bragging rights compel Kerry and me to pick it up. Temps hover in the mid-to-upper 'teens as we meander around the local 'hood, sharing family news and reminiscing about unconventional placement of hand warmers. //("Don't look, children!")// Near Ursa Minor an Iridium satellite flare shines through the clouds. Frozen fingers tingle-thaw during a welcome warm shower afterwards.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/733307616|trackfile]])// - //**^z**// - 2016-02-24</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

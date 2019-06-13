@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">{{{<br />&lt;  Dozing Metro riders nod:<br />&lt;  Unanimously they assent<br />&lt;  As the train brakes.<br />&lt;  Rounding the next curve they sway<br />&lt;  Centrifugally, and as one,<br />&lt;  Bobblehead their "No!"<br />&lt; }}}<br />&lt; //(cf.</strong> [[<strong class="changes">OnTheMetro</strong>]] <strong class="changes">(29 Oct 2006), ...)//<br />&lt; ----<br />&lt; [[TopicPoetry]] - [[TopicHumor]] - Datetag20071125<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[VitalAndNegligible]], [[WhatPhysicsIs]], [[InMyJournal]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">Subway Agreement</strong>]]</p></div>
+ip: 141.156.150.174
+ts: 1234656907
+minor: 1
+host: pool-141-156-150-174.res.east.verizon.net
+username: MarkZimmermann
+revision: 7
+diff-major: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt;  Dozing Metro riders nod:</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt;  Dozing Metro riders nod:</p></div>
+summary: redirect
+languages: 
+text: #REDIRECT [[Subway Agreement]]
+	
+lastmajor: 4
+keep-ts: 1234656907

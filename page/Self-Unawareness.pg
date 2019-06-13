@@ -1,0 +1,22 @@
+flags: 0
+blocks: <table class="user"><tr><td align="center">Do not think you will necessarily be aware of your own enlightenment.</td></tr></table><p>... a comment by Dogen-zenji (1200-1253), as quoted in section "Mistakes in Practice" in <strong>Zen Mind, Beginner's Mind</strong> by Shunryu Suzuki (1970)</p><p><em><strong>^z</strong></em> - 2010-01-02</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ... a comment by Dogen-zenji (1200-1253), as quoted in "<strong class="changes">Study Yourself</strong>" in **Zen Mind, Beginner's Mind** by Shunryu Suzuki (1970)</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ... a comment by Dogen-zenji (1200-1253), as quoted in <strong class="changes">section</strong> "<strong class="changes">Mistakes in Practice</strong>" in **Zen Mind, Beginner's Mind** by Shunryu Suzuki (1970)</p></div>
+ip: 141.156.138.254
+ts: 1262492864
+minor: 1
+host: 141.156.138.254
+username:  zz
+revision: 2
+diff-major: 
+summary: fix error in citation
+languages: 
+text: | Do not think you will necessarily be aware of your own enlightenment. |
+	
+	... a comment by Dogen-zenji (1200-1253), as quoted in section "Mistakes in Practice" in **Zen Mind, Beginner's Mind** by Shunryu Suzuki (1970)
+	
+	//**^z**// - 2010-01-02
+	
+lastmajor: 1
+keep-ts: 1262492864

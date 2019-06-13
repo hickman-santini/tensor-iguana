@@ -1,0 +1,34 @@
+flags: 0
+blocks: <p>Real-time posts to my <a class="url http outside" href="http://twitter.com/zhurnaly">Twitter</a> account during the <a class="url http outside" href="http://philly100.webs.com/">Philadelphia 100 Endurance Run</a> of 2012:</p><table class="user"><tr><th align="center">Time </th><th align="center">Tweet </th></tr><tr><td align="center">1:29am </td><td align="center">Riding to #Philly100 with Jackie Ong -- looking forward to the run!</td></tr><tr><td align="center">3:45am </td><td align="center">Starting #Philly100 with Jackie Ong now! -- in front of Lloyd Hall, near Art Museum -- chilly!</td></tr><tr><td align="center">5:49am </td><td align="right">Lap 1 mile 8.4 #Philly100 ... including stop for coffee at Dunkin Donuts!</td></tr><tr><td align="center">7:50am </td><td align="center">Lap 2 mile 16.8 #Philly100</td></tr><tr><td align="center">10:04am </td><td align="center">Lap 3 mile 25.2 #Philly100 - GPS says 26.35 - left metatarsals ache - will nap in Jackie's car while she does next lap - then see ...</td></tr><tr><td align="center">12:28pm </td><td align="center">Good nap! About to start my lap 4, Jackie's lap 5 #Philly100</td></tr><tr><td align="center">2:42pm </td><td align="center">Lap 4 mile 33.6 #Philly100 - walk most of the way - Jackie gives me a head start while she changes, catches me at mile 5.5</td></tr><tr><td align="center">4:57pm </td><td align="center">Lap 5 mile 42.0 #Philly100 - solo - kudos to 'Thunder' and other Marathon Maniac friends of Jackie for kind help at their aid station!</td></tr><tr><td align="center">5:44pm </td><td align="center">Practiced yoga savasana = 'corpse' pose on ground by Jackie's car for 25 min - then refueled, now starting lap 6 #Philly100</td></tr><tr><td align="center">6:21pm </td><td align="center">On the Schuylkill River Trail / Apparently it's de rigueur / In tight pants or Spandex shorts / To display one's derriere </td></tr><tr><td align="center">7:55pm </td><td align="center">Lap 6 mile 50.4 #Philly100 - I run up and down the 'Rocky' steps of the Philadelphia Art Museum when I reach them at mile 50 - \(^_^)/</td></tr><tr><td align="center">8:54pm </td><td align="center">Jackie and I have had enough #Philly100 fun - stop at her mile 60+ and my mile 50+ ... now, to home, a hot shower, and a soft bed!</td></tr></table><p><em><strong>^z</strong></em> - 2012-04-08</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; | 6:21pm | On the <strong class="changes">Schuykill</strong> River Trail / Apparently it's de rigueur / In tight pants or Spandex shorts / To display one's derriere |</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; | 6:21pm | On the <strong class="changes">Schuylkill</strong> River Trail / Apparently it's de rigueur / In tight pants or Spandex shorts / To display one's derriere |</p></div>
+ip: 128.29.43.3
+ts: 1333999210
+minor: 1
+host: mw-128-29-43-3.mitre.org
+username: zhurnaly
+revision: 3
+diff-major: 
+summary: typo fix
+languages: 
+text: Real-time posts to my [[http://twitter.com/zhurnaly|Twitter]] account during the [[http://philly100.webs.com/|Philadelphia 100 Endurance Run]] of 2012:
+	
+	|= Time |= Tweet |
+	| 1:29am | Riding to #Philly100 with Jackie Ong -- looking forward to the run! |
+	| 3:45am | Starting #Philly100 with Jackie Ong now! -- in front of Lloyd Hall, near Art Museum -- chilly! |
+	| 5:49am | Lap 1 mile 8.4 #Philly100 ... including stop for coffee at Dunkin Donuts!
+	| 7:50am | Lap 2 mile 16.8 #Philly100 |
+	| 10:04am | Lap 3 mile 25.2 #Philly100 - GPS says 26.35 - left metatarsals ache - will nap in Jackie's car while she does next lap - then see ... |
+	| 12:28pm | Good nap! About to start my lap 4, Jackie's lap 5 #Philly100 |
+	| 2:42pm | Lap 4 mile 33.6 #Philly100 - walk most of the way - Jackie gives me a head start while she changes, catches me at mile 5.5 |
+	| 4:57pm | Lap 5 mile 42.0 #Philly100 - solo - kudos to 'Thunder' and other Marathon Maniac friends of Jackie for kind help at their aid station! |
+	| 5:44pm | Practiced yoga savasana = 'corpse' pose on ground by Jackie's car for 25 min - then refueled, now starting lap 6 #Philly100 |
+	| 6:21pm | On the Schuylkill River Trail / Apparently it's de rigueur / In tight pants or Spandex shorts / To display one's derriere |
+	| 7:55pm | Lap 6 mile 50.4 #Philly100 - I run up and down the 'Rocky' steps of the Philadelphia Art Museum when I reach them at mile 50 - \(^_^)/ |
+	| 8:54pm | Jackie and I have had enough #Philly100 fun - stop at her mile 60+ and my mile 50+ ... now, to home, a hot shower, and a soft bed! |
+	
+	//**^z**// - 2012-04-08
+	
+lastmajor: 1
+keep-ts: 1333999210

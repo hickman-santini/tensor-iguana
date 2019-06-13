@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">On Sunday 26 May 2002 the **New York Times** reminded me of the difference between a good newspaper and a great newspaper. An article, "Fighting to Live as the Towers Died" begins on the front page and continues for four full inside pages. Its subtitle is "102 Minutes: Last Words at the Trade Center". The authors --- Jim Dwyer, Eric Lipton, Kevin Flynn, James Glanz, and Ford Fessenden --- provide a wrenching minute-by-minute reconstruction of the final acts of people who happened to be in the upper floors of the World Trade Center between 8:46am and 10:28am on 11 September 2001. The graphics --- annotated photographs, timelines, and architectural diagrams, by Archie Tse and Steve Duenes --- are as brilliant as the text which they accompany.<br />&lt; Behind the scenes, of course, are the editors and publishers and managers and owners of the newspaper. They chose to invest huge resources in gathering information, building databases, and producing an extraordinary story, "... a lesson for history and a study in the human spirit." <br />&lt; And on Monday 27 May an **NYT** editorial, "On This</strong> Memorial Day<strong class="changes">", begins with that article in its discussion of the holiday, "... the symbol of a forgotten transaction involving the sacrifice of one life for the freedom of many others." The anonymous editor writes, in words that echo Lincoln's Gettysburg Address:<br />&lt; :"There is something almost abstract about the idea of freedom, until you see it tested as we have. Then you realize its infinite practicalities, the fact that freedom is constituted in the details of the lives we actually live and not merely in principle. Today is a day to think about enlarging each of our lives, about the freedoms we omit or neglect, the freedoms we forget or refuse to grant each other. It's a good day to renew the sense of possibility. We live in a free country largely thanks to the men and women who now lie beyond the reach of possibility. They preserved it in principle. It is our job to preserve it in practice."<br />&lt; //(see also [[AmongTheMissing]] (20 Oct 2001) and [[WorldTradeCenter]] (11 Sep 2001))//<br />&lt; ----<br />&lt; [[TopicSociety</strong>]] <strong class="changes">- [[TopicWriting]] - Datetag20020528<br />&lt; ----<br />&lt; ----<br />&lt; Thank you.<br />&lt; {{{<br />&lt;   - James Glanz<br />&lt; }}}<br />&lt; ----<br />&lt; //(correlates: [[Comments on Gibbon - Thoughts Upon Reading]], [[Comments on Nobel Neutrinos]], [[SuspensionOfDisbelief]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[</strong>Memorial Day]]</p></div>
+ip: 70.21.38.24
+ts: 1225986148
+minor: 1
+host: pool-70-21-38-24.res.east.verizon.net
+username: MarkZimmermann
+revision: 5
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; {{{  - James Glanz<strong class="changes">}}}\\</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; {{{<br />&gt;   - James Glanz<br />&gt; <strong class="changes">}}}</strong></p></div>
+summary: redirect
+languages: 
+text: #REDIRECT [[Memorial Day]]
+	
+lastmajor: 3
+keep-ts: 1225986148

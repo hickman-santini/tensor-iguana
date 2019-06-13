@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~3 miles @ ~8 min/mi</h3></p><p>With a 5k race on Sunday this cool Friday morning is a chance to check pace. Alas, it's not pretty, with ~1.5 mile laps of 11:47 and 11:57 (i.e., ~7.9 and ~8.0 min/mi respectively). Perhaps the morning coffee wasn't strong enough, or the speedwork and distance runs of the past week were too much, or the salty greasy food yesterday is still sitting too heavy, or ...</p><p><em><strong>^z</strong></em> - 2011-06-14</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; With a 5k race on Sunday this cool morning is a chance to check pace. Alas, it's not pretty, with ~1.5 mile laps of 11:47 and 11:57 (i.e., ~7.9 and ~8.0 min/mi respectively). Perhaps the morning coffee wasn't strong enough, or the speedwork and distance runs of the past week were too much, or the salty greasy food yesterday is still sitting too heavy, or ...</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; With a 5k race on Sunday this cool <strong class="changes">Friday</strong> morning is a chance to check pace. Alas, it's not pretty, with ~1.5 mile laps of 11:47 and 11:57 (i.e., ~7.9 and ~8.0 min/mi respectively). Perhaps the morning coffee wasn't strong enough, or the speedwork and distance runs of the past week were too much, or the salty greasy food yesterday is still sitting too heavy, or ...</p></div>
+ip: 141.156.143.26
+ts: 1308048749
+minor: 1
+host: pool-141-156-143-26.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: === ~3 miles @ ~8 min/mi
+	
+	With a 5k race on Sunday this cool Friday morning is a chance to check pace. Alas, it's not pretty, with ~1.5 mile laps of 11:47 and 11:57 (i.e., ~7.9 and ~8.0 min/mi respectively). Perhaps the morning coffee wasn't strong enough, or the speedwork and distance runs of the past week were too much, or the salty greasy food yesterday is still sitting too heavy, or ...
+	
+	//**^z**// - 2011-06-14
+	
+lastmajor: 1
+keep-ts: 1308048749

@@ -1,0 +1,25 @@
+blocks: <h3>~6.9 mi @ ~13.0 min/mi</h3><p>"Chocolate Festival!" reads the sign at the entrance to McLean High School. "But is it <strong>dark</strong>?" asks Dr Kristin. Dawn Patrol duo meanders east, treading carefully over refrozen icy patches on the sidewalks. A hill on Waggaman Circle seems never to have been properly cleared from recent snows. Christmas lights cycle through the spectrum in a front yard, like a rainbow imprisoned in a cedar.</p><p>"That's what rain is for!" Car-wash removal of road salt is a first-world luxury. From the airport on the way to Florida a comrade texts us, requesting a few bonus miles in her absence. We comply. Sunrise rings horizon with fuchsia clouds.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1110226880">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-02-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.145
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.9 mi @ ~13.0 min/mi
+	
+	"Chocolate Festival!" reads the sign at the entrance to McLean High School. "But is it **dark**?" asks Dr Kristin. Dawn Patrol duo meanders east, treading carefully over refrozen icy patches on the sidewalks. A hill on Waggaman Circle seems never to have been properly cleared from recent snows. Christmas lights cycle through the spectrum in a front yard, like a rainbow imprisoned in a cedar.
+	
+	"That's what rain is for!" Car-wash removal of road salt is a first-world luxury. From the airport on the way to Florida a comrade texts us, requesting a few bonus miles in her absence. We comply. Sunrise rings horizon with fuchsia clouds.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1110226880|trackfile]])// - //**^z**// - 2018-02-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.9 mi @ ~13.0 min/mi<br />&gt; "Chocolate Festival!" reads the sign at the entrance to McLean High School. "But is it **dark**?" asks Dr Kristin. Dawn Patrol duo meanders east, treading carefully over refrozen icy patches on the sidewalks. A hill on Waggaman Circle seems never to have been properly cleared from recent snows. Christmas lights cycle through the spectrum in a front yard, like a rainbow imprisoned in a cedar.<br />&gt; "That's what rain is for!" Car-wash removal of road salt is a first-world luxury. From the airport on the way to Florida a comrade texts us, requesting a few bonus miles in her absence. We comply. Sunrise rings horizon with fuchsia clouds.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1110226880|trackfile]])// - //**^z**// - 2018-02-16</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057700

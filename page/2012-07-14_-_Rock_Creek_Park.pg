@@ -1,0 +1,27 @@
+blocks: <h3>~9 miles @ ~13 min/mi</h3><p>"I tried to grab the only part of you that wasn't slippery!" Sara Crum says. She ends up holding Barry Smith's wristwatch by its quick-release velcro strap, when he looses his footing on a muddy stick and falls halfway through the run. He's ok, but has a scraped knee and a considerable quantity of wet leaves on one side.</p><p>At 5am it's raining hard, and in a series of email exchanges Rebecca Rosenberg defers our planned 6am meetup to 6:30, then 7, then 7:30 when Ken Swab, Megan O'Rourke, Barry Smith, and Sara Crum are all planning to gather at Candy Cane City for some trail mileage. Rain stops, restarts, pauses. Eventually instead of running from home I drive to the park, arriving just behind Ken in his Miata. Brave Megan and Sara have both already done a few miles. Sara's plantar fasciitis is bad today, really bad &mdash; she needs to stop running on it and let it heal.</p><p>Downstream we trek, chatting and regrouping as one or another subset gets ahead or drops behind. A bit beyond the equitation rings south of Military Rd we turn back, and to ease some of Sara's suffering take Beach Dr on the return trip. The <a class="url http outside" href="http://connect.garmin.com/activity/199140468">Garmin GPS trackfile</a> agrees mostly with Runens on the iPhone, pace on trail 12-15 min/mi but the final two ~10.4 to blow the dust off.</p><p><em><strong>^z</strong></em> - 2012-08-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.138.10
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9 miles @ ~13 min/mi
+	
+	"I tried to grab the only part of you that wasn't slippery!" Sara Crum says. She ends up holding Barry Smith's wristwatch by its quick-release velcro strap, when he looses his footing on a muddy stick and falls halfway through the run. He's ok, but has a scraped knee and a considerable quantity of wet leaves on one side.
+	
+	At 5am it's raining hard, and in a series of email exchanges Rebecca Rosenberg defers our planned 6am meetup to 6:30, then 7, then 7:30 when Ken Swab, Megan O'Rourke, Barry Smith, and Sara Crum are all planning to gather at Candy Cane City for some trail mileage. Rain stops, restarts, pauses. Eventually instead of running from home I drive to the park, arriving just behind Ken in his Miata. Brave Megan and Sara have both already done a few miles. Sara's plantar fasciitis is bad today, really bad &mdash; she needs to stop running on it and let it heal.
+	
+	Downstream we trek, chatting and regrouping as one or another subset gets ahead or drops behind. A bit beyond the equitation rings south of Military Rd we turn back, and to ease some of Sara's suffering take Beach Dr on the return trip. The [[http://connect.garmin.com/activity/199140468|Garmin GPS trackfile]] agrees mostly with Runens on the iPhone, pace on trail 12-15 min/mi but the final two ~10.4 to blow the dust off.
+	
+	//**^z**// - 2012-08-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9 miles @ ~13 min/mi<br />&gt; "I tried to grab the only part of you that wasn't slippery!" Sara Crum says. She ends up holding Barry Smith's wristwatch by its quick-release velcro strap, when he looses his footing on a muddy stick and falls halfway through the run. He's ok, but has a scraped knee and a considerable quantity of wet leaves on one side.<br />&gt; At 5am it's raining hard, and in a series of email exchanges Rebecca Rosenberg defers our planned 6am meetup to 6:30, then 7, then 7:30 when Ken Swab, Megan O'Rourke, Barry Smith, and Sara Crum are all planning to gather at Candy Cane City for some trail mileage. Rain stops, restarts, pauses. Eventually instead of running from home I drive to the park, arriving just behind Ken in his Miata. Brave Megan and Sara have both already done a few miles. Sara's plantar fasciitis is bad today, really bad &amp;mdash; she needs to stop running on it and let it heal.<br />&gt; Downstream we trek, chatting and regrouping as one or another subset gets ahead or drops behind. A bit beyond the equitation rings south of Military Rd we turn back, and to ease some of Sara's suffering take Beach Dr on the return trip. The [[http://connect.garmin.com/activity/199140468|Garmin GPS trackfile]] agrees mostly with Runens on the iPhone, pace on trail 12-15 min/mi but the final two ~10.4 to blow the dust off.<br />&gt; //**^z**// - 2012-08-05</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

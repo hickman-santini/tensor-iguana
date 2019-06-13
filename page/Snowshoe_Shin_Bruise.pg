@@ -1,0 +1,22 @@
+flags: 0
+blocks: <table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/snowshoe_shin_bruise.jpg" alt="http://zhurnaly.com/images/snowshoe_shin_bruise.jpg" /></td><td align="right">On 16 February 2010 friend Mary Ewell invites me to snowshoe with her on the Lake Fairfax trail. She kindly lends me her husband Andy's snowshoes. Alas, as a novice I don't know how to pick up my feet properly, and the pivot makes the shoes swing up so that the front edge thwacks me on the tibia. The result: big shin bruises!</td></tr></table><p>But the snow is deep, the exercise is fun, and the conversation with Mary is great. Near the end of the out-and-back I find a set of keys lying on the snow. They're Mary's, fallen from her pocket almost 40 minutes ago. <em>Lucky us!</em> |</p><p><em><strong>^z</strong></em> - 2010-02-19</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; | http://zhurnaly.com/images/snowshoe_shin_bruise.jpg | On 16 February friend Mary Ewell invites me to snowshoe with her on the Lake Fairfax trail. She kindly lends me her husband Andy's snowshoes. Alas, as a novice I don't know how to pick up my feet properly, and the pivot makes the shoes swing up so that the front edge thwacks me on the tibia. The result: big shin bruises!</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; | http://zhurnaly.com/images/snowshoe_shin_bruise.jpg | On 16 February <strong class="changes">2010</strong> friend Mary Ewell invites me to snowshoe with her on the Lake Fairfax trail. She kindly lends me her husband Andy's snowshoes. Alas, as a novice I don't know how to pick up my feet properly, and the pivot makes the shoes swing up so that the front edge thwacks me on the tibia. The result: big shin bruises!</p></div>
+ip: 71.178.97.56
+ts: 1528057692
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 4
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | http://zhurnaly.com/images/snowshoe_shin_bruise.jpg | On 16 February 2010 friend Mary Ewell invites me to snowshoe with her on the Lake Fairfax trail. She kindly lends me her husband Andy's snowshoes. Alas, as a novice I don't know how to pick up my feet properly, and the pivot makes the shoes swing up so that the front edge thwacks me on the tibia. The result: big shin bruises!
+	
+	But the snow is deep, the exercise is fun, and the conversation with Mary is great. Near the end of the out-and-back I find a set of keys lying on the snow. They're Mary's, fallen from her pocket almost 40 minutes ago. //Lucky us!// |
+	
+	//**^z**// - 2010-02-19
+	
+languages: 
+lastmajor: 1
+keep-ts: 1528057692

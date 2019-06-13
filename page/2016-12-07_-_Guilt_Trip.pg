@@ -1,0 +1,25 @@
+blocks: <h3>~5.0 miles @ ~13.2 min/mi</h3><p>"In the middle of the night, if you're thinking about quitting just remember that you are our inspiration!" Drs K&amp;K prepare to apply the three levers of peer pressure, guilt, and shame, in anticipation of a 100 miler scheduled for Prince William Forest Park in 10 days. We'll see how well that works!</p><p>"Scrambled Legs" is a new running group at the office, preparing for a springtime half-marathon. Kerry and Kristin discuss possible training with them, perhaps segments of longer Dawn Patrol runs. We loop through McLean, critique a flashing Santa Claus, greet early morning walkers, and enjoy a newly-resurfaced asphalt path. A neighbor friend who grew up with Kerry's daughter awaits the school bus. As we finish a brilliant sunrise begins. <em>Lovely!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/904787069">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-01-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.205
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.0 miles @ ~13.2 min/mi
+	
+	"In the middle of the night, if you're thinking about quitting just remember that you are our inspiration!" Drs K&K prepare to apply the three levers of peer pressure, guilt, and shame, in anticipation of a 100 miler scheduled for Prince William Forest Park in 10 days. We'll see how well that works!
+	
+	"Scrambled Legs" is a new running group at the office, preparing for a springtime half-marathon. Kerry and Kristin discuss possible training with them, perhaps segments of longer Dawn Patrol runs. We loop through McLean, critique a flashing Santa Claus, greet early morning walkers, and enjoy a newly-resurfaced asphalt path. A neighbor friend who grew up with Kerry's daughter awaits the school bus. As we finish a brilliant sunrise begins. //Lovely!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/904787069|trackfile]])// - //**^z**// - 2017-01-06
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.0 miles @ ~13.2 min/mi<br />&gt; "In the middle of the night, if you're thinking about quitting just remember that you are our inspiration!" Drs K&amp;K prepare to apply the three levers of peer pressure, guilt, and shame, in anticipation of a 100 miler scheduled for Prince William Forest Park in 10 days. We'll see how well that works!<br />&gt; "Scrambled Legs" is a new running group at the office, preparing for a springtime half-marathon. Kerry and Kristin discuss possible training with them, perhaps segments of longer Dawn Patrol runs. We loop through McLean, critique a flashing Santa Claus, greet early morning walkers, and enjoy a newly-resurfaced asphalt path. A neighbor friend who grew up with Kerry's daughter awaits the school bus. As we finish a brilliant sunrise begins. //Lovely!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/904787069|trackfile]])// - //**^z**// - 2017-01-06</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

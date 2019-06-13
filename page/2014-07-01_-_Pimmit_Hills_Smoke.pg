@@ -1,0 +1,23 @@
+blocks: <h3>~6 miles @ ~10.6 min/mi</h3><p>Only 1 rabbit this morning, a scrawny little guy at mile ~3. Kerry &amp; David &amp; Amber &amp; I begin with a downhill blitz and then regret it during the climb back up. Ed replaces David at 0630 for the second half of the trek; I pick up an unsmoked Marlboro cigarette from the street but nobody has a match. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/384414459">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/535823707">Garmin</a> have splits and path data.</p><p><em><strong>^z</strong></em> - 2014-07-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.208.84
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6 miles @ ~10.6 min/mi
+	
+	Only 1 rabbit this morning, a scrawny little guy at mile ~3. Kerry & David & Amber & I begin with a downhill blitz and then regret it during the climb back up. Ed replaces David at 0630 for the second half of the trek; I pick up an unsmoked Marlboro cigarette from the street but nobody has a match. [[http://runkeeper.com/user/zhurnaly/activity/384414459|Runkeeper]] and [[http://connect.garmin.com/modern/activity/535823707|Garmin]] have splits and path data.
+	
+	//**^z**// - 2014-07-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6 miles @ ~10.6 min/mi<br />&gt; Only 1 rabbit this morning, a scrawny little guy at mile ~3. Kerry &amp; David &amp; Amber &amp; I begin with a downhill blitz and then regret it during the climb back up. Ed replaces David at 0630 for the second half of the trek; I pick up an unsmoked Marlboro cigarette from the street but nobody has a match. [[http://runkeeper.com/user/zhurnaly/activity/384414459|Runkeeper]] and [[http://connect.garmin.com/modern/activity/535823707|Garmin]] have splits and path data.<br />&gt; //**^z**// - 2014-07-13</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

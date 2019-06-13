@@ -1,0 +1,40 @@
+flags: 0
+blocks: <p>The article "Running on the Shoulders of Giants" by Scott Douglas offers half a dozen interesting ideas for better training. It appears in the January/February 2009 issue of <em>Running Times</em>, a magazine that Ken Swab passed along to me. Douglas's suggestions:<br /></p><ul><li><strong>"Vary Great"</strong> - train at a wider variety of paces from day to day; make the hard days harder and the easy days easier, by multiple minutes/mile</li><li><strong>"Start Slow, Finish Fast"</strong> - vary the pace during an outing, again by many min/mi, and finish strong</li><li><strong>"Work the Recovery"</strong> - eat and drink appropriately right after a training run, to restore electrolytes and nutrients</li><li><strong>"Drill, Baby, Drill"</strong> - do range-of-motion and dynamic stretching exercises as part of the workout</li><li><strong>"Warm Up Aggressively"</strong> - spend more time and effort warming up, especially before a big race</li><li><strong>"Be a Reality-Based Optimist"</strong> - have faith in yourself</li></ul><p>That last point is perhaps the most significant. As Douglas says, elite runners:<br /></p><blockquote><p>... have confidence that great things will happen if they do the right work. They see a fabulous workout or race as a hint of what they can achieve, not a unique occurrence.</p><p>In contrast, a couple of bad workouts, or a worse-than-expected race, are taken as aberrations. They are indications that something is amiss, and are opportunities for analysis. Am I not sleeping enough? Did I run like an idiot? Were my expectations in line with my current fitness? Am I on the verge of getting sick? And so on. ...<br /></p></blockquote><p>Marvelous advice, obviously applicable throughout life!</p><p><em><strong>^z</strong></em> - 2009-04-09</p><h4>1 person liked this</h4>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; In contrast, a couple of bad workouts, or a worse-than-expected race, are taken as aberrations. They are indications that something is amiss, and are opportunities for analysis. Am I not sleeping enough? Did I run like an idiot? Were my expectations in line with my current fitness<strong class="changes">.</strong> Am I on the verge of getting sick? And so on. ...</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; In contrast, a couple of bad workouts, or a worse-than-expected race, are taken as aberrations. They are indications that something is amiss, and are opportunities for analysis. Am I not sleeping enough? Did I run like an idiot? Were my expectations in line with my current fitness<strong class="changes">?</strong> Am I on the verge of getting sick? And so on. ...</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Marvelous advice, obviously applicable throughout life <strong class="changes">...</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Marvelous advice, obviously applicable throughout life<strong class="changes">!</strong></p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ====1 person liked this====</p></div>
+ip: 128.29.43.2
+ts: 1528057678
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 5
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: The article "Running on the Shoulders of Giants" by Scott Douglas offers half a dozen interesting ideas for better training. It appears in the January/February 2009 issue of //Running Times//, a magazine that Ken Swab passed along to me. Douglas's suggestions:
+	* **"Vary Great"** - train at a wider variety of paces from day to day; make the hard days harder and the easy days easier, by multiple minutes/mile
+	* **"Start Slow, Finish Fast"** - vary the pace during an outing, again by many min/mi, and finish strong
+	* **"Work the Recovery"** - eat and drink appropriately right after a training run, to restore electrolytes and nutrients
+	* **"Drill, Baby, Drill"** - do range-of-motion and dynamic stretching exercises as part of the workout
+	* **"Warm Up Aggressively"** - spend more time and effort warming up, especially before a big race
+	* **"Be a Reality-Based Optimist"** - have faith in yourself
+	
+	That last point is perhaps the most significant. As Douglas says, elite runners:
+	"""
+	... have confidence that great things will happen if they do the right work. They see a fabulous workout or race as a hint of what they can achieve, not a unique occurrence. 
+	
+	In contrast, a couple of bad workouts, or a worse-than-expected race, are taken as aberrations. They are indications that something is amiss, and are opportunities for analysis. Am I not sleeping enough? Did I run like an idiot? Were my expectations in line with my current fitness? Am I on the verge of getting sick? And so on. ...
+	"""
+	
+	Marvelous advice, obviously applicable throughout life!
+	
+	//**^z**// - 2009-04-09
+	
+	====1 person liked this====
+	
+languages: 
+lastmajor: 1
+keep-ts: 1528057678

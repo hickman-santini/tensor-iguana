@@ -1,0 +1,30 @@
+flags: 0
+blocks: <p>In the <strong>New York Times</strong> some months ago Kevin Sack had a thoughtful article, "<a class="url http outside" href="http://www.nytimes.com/2008/05/18/us/18apology.html?fta=y">Doctors Say 'I'm Sorry' Before 'See You in Court'</a>". Normal malpractice-lawyer advice is to admit nothing, deny everything, and make counter-accusations. That tends to lead to lengthy, confrontational, costly court cases with roll-of-the-die verdicts. An injured party may never see much of any award, since a large portion goes to attorney fees.</p><p>In contrast, a few major medical centers have begun to try something radically different and far more honorable:<br /></p><blockquote><p>By promptly disclosing medical errors and offering earnest apologies and fair compensation, they hope to restore integrity to dealings with patients, make it easier to learn from mistakes and dilute anger that often fuels lawsuits.<br /></p></blockquote><p>It seems to be working&mdash;the number of malpractice suits drops when hospitals try it, and patients and physicians are happier.</p><p>Hmmm ... wonder if the same principle could apply in other overly-litigatious arenas?</p><p><em><strong>^z</strong></em> - 2009-01-25</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; In the **New York Times** some months ago Kevin Sack had a thoughtful article, "[[http://www.nytimes.com/2008/05/18/us/18apology.html?fta=y|Doctors Say 'I<strong class="changes">’</strong>m Sorry' Before 'See You in Court']]". Normal malpractice-lawyer advice is to admit nothing, deny everything, and make counter-accusations. That tends to lead to lengthy, confrontational, costly court cases with roll-of-the-die verdicts.  An injured party may never see much of any award, since a large portion goes to attorney fees.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; In the **New York Times** some months ago Kevin Sack had a thoughtful article, "[[http://www.nytimes.com/2008/05/18/us/18apology.html?fta=y|Doctors Say 'I<strong class="changes">'</strong>m Sorry' Before 'See You in Court']]". Normal malpractice-lawyer advice is to admit nothing, deny everything, and make counter-accusations. That tends to lead to lengthy, confrontational, costly court cases with roll-of-the-die verdicts.  An injured party may never see much of any award, since a large portion goes to attorney fees.</p></div>
+ip: 138.88.112.52
+ts: 1232874751
+minor: 1
+host: pool-138-88-112-52.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: typo fix
+languages: 
+text: In the **New York Times** some months ago Kevin Sack had a thoughtful article, "[[http://www.nytimes.com/2008/05/18/us/18apology.html?fta=y|Doctors Say 'I'm Sorry' Before 'See You in Court']]". Normal malpractice-lawyer advice is to admit nothing, deny everything, and make counter-accusations. That tends to lead to lengthy, confrontational, costly court cases with roll-of-the-die verdicts.  An injured party may never see much of any award, since a large portion goes to attorney fees.
+	
+	In contrast, a few major medical centers have begun to try something radically different and far more honorable:
+	"""
+	By promptly disclosing medical errors and offering earnest apologies and fair compensation, they hope to restore integrity to dealings with patients, make it easier to learn from mistakes and dilute anger that often fuels lawsuits.
+	"""
+	
+	It seems to be working&mdash;the number of malpractice suits drops when hospitals try it, and patients and physicians are happier. 
+	
+	Hmmm ... wonder if the same principle could apply in other overly-litigatious arenas?
+	
+	//**^z**// - 2009-01-25
+	
+	
+lastmajor: 1
+keep-ts: 1232874751

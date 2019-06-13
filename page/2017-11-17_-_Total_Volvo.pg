@@ -1,0 +1,23 @@
+blocks: <h3>~4.3 mi @ ~15.2 min/mi</h3><p>"You can't total a <em><strong>VOLVO</strong>!</em>" Molly exclaims, disbelievingly, at reports of a colleague's daughter doing precisely that recently. The Dawn Patrol pauses at Starbucks in McLean for the first hot coffee of the season, as Venus twinkles low in the east on a crisp morn. Drs K&amp;K are recovering well from their Stone Mill 50 Miler experiences, modulo normal soreness, back pain, purple toenails, ITB flare-up, hip flexor trauma, etc. after one's first official ultramarathon. <em>Bravi to both!</em> Front yard gardens are trimmed back for the winter. New <em>(from the half-price room at RnJ Sports)</em> "Hoka One One Tor Trafa" shoe-sandal hybrids feel comfy-good on old feet.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1086851005">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-12-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.113
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.3 mi @ ~15.2 min/mi
+	
+	"You can't total a //**VOLVO**!//" Molly exclaims, disbelievingly, at reports of a colleague's daughter doing precisely that recently. The Dawn Patrol pauses at Starbucks in McLean for the first hot coffee of the season, as Venus twinkles low in the east on a crisp morn. Drs K&K are recovering well from their Stone Mill 50 Miler experiences, modulo normal soreness, back pain, purple toenails, ITB flare-up, hip flexor trauma, etc. after one's first official ultramarathon. //Bravi to both!// Front yard gardens are trimmed back for the winter. New //(from the half-price room at RnJ Sports)// "Hoka One One Tor Trafa" shoe-sandal hybrids feel comfy-good on old feet.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1086851005|trackfile]])// - //**^z**// - 2017-12-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.3 mi @ ~15.2 min/mi<br />&gt; "You can't total a //**VOLVO**!//" Molly exclaims, disbelievingly, at reports of a colleague's daughter doing precisely that recently. The Dawn Patrol pauses at Starbucks in McLean for the first hot coffee of the season, as Venus twinkles low in the east on a crisp morn. Drs K&amp;K are recovering well from their Stone Mill 50 Miler experiences, modulo normal soreness, back pain, purple toenails, ITB flare-up, hip flexor trauma, etc. after one's first official ultramarathon. //Bravi to both!// Front yard gardens are trimmed back for the winter. New //(from the half-price room at RnJ Sports)// "Hoka One One Tor Trafa" shoe-sandal hybrids feel comfy-good on old feet.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1086851005|trackfile]])// - //**^z**// - 2017-12-10</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

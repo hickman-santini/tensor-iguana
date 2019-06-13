@@ -1,0 +1,23 @@
+blocks: <h3>~6 miles @ ~11.3 min/mi</h3><p>2 bunnies sighted, both at mile ~5 &mdash; after thunderstorms pass and we get a few sips of coffee, Dr Kristin &amp; I warm up with a couple of miles, then join Amber, David, and Ed for the usual 0630 Tu/Th group trot around the office 'hood. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/358921660">Runkeeper</a> records the route.</p><p><em><strong>^z</strong></em> - 2014-06-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 107.214.80.107
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6 miles @ ~11.3 min/mi
+	
+	2 bunnies sighted, both at mile ~5 &mdash; after thunderstorms pass and we get a few sips of coffee, Dr Kristin & I warm up with a couple of miles, then join Amber, David, and Ed for the usual 0630 Tu/Th group trot around the office 'hood. [[http://runkeeper.com/user/zhurnaly/activity/358921660|Runkeeper]] records the route.
+	
+	//**^z**// - 2014-06-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6 miles @ ~11.3 min/mi<br />&gt; 2 bunnies sighted, both at mile ~5 &amp;mdash; after thunderstorms pass and we get a few sips of coffee, Dr Kristin &amp; I warm up with a couple of miles, then join Amber, David, and Ed for the usual 0630 Tu/Th group trot around the office 'hood. [[http://runkeeper.com/user/zhurnaly/activity/358921660|Runkeeper]] records the route.<br />&gt; //**^z**// - 2014-06-15</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

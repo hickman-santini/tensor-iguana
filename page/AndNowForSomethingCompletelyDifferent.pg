@@ -1,0 +1,19 @@
+blocks: <p><a class="url http outside" href="http://www.biostat.umn.edu/~brad/V9SingAlong.pdf">A Bayesian Singalong</a></p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.88.208
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: [http://www.biostat.umn.edu/~brad/V9SingAlong.pdf A Bayesian Singalong]
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">[http://www.biostat.umn.edu/~brad/V9SingAlong.pdf A Bayesian Singalong]</strong></p></div>
+flags: 0
+ts: 1528057710
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057710

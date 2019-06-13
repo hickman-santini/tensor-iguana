@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~3 miles @ ~10 min/mi</h3></p><p>I'm not planning to run on this humid morning, but enthusiastic colleague Stephanie drags me out for two laps on the paved jogging "trail" near work. The first marked mile is at 10.3 pace and the second, which I insist on pushing, goes by in 8.8 minutes.</p><p><em><strong>^z</strong></em> - 2010-08-20</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; I'm not planning to run on this humid morning, but <strong class="changes">kind</strong> Stephanie <strong class="changes">pings me and</strong> drags me out for two laps on the paved jogging "trail" near work. The first marked mile is at 10.3 pace and the second, which I insist on pushing, goes by <strong class="changes">at</strong> 8.8 <strong class="changes">min</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; I'm not planning to run on this humid morning, but <strong class="changes">enthusiastic colleague</strong> Stephanie drags me out for two laps on the paved jogging "trail" near work. The first marked mile is at 10.3 pace and the second, which I insist on pushing, goes by <strong class="changes">in</strong> 8.8 <strong class="changes">minutes</strong>.</p></div>
+ip: 141.156.145.155
+ts: 1282293765
+minor: 1
+host: pool-141-156-145-155.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: === ~3 miles @ ~10 min/mi
+	
+	I'm not planning to run on this humid morning, but enthusiastic colleague Stephanie drags me out for two laps on the paved jogging "trail" near work. The first marked mile is at 10.3 pace and the second, which I insist on pushing, goes by in 8.8 minutes.
+	
+	//**^z**// - 2010-08-20
+	
+lastmajor: 1
+keep-ts: 1282293765

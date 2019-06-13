@@ -1,0 +1,26 @@
+flags: 0
+blocks: <p>In brief, <strong>Essential Zen</strong> isn't. This 1994 collection of stories and poetry, edited by Kazuaki Tanahashi and Tensho David Schneider, stumbles and stutters. Most of the contents seem badly translated&mdash;even if the original language is English. The only striking poem is by Lou Hartmen in the section "Great Doubt":</p><table class="user"><tr><td align="right">Scalding coffee from a freezing cup.<br />At the rim no telling<br />Which is which.</td></tr></table><p>That's a gem, alas a rare one among the clinkers. <em>(Or maybe I'm too unenlightened to appreciate the rest? Or maybe the authors and editors are too enlightened?)</em></p><p><em><strong>^z</strong></em> - 2009-07-27</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //**^z**// - 2009-07<strong class="changes">-??</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; //**^z**// - 2009-07<strong class="changes">-27</strong></p></div>
+ip: 141.156.198.144
+ts: 1337738044
+minor: 1
+host: pool-141-156-198-144.res.east.verizon.net
+username: z_as_editor_test
+revision: 3
+diff-major: 
+summary: fix page datetag
+languages: 
+text: In brief, **Essential Zen** isn't. This 1994 collection of stories and poetry, edited by Kazuaki Tanahashi and Tensho David Schneider, stumbles and stutters. Most of the contents seem badly translated&mdash;even if the original language is English. The only striking poem is by Lou Hartmen in the section "Great Doubt":
+	
+	| Scalding coffee from a freezing cup.
+	At the rim no telling
+	Which is which. |
+	
+	That's a gem, alas a rare one among the clinkers. //(Or maybe I'm too unenlightened to appreciate the rest? Or maybe the authors and editors are too enlightened?)//
+	
+	//**^z**// - 2009-07-27
+	
+lastmajor: 1
+keep-ts: 1337738044

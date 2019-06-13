@@ -1,0 +1,23 @@
+blocks: <h3>~5.6 miles @ ~11.8 min/mi</h3><p><em>"<strong>Croissant Moon</strong>!</em>" observes Kristin as the Dawn Patrol stretches post-run. The thready 2%-illuminated arc fades into the sunrise low in the east, just below sparkly Venus. "Where's the nearest bakery?" asks Cait. Warm pastries would be welcome after a brisk run in chilly weather! We survey early Halloween decorations in Pimmit Hills and share some Bad Family Nicknames. Kids do sometimes say the dearest-darnedest things!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1072297203">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-11-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.70
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.6 miles @ ~11.8 min/mi
+	
+	//"**Croissant Moon**!//" observes Kristin as the Dawn Patrol stretches post-run. The thready 2%-illuminated arc fades into the sunrise low in the east, just below sparkly Venus. "Where's the nearest bakery?" asks Cait. Warm pastries would be welcome after a brisk run in chilly weather! We survey early Halloween decorations in Pimmit Hills and share some Bad Family Nicknames. Kids do sometimes say the dearest-darnedest things!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1072297203|trackfile]])// - //**^z**// - 2017-11-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.6 miles @ ~11.8 min/mi<br />&gt; //"**Croissant Moon**!//" observes Kristin as the Dawn Patrol stretches post-run. The thready 2%-illuminated arc fades into the sunrise low in the east, just below sparkly Venus. "Where's the nearest bakery?" asks Cait. Warm pastries would be welcome after a brisk run in chilly weather! We survey early Halloween decorations in Pimmit Hills and share some Bad Family Nicknames. Kids do sometimes say the dearest-darnedest things!<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1072297203|trackfile]])// - //**^z**// - 2017-11-15</strong></p></div>
+flags: 0
+ts: 1528057695
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057695

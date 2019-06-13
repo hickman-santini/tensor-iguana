@@ -1,0 +1,23 @@
+blocks: <h3>~6 miles @ ~10.6 min/mi</h3><p>Deep-fried candy bars, carnival rides, and draft horses pulling multi-ton sledges: on Sunday evening Rebecca Rosenberg returns from West Virginia where at the State Fair she saw some truly amazing things. Alyssa Soumoff, a day after her 20+ mile run, trots along Rock Creek Trail with Rebecca and Barry Smith and me. We start at Ken-Gar ~6:30pm on a seasonably cool damp evening. The <a class="url http outside" href="http://connect.garmin.com/activity/213168484">Garmin GPS trackfile</a> shows splits 11:09 + 11:59 + 10:30 + 11:01 + 11:16 + 7:29 &mdash; that last as I excuse myself and sprint the final mile as hard as I can just to see what the old legs can do. Half a dozen little rabbits on the meadow south of Randolph Rd nibble the grass and dash away as we approach.</p><p><em><strong>^z</strong></em> - 2012-09-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 66.90.165.157
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6 miles @ ~10.6 min/mi
+	
+	Deep-fried candy bars, carnival rides, and draft horses pulling multi-ton sledges: on Sunday evening Rebecca Rosenberg returns from West Virginia where at the State Fair she saw some truly amazing things. Alyssa Soumoff, a day after her 20+ mile run, trots along Rock Creek Trail with Rebecca and Barry Smith and me. We start at Ken-Gar ~6:30pm on a seasonably cool damp evening. The [[http://connect.garmin.com/activity/213168484|Garmin GPS trackfile]] shows splits 11:09 + 11:59 + 10:30 + 11:01 + 11:16 + 7:29 &mdash; that last as I excuse myself and sprint the final mile as hard as I can just to see what the old legs can do. Half a dozen little rabbits on the meadow south of Randolph Rd nibble the grass and dash away as we approach.
+	
+	//**^z**// - 2012-09-08
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6 miles @ ~10.6 min/mi<br />&gt; Deep-fried candy bars, carnival rides, and draft horses pulling multi-ton sledges: on Sunday evening Rebecca Rosenberg returns from West Virginia where at the State Fair she saw some truly amazing things. Alyssa Soumoff, a day after her 20+ mile run, trots along Rock Creek Trail with Rebecca and Barry Smith and me. We start at Ken-Gar ~6:30pm on a seasonably cool damp evening. The [[http://connect.garmin.com/activity/213168484|Garmin GPS trackfile]] shows splits 11:09 + 11:59 + 10:30 + 11:01 + 11:16 + 7:29 &amp;mdash; that last as I excuse myself and sprint the final mile as hard as I can just to see what the old legs can do. Half a dozen little rabbits on the meadow south of Randolph Rd nibble the grass and dash away as we approach.<br />&gt; //**^z**// - 2012-09-08</strong></p></div>
+flags: 0
+ts: 1528057694
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057694

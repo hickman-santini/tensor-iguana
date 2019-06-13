@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; #REDIRECT RadRob</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; #REDIRECT <strong class="changes">[[</strong>RadRob<strong class="changes">]]</strong></p></div>
+ip: 70.21.50.89
+ts: 1211415725
+minor: 1
+host: pool-70-21-50-89.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Describe new page here.</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT RadRob</strong></p></div>
+summary: fix link pattern for redirect now that WikiWords are disabled
+languages: 
+text: #REDIRECT [[RadRob]]
+	
+lastmajor: 2
+keep-ts: 1211415725

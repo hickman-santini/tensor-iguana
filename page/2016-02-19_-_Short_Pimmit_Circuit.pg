@@ -1,0 +1,23 @@
+blocks: <h3>~4.0 miles @ ~11.8 min/mi</h3><p>"At first I thought it was a rat!" says Kerry, as she detours in the gloom around an early bird taking a pre-dawn stroll on the sidewalk. We catch up on family news, review spring running priorities, and test out the 1.00-mile Friden-Pimmit-Storm neighborhood loop that Kristin explored (with Beth) earlier this month. A final sprint gets us back early enough for morning meetings.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/736736222">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-03-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.131
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.0 miles @ ~11.8 min/mi
+	
+	"At first I thought it was a rat!" says Kerry, as she detours in the gloom around an early bird taking a pre-dawn stroll on the sidewalk. We catch up on family news, review spring running priorities, and test out the 1.00-mile Friden-Pimmit-Storm neighborhood loop that Kristin explored (with Beth) earlier this month. A final sprint gets us back early enough for morning meetings.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/736736222|trackfile]])// - //**^z**// - 2016-03-01
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.0 miles @ ~11.8 min/mi<br />&gt; "At first I thought it was a rat!" says Kerry, as she detours in the gloom around an early bird taking a pre-dawn stroll on the sidewalk. We catch up on family news, review spring running priorities, and test out the 1.00-mile Friden-Pimmit-Storm neighborhood loop that Kristin explored (with Beth) earlier this month. A final sprint gets us back early enough for morning meetings.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/736736222|trackfile]])// - //**^z**// - 2016-03-01</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

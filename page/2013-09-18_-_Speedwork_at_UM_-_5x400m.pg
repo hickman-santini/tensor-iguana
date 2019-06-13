@@ -1,0 +1,23 @@
+blocks: <h3>~1.8 miles @ ~8.8 min/mi</h3><p>Excuses: tight left hamstring, ran already this morning, slight sniffles, Marathon Deli closes in an hour, etc., etc. &mdash; so stop with a guilty conscience after only five 400m repeats (1:42 + 1:39 + 1:41 + 1:43+ 1:45) and a limping trot to accompany DS Robin on part of his final lap, as a nearly-full moon rises over the University of Maryland track. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/244046950">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/379867957">Garmin</a> concur in the oval path.</p><p><em><strong>^z</strong></em> - 2013-10-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.209.126
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~1.8 miles @ ~8.8 min/mi
+	
+	Excuses: tight left hamstring, ran already this morning, slight sniffles, Marathon Deli closes in an hour, etc., etc. &mdash; so stop with a guilty conscience after only five 400m repeats (1:42 + 1:39 + 1:41 + 1:43+ 1:45) and a limping trot to accompany DS Robin on part of his final lap, as a nearly-full moon rises over the University of Maryland track. [[http://runkeeper.com/user/zhurnaly/activity/244046950|Runkeeper]] and [[http://connect.garmin.com/activity/379867957|Garmin]] concur in the oval path.
+	
+	//**^z**// - 2013-10-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~1.8 miles @ ~8.8 min/mi<br />&gt; Excuses: tight left hamstring, ran already this morning, slight sniffles, Marathon Deli closes in an hour, etc., etc. &amp;mdash; so stop with a guilty conscience after only five 400m repeats (1:42 + 1:39 + 1:41 + 1:43+ 1:45) and a limping trot to accompany DS Robin on part of his final lap, as a nearly-full moon rises over the University of Maryland track. [[http://runkeeper.com/user/zhurnaly/activity/244046950|Runkeeper]] and [[http://connect.garmin.com/activity/379867957|Garmin]] concur in the oval path.<br />&gt; //**^z**// - 2013-10-05</strong></p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057713

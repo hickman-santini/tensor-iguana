@@ -1,0 +1,55 @@
+flags: 0
+blocks: <p>At the library used-book sale recently appeared a $1 gem: a tiny, yellowed 1964 hardback copy of <strong>Zen Telegrams</strong> by Paul Reps. It's an cheerful collection of 79 wee poem-drawings, Chinese ink-brush style&mdash;"weightless gifts", the author calls them in the foreword by editor Meredith Weatherby. Many miss the mark: they're trite, or pointless. But as Reps warns, "Any one is for one person. Like intimate conversation, it is not meant to be seen-heard by others. ... Perhaps then, only perhaps, one of these is for you. Should this be so, you are welcome to take it out of the book and hang it on your wall, knowing it was done for you with delight."</p><p>Words from some samples that spoke, for whatever reason, to me:</p><table class="user"><tr><td align="right"><em><strong> brookside<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alive<br /> O do not hasten<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;friend<br /> you may<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arrive </strong></em></td></tr></table><p>and</p><table class="user"><tr><td align="right"><em><strong> rocks preaching<br /> become some<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; silent<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sound </strong></em></td></tr></table><p>and </p><table class="user"><tr><td align="right"><em><strong> waterfall<br /> <br /><br /><br />no trouble<br /> at<br /> all </strong></em></td></tr></table><p>Others work but only in the presence of the drawings that they accompany. Others don't. <em>Hmpf!</em></p><p><em><strong>^z</strong></em> - 2009-11-19</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; | brookside</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; | <strong class="changes">//**</strong> brookside</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;arrive |</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;arrive <strong class="changes">**//</strong> |</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; | rocks preaching</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; | <strong class="changes">//**</strong> rocks preaching</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; sound |</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; sound <strong class="changes">**//</strong> |</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; | waterfall</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; | <strong class="changes">//**</strong> waterfall</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;  all |<br />&lt; Others work but only in the presence of the drawings that they accompany. Others don't. Hmpf<strong class="changes">!</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;  all <strong class="changes">**//</strong> |<br />&gt; Others work but only in the presence of the drawings that they accompany. Others don't. <strong class="changes">//</strong>Hmpf<strong class="changes">!//</strong></p></div>
+ip: 71.178.89.194
+ts: 1528057676
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 4
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: At the library used-book sale recently appeared a $1 gem: a tiny, yellowed 1964 hardback copy of **Zen Telegrams** by Paul Reps. It's an cheerful collection of 79 wee poem-drawings, Chinese ink-brush style&mdash;"weightless gifts", the author calls them in the foreword by editor Meredith Weatherby. Many miss the mark: they're trite, or pointless. But as Reps warns, "Any one is for one person. Like intimate conversation, it is not meant to be seen-heard by others. ... Perhaps then, only perhaps, one of these is for you. Should this be so, you are welcome to take it out of the book and hang it on your wall, knowing it was done for you with delight."
+	
+	Words from some samples that spoke, for whatever reason, to me:
+	
+	| //** brookside
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alive
+	  O do not hasten
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;friend
+	  you may
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arrive **// |
+	
+	and
+	
+	| //** rocks preaching
+	  become some
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; silent
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sound **// |
+	
+	and 
+	
+	| //** waterfall
+	 \\ \\ \\ no trouble
+	 at
+	 all **// |
+	
+	Others work but only in the presence of the drawings that they accompany. Others don't. //Hmpf!//
+	
+	//**^z**// - 2009-11-19
+	
+languages: 
+lastmajor: 1
+keep-ts: 1528057676

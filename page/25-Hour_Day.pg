@@ -1,0 +1,23 @@
+flags: 0
+blocks: <p><strong>Beware!</strong> On the day we go off Daylight Saving Time <em>(in the USA, the first Sunday in November)</em> there are ~4% more giant meteor impacts, and a similar increase in the number of earthquakes, floods, fires, and other natural disasters. Fortunately, on the day we begin Daylight Saving Time <em>(in the USA, the second Sunday in March)</em> there's an equal reduction in these sorts of events. <strong>Whew!</strong></p><p>But unnatural disasters can also strike: some years ago a friend was on an international business trip the day Daylight Saving Time began. His flight crossed the International Date Line. It took the bureaucracy <em><strong>days</strong></em> to reconcile his travel paperwork!</p><p><em><strong>^z</strong></em> - 2008-11-12</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; But unnatural disasters can also strike: some years ago a friend was on an international business trip <strong class="changes">on</strong> the day <strong class="changes">we went onto</strong> Daylight Saving Time<strong class="changes">, and his</strong> flight crossed the International Date Line. It took <strong class="changes">him and the rest of</strong> the bureaucracy //**days**// to reconcile his travel paperwork!</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; But unnatural disasters can also strike: some years ago a friend was on an international business trip the day Daylight Saving Time <strong class="changes">began. His</strong> flight crossed the International Date Line. It took the bureaucracy //**days**// to reconcile his travel paperwork!</p></div>
+ip: 70.21.38.24
+ts: 1226531765
+minor: 1
+host: pool-70-21-38-24.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: 
+summary: word tweak 2
+languages: 
+text: **Beware!**  On the day we go off Daylight Saving Time //(in the USA, the first Sunday in November)// there are ~4% more giant meteor impacts, and a similar increase in the number of earthquakes, floods, fires, and other natural disasters. Fortunately, on the day we begin Daylight Saving Time //(in the USA, the second Sunday in March)// there's an equal reduction in these sorts of events. **Whew!**
+	
+	But unnatural disasters can also strike: some years ago a friend was on an international business trip the day Daylight Saving Time began. His flight crossed the International Date Line. It took the bureaucracy //**days**// to reconcile his travel paperwork!
+	
+	//**^z**// - 2008-11-12
+	
+	
+lastmajor: 1
+keep-ts: 1226531765

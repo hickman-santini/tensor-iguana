@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~10.3 mi @ ~12.8 min/mi</h3><p>"Peaky Beaky and Lumpy Tummy!" Dawn Patrol reminisces about favorite children's books, and the need to keep hidden those with terrifying cover art, like one nightmarish Little Golden Book edition of <strong>Hansel and Gretel</strong>. Ah, those were the days! K2 and Roadkill begin today's trek by cellphone-glow in the haunted-forest paths of McLean. We stop at a gas station mini-mart for Gatorade. Thank goodness the clerk doesn't lock us in a cage or push us into an oven!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1214266980">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-09-09</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Peaky Beaky and Lumpy Tummy!" Dawn Patrol reminisces about favorite children's books, and the need to keep hidden those with terrifying cover art, like one nightmarish Little Golden Book edition of <strong class="changes">"</strong>Hansel and Gretel<strong class="changes">".</strong> Ah, those were the days! K2 and Roadkill begin today's trek by cellphone-glow in the haunted-forest paths of McLean. We stop at a gas station mini-mart for Gatorade. Thank goodness the clerk doesn't lock us in a cage or push us into an oven!</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">"</strong>Peaky Beaky and Lumpy Tummy!" Dawn Patrol reminisces about favorite children's books, and the need to keep hidden those with terrifying cover art, like one nightmarish Little Golden Book edition of <strong class="changes">**</strong>Hansel and Gretel<strong class="changes">**.</strong> Ah, those were the days! K2 and Roadkill begin today's trek by cellphone-glow in the haunted-forest paths of McLean. We stop at a gas station mini-mart for Gatorade. Thank goodness the clerk doesn't lock us in a cage or push us into an oven!</p></div>
+lastmajorsummary: tweaks
+ts: 1536481293
+minor: 
+host: 166.216.165.93
+username: z
+revision: 2
+diff-major: 1
+summary: tweaks
+languages: 
+text: === ~10.3 mi @ ~12.8 min/mi
+	
+	"Peaky Beaky and Lumpy Tummy!" Dawn Patrol reminisces about favorite children's books, and the need to keep hidden those with terrifying cover art, like one nightmarish Little Golden Book edition of **Hansel and Gretel**. Ah, those were the days! K2 and Roadkill begin today's trek by cellphone-glow in the haunted-forest paths of McLean. We stop at a gas station mini-mart for Gatorade. Thank goodness the clerk doesn't lock us in a cage or push us into an oven!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1214266980|trackfile]])// - //**^z**// - 2018-09-09
+	
+lastmajor: 2
+keep-ts: 1536481293

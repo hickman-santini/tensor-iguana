@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~5 miles @ ~10 min/mi</h3></p><p>A young lady running the opposite way along the path stretches her arms upwards, as if to signify <em>"Victory!"</em> &mdash; and then greets me with some embarrassment. It's warm and humid, temps in the upper 70s, dew point approaching 50&deg;F. The grass is high. I think about quitting after a couple of laps but realize how bad that would look in this report. Pace on the marked "mile" (with ~0.16 mile recovery to close loop) descends 9.8 &rArr; 9.2 &rArr; 8.5 &rArr; 7.7 min/mi, pulse pounding at the end.</p><p><em><strong>^z</strong></em> - 2011-06-12</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; A young lady running the opposite way along the path stretches her arms upwards, as if to signify //"Victory!"// &amp;mdash; and then greets me <strong class="changes">wish</strong> some embarrassment. It's warm and humid, temps in the upper 70s, dew point approaching 50&amp;deg;F. The grass is high. I think about quitting after a couple of laps but realize how bad that would look in this report. Pace on the marked "mile" (with ~0.16 mile recovery to close loop) descends 9.8 &amp;rArr; 9.2 &amp;rArr; 8.5 &amp;rArr; 7.7 min/mi, pulse pounding at the end.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; A young lady running the opposite way along the path stretches her arms upwards, as if to signify //"Victory!"// &amp;mdash; and then greets me <strong class="changes">with</strong> some embarrassment. It's warm and humid, temps in the upper 70s, dew point approaching 50&amp;deg;F. The grass is high. I think about quitting after a couple of laps but realize how bad that would look in this report. Pace on the marked "mile" (with ~0.16 mile recovery to close loop) descends 9.8 &amp;rArr; 9.2 &amp;rArr; 8.5 &amp;rArr; 7.7 min/mi, pulse pounding at the end.</p></div>
+ip: 141.156.143.26
+ts: 1307869071
+minor: 1
+host: pool-141-156-143-26.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: typo fix
+languages: 
+text: === ~5 miles @ ~10 min/mi
+	
+	A young lady running the opposite way along the path stretches her arms upwards, as if to signify //"Victory!"// &mdash; and then greets me with some embarrassment. It's warm and humid, temps in the upper 70s, dew point approaching 50&deg;F. The grass is high. I think about quitting after a couple of laps but realize how bad that would look in this report. Pace on the marked "mile" (with ~0.16 mile recovery to close loop) descends 9.8 &rArr; 9.2 &rArr; 8.5 &rArr; 7.7 min/mi, pulse pounding at the end.
+	
+	//**^z**// - 2011-06-12
+	
+lastmajor: 1
+keep-ts: 1307869071

@@ -1,0 +1,22 @@
+blocks: <p>A wise friend suggested recently that when, over the years, a couple's relationship changes radically, perhaps one skillful way to think about the new situation is the mantra:<br /></p><table class="user"><tr><td align="center"><em><strong>Good, But Different</strong></em></td></tr></table><p>Things aren't the same any more. They never are. It's less helpful to compare <em>now</em> with <em>then</em>. The honeymoon's over. But before the honeymoon could begin, the courtship had to end. Each phase is good, but different from the one before. Relative ranking as better or worse isn't useful. <em>Hmmmmm!</em></p><p><em><strong>^z</strong></em> - 2013-06-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.169
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: A wise friend suggested recently that when, over the years, a couple's relationship changes radically, perhaps one skillful way to think about the new situation is the mantra:
+	| //**Good, But Different**// |
+	Things aren't the same any more. They never are. It's less helpful to compare //now// with //then//. The honeymoon's over. But before the honeymoon could begin, the courtship had to end. Each phase is good, but different from the one before. Relative ranking as better or worse isn't useful. //Hmmmmm!//
+	
+	//**^z**// - 2013-06-20
+	
+languages: 
+lastmajor: 6
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; A wise friend suggested recently that when, over the years, a couple's relationship changes radically, perhaps one skillful way to think about the new situation is the mantra:<br />&gt; | //**Good, But Different**// |<br />&gt; Things aren't the same any more. They never are. It's less helpful to compare //now// with //then//. The honeymoon's over. But before the honeymoon could begin, the courtship had to end. Each phase is good, but different from the one before. Relative ranking as better or worse isn't useful. //Hmmmmm!//<br />&gt; //**^z**// - 2013-06-20</p></div>
+flags: 0
+ts: 1528057694
+minor: 
+username: z
+host: 166.137.240.115
+revision: 6
+keep-ts: 1528057694

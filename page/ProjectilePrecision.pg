@@ -1,0 +1,20 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Why is it that giant meteor impacts in the movies always strike major urban areas? And not just any city, either --- disaster always homes in on highly recognizable international landmarks. The odds against that are astronomical. //(pun intended!)//<br />&lt; In the same vein, why does a hero, down to a single bullet in a pistol, always hit the target perfectly --- while villains armed with machine-guns can spray a room full of people and not injure anyone? And broadening the question, how can all the principal characters in a story come together with exquisite timing at the climax --- when the slightest perturbation at a thousand earlier moments would inevitably destroy that synchronization?<br />&lt; Yeah, maybe you've gotta grant the author some</strong> [[<strong class="changes">SuspensionOfDisbelief</strong>]] <strong class="changes">//(see **^zhurnal** 20 May 2000)// ... but how much? The classic science-fictional guideline is that a tale is allowed **one impossible assumption**. Everything else has to follow logically, based on known laws of nature. Too many impossibilities and you've got fantasy, not science fiction. But are there degrees of "impossibility"? If so, how to quantify them?<br />&lt; ----<br />&lt; [[TopicHumor]] - [[TopicLiterature]] - [[TopicScience]] - Datetag20030820<br />&lt; ----<br />&lt; ----<br />&lt; On the other hand, that is the quintessential hero story: that one man/woman makes the difference, against all odds. I don't mind the impossible situations (at least not more than a few), but the story has to be internally consistent. Most aren't. Then again, neither is much of reality.<br />&lt; ----<br />&lt; //(correlates: [[BarryLawsAndPrecepts]], [[ElusivePimpernel]], [[MetaJoke2]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">Projectile Precision</strong>]]</p></div>
+ip: 70.21.102.87
+ts: 1222732578
+minor: 1
+host: pool-70-21-102-87.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Why is it that giant meteor impacts in the movies always strike major urban areas? And not just any city, either --- disaster always homes in on highly recognizable international landmarks. The odds against that are astronomical. <strong class="changes">[-//(</strong>pun intended<strong class="changes">!)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Why is it that giant meteor impacts in the movies always strike major urban areas? And not just any city, either --- disaster always homes in on highly recognizable international landmarks. The odds against that are astronomical. <strong class="changes">//(</strong>pun intended<strong class="changes">!)//</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>correlates: [[BarryLawsAndPrecepts]], [[ElusivePimpernel]], [[MetaJoke2]], <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>correlates: [[BarryLawsAndPrecepts]], [[ElusivePimpernel]], [[MetaJoke2]], <strong class="changes">...)//</strong></p></div>
+summary: redirect
+languages: 
+text: #REDIRECT [[Projectile Precision]]
+	
+lastmajor: 2
+keep-ts: 1222732578

@@ -1,0 +1,23 @@
+blocks: <h3>~4.1 miles @ ~20.9 min/mi</h3><p>"And near here is where ...", say I, repeatedly, during this morning's ramble around the 'hood with DD Gray. She politely tolerates my nonstop reminisce plus historical monologue about the origins of Ireland Dr, Rock Creek Trail, the Audubon Naturalist Society, the spring where George Washington drank, the Capital Crescent Trail, etc. As usual my distance estimate, "... about 3 miles ...", is more than 25% low. Sorry about that!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/635668248">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-08-31</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.117
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.1 miles @ ~20.9 min/mi
+	
+	"And near here is where ...", say I, repeatedly, during this morning's ramble around the 'hood with DD Gray. She politely tolerates my nonstop reminisce plus historical monologue about the origins of Ireland Dr, Rock Creek Trail, the Audubon Naturalist Society, the spring where George Washington drank, the Capital Crescent Trail, etc. As usual my distance estimate, "... about 3 miles ...", is more than 25% low. Sorry about that!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/635668248|trackfile]])// - //**^z**// - 2015-08-31
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.1 miles @ ~20.9 min/mi<br />&gt; "And near here is where ...", say I, repeatedly, during this morning's ramble around the 'hood with DD Gray. She politely tolerates my nonstop reminisce plus historical monologue about the origins of Ireland Dr, Rock Creek Trail, the Audubon Naturalist Society, the spring where George Washington drank, the Capital Crescent Trail, etc. As usual my distance estimate, "... about 3 miles ...", is more than 25% low. Sorry about that!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/635668248|trackfile]])// - //**^z**// - 2015-08-31</strong></p></div>
+flags: 0
+ts: 1528057707
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057707

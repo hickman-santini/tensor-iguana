@@ -1,0 +1,28 @@
+flags: 0
+blocks: <p>Seen on the subway before dawn one winter morning:<br /></p><ul><li>an Asian girl with a face like a kabuki mask, albino white and alabaster smooth, almond oval eyes so jet black as to be invisible in contrast</li><li>a man reading a shopcraft/woodworking magazine, titled simply <strong>Wood</strong></li><li>a boy intent on his handheld video game, glancing up for a moment at every stop</li><li>a woman dozing, parka hood pulled up, left hand held fingers splayed, cradling her face</li></ul><p>And overheard at lunch later that day, a loud matron complaining about the foxes at her country club: "They dig their dens right into the greens! There must be eighty of them! I told the groundskeepers to get rid of them!"</p><p>What a marvelous world we live in ...</p><p><em><strong>^z</strong></em> - 2011-04-20</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; What a marvelous world we live in<strong class="changes">!</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; What a marvelous world we live in <strong class="changes">...</strong></p></div>
+ip: 141.156.149.235
+ts: 1303288265
+minor: 1
+host: pool-141-156-149-235.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: Seen on the subway before dawn one winter morning:
+	* an Asian girl with a face like a kabuki mask, albino white and alabaster smooth, almond oval eyes so jet black as to be invisible in contrast
+	* a man reading a shopcraft/woodworking magazine, titled simply **Wood**
+	* a boy intent on his handheld video game, glancing up for a moment at every stop
+	* a woman dozing, parka hood pulled up, left hand held fingers splayed, cradling her face
+	
+	And overheard at lunch later that day, a loud matron complaining about the foxes at her country club: "They dig their dens right into the greens! There must be eighty of them! I told the groundskeepers to get rid of them!"
+	
+	What a marvelous world we live in ...
+	
+	//**^z**// - 2011-04-20
+	
+lastmajor: 1
+keep-ts: 1303288265

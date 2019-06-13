@@ -1,0 +1,19 @@
+flags: 0
+blocks: <h3>1 Comment.</h3><p>... yes, and perhaps even better than "-" between 0 and 1:</p><table class="user"><tr><td align="center">&infin;</td></tr></table><p>-- z 2019-01-26 11:13 UTC</p>
+lastmajorsummary: ... yes, and perhaps even better than "-" between 0 and 1: | &infin; |
+ts: 1548501181
+minor: 
+host: 71.178.81.79
+username: z
+revision: 1
+summary: ... yes, and perhaps even better than "-" between 0 and 1: | &infin; |
+languages: 
+text: === 1 Comment. ===
+	... yes, and perhaps even better than "-" between 0 and 1:
+	
+	| &infin; |
+	
+	-- z 2019-01-26 11:13 UTC
+	
+	
+lastmajor: 1

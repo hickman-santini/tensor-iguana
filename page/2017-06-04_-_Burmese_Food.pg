@@ -1,0 +1,23 @@
+blocks: <h3>~8.3 miles @ ~12.7 min/mi</h3><p>"Welease Wodewick!" and then "A hospital? It's a big building with patients, but that's not important right now." Barry quotes from the films <strong>Life of Brian</strong> and <strong>Airplane</strong>; I recite a bit of Gerard Manly Hopkins. On a sultry Sunday afternoon we meet at General Getty Park and ramble up Sligo Creek Trail. At Colt Terrace Neighborhood Park we pause to exercise on the children's playground equipment, then hook back via neighborhood streets to return downstream. A big deer peers at us, and a chipmunk dashes across the path. My lunch with DS Merle at the Mandalay Cafe &mdash; Burmese samosas, KaYann Thee Hin (eggplant onion curry), and Tofu Ohnno Hin (with coconut-cream curry) &mdash; was a tasty but perhaps suboptimal pre-run repast.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/995157021">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-06-28</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.31
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.3 miles @ ~12.7 min/mi
+	
+	"Welease Wodewick!" and then "A hospital? It's a big building with patients, but that's not important right now." Barry quotes from the films **Life of Brian** and **Airplane**; I recite a bit of Gerard Manly Hopkins. On a sultry Sunday afternoon we meet at General Getty Park and ramble up Sligo Creek Trail. At Colt Terrace Neighborhood Park we pause to exercise on the children's playground equipment, then hook back via neighborhood streets to return downstream. A big deer peers at us, and a chipmunk dashes across the path. My lunch with DS Merle at the Mandalay Cafe &mdash; Burmese samosas, KaYann Thee Hin (eggplant onion curry), and Tofu Ohnno Hin (with coconut-cream curry) &mdash; was a tasty but perhaps suboptimal pre-run repast.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/995157021|trackfile]])// - //**^z**// - 2017-06-28
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.3 miles @ ~12.7 min/mi<br />&gt; "Welease Wodewick!" and then "A hospital? It's a big building with patients, but that's not important right now." Barry quotes from the films **Life of Brian** and **Airplane**; I recite a bit of Gerard Manly Hopkins. On a sultry Sunday afternoon we meet at General Getty Park and ramble up Sligo Creek Trail. At Colt Terrace Neighborhood Park we pause to exercise on the children's playground equipment, then hook back via neighborhood streets to return downstream. A big deer peers at us, and a chipmunk dashes across the path. My lunch with DS Merle at the Mandalay Cafe &amp;mdash; Burmese samosas, KaYann Thee Hin (eggplant onion curry), and Tofu Ohnno Hin (with coconut-cream curry) &amp;mdash; was a tasty but perhaps suboptimal pre-run repast.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/995157021|trackfile]])// - //**^z**// - 2017-06-28</strong></p></div>
+flags: 0
+ts: 1528057680
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057680

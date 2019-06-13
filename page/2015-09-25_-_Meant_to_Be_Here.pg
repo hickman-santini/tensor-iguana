@@ -1,0 +1,25 @@
+blocks: <h3>~5.2 miles @ ~12.9 min/mi</h3><p>"If I get a call, I will deny knowing either of you!" Kerry cautions, after hearing of Kristin's and my exploratory adventures in her absence. In contrast, at dawn this morning as we venture along a narrow cut-through between Rupert St and Bonheim Ct, Kerry's comment is, "We were meant to be here!"</p><p>Venus glitters in the eastern sky as we set out for a trot around the McLean extended neighborhood, trying not to over-do the distance before Monday's planned long run. The bank thermometer reads 59&deg;F. Rabbit count = 1, spotted by Kerry as it scampers away in the gloom, confirmed in Kristin's flashlight beam.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/662918358">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 70.117.115.132
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.2 miles @ ~12.9 min/mi
+	
+	"If I get a call, I will deny knowing either of you!" Kerry cautions, after hearing of Kristin's and my exploratory adventures in her absence. In contrast, at dawn this morning as we venture along a narrow cut-through between Rupert St and Bonheim Ct, Kerry's comment is, "We were meant to be here!"
+	
+	Venus glitters in the eastern sky as we set out for a trot around the McLean extended neighborhood, trying not to over-do the distance before Monday's planned long run. The bank thermometer reads 59&deg;F. Rabbit count = 1, spotted by Kerry as it scampers away in the gloom, confirmed in Kristin's flashlight beam.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/662918358|trackfile]])// - //**^z**// - 2015-10-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.2 miles @ ~12.9 min/mi<br />&gt; "If I get a call, I will deny knowing either of you!" Kerry cautions, after hearing of Kristin's and my exploratory adventures in her absence. In contrast, at dawn this morning as we venture along a narrow cut-through between Rupert St and Bonheim Ct, Kerry's comment is, "We were meant to be here!"<br />&gt; Venus glitters in the eastern sky as we set out for a trot around the McLean extended neighborhood, trying not to over-do the distance before Monday's planned long run. The bank thermometer reads 59&amp;deg;F. Rabbit count = 1, spotted by Kerry as it scampers away in the gloom, confirmed in Kristin's flashlight beam.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/662918358|trackfile]])// - //**^z**// - 2015-10-19</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

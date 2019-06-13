@@ -1,0 +1,34 @@
+flags: 0
+blocks: <p>Ann Patchett's telling of her decades-long soul-deep bond to Lucy Grealy &mdash; <strong>Truth &amp; Beauty: A Friendship</strong> &mdash; is a beautifully drawn portrait of a liar, genius, addict, victim, hero, master manipulator, and poet. Grealy was all of these, though perhaps less rather than more. Given the prism of passionate love that Patchett views her dear flawed comrade through, it's hard to know how much is real and how much is selective reporting. Grealy's psychological state sinks into abyssal depths as the narrative proceeds. Her childhood cancer, interminable experimental-reconstructive surgeries, near-constant pain, substance abuse, and boundless sexual promiscuity eventually pile up like multiple train wrecks.</p><p>And yet ... her love and brilliant writing ... and her profound emptiness ...</p><p>Grealy's letters, as quoted by Patchett, are sinews that hold the book together:<br /></p><ul><li><em>"Dearest Anvil, dearest deposed president of some now defunct but lovingly remembered country, dearest to me, I can find no suitable words of affection for you, words that will contain the whole of your wonderfulness to me. You will have to make due with being my favorite bagel, my favorite blue awning above some great little caf&eacute; where the coffee is strong but milky and had real texture to it ..."</em></li><li><em>"Dearest Axiom of Faith, ..."</em></li><li><em>"Pettest of my Pets, ..."</em></li><li><em>"Dearest Anngora, my cynical pirate of the elusive heart, my self winding watch, my showpiece, my shoelace, ..."</em></li></ul><p>Those metaphors ... and Patchett's constant, selfless support ...</p><p><strong>Truth &amp; Beauty</strong> is a funhouse mirror in which, perhaps, reflections of every deep relationship can be seen.</p><p>Ms Patchett, you tried. No one can save every broken bird &mdash; but for Lucy, you tried. Thank you for sharing the trying.</p><p><em><strong>^z</strong></em> - 2018-08-02</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">//Dear Ann</strong>, you tried. No one can save every broken bird &amp;mdash; but for Lucy, you tried. Thank you for sharing the trying<strong class="changes">.//</strong><br />&lt; //**^z**// - 2018-08-<strong class="changes">01</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Ms Patchett</strong>, you tried. No one can save every broken bird &amp;mdash; but for Lucy, you tried. Thank you for sharing the trying<strong class="changes">.</strong><br />&gt; //**^z**// - 2018-08-<strong class="changes">02</strong></p></div>
+lastmajorsummary: 
+ts: 1533201147
+minor: 
+host: 166.137.240.45
+username: z
+revision: 4
+diff-major: 1
+summary: 
+languages: 
+text: Ann Patchett's telling of her decades-long soul-deep bond to Lucy Grealy &mdash; **Truth & Beauty: A Friendship** &mdash; is a beautifully drawn portrait of a liar, genius, addict, victim, hero, master manipulator, and poet. Grealy was all of these, though perhaps less rather than more. Given the prism of passionate love that Patchett views her dear flawed comrade through, it's hard to know how much is real and how much is selective reporting. Grealy's psychological state sinks into abyssal depths as the narrative proceeds. Her childhood cancer, interminable experimental-reconstructive surgeries, near-constant pain, substance abuse, and boundless sexual promiscuity eventually pile up like multiple train wrecks.
+	
+	And yet ... her love and brilliant writing ... and her profound emptiness ...
+	
+	Grealy's letters, as quoted by Patchett, are sinews that hold the book together:
+	* //"Dearest Anvil, dearest deposed president of some now defunct but lovingly remembered country, dearest to me, I can find no suitable words of affection for you, words that will contain the whole of your wonderfulness to me. You will have to make due with being my favorite bagel, my favorite blue awning above some great little caf&eacute; where the coffee is strong but milky and had real texture to it ..."//
+	* //"Dearest Axiom of Faith, ..."//
+	* //"Pettest of my Pets, ..."//
+	* //"Dearest Anngora, my cynical pirate of the elusive heart, my self winding watch, my showpiece, my shoelace, ..."//
+	
+	Those metaphors ... and Patchett's constant, selfless support ...
+	
+	**Truth & Beauty** is a funhouse mirror in which, perhaps, reflections of every deep relationship can be seen.
+	
+	Ms Patchett, you tried. No one can save every broken bird &mdash; but for Lucy, you tried. Thank you for sharing the trying.
+	
+	//**^z**// - 2018-08-02
+	
+lastmajor: 4
+keep-ts: 1533201147

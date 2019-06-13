@@ -1,0 +1,18 @@
+flags: 0
+blocks: <h3>~7 miles @ ~13 min/mi</h3><p>At 8am Mary Ewell and Ken Swab and I meet at the Wyndale Drive parking lot and walk along Rock Creek Trail to the DC Line. Then we trot briskly downstream on the Valley Trail, amusing one another with anecdotes and marveling at the tolerable temperature and humidity this morning. Approaching Military Road we miss a turn and have to backtrack a tenth of a mile or so to get to the proper blue-blazed path. On the other side of the creek we climb the steep horse trail to Fort DeRussy and then take the Western Ridge Trail back to Maryland. At her car Mary demonstrates how to change clothes in perfect modesty with the aid of a large blanket, as gentleman Ken and I avert our eyes.</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~7 miles @ ~13 min/mi<br />&gt; At 8am Mary Ewell and Ken Swab and I meet at the Wyndale Drive parking lot and walk along Rock Creek Trail to the DC Line. Then we trot briskly downstream on the Valley Trail, amusing one another with anecdotes and marveling at the tolerable temperature and humidity this morning. Approaching Military Road we miss a turn and have to backtrack a tenth of a mile or so to get to the proper blue-blazed path. On the other side of the creek we climb the steep horse trail to Fort DeRussy and then take the Western Ridge Trail back to Maryland. At her car Mary demonstrates how to change clothes in perfect modesty with the aid of a large blanket, as gentleman Ken and I avert our eyes.</p></div>
+ip: 128.29.43.2
+ts: 1528057680
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 4
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7 miles @ ~13 min/mi
+	
+	At 8am Mary Ewell and Ken Swab and I meet at the Wyndale Drive parking lot and walk along Rock Creek Trail to the DC Line. Then we trot briskly downstream on the Valley Trail, amusing one another with anecdotes and marveling at the tolerable temperature and humidity this morning. Approaching Military Road we miss a turn and have to backtrack a tenth of a mile or so to get to the proper blue-blazed path. On the other side of the creek we climb the steep horse trail to Fort DeRussy and then take the Western Ridge Trail back to Maryland. At her car Mary demonstrates how to change clothes in perfect modesty with the aid of a large blanket, as gentleman Ken and I avert our eyes.
+	
+languages: 
+keep-ts: 1528057680

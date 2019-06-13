@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p><h3>11+ miles @ ~13 min/mi</h3></p><p>Kabrena Rodda and I meet at the Greenbelt Youth Center this morning partly to have a good-bye run <em>(she's being transferred to Texas within the month)</em> and partly to give me a preview of the George Washington Birthday Marathon course. The GWBM will take place on February 17, and as usual I'm Mr. Unready, but no matter: it's just another training run, preparation for the Seneca Creek trail marathon, the HAT Run 50k, and the Bull Run Run 50 miler all to come within the next two months. Dr. K and I enjoy the cool but relatively calm weather as we trot along the roads of the Beltsville Agricultural Research Center. We do one loop rather than the three of race day.</p><p>Our splits: <strong>12:02</strong> <em>(little did we know!)</em> + <strong>11:35</strong> <em>(including the nice downhill stretch into BARC)</em> + <strong>27:01</strong> <em>(miles 3 &amp; 4; I missed hitting the stopwatch button in the middle; it included a rest stop and some uphill walks)</em> + <strong>12:26</strong> + <strong>13:19</strong> <em>(turning from Beaver Dam to Soil Conservation Rd)</em> + <strong>13:11</strong> + <strong>13:16</strong> <em>(we're consistent, eh?!)</em> + <strong>13:50</strong> <em>(mile 9, mostly uphill along Powder Mill Rd)</em> + <strong>5:26</strong> <em>(fractional mile to marathon marker "24")</em> + <strong>11:41</strong> <em>(the fast mile from the BARC Visitor Center "Log Cabin" to the Big Hill)</em> + <strong>13:45</strong> <em>(the aforementioned Big Hill!)</em> + <strong>2:14</strong> <em>(final 385 yards of the marathon)</em>. Our total time is thus just under 2.5 hours for what I estimate was ~11.6 miles, as per the <a class="url http outside" href="http://www.dcroadrunners.org/gwmarathon/course.html">course map</a>.</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; //**^z**//</p></div>
+ip: 138.88.114.105
+ts: 1272334595
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: strip superfluous //**^z**// at end
+languages: 
+text: === 11+ miles @ ~13 min/mi
+	
+	Kabrena Rodda and I meet at the Greenbelt Youth Center this morning partly to have a good-bye run //(she's being transferred to Texas within the month)// and partly to give me a preview of the George Washington Birthday Marathon course. The GWBM will take place on February 17, and as usual I'm Mr. Unready, but no matter: it's just another training run, preparation for the Seneca Creek trail marathon, the HAT Run 50k, and the Bull Run Run 50 miler all to come within the next two months. Dr. K and I enjoy the cool but relatively calm weather as we trot along the roads of the Beltsville Agricultural Research Center. We do one loop rather than the three of race day.
+	
+	Our splits: **12:02** //(little did we know!)// + **11:35** //(including the nice downhill stretch into BARC)// + **27:01** //(miles 3 & 4; I missed hitting the stopwatch button in the middle; it included a rest stop and some uphill walks)// + **12:26** + **13:19** //(turning from Beaver Dam to Soil Conservation Rd)// + **13:11** + **13:16** //(we're consistent, eh?!)// + **13:50** //(mile 9, mostly uphill along Powder Mill Rd)// + **5:26** //(fractional mile to marathon marker "24")// + **11:41** //(the fast mile from the BARC Visitor Center "Log Cabin" to the Big Hill)// + **13:45** //(the aforementioned Big Hill!)// + **2:14** //(final 385 yards of the marathon)//. Our total time is thus just under 2.5 hours for what I estimate was ~11.6 miles, as per the [[http://www.dcroadrunners.org/gwmarathon/course.html|course map]].
+	
+keep-ts: 1272334595

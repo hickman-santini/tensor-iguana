@@ -1,0 +1,23 @@
+blocks: <h3>~6.1 miles @ ~11.7 min/mi</h3><p><em>"I think you mean '<strong>Dr. WHOM</strong>'!?"</em> says the Grammar Dalek t-shirt that Rebecca points out on a passing walker. We're trekking along Rock Creek Trail, chatting about training, life, race course route mismanagement, and how tough summer humidity is sometimes. I meander around the 'hood solo for a mile until RR arrives to pull me along at ~10.5 min/mi, a hasty pace to get her back in time for family visits later this morning. She tries to teach me the names of various comrades we meet along the way; I try to practice saying "Thank you!" instead of arguing with someone who compliments me.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/852922516">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-09-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.96
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.1 miles @ ~11.7 min/mi
+	
+	//"I think you mean '**Dr. WHOM**'!?"// says the Grammar Dalek t-shirt that Rebecca points out on a passing walker. We're trekking along Rock Creek Trail, chatting about training, life, race course route mismanagement, and how tough summer humidity is sometimes. I meander around the 'hood solo for a mile until RR arrives to pull me along at ~10.5 min/mi, a hasty pace to get her back in time for family visits later this morning. She tries to teach me the names of various comrades we meet along the way; I try to practice saying "Thank you!" instead of arguing with someone who compliments me.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/852922516|trackfile]])// - //**^z**// - 2016-09-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.1 miles @ ~11.7 min/mi<br />&gt; //"I think you mean '**Dr. WHOM**'!?"// says the Grammar Dalek t-shirt that Rebecca points out on a passing walker. We're trekking along Rock Creek Trail, chatting about training, life, race course route mismanagement, and how tough summer humidity is sometimes. I meander around the 'hood solo for a mile until RR arrives to pull me along at ~10.5 min/mi, a hasty pace to get her back in time for family visits later this morning. She tries to teach me the names of various comrades we meet along the way; I try to practice saying "Thank you!" instead of arguing with someone who compliments me.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/852922516|trackfile]])// - //**^z**// - 2016-09-24</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057688

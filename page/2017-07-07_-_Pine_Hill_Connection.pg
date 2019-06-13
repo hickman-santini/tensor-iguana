@@ -1,0 +1,25 @@
+blocks: <h3>~5.2 miles @ ~13.8 min/mi</h3><p>"Coyote Taco was just across the street!" The Dawn Patrol discovers a new cut-through, from Pine Hill Rd to Dolley Madison Blvd, a pedestrian pathway that we've passed by hundreds of times on the other side without noticing. A lovely front-yard garden beckons, graced with pink flamingo statues and flowing water. Echinacea and hydrangeas bloom in profusion. It's already a season of mists and mellow fruitfulness. Gentle rain patters down.</p><p>"Dynamite it?" - "Make it into a flower planter?" - "Carve a statue of a mermaid?" - "Maybe a basketball player?" Kerry seeks ideas for what to do with the remnants of a soon-to-be-removed dead tree in front of her house. Kristin comments on her talkative daughter, whose brother calls her "Motor-mouth!". Cait tiptoes on slippery stones, then jumps off to just run on the mud. An upcoming visit to Dublin for a U2 concert brings to mind the Broome Bridge there, where mathematician Hamilton invented a new number system, the Quaternions. <em>(Maybe that could be a band name?)</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1013854143">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-08-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.54
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.2 miles @ ~13.8 min/mi
+	
+	"Coyote Taco was just across the street!" The Dawn Patrol discovers a new cut-through, from Pine Hill Rd to Dolley Madison Blvd, a pedestrian pathway that we've passed by hundreds of times on the other side without noticing. A lovely front-yard garden beckons, graced with pink flamingo statues and flowing water. Echinacea and hydrangeas bloom in profusion. It's already a season of mists and mellow fruitfulness. Gentle rain patters down.
+	
+	"Dynamite it?" - "Make it into a flower planter?" - "Carve a statue of a mermaid?" - "Maybe a basketball player?" Kerry seeks ideas for what to do with the remnants of a soon-to-be-removed dead tree in front of her house. Kristin comments on her talkative daughter, whose brother calls her "Motor-mouth!". Cait tiptoes on slippery stones, then jumps off to just run on the mud. An upcoming visit to Dublin for a U2 concert brings to mind the Broome Bridge there, where mathematician Hamilton invented a new number system, the Quaternions. //(Maybe that could be a band name?)//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1013854143|trackfile]])// - //**^z**// - 2017-08-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.2 miles @ ~13.8 min/mi<br />&gt; "Coyote Taco was just across the street!" The Dawn Patrol discovers a new cut-through, from Pine Hill Rd to Dolley Madison Blvd, a pedestrian pathway that we've passed by hundreds of times on the other side without noticing. A lovely front-yard garden beckons, graced with pink flamingo statues and flowing water. Echinacea and hydrangeas bloom in profusion. It's already a season of mists and mellow fruitfulness. Gentle rain patters down.<br />&gt; "Dynamite it?" - "Make it into a flower planter?" - "Carve a statue of a mermaid?" - "Maybe a basketball player?" Kerry seeks ideas for what to do with the remnants of a soon-to-be-removed dead tree in front of her house. Kristin comments on her talkative daughter, whose brother calls her "Motor-mouth!". Cait tiptoes on slippery stones, then jumps off to just run on the mud. An upcoming visit to Dublin for a U2 concert brings to mind the Broome Bridge there, where mathematician Hamilton invented a new number system, the Quaternions. //(Maybe that could be a band name?)//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1013854143|trackfile]])// - //**^z**// - 2017-08-02</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

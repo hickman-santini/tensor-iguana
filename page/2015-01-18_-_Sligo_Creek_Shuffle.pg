@@ -1,0 +1,25 @@
+blocks: <h3>~10.7 miles @ ~11.4 min/mi</h3><p>"It's a three-day weekend &mdash; it's silly to get angry!" Amy says as we begin our trek to the music of cars honking at each other. We're on dual missions: to drop off my son's mail, and to give Amy some tempo mileage in preparation for a multi-stage ultra-relay in a few months. Our pace is brisk but conversational.</p><p>Fog replaces rain and temps are in the low 40s, so no jackets needed this afternoon. Geese feed on the infield at a Wheaton Regional Park ballfield. Traffic lines up to reach the skating rinks and tennis bubbles. Icy patches in shaded spots impose occasional walk breaks along Sligo Creek. Amy logs ~8.9 miles, with faster splits sub-11 min/mi and overall average well under 12. We vary our route slightly on the return journey to make a prettier trackfile. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/498405692">Runkeeper</a> records route.</p><p><em><strong>^z</strong></em> - 2015-02-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.7 miles @ ~11.4 min/mi
+	
+	"It's a three-day weekend &mdash; it's silly to get angry!" Amy says as we begin our trek to the music of cars honking at each other. We're on dual missions: to drop off my son's mail, and to give Amy some tempo mileage in preparation for a multi-stage ultra-relay in a few months. Our pace is brisk but conversational.
+	
+	Fog replaces rain and temps are in the low 40s, so no jackets needed this afternoon. Geese feed on the infield at a Wheaton Regional Park ballfield. Traffic lines up to reach the skating rinks and tennis bubbles. Icy patches in shaded spots impose occasional walk breaks along Sligo Creek. Amy logs ~8.9 miles, with faster splits sub-11 min/mi and overall average well under 12. We vary our route slightly on the return journey to make a prettier trackfile. [[http://runkeeper.com/user/zhurnaly/activity/498405692|Runkeeper]] records route.
+	
+	//**^z**// - 2015-02-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.7 miles @ ~11.4 min/mi<br />&gt; "It's a three-day weekend &amp;mdash; it's silly to get angry!" Amy says as we begin our trek to the music of cars honking at each other. We're on dual missions: to drop off my son's mail, and to give Amy some tempo mileage in preparation for a multi-stage ultra-relay in a few months. Our pace is brisk but conversational.<br />&gt; Fog replaces rain and temps are in the low 40s, so no jackets needed this afternoon. Geese feed on the infield at a Wheaton Regional Park ballfield. Traffic lines up to reach the skating rinks and tennis bubbles. Icy patches in shaded spots impose occasional walk breaks along Sligo Creek. Amy logs ~8.9 miles, with faster splits sub-11 min/mi and overall average well under 12. We vary our route slightly on the return journey to make a prettier trackfile. [[http://runkeeper.com/user/zhurnaly/activity/498405692|Runkeeper]] records route.<br />&gt; //**^z**// - 2015-02-07</strong></p></div>
+flags: 0
+ts: 1528057698
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057698

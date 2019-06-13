@@ -1,0 +1,27 @@
+blocks: <h3>~10.7 miles @ ~8.8 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Lake_Artemesia_gateway.jpg" alt="http://zhurnaly.com/images/running/Lake_Artemesia_gateway.jpg" /></td><td align="right">Fueled by a cup of coffee at sunrise and a stale nacho cheese tortilla chip found on the floor of the car, and with no water en route, it's an experimental fasting-trek following Marshall Porterfield's and Stephanie Fonda's example. Fortunately the day is cool and there's no major problem with dehydration.</td></tr></table><p>Lake Artemesia + Indian Creek + Paint Branch trails on Saturday afternoon are thick with cyclists and strollers. Tailgate parties on the University of Maryland campus cheer as I trot past &mdash; is my eye-searing orange shirt the color of some visiting team? A flock of crows takes wing at my approach.</p><p><a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/273803547">Runkeeper</a> records the route, since the Garmin GPS is out of power; apparently I left it turned on when I stored it after downloading data the other day. <em>Oooooopsie!</em> |</p><p><em><strong>^z</strong></em> - 2013-12-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.214.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.7 miles @ ~8.8 min/mi
+	
+	| http://zhurnaly.com/images/running/Lake_Artemesia_gateway.jpg | Fueled by a cup of coffee at sunrise and a stale nacho cheese tortilla chip found on the floor of the car, and with no water en route, it's an experimental fasting-trek following Marshall Porterfield's and Stephanie Fonda's example. Fortunately the day is cool and there's no major problem with dehydration.
+	
+	Lake Artemesia + Indian Creek + Paint Branch trails on Saturday afternoon are thick with cyclists and strollers. Tailgate parties on the University of Maryland campus cheer as I trot past &mdash; is my eye-searing orange shirt the color of some visiting team? A flock of crows takes wing at my approach.
+	
+	[[http://runkeeper.com/user/zhurnaly/activity/273803547|Runkeeper]] records the route, since the Garmin GPS is out of power; apparently I left it turned on when I stored it after downloading data the other day. //Oooooopsie!// |
+	
+	//**^z**// - 2013-12-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.7 miles @ ~8.8 min/mi<br />&gt; | http://zhurnaly.com/images/running/Lake_Artemesia_gateway.jpg | Fueled by a cup of coffee at sunrise and a stale nacho cheese tortilla chip found on the floor of the car, and with no water en route, it's an experimental fasting-trek following Marshall Porterfield's and Stephanie Fonda's example. Fortunately the day is cool and there's no major problem with dehydration.<br />&gt; Lake Artemesia + Indian Creek + Paint Branch trails on Saturday afternoon are thick with cyclists and strollers. Tailgate parties on the University of Maryland campus cheer as I trot past &amp;mdash; is my eye-searing orange shirt the color of some visiting team? A flock of crows takes wing at my approach.<br />&gt; [[http://runkeeper.com/user/zhurnaly/activity/273803547|Runkeeper]] records the route, since the Garmin GPS is out of power; apparently I left it turned on when I stored it after downloading data the other day. //Oooooopsie!// |<br />&gt; //**^z**// - 2013-12-13</strong></p></div>
+flags: 0
+ts: 1528057704
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057704

@@ -1,0 +1,23 @@
+blocks: <h3>~3 miles @ ~9.5 min/mi</h3><p>5&deg;F, 5 km, 5 mi/hr winds, 5:55am Pimmit Hills loop &mdash; solo single-digit madness, done just for the sake of an outrageous logbook entry! <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/159022128">Runtastic</a> and <a class="url http outside" href="http://connect.garmin.com/activity/426473897">Garmin</a> GPS concur in the silliness of this venture. The bandana comes untied and slips off my face after a mile, at which point nose and chin become a bit frostier.</p><p><em><strong>^z</strong></em> - 2014-02-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.211.54
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3 miles @ ~9.5 min/mi
+	
+	5&deg;F, 5 km, 5 mi/hr winds, 5:55am Pimmit Hills loop &mdash; solo single-digit madness, done just for the sake of an outrageous logbook entry! [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/159022128|Runtastic]] and [[http://connect.garmin.com/activity/426473897|Garmin]] GPS concur in the silliness of this venture. The bandana comes untied and slips off my face after a mile, at which point nose and chin become a bit frostier.
+	
+	//**^z**// - 2014-02-01
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3 miles @ ~9.5 min/mi<br />&gt; 5&amp;deg;F, 5 km, 5 mi/hr winds, 5:55am Pimmit Hills loop &amp;mdash; solo single-digit madness, done just for the sake of an outrageous logbook entry! [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/159022128|Runtastic]] and [[http://connect.garmin.com/activity/426473897|Garmin]] GPS concur in the silliness of this venture. The bandana comes untied and slips off my face after a mile, at which point nose and chin become a bit frostier.<br />&gt; //**^z**// - 2014-02-01</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

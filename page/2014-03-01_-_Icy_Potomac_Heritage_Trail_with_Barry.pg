@@ -1,0 +1,31 @@
+blocks: <h3>0.5 miles @ ~30 min/mi</h3><p>Barry Smith and I arrive early for a planned group trek today with comrades, to scout out the Potomac Heritage Trail. But we discover the gate closed to Turkey Run Park. Fallback: the Live Oak Dr trailhead for the PHT, just outside the Capital Beltway. Plenty of parking there, but the trail so icy that it's essentially unrunnable. After a quarter mile of cautious walking and only a few steps of running, we turn back. Under the American Legion Bridge pause for photos of graffiti. <a class="url http outside" href="http://connect.garmin.com/activity/454311436">Garmin</a> GPS and <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/181212949">Runtastic</a> on the iPhone show the route.</p><table class="user"><tr><td align="right"><img class="url http" src="http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_1.jpg" alt="http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_1.jpg" /></td></tr></table><p><img class="url http" src="http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_2.jpg" alt="http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_2.jpg" /></p><p><img class="url http" src="http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_3.jpg" alt="http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_3.jpg" /></p><p><img class="url http" src="http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_4.jpg" alt="http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_4.jpg" /> | <img class="url http" src="http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_4z.jpg" alt="http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_4z.jpg" /> |</p><p><em><strong>^z</strong></em> - 2014-03-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.215.91
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 0.5 miles @ ~30 min/mi
+	
+	Barry Smith and I arrive early for a planned group trek today with comrades, to scout out the Potomac Heritage Trail. But we discover the gate closed to Turkey Run Park. Fallback: the Live Oak Dr trailhead for the PHT, just outside the Capital Beltway. Plenty of parking there, but the trail so icy that it's essentially unrunnable. After a quarter mile of cautious walking and only a few steps of running, we turn back. Under the American Legion Bridge pause for photos of graffiti. [[http://connect.garmin.com/activity/454311436|Garmin]] GPS and [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/181212949|Runtastic]] on the iPhone show the route.
+	
+	| http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_1.jpg
+	
+	http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_2.jpg
+	
+	http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_3.jpg
+	
+	http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_4.jpg | http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_4z.jpg |
+	
+	//**^z**// - 2014-03-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 0.5 miles @ ~30 min/mi<br />&gt; Barry Smith and I arrive early for a planned group trek today with comrades, to scout out the Potomac Heritage Trail. But we discover the gate closed to Turkey Run Park. Fallback: the Live Oak Dr trailhead for the PHT, just outside the Capital Beltway. Plenty of parking there, but the trail so icy that it's essentially unrunnable. After a quarter mile of cautious walking and only a few steps of running, we turn back. Under the American Legion Bridge pause for photos of graffiti. [[http://connect.garmin.com/activity/454311436|Garmin]] GPS and [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/181212949|Runtastic]] on the iPhone show the route.<br />&gt; | http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_1.jpg<br />&gt; http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_2.jpg<br />&gt; http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_3.jpg<br />&gt; http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_4.jpg | http://zhurnaly.com/images/running/American_Legion_Bridge_Graffiti_4z.jpg |<br />&gt; //**^z**// - 2014-03-17</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057711

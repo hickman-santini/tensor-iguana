@@ -1,0 +1,20 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">To my too-long list of underappreciated movies must be added **Stark Raving Mad**, a 2002 caper flick written and directed by Drew Daywalt and David Schneider. The "raving" of the title is a loud and crowded club dance,  cover for the bank robbery taking place downstairs. Besides superb camera work and a witty story, **SRM** offers near-**Fight-Club**-class dialog, sharp and smart &amp;mdash; but alas, too obscenity-laced to quote here. <br />&lt; Best of all, however, **</strong>Stark Raving Mad<strong class="changes">** features another fine nerd for me to identify with: Suzy Nakamura, who as a disgruntled hacker brings to mind the **Real Genius** tour-de-force performance of Michelle Meyrink. //Bravo, ladies!//<br />&lt; //(cf. [[DialogueDensity]] (21 May 2002), [[RepoMan]] (10 Mar 2003), [[CutTheVolume</strong>]] <strong class="changes">(5 Mar 2004), [[DannyTheDog]] (14 May 2005), ...)//<br />&lt; ----<br />&lt; [[TopicEntertainment]] - [[TopicArt]] - Datetag20051028<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[RealGenius]], [[PureTheory]], [[StrawberryFields]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[</strong>Stark Raving Mad]]</p></div>
+ip: 70.21.87.47
+ts: 1220292645
+minor: 1
+host: pool-70-21-87-47.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>cf. [[DialogueDensity]] (21 May 2002), [[RepoMan]] (10 Mar 2003), [[CutTheVolume]] (5 Mar 2004), [[DannyTheDog]] (14 May 2005), <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>cf. [[DialogueDensity]] (21 May 2002), [[RepoMan]] (10 Mar 2003), [[CutTheVolume]] (5 Mar 2004), [[DannyTheDog]] (14 May 2005), <strong class="changes">...)//</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>correlates: [[RealGenius]], [[PureTheory]], [[StrawberryFields]], <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>correlates: [[RealGenius]], [[PureTheory]], [[StrawberryFields]], <strong class="changes">...)//</strong></p></div>
+summary: make redirect
+languages: 
+text: #REDIRECT [[Stark Raving Mad]]
+	
+lastmajor: 2
+keep-ts: 1220292645

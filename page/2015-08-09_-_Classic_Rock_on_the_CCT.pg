@@ -1,0 +1,25 @@
+blocks: <h3>~6.3 miles @ ~10.8 min/mi</h3><p>"Kicks just keep getting harder to find," says Barry at mile ~5, when I suggest that Emaad and Ken start their sprints to the finish line. Earlier another runner asks us to check our watches. "Does anybody really know what time it is?" I ask. "Does anybody really care?"</p><p>Crude banter abounds on the Capital Crescent Trail as the Boys compare injuries and feign sympathy. Fast runners pull us along, then leave us in their wake. The Nike logo is fetchingly displayed on one young passer-by. Speed Coach Evan catches us during a walk break and mocks accordingly. Conversational topics include beer carbonation, Oxford colleges, and superhero movies.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/630632702">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-08-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.117
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.3 miles @ ~10.8 min/mi
+	
+	"Kicks just keep getting harder to find," says Barry at mile ~5, when I suggest that Emaad and Ken start their sprints to the finish line. Earlier another runner asks us to check our watches. "Does anybody really know what time it is?" I ask. "Does anybody really care?"
+	
+	Crude banter abounds on the Capital Crescent Trail as the Boys compare injuries and feign sympathy. Fast runners pull us along, then leave us in their wake. The Nike logo is fetchingly displayed on one young passer-by. Speed Coach Evan catches us during a walk break and mocks accordingly. Conversational topics include beer carbonation, Oxford colleges, and superhero movies.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/630632702|trackfile]])// - //**^z**// - 2015-08-27
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.3 miles @ ~10.8 min/mi<br />&gt; "Kicks just keep getting harder to find," says Barry at mile ~5, when I suggest that Emaad and Ken start their sprints to the finish line. Earlier another runner asks us to check our watches. "Does anybody really know what time it is?" I ask. "Does anybody really care?"<br />&gt; Crude banter abounds on the Capital Crescent Trail as the Boys compare injuries and feign sympathy. Fast runners pull us along, then leave us in their wake. The Nike logo is fetchingly displayed on one young passer-by. Speed Coach Evan catches us during a walk break and mocks accordingly. Conversational topics include beer carbonation, Oxford colleges, and superhero movies.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/630632702|trackfile]])// - //**^z**// - 2015-08-27</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

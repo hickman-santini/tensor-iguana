@@ -1,0 +1,27 @@
+blocks: <h3>~6.3 miles @ ~13.1 min/mi</h3><p>"Take a shot! Take a shot!" Kerry quotes a New Zealand dad, whose daughter was on the basketball team with her daughter and whose court-side shouts were oft misinterpreted. We're rambling around McLean and comparing language notes, especially involving kids, figures of speech, and slightly-naughty slang.</p><p>Bunny count = 6 plus an unconfirmed 1, on a pleasantly cool summer morn. Kristin spots a big scary-looking gray bird &mdash; heron? crane? &mdash; standing in the Evans Farm pond. The Starbucks app apparently causes Runkeeper's GPS recording to pause, so there's a ~22 minute gap and a missing mile-ish in the trackfile that correlates with iced coffee. We explore cut-throughs and discover a new one between neighborhood streets.</p><p>"Are you Mark?" asks a man on Margie Drive who's wearing a bright green Bull Run Run t-shirt. It's Charlie Miracle, a fellow Virginia Happy Trails Club ultrarunner. <em>Small world!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/823350205">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-08-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.91.155
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.3 miles @ ~13.1 min/mi
+	
+	"Take a shot! Take a shot!" Kerry quotes a New Zealand dad, whose daughter was on the basketball team with her daughter and whose court-side shouts were oft misinterpreted. We're rambling around McLean and comparing language notes, especially involving kids, figures of speech, and slightly-naughty slang.
+	
+	Bunny count = 6 plus an unconfirmed 1, on a pleasantly cool summer morn. Kristin spots a big scary-looking gray bird &mdash; heron? crane? &mdash; standing in the Evans Farm pond. The Starbucks app apparently causes Runkeeper's GPS recording to pause, so there's a ~22 minute gap and a missing mile-ish in the trackfile that correlates with iced coffee. We explore cut-throughs and discover a new one between neighborhood streets.
+	
+	"Are you Mark?" asks a man on Margie Drive who's wearing a bright green Bull Run Run t-shirt. It's Charlie Miracle, a fellow Virginia Happy Trails Club ultrarunner. //Small world!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/823350205|trackfile]])// - //**^z**// - 2016-08-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.3 miles @ ~13.1 min/mi<br />&gt; "Take a shot! Take a shot!" Kerry quotes a New Zealand dad, whose daughter was on the basketball team with her daughter and whose court-side shouts were oft misinterpreted. We're rambling around McLean and comparing language notes, especially involving kids, figures of speech, and slightly-naughty slang.<br />&gt; Bunny count = 6 plus an unconfirmed 1, on a pleasantly cool summer morn. Kristin spots a big scary-looking gray bird &amp;mdash; heron? crane? &amp;mdash; standing in the Evans Farm pond. The Starbucks app apparently causes Runkeeper's GPS recording to pause, so there's a ~22 minute gap and a missing mile-ish in the trackfile that correlates with iced coffee. We explore cut-throughs and discover a new one between neighborhood streets.<br />&gt; "Are you Mark?" asks a man on Margie Drive who's wearing a bright green Bull Run Run t-shirt. It's Charlie Miracle, a fellow Virginia Happy Trails Club ultrarunner. //Small world!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/823350205|trackfile]])// - //**^z**// - 2016-08-03</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057697

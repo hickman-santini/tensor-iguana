@@ -1,0 +1,23 @@
+blocks: <h3>~6.0 miles @ ~12.2 min/mi</h3><p>"I can do half of a chin-up &mdash; the downward half!" I tell the three powerfully-built young hunks. They cruise by Amy and me as we approach the Ken-Gar playground, pause for bonus upper-body exercise on the bars and other equipment there, then run onward passing us again. We're doing a loop around Stephanie's neighborhood without ultra-tough Stephanie, who took a bad fall yesterday during a solo trek and then drove herself to get repairs ("only 6 stitches!"). A bunny scampers off the trail at our approach. At Randolph Rd we branch west, past RnJ Sports which reminds us that we both need new shoes.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/659655056">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.0 miles @ ~12.2 min/mi
+	
+	"I can do half of a chin-up &mdash; the downward half!" I tell the three powerfully-built young hunks. They cruise by Amy and me as we approach the Ken-Gar playground, pause for bonus upper-body exercise on the bars and other equipment there, then run onward passing us again. We're doing a loop around Stephanie's neighborhood without ultra-tough Stephanie, who took a bad fall yesterday during a solo trek and then drove herself to get repairs ("only 6 stitches!"). A bunny scampers off the trail at our approach. At Randolph Rd we branch west, past RnJ Sports which reminds us that we both need new shoes.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/659655056|trackfile]])// - //**^z**// - 2015-10-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.0 miles @ ~12.2 min/mi<br />&gt; "I can do half of a chin-up &amp;mdash; the downward half!" I tell the three powerfully-built young hunks. They cruise by Amy and me as we approach the Ken-Gar playground, pause for bonus upper-body exercise on the bars and other equipment there, then run onward passing us again. We're doing a loop around Stephanie's neighborhood without ultra-tough Stephanie, who took a bad fall yesterday during a solo trek and then drove herself to get repairs ("only 6 stitches!"). A bunny scampers off the trail at our approach. At Randolph Rd we branch west, past RnJ Sports which reminds us that we both need new shoes.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/659655056|trackfile]])// - //**^z**// - 2015-10-13</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

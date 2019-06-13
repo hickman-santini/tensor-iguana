@@ -1,0 +1,25 @@
+blocks: <h3>~7.3 miles @ ~13.7 min/mi</h3><p>"Now I'm just smiling!" It's a natural reaction to the sight of me carrying an ultra-cute plush toy Peter Rabbit under my arm for the last few miles of today's Dawn Patrol. The big doll is standing by Dempsey St with a sign that says "<strong>FREE</strong>", so of course someone must rescue it! The Dawn Patrol rambles toward a rising sun, thankful that the morning isn't as warm and humid as the day will soon be. Opalocka Dr demands a detour to admire the bungalows. Three real bunnies nibble front lawn grass.</p><p>"Don't eat that bead! Don't lick his ear!" Kristin describes attempts to curb the over-enthusiastic antics of her family's puppy. Cait tells of testing a slip-n-slide and reports on the status of raccoon-trapping activities in her yard.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1000706064">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-07-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.3 miles @ ~13.7 min/mi
+	
+	"Now I'm just smiling!" It's a natural reaction to the sight of me carrying an ultra-cute plush toy Peter Rabbit under my arm for the last few miles of today's Dawn Patrol. The big doll is standing by Dempsey St with a sign that says "**FREE**", so of course someone must rescue it! The Dawn Patrol rambles toward a rising sun, thankful that the morning isn't as warm and humid as the day will soon be. Opalocka Dr demands a detour to admire the bungalows. Three real bunnies nibble front lawn grass.
+	
+	"Don't eat that bead! Don't lick his ear!" Kristin describes attempts to curb the over-enthusiastic antics of her family's puppy. Cait tells of testing a slip-n-slide and reports on the status of raccoon-trapping activities in her yard.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1000706064|trackfile]])// - //**^z**// - 2017-07-04
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.3 miles @ ~13.7 min/mi<br />&gt; "Now I'm just smiling!" It's a natural reaction to the sight of me carrying an ultra-cute plush toy Peter Rabbit under my arm for the last few miles of today's Dawn Patrol. The big doll is standing by Dempsey St with a sign that says "**FREE**", so of course someone must rescue it! The Dawn Patrol rambles toward a rising sun, thankful that the morning isn't as warm and humid as the day will soon be. Opalocka Dr demands a detour to admire the bungalows. Three real bunnies nibble front lawn grass.<br />&gt; "Don't eat that bead! Don't lick his ear!" Kristin describes attempts to curb the over-enthusiastic antics of her family's puppy. Cait tells of testing a slip-n-slide and reports on the status of raccoon-trapping activities in her yard.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1000706064|trackfile]])// - //**^z**// - 2017-07-04</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

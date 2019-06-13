@@ -1,0 +1,22 @@
+blocks: <h3>~3.2 miles @ ~11.4 min/mi</h3><p>At dawn on the last near-freezing morning of spring Ed Brown begins in the lead. Kerry Buckley and Kristin soon move ahead, however, laughing and chatting. They kindly wait for Ed and me to catch up at each corner. I argue the merits of speedwork. Ed tells of his personal trainer and gymnasium exercise regime. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/163567588">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/293290773">Garmin</a> GPS concur on distance and pace.</p><p><em><strong>^z</strong></em> - 2013-04-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.53
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.2 miles @ ~11.4 min/mi
+	
+	At dawn on the last near-freezing morning of spring Ed Brown begins in the lead. Kerry Buckley and Kristin soon move ahead, however, laughing and chatting. They kindly wait for Ed and me to catch up at each corner. I argue the merits of speedwork. Ed tells of his personal trainer and gymnasium exercise regime. [[http://runkeeper.com/user/zhurnaly/activity/163567588|Runkeeper]] and [[http://connect.garmin.com/activity/293290773|Garmin]] GPS concur on distance and pace.
+	
+	//**^z**// - 2013-04-22
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~3.2 miles @ ~11.4 min/mi<br />&gt; At dawn on the last near-freezing morning of spring Ed Brown begins in the lead. Kerry Buckley and Kristin soon move ahead, however, laughing and chatting. They kindly wait for Ed and me to catch up at each corner. I argue the merits of speedwork. Ed tells of his personal trainer and gymnasium exercise regime. [[http://runkeeper.com/user/zhurnaly/activity/163567588|Runkeeper]] and [[http://connect.garmin.com/activity/293290773|Garmin]] GPS concur on distance and pace.<br />&gt; //**^z**// - 2013-04-22</p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057712

@@ -1,0 +1,25 @@
+blocks: <h3>~4.3 miles @ ~12.7 min/mi</h3><p>"So I canceled my 8am meeting today, which was to discuss my overloaded calendar of meetings!" Kerry reports, metacognitively. Kristin and I concur that schedule management is a Turing-complete challenge worthy of Strong AI. The Dawn Patrol ramble this morning explores two new cut-throughs between Route 7 buildings and the Pimmit Hills 'hood. We find 54 cents in dropped change on sidewalks, parking lots, and dead-end streets.</p><p>Drs K&amp;K brainstorm work issues after suggesting ways to sanitize my Bull Run Run report for family audiences, possibly via Seinfeld allusions or L33t Speak. Two days post-BRR I'm largely recovered. But as we descend a stairway to Burnside Court, "Yesterday here, you would have heard my quads crying!".</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/766329375">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-05-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.225
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.3 miles @ ~12.7 min/mi
+	
+	"So I canceled my 8am meeting today, which was to discuss my overloaded calendar of meetings!" Kerry reports, metacognitively. Kristin and I concur that schedule management is a Turing-complete challenge worthy of Strong AI. The Dawn Patrol ramble this morning explores two new cut-throughs between Route 7 buildings and the Pimmit Hills 'hood. We find 54 cents in dropped change on sidewalks, parking lots, and dead-end streets.
+	
+	Drs K&K brainstorm work issues after suggesting ways to sanitize my Bull Run Run report for family audiences, possibly via Seinfeld allusions or L33t Speak. Two days post-BRR I'm largely recovered. But as we descend a stairway to Burnside Court, "Yesterday here, you would have heard my quads crying!".
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/766329375|trackfile]])// - //**^z**// - 2016-05-06
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.3 miles @ ~12.7 min/mi<br />&gt; "So I canceled my 8am meeting today, which was to discuss my overloaded calendar of meetings!" Kerry reports, metacognitively. Kristin and I concur that schedule management is a Turing-complete challenge worthy of Strong AI. The Dawn Patrol ramble this morning explores two new cut-throughs between Route 7 buildings and the Pimmit Hills 'hood. We find 54 cents in dropped change on sidewalks, parking lots, and dead-end streets.<br />&gt; Drs K&amp;K brainstorm work issues after suggesting ways to sanitize my Bull Run Run report for family audiences, possibly via Seinfeld allusions or L33t Speak. Two days post-BRR I'm largely recovered. But as we descend a stairway to Burnside Court, "Yesterday here, you would have heard my quads crying!".<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/766329375|trackfile]])// - //**^z**// - 2016-05-06</strong></p></div>
+flags: 0
+ts: 1528057685
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057685

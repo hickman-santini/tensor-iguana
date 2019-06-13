@@ -1,0 +1,25 @@
+blocks: <h3>~7.3 miles @ ~12.4 min/mi</h3><p>"Met with silence!" says Kerry, breaking the fourth wall after a long pause. Somebody <em>(guess who?)</em> has just suggested adding extra mileage on a sultry soon-to-be summer morning. Perhaps not today!</p><p>A rising sun glints off Tysons Corner glass. We debate the Nature of the Good and review a summer margarita recipe: lime and pineapple juices, triple sec, tequila infused with jalape&ntilde;o. High-energy Kristin pulls us up the hills along Lewinsville Road.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/799126974">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-06-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.135
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.3 miles @ ~12.4 min/mi
+	
+	"Met with silence!" says Kerry, breaking the fourth wall after a long pause. Somebody //(guess who?)// has just suggested adding extra mileage on a sultry soon-to-be summer morning. Perhaps not today!
+	
+	A rising sun glints off Tysons Corner glass. We debate the Nature of the Good and review a summer margarita recipe: lime and pineapple juices, triple sec, tequila infused with jalape&ntilde;o. High-energy Kristin pulls us up the hills along Lewinsville Road.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/799126974|trackfile]])// - //**^z**// - 2016-06-22
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.3 miles @ ~12.4 min/mi<br />&gt; "Met with silence!" says Kerry, breaking the fourth wall after a long pause. Somebody //(guess who?)// has just suggested adding extra mileage on a sultry soon-to-be summer morning. Perhaps not today!<br />&gt; A rising sun glints off Tysons Corner glass. We debate the Nature of the Good and review a summer margarita recipe: lime and pineapple juices, triple sec, tequila infused with jalape&amp;ntilde;o. High-energy Kristin pulls us up the hills along Lewinsville Road.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/799126974|trackfile]])// - //**^z**// - 2016-06-22</strong></p></div>
+flags: 0
+ts: 1528057694
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057694

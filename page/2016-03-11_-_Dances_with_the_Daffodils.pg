@@ -1,0 +1,23 @@
+blocks: <h3>~8.9 miles @ ~12.4 min/mi</h3><p>"Baby bottle!" We pass a full one, lying on the ground in McLean Central Park, dimly visible by dawn's early light and headlamp glow. "And I didn't stop to pick it up!" Temperatures fall, as does a light drizzle on the north wind, as Drs K&amp;K and I revisit Benjamin Street. New mansions are under construction, some with hypermodern architectural designs on their signage. "How will they look 30 years from now?" Daffodils open by the road, and Wordsworth's poem "I Wandered Lonely as a Cloud" floats into mind. We give thanks for the morning and the company. <em>Happy Day, everyone!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/748110881">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-03-30</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.112
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.9 miles @ ~12.4 min/mi
+	
+	"Baby bottle!" We pass a full one, lying on the ground in McLean Central Park, dimly visible by dawn's early light and headlamp glow. "And I didn't stop to pick it up!" Temperatures fall, as does a light drizzle on the north wind, as Drs K&K and I revisit Benjamin Street. New mansions are under construction, some with hypermodern architectural designs on their signage. "How will they look 30 years from now?" Daffodils open by the road, and Wordsworth's poem "I Wandered Lonely as a Cloud" floats into mind. We give thanks for the morning and the company. //Happy Day, everyone!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/748110881|trackfile]])// - //**^z**// - 2016-03-30
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.9 miles @ ~12.4 min/mi<br />&gt; "Baby bottle!" We pass a full one, lying on the ground in McLean Central Park, dimly visible by dawn's early light and headlamp glow. "And I didn't stop to pick it up!" Temperatures fall, as does a light drizzle on the north wind, as Drs K&amp;K and I revisit Benjamin Street. New mansions are under construction, some with hypermodern architectural designs on their signage. "How will they look 30 years from now?" Daffodils open by the road, and Wordsworth's poem "I Wandered Lonely as a Cloud" floats into mind. We give thanks for the morning and the company. //Happy Day, everyone!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/748110881|trackfile]])// - //**^z**// - 2016-03-30</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

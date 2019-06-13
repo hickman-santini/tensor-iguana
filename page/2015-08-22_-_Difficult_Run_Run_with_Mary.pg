@@ -1,0 +1,23 @@
+blocks: <h3>~6.0 miles @ ~16.6 min/mi</h3><p>"That won't go into the report," I promise Mary as we jog along Difficult Run and she describes some of her recent injuries and issues. Then, "That <em>definitely</em> won't go into the report!" We ramble downstream from Colvin Run Mill, chatting and greeting hikers, dog walkers, and the occasional cyclist. Stepping stones across the water are tricky in places, as are mud wallows and rocky-rooty hills. More details to follow ... or maybe not!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/640080301">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-09-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~6.0 miles @ ~16.6 min/mi
+	
+	"That won't go into the report," I promise Mary as we jog along Difficult Run and she describes some of her recent injuries and issues. Then, "That //definitely// won't go into the report!" We ramble downstream from Colvin Run Mill, chatting and greeting hikers, dog walkers, and the occasional cyclist. Stepping stones across the water are tricky in places, as are mud wallows and rocky-rooty hills. More details to follow ... or maybe not!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/640080301|trackfile]])// - //**^z**// - 2015-09-04
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.0 miles @ ~16.6 min/mi<br />&gt; "That won't go into the report," I promise Mary as we jog along Difficult Run and she describes some of her recent injuries and issues. Then, "That //definitely// won't go into the report!" We ramble downstream from Colvin Run Mill, chatting and greeting hikers, dog walkers, and the occasional cyclist. Stepping stones across the water are tricky in places, as are mud wallows and rocky-rooty hills. More details to follow ... or maybe not!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/640080301|trackfile]])// - //**^z**// - 2015-09-04</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

@@ -1,0 +1,16 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; #REDIRECT [[Mad Dog Zimmarathon 2007]]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; #REDIRECT [[<strong class="changes">2007-08-18 -</strong> Mad Dog Zimmarathon 2007]]</p></div>
+ip: 138.88.113.83
+ts: 1310852084
+minor: 1
+host: pool-138-88-113-83.res.east.verizon.net
+username: MarkZimmermann
+revision: 8
+diff-major: 
+summary: fix redirect
+languages: 
+text: #REDIRECT [[2007-08-18 - Mad Dog Zimmarathon 2007]]
+	
+lastmajor: 2
+keep-ts: 1310852084

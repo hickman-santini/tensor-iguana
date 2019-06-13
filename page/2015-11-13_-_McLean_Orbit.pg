@@ -1,0 +1,23 @@
+blocks: <h3>~6.0 miles @ ~14.0 min/mi</h3><p>"And what kind of loop is this going to be?" Beth wonders, as the GPS passes 2.5 miles and we're still outbound on a "4 to 5 mile" ramble. "Maybe the curvature of the Earth will get us back?" I speculate. We agree to blame Kristin for the overrun this time. Venus and Jupiter glitter bright at the start, with Mars faint between them, dawn's glow strengthening on the horizon, and airplane lights crawling sporadically above the trees. Coughing triggers groin muscle twinges, not a great portent for tomorrow's Stone Mill 50 miler.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/691167182">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-11-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.88
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.0 miles @ ~14.0 min/mi
+	
+	"And what kind of loop is this going to be?" Beth wonders, as the GPS passes 2.5 miles and we're still outbound on a "4 to 5 mile" ramble. "Maybe the curvature of the Earth will get us back?" I speculate. We agree to blame Kristin for the overrun this time. Venus and Jupiter glitter bright at the start, with Mars faint between them, dawn's glow strengthening on the horizon, and airplane lights crawling sporadically above the trees. Coughing triggers groin muscle twinges, not a great portent for tomorrow's Stone Mill 50 miler.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/691167182|trackfile]])// - //**^z**// - 2015-11-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.0 miles @ ~14.0 min/mi<br />&gt; "And what kind of loop is this going to be?" Beth wonders, as the GPS passes 2.5 miles and we're still outbound on a "4 to 5 mile" ramble. "Maybe the curvature of the Earth will get us back?" I speculate. We agree to blame Kristin for the overrun this time. Venus and Jupiter glitter bright at the start, with Mars faint between them, dawn's glow strengthening on the horizon, and airplane lights crawling sporadically above the trees. Coughing triggers groin muscle twinges, not a great portent for tomorrow's Stone Mill 50 miler.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/691167182|trackfile]])// - //**^z**// - 2015-11-24</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

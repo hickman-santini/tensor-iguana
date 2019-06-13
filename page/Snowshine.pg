@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p>Walking home in the evening, on a snowy sidewalk by a busy street: I look down and see brief flashes of light in front of my feet as I stride along. <em>What's up?</em> A quick experiment shows that headlights of approaching cars are reflecting from the white snow-coated soles of my shoes. Every time I lift a foot to take a step, the light bounces: car to shoe to ground to eyes. It's just like the way sunlight hits the earth, ricochets to the moon, and comes back as "Earthshine", a glow on the dark side of a few-days-old moon. <em>Wow!</em></p><p><em><strong>^z</strong></em> - 2010-12-20</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Walking home in the evening, on a snowy sidewalk by a busy street: I look down and see flashes of light in front of my feet as I stride. <strong class="changes">The cause?</strong> A <strong class="changes">brief</strong> experiment shows that headlights of approaching cars are reflecting from the white snow-coated soles of my shoes <strong class="changes">when</strong> I lift a foot to step <strong class="changes">along. Light</strong> bounces: shoe<strong class="changes">,</strong> to ground<strong class="changes">,</strong> to eyes <strong class="changes">&amp;mdash;</strong> the <strong class="changes">same</strong> way <strong class="changes">that</strong> sunlight hits the earth, ricochets to the moon, and comes back as "Earthshine", a glow on the dark side of a few-days-old moon. //Wow!//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Walking home in the evening, on a snowy sidewalk by a busy street: I look down and see <strong class="changes">brief</strong> flashes of light in front of my feet as I stride <strong class="changes">along</strong>. <strong class="changes">//What's up?//</strong> A <strong class="changes">quick</strong> experiment shows that headlights of approaching cars are reflecting from the white snow-coated soles of my shoes<strong class="changes">. Every time</strong> I lift a foot to <strong class="changes">take a</strong> step<strong class="changes">, the light</strong> bounces: <strong class="changes">car to</strong> shoe to ground to eyes<strong class="changes">. It's just like</strong> the way sunlight hits the earth, ricochets to the moon, and comes back as "Earthshine", a glow on the dark side of a few-days-old moon. //Wow!//</p></div>
+ip: 138.88.169.233
+ts: 1292845302
+minor: 1
+host: pool-138-88-169-233.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: Walking home in the evening, on a snowy sidewalk by a busy street: I look down and see brief flashes of light in front of my feet as I stride along. //What's up?// A quick experiment shows that headlights of approaching cars are reflecting from the white snow-coated soles of my shoes. Every time I lift a foot to take a step, the light bounces: car to shoe to ground to eyes. It's just like the way sunlight hits the earth, ricochets to the moon, and comes back as "Earthshine", a glow on the dark side of a few-days-old moon. //Wow!//
+	
+	//**^z**// - 2010-12-20
+	
+lastmajor: 1
+keep-ts: 1292845302

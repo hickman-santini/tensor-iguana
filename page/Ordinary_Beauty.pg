@@ -1,0 +1,25 @@
+blocks: <p>... a recent fortune cookie:</p><table class="user"><tr><td align="right"><em><strong> You find beauty in ordinary things<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do not lose this ability </strong></em></td></tr></table><p><img class="url http" src="http://zhurnaly.com/images/Beauty_in_Ordinary_Things.jpg" alt="http://zhurnaly.com/images/Beauty_in_Ordinary_Things.jpg" /></p><p><em><strong>^z</strong></em> - 2015-12-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.173
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: ... a recent fortune cookie:
+	
+	| //** You find beauty in ordinary things
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do not lose this ability **// |
+	
+	http://zhurnaly.com/images/Beauty_in_Ordinary_Things.jpg
+	
+	//**^z**// - 2015-12-20
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ... a recent fortune cookie:<br />&gt; | //** You find beauty in ordinary things<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Do not lose this ability **// |<br />&gt; http://zhurnaly.com/images/Beauty_in_Ordinary_Things.jpg<br />&gt; //**^z**// - 2015-12-20</p></div>
+flags: 0
+ts: 1528057685
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057685

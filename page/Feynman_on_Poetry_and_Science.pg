@@ -1,0 +1,23 @@
+blocks: <p>Famous physicist Richard Feynman, in Lecture I-03 footnote 1 of <strong><a class="url http outside" href="http://www.feynmanlectures.caltech.edu/I_03.html">The Feynman Lectures on Physics</a></strong>, muses about the power and beauty of scientific knowledge:<br /></p><blockquote><p>How I'm rushing through this! How much each sentence in this brief story contains. "The stars are made of the same atoms as the earth." I usually pick one small topic like this to give a lecture on. Poets say science takes away from the beauty of the stars&mdash;mere globs of gas atoms. Nothing is "mere." I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination&mdash;stuck on this carousel my little eye can catch one-million-year-old light. A vast pattern&mdash;of which I am a part&mdash;perhaps my stuff was belched from some forgotten star, as one is belching there. Or see them with the greater eye of Palomar, rushing all apart from some common starting point when they were perhaps all together. What is the pattern, or the meaning, or the why? It does not do harm to the mystery to know a little about it. For far more marvelous is the truth than any artists of the past imagined! Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were like a man, but if he is an immense spinning sphere of methane and ammonia must be silent?<br /></p></blockquote><p><em><strong>^z</strong></em> - 2015-11-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Famous physicist Richard Feynman, in Lecture I-03 footnote 1 of **[[http://www.feynmanlectures.caltech.edu/I_03.html|The Feynman Lectures on Physics]]**, muses about the power and beauty of scientific knowledge:
+	"""
+	How I'm rushing through this! How much each sentence in this brief story contains. "The stars are made of the same atoms as the earth." I usually pick one small topic like this to give a lecture on. Poets say science takes away from the beauty of the stars&mdash;mere globs of gas atoms. Nothing is "mere." I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination&mdash;stuck on this carousel my little eye can catch one-million-year-old light. A vast pattern&mdash;of which I am a part&mdash;perhaps my stuff was belched from some forgotten star, as one is belching there. Or see them with the greater eye of Palomar, rushing all apart from some common starting point when they were perhaps all together. What is the pattern, or the meaning, or the why? It does not do harm to the mystery to know a little about it. For far more marvelous is the truth than any artists of the past imagined! Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were like a man, but if he is an immense spinning sphere of methane and ammonia must be silent?
+	"""
+	
+	//**^z**// - 2015-11-03
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Famous physicist Richard Feynman, in Lecture I-03 footnote 1 of **[[http://www.feynmanlectures.caltech.edu/I_03.html|The Feynman Lectures on Physics]]**, muses about the power and beauty of scientific knowledge:<br />&gt; """<br />&gt; How I'm rushing through this! How much each sentence in this brief story contains. "The stars are made of the same atoms as the earth." I usually pick one small topic like this to give a lecture on. Poets say science takes away from the beauty of the stars&amp;mdash;mere globs of gas atoms. Nothing is "mere." I too can see the stars on a desert night, and feel them. But do I see less or more? The vastness of the heavens stretches my imagination&amp;mdash;stuck on this carousel my little eye can catch one-million-year-old light. A vast pattern&amp;mdash;of which I am a part&amp;mdash;perhaps my stuff was belched from some forgotten star, as one is belching there. Or see them with the greater eye of Palomar, rushing all apart from some common starting point when they were perhaps all together. What is the pattern, or the meaning, or the why? It does not do harm to the mystery to know a little about it. For far more marvelous is the truth than any artists of the past imagined! Why do the poets of the present not speak of it? What men are poets who can speak of Jupiter if he were like a man, but if he is an immense spinning sphere of methane and ammonia must be silent?<br />&gt; """<br />&gt; //**^z**// - 2015-11-03</p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057713

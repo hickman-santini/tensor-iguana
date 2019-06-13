@@ -1,0 +1,23 @@
+blocks: <h3>~5 miles @ ~11.5 min/mi</h3><p>Three rabbits, two by the baseball field and the last dashing across the road as we approach, on a warm and humid morning trek around the Pimmit Hills neighborhood. Kerry has to finish early and change into "grown-up clothes" for a morning presentation, so Kristin and I loop back to drop her off at 0630, then continue on to make Dr K's goal of 5+ miles. Walk breaks on the hills give us a chance to admire front-yard gardens. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/380721334">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/530109563">Garmin</a> GPS converge.</p><p><em><strong>^z</strong></em> - 2014-07-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.208.157
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5 miles @ ~11.5 min/mi
+	
+	Three rabbits, two by the baseball field and the last dashing across the road as we approach, on a warm and humid morning trek around the Pimmit Hills neighborhood. Kerry has to finish early and change into "grown-up clothes" for a morning presentation, so Kristin and I loop back to drop her off at 0630, then continue on to make Dr K's goal of 5+ miles. Walk breaks on the hills give us a chance to admire front-yard gardens. [[http://runkeeper.com/user/zhurnaly/activity/380721334|Runkeeper]] and [[http://connect.garmin.com/modern/activity/530109563|Garmin]] GPS converge.
+	
+	//**^z**// - 2014-07-09
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5 miles @ ~11.5 min/mi<br />&gt; Three rabbits, two by the baseball field and the last dashing across the road as we approach, on a warm and humid morning trek around the Pimmit Hills neighborhood. Kerry has to finish early and change into "grown-up clothes" for a morning presentation, so Kristin and I loop back to drop her off at 0630, then continue on to make Dr K's goal of 5+ miles. Walk breaks on the hills give us a chance to admire front-yard gardens. [[http://runkeeper.com/user/zhurnaly/activity/380721334|Runkeeper]] and [[http://connect.garmin.com/modern/activity/530109563|Garmin]] GPS converge.<br />&gt; //**^z**// - 2014-07-09</strong></p></div>
+flags: 0
+ts: 1528057698
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057698

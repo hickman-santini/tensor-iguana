@@ -1,0 +1,25 @@
+blocks: <h3>~10.0 miles @ ~10.2 min/mi</h3><p>"Superman wears Gary Knipling pajamas!" That's just one of the comments and stories shared online in an outpouring of love from fans of Gary, local ultrarunner who suffered a major stroke a few days ago and who is already home, recovering speedily. Gary's boundless enthusiasm and legendary kindness echo and help all of us be better. <em>Thank you, Gary Knipling!</em></p><p>Today's temps are in the 40s, and north winds gusting 30+ mi/hr have blown most of the cherry blossoms off the trees in Wheaton Regional Park. A huge goose hunkers down, then waddles away to avoid being photographed. Pace-pushing (and luck at major road crossings) produces splits of 8:19 + 8:56 + 8:50 for the final miles. An attempt to stop the GPS at 9.99 slightly misses the mark.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/761687638">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.137
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.0 miles @ ~10.2 min/mi
+	
+	"Superman wears Gary Knipling pajamas!" That's just one of the comments and stories shared online in an outpouring of love from fans of Gary, local ultrarunner who suffered a major stroke a few days ago and who is already home, recovering speedily. Gary's boundless enthusiasm and legendary kindness echo and help all of us be better. //Thank you, Gary Knipling!//
+	
+	Today's temps are in the 40s, and north winds gusting 30+ mi/hr have blown most of the cherry blossoms off the trees in Wheaton Regional Park. A huge goose hunkers down, then waddles away to avoid being photographed. Pace-pushing (and luck at major road crossings) produces splits of 8:19 + 8:56 + 8:50 for the final miles. An attempt to stop the GPS at 9.99 slightly misses the mark.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/761687638|trackfile]])// - //**^z**// - 2016-04-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.0 miles @ ~10.2 min/mi<br />&gt; "Superman wears Gary Knipling pajamas!" That's just one of the comments and stories shared online in an outpouring of love from fans of Gary, local ultrarunner who suffered a major stroke a few days ago and who is already home, recovering speedily. Gary's boundless enthusiasm and legendary kindness echo and help all of us be better. //Thank you, Gary Knipling!//<br />&gt; Today's temps are in the 40s, and north winds gusting 30+ mi/hr have blown most of the cherry blossoms off the trees in Wheaton Regional Park. A huge goose hunkers down, then waddles away to avoid being photographed. Pace-pushing (and luck at major road crossings) produces splits of 8:19 + 8:56 + 8:50 for the final miles. An attempt to stop the GPS at 9.99 slightly misses the mark.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/761687638|trackfile]])// - //**^z**// - 2016-04-24</strong></p></div>
+flags: 0
+ts: 1528057709
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057709

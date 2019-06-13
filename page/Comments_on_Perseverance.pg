@@ -1,0 +1,24 @@
+blocks: <h3>1 Comment.</h3><p>I like the "Suck it up, Cupcake" attitude!</p><p>But you probably could have guessed that :)</p><p>-- <a class="url http outside" href="http://caramariesvault.blogspot.com">Cara Marie</a> 2009-02-19 20:58 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.17.10
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	I like the "Suck it up, Cupcake" attitude!
+	
+	But you probably could have guessed that :)
+	
+	-- [http://caramariesvault.blogspot.com Cara Marie] 2009-02-19 20:58 UTC
+	
+	
+languages: 
+lastmajor: 38
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; I like the "Suck it up, Cupcake" attitude!<br />&gt; But you probably could have guessed that :)<br />&gt; -- [http://caramariesvault.blogspot.com Cara Marie] 2009-02-19 20:58 UTC</p></div>
+flags: 0
+ts: 1528057683
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 38
+keep-ts: 1528057683

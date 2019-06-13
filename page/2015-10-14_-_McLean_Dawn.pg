@@ -1,0 +1,25 @@
+blocks: <h3>~9.5 miles @ ~12.8 min/mi</h3><p>"Wok!" Beth and I shout as Kristen runs up the hill ahead of us. She slows and we deny calling for a walk break. Sunrise reflects pastel pink off scattered clouds. Halloween decorations are starting to proliferate, including a notable number of witches-flown-into-tree-trunks, miniature grave sites, and flaccid-but-soon-to-be-inflated cats, pumpkins, and ghosts. A big bunny poses on a front lawn. During final cooldown-stretch we discuss our favorite flavors of ice cream <em>("Any flavor!")</em> and local ice cream parlors <em>("The Dairy Godmother" in Arlington is recommended)</em>.</p><p>Earlier Kerry and Kristin lead a brisk loop. There's no sign of the Attack Owl that has recently been reported in the Bethesda area, swooping down upon pre-dawn runners with pony tails and flashlights. We think that maybe we spy Mercury in line with Venus, Mars, and Jupiter.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/674605325">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-11-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.94.121
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.5 miles @ ~12.8 min/mi
+	
+	"Wok!" Beth and I shout as Kristen runs up the hill ahead of us. She slows and we deny calling for a walk break. Sunrise reflects pastel pink off scattered clouds. Halloween decorations are starting to proliferate, including a notable number of witches-flown-into-tree-trunks, miniature grave sites, and flaccid-but-soon-to-be-inflated cats, pumpkins, and ghosts. A big bunny poses on a front lawn. During final cooldown-stretch we discuss our favorite flavors of ice cream //("Any flavor!")// and local ice cream parlors //("The Dairy Godmother" in Arlington is recommended)//.
+	
+	Earlier Kerry and Kristin lead a brisk loop. There's no sign of the Attack Owl that has recently been reported in the Bethesda area, swooping down upon pre-dawn runners with pony tails and flashlights. We think that maybe we spy Mercury in line with Venus, Mars, and Jupiter.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/674605325|trackfile]])// - //**^z**// - 2015-11-06
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.5 miles @ ~12.8 min/mi<br />&gt; "Wok!" Beth and I shout as Kristen runs up the hill ahead of us. She slows and we deny calling for a walk break. Sunrise reflects pastel pink off scattered clouds. Halloween decorations are starting to proliferate, including a notable number of witches-flown-into-tree-trunks, miniature grave sites, and flaccid-but-soon-to-be-inflated cats, pumpkins, and ghosts. A big bunny poses on a front lawn. During final cooldown-stretch we discuss our favorite flavors of ice cream //("Any flavor!")// and local ice cream parlors //("The Dairy Godmother" in Arlington is recommended)//.<br />&gt; Earlier Kerry and Kristin lead a brisk loop. There's no sign of the Attack Owl that has recently been reported in the Bethesda area, swooping down upon pre-dawn runners with pony tails and flashlights. We think that maybe we spy Mercury in line with Venus, Mars, and Jupiter.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/674605325|trackfile]])// - //**^z**// - 2015-11-06</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

@@ -1,0 +1,17 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3></p><p>This actually happened. At my company we used to have a franchise for canning fruit pie fillings - raspberry, apple, gooseberry, stuff like that. Whenever the cans got mislabelled, or not labelled at all, they would sell them off in the Staff Shop for cheap. The deal was, it was all perfectly fit for consumption, but there was no guarantee of what was in which can. Mystery pie!</p>
+ip: 138.88.169.233
+ts: 1292773582
+minor: 0
+host: pool-138-88-169-233.res.east.verizon.net
+username: RobinZ
+revision: 9
+summary: Rollback to 2009-12-26 20:33 UTC
+languages: 
+text: === 1 Comment. ===
+	
+	This actually happened. At my company we used to have a franchise for canning fruit pie fillings - raspberry, apple, gooseberry, stuff like that. Whenever the cans got mislabelled, or not labelled at all, they would sell them off in the Staff Shop for cheap. The deal was, it was all perfectly fit for consumption, but there was no guarantee of what was in which can. Mystery pie!
+	
+	
+lastmajor: 9
+keep-ts: 1292773582

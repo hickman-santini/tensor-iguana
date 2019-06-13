@@ -1,0 +1,25 @@
+blocks: <h3>~3.9 miles @ ~13.0 min/mi</h3><p>"I don't know what you don't know!" says Kristin, metacognitively, as we set off toward a pastel sunrise. How do spiders build webs across pathways? Obvious to some of us, less so to others!</p><p>Cait is done with jury duty and joins in a short-and-soggy trot through trendy Lewinsville communities. We reminisce about high school gym coaches (shot and discus were two of her events), express awe at Olympic decathlon competitors, and successfully avoid falling on cut-throughs and irregular sidewalks. Cooldown conversation turns to the amazing way most kids learn language from few examples &mdash; and how adroit they are in picking up curse words from peer and parent usage. Samuel L. Jackson's performance of "Go the F*@# to Sleep!" is mentioned, <em>in lieu</em> of Chomskyan generative linguistic theory. Likewise reading practice, rhyming games, and how wise parents handle inadvertent results: "Out of the mouths of babes!"</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/846168838">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-09-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.253
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.9 miles @ ~13.0 min/mi
+	
+	"I don't know what you don't know!" says Kristin, metacognitively, as we set off toward a pastel sunrise. How do spiders build webs across pathways? Obvious to some of us, less so to others!
+	
+	Cait is done with jury duty and joins in a short-and-soggy trot through trendy Lewinsville communities. We reminisce about high school gym coaches (shot and discus were two of her events), express awe at Olympic decathlon competitors, and successfully avoid falling on cut-throughs and irregular sidewalks. Cooldown conversation turns to the amazing way most kids learn language from few examples &mdash; and how adroit they are in picking up curse words from peer and parent usage. Samuel L. Jackson's performance of "Go the F*@# to Sleep!" is mentioned, //in lieu// of Chomskyan generative linguistic theory. Likewise reading practice, rhyming games, and how wise parents handle inadvertent results: "Out of the mouths of babes!"
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/846168838|trackfile]])// - //**^z**// - 2016-09-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.9 miles @ ~13.0 min/mi<br />&gt; "I don't know what you don't know!" says Kristin, metacognitively, as we set off toward a pastel sunrise. How do spiders build webs across pathways? Obvious to some of us, less so to others!<br />&gt; Cait is done with jury duty and joins in a short-and-soggy trot through trendy Lewinsville communities. We reminisce about high school gym coaches (shot and discus were two of her events), express awe at Olympic decathlon competitors, and successfully avoid falling on cut-throughs and irregular sidewalks. Cooldown conversation turns to the amazing way most kids learn language from few examples &amp;mdash; and how adroit they are in picking up curse words from peer and parent usage. Samuel L. Jackson's performance of "Go the F*@# to Sleep!" is mentioned, //in lieu// of Chomskyan generative linguistic theory. Likewise reading practice, rhyming games, and how wise parents handle inadvertent results: "Out of the mouths of babes!"<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/846168838|trackfile]])// - //**^z**// - 2016-09-10</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

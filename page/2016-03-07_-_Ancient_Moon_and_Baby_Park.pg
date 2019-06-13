@@ -1,0 +1,23 @@
+blocks: <h3>~8.0 miles @ ~12.1 min/mi</h3><p>"A new trail &mdash; we <em><strong>have</strong></em> to try it!" I exclaim, and drag Drs K&amp;K down the curving pathway by the little creek. In the midst of Tysons Corner office buildings and parking garages, a happy discovery: "Arbor Row Stream Valley Park" aka "Jones Branch Park". It's only a few blocks long, but at least it's a start! From the median of Route 7 we spy a spidery-thin crescent moon, 27.9 days old, only ~3% illuminated. We share weekend news and admire the sunrise.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/745809892">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-03-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.184
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.0 miles @ ~12.1 min/mi
+	
+	"A new trail &mdash; we //**have**// to try it!" I exclaim, and drag Drs K&K down the curving pathway by the little creek. In the midst of Tysons Corner office buildings and parking garages, a happy discovery: "Arbor Row Stream Valley Park" aka "Jones Branch Park". It's only a few blocks long, but at least it's a start! From the median of Route 7 we spy a spidery-thin crescent moon, 27.9 days old, only ~3% illuminated. We share weekend news and admire the sunrise.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/745809892|trackfile]])// - //**^z**// - 2016-03-26
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.0 miles @ ~12.1 min/mi<br />&gt; "A new trail &amp;mdash; we //**have**// to try it!" I exclaim, and drag Drs K&amp;K down the curving pathway by the little creek. In the midst of Tysons Corner office buildings and parking garages, a happy discovery: "Arbor Row Stream Valley Park" aka "Jones Branch Park". It's only a few blocks long, but at least it's a start! From the median of Route 7 we spy a spidery-thin crescent moon, 27.9 days old, only ~3% illuminated. We share weekend news and admire the sunrise.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/745809892|trackfile]])// - //**^z**// - 2016-03-26</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057697

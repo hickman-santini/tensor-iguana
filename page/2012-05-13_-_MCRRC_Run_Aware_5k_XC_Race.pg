@@ -1,0 +1,28 @@
+flags: 0
+blocks: <p><h3>~3.1 miles @ ~8.5 min/mi</h3></p><p>In the last quarter mile of the MCRRC "Run Aware" 5k cross-country race I catch up with a little girl and, pushing hard, manage to pass her. I feel a little bad about that. But all guilt is soon erased when, finish line in sight, she puts on a burst of speed and sprints by like a rocket. It's 10-year-old Gabriella Ro Capizzi, who comes in 5 full seconds ahead of me. <em>What a kick!</em></p><p>Since 9pm last night I haven't eaten anything, and I've only drunk water. This morning I'm scheduled to get some blood drawn for testing, in preparation for a routine physical exam. After the race I chat with speedy runner John Way and mention my excuse for my pitiful performance. "That's ironic!" John says. "FASTing makes you SLOWer!"</p><p>Today's run goes well, and afterwards I accompany Caren Jew for some extra mileage along the Cabin John Stream Valley Trail. Son <a class="url http outside" href="http://packbat.net/wiki">Robin</a> gets up early and joins me in the race. At my advice he trots along with Caren, and that pace-control strategy results in a good result in his first cross-country race.</p><p>The <a class="url http outside" href="http://connect.garmin.com/activity/177961551">Garmin GPS trackfile</a> shows the snaky route. The <a class="url http outside" href="http://mcrrc.org/racing/2012/Run-Aware-5K.html">MCRRC official result</a> puts me in 57th place of 187 runners, 46th of 95 males, 5th of 6 men 55-59 years old, a total time of 26:32. Had I been in the 60-64 age bracket I'd have been 2nd of 4. So much for hypotheticals!</p><p><em><strong>^z</strong></em> - 2012-05-26</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; The [[http://connect.garmin.com/activity/177961551|Garmin GPS trackfile]] shows the snaky route. The [[http://mcrrc.org/racing/2012/Run-Aware-5K.html|MCRRC official result]] puts me in 57th place of 187 runners, 46th of 95 males, 5th of 6 men 55-59 years old, a total time of 26:32. Had I been in the 60-64 age bracket I'd have been 2nd of 4.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; The [[http://connect.garmin.com/activity/177961551|Garmin GPS trackfile]] shows the snaky route. The [[http://mcrrc.org/racing/2012/Run-Aware-5K.html|MCRRC official result]] puts me in 57th place of 187 runners, 46th of 95 males, 5th of 6 men 55-59 years old, a total time of 26:32. Had I been in the 60-64 age bracket I'd have been 2nd of 4. <strong class="changes">So much for hypotheticals!</strong></p></div>
+ip: 141.156.198.144
+ts: 1338020629
+minor: 1
+host: pool-141-156-198-144.res.east.verizon.net
+username: Zimm
+revision: 5
+diff-major: 
+summary: tweak 3
+languages: 
+text: === ~3.1 miles @ ~8.5 min/mi
+	
+	In the last quarter mile of the MCRRC "Run Aware" 5k cross-country race I catch up with a little girl and, pushing hard, manage to pass her. I feel a little bad about that. But all guilt is soon erased when, finish line in sight, she puts on a burst of speed and sprints by like a rocket. It's 10-year-old Gabriella Ro Capizzi, who comes in 5 full seconds ahead of me. //What a kick!//
+	
+	Since 9pm last night I haven't eaten anything, and I've only drunk water. This morning I'm scheduled to get some blood drawn for testing, in preparation for a routine physical exam. After the race I chat with speedy runner John Way and mention my excuse for my pitiful performance. "That's ironic!" John says. "FASTing makes you SLOWer!"
+	
+	Today's run goes well, and afterwards I accompany Caren Jew for some extra mileage along the Cabin John Stream Valley Trail. Son [[http://packbat.net/wiki|Robin]] gets up early and joins me in the race. At my advice he trots along with Caren, and that pace-control strategy results in a good result in his first cross-country race.
+	
+	The [[http://connect.garmin.com/activity/177961551|Garmin GPS trackfile]] shows the snaky route. The [[http://mcrrc.org/racing/2012/Run-Aware-5K.html|MCRRC official result]] puts me in 57th place of 187 runners, 46th of 95 males, 5th of 6 men 55-59 years old, a total time of 26:32. Had I been in the 60-64 age bracket I'd have been 2nd of 4. So much for hypotheticals!
+	
+	//**^z**// - 2012-05-26
+	
+lastmajor: 1
+keep-ts: 1338020629

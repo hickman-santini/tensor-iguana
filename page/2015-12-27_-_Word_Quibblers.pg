@@ -1,0 +1,25 @@
+blocks: <h3>~16.1 miles @ ~11.3 min/mi</h3><p>"You mean 'high <strong>dudgeon</strong>', not 'high <strong>dungeon</strong>', no?" Ken and Rebecca and I trot along the Capital Crescent Trail, bantering. A curmudgeonly kvetch about injustice focuses on a late-evening parking ticket in Bethesda. Passing the "<strong>muster</strong> vs <strong>mustard</strong>" and running the "<strong>gantlet</strong> vs <strong>gauntlet</strong>" are likewise debated. "And The Donald will give you free parking!" provokes chuckles. We all should be less judgmental &mdash; especially about things not happening on time or as planned.</p><p>Morning is hyper-humid, warming toward record winter high temps. Gray squirrels, brown leaves, black mud, plus a pair of crimson male cardinals. GPS glitches add half a mile or more to the distance estimate. Latest <em><strong>Star Wars</strong></em> movie spoiler: <em>"Luke, I am your Mother!".</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/710268742">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-01-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.227
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~16.1 miles @ ~11.3 min/mi
+	
+	"You mean 'high **dudgeon**', not 'high **dungeon**', no?" Ken and Rebecca and I trot along the Capital Crescent Trail, bantering. A curmudgeonly kvetch about injustice focuses on a late-evening parking ticket in Bethesda. Passing the "**muster** vs **mustard**" and running the "**gantlet** vs **gauntlet**" are likewise debated. "And The Donald will give you free parking!" provokes chuckles. We all should be less judgmental &mdash; especially about things not happening on time or as planned.
+	
+	Morning is hyper-humid, warming toward record winter high temps. Gray squirrels, brown leaves, black mud, plus a pair of crimson male cardinals. GPS glitches add half a mile or more to the distance estimate. Latest //**Star Wars**// movie spoiler: //"Luke, I am your Mother!".//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/710268742|trackfile]])// - //**^z**// - 2016-01-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~16.1 miles @ ~11.3 min/mi<br />&gt; "You mean 'high **dudgeon**', not 'high **dungeon**', no?" Ken and Rebecca and I trot along the Capital Crescent Trail, bantering. A curmudgeonly kvetch about injustice focuses on a late-evening parking ticket in Bethesda. Passing the "**muster** vs **mustard**" and running the "**gantlet** vs **gauntlet**" are likewise debated. "And The Donald will give you free parking!" provokes chuckles. We all should be less judgmental &amp;mdash; especially about things not happening on time or as planned.<br />&gt; Morning is hyper-humid, warming toward record winter high temps. Gray squirrels, brown leaves, black mud, plus a pair of crimson male cardinals. GPS glitches add half a mile or more to the distance estimate. Latest //**Star Wars**// movie spoiler: //"Luke, I am your Mother!".//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/710268742|trackfile]])// - //**^z**// - 2016-01-13</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

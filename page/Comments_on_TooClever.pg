@@ -1,0 +1,26 @@
+blocks: <h3>2 Comments.</h3><p>I wonder where English ranks on the polysemy scale? In "The Mother Tongue", Bill Bryson notes that the word "fine" has fourteen definitions as an adjective, six as a noun, and two as an adverb (page 69).</p><p>Talk about overloading! -- ANS<br /></p><hr /><p>I don't know if it's true, but I remember hearing that in the Oxford English Dictionary the word "<strong>set</strong>" has more pages of definitions than any other word. <em>(I also heard that one could assemble the majority of the works of Shakespeare using OED sample usage quotes.)</em> -<em> <strong>^z</strong> </em><br /></p><hr />
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.199.242
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	
+	I wonder where English ranks on the polysemy scale?  In "The Mother Tongue", Bill Bryson notes that the word "fine" has fourteen definitions as an adjective, six as a noun, and two as an adverb (page 69).  
+	
+	Talk about overloading!   -- ANS
+	----
+	
+	I don't know if it's true, but I remember hearing that in the Oxford English Dictionary the word "**set**" has more pages of definitions than any other word.  //(I also heard that one could assemble the majority of the works of Shakespeare using OED sample usage quotes.)// -// **^z** //
+	----
+	
+languages: 
+lastmajor: 9
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; I wonder where English ranks on the polysemy scale?  In "The Mother Tongue", Bill Bryson notes that the word "fine" has fourteen definitions as an adjective, six as a noun, and two as an adverb (page 69).  <br />&gt; Talk about overloading!   -- ANS<br />&gt; ----<br />&gt; I don't know if it's true, but I remember hearing that in the Oxford English Dictionary the word "**set**" has more pages of definitions than any other word.  //(I also heard that one could assemble the majority of the works of Shakespeare using OED sample usage quotes.)// -// **^z** //<br />&gt; ----</p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 9
+keep-ts: 1528057688

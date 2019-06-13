@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~9 miles @ ~13.5 min/mi</h3></p><p>I get to the rendezvous parking lot <em>(Seneca Creek and Route 28)</em> before dawn and read a chapter of <strong>Jane Eyre</strong> while waiting. When Caren arrives we gear up and are greeted by a bowhunter getting out of his pickup truck. He's dressed in a fuzzy camo outfit that makes him look a bit like a walking mound of foliage. Today is almost the end of deer season, he tells us, and reassures us that we'll be safe in the woods. Caren points out several mallard ducks and three deer near the trail as we jog downstream. We meet two more bowhunters in their camouflage hiking the opposite way.</p><p>A huge snow-covered hillside rises in front of us and looks exactly like a distant cloud bank. Near our turnaround at Berryville Rd yet another bowhunter is parked in his truck. It features a sticker on the back that says, "Give 'em the Shaft!" We walk a few hundred yards along the road to survey the rushing waters at the usual creek crossing, then retrace our path. Our time is ~55 minutes each way. We meet a friendly birdwatcher on the return trip and finish up by sprinting the last quarter mile and up the final hill to our cars. <em>Whew!</em></p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; A huge snow-covered hillside rises in front of us and looks exactly like a distant cloud bank. Near our turnaround at Berryville Rd yet another bowhunter is parked in his truck. It features a sticker on the back that says, "Give 'em the Shaft!" We walk a few hundred yards along the road to survey the rushing waters at the usual creek crossing, then retrace our path. Our time is <strong class="changes">~~</strong>55 minutes each way. We meet a friendly birdwatcher on the return trip and finish up by sprinting the last quarter mile and up the final hill to our cars. //Whew!//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; A huge snow-covered hillside rises in front of us and looks exactly like a distant cloud bank. Near our turnaround at Berryville Rd yet another bowhunter is parked in his truck. It features a sticker on the back that says, "Give 'em the Shaft!" We walk a few hundred yards along the road to survey the rushing waters at the usual creek crossing, then retrace our path. Our time is <strong class="changes">~</strong>55 minutes each way. We meet a friendly birdwatcher on the return trip and finish up by sprinting the last quarter mile and up the final hill to our cars. //Whew!//</p></div>
+ip: 141.156.150.174
+ts: 1234833630
+minor: 1
+host: pool-141-156-150-174.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: fmt fix
+languages: 
+text: === ~9 miles @ ~13.5 min/mi
+	
+	I get to the rendezvous parking lot //(Seneca Creek and Route 28)// before dawn and read a chapter of **Jane Eyre** while waiting. When Caren arrives we gear up and are greeted by a bowhunter getting out of his pickup truck. He's dressed in a fuzzy camo outfit that makes him look a bit like a walking mound of foliage. Today is almost the end of deer season, he tells us, and reassures us that we'll be safe in the woods. Caren points out several mallard ducks and three deer near the trail as we jog downstream. We meet two more bowhunters in their camouflage hiking the opposite way.
+	
+	A huge snow-covered hillside rises in front of us and looks exactly like a distant cloud bank. Near our turnaround at Berryville Rd yet another bowhunter is parked in his truck. It features a sticker on the back that says, "Give 'em the Shaft!" We walk a few hundred yards along the road to survey the rushing waters at the usual creek crossing, then retrace our path. Our time is ~55 minutes each way. We meet a friendly birdwatcher on the return trip and finish up by sprinting the last quarter mile and up the final hill to our cars. //Whew!//
+	
+	
+keep-ts: 1234833630

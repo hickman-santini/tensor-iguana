@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~8.0 mi @ ~13.8 min/mi</h3><p>"Fried scorpions, on sticks!" Gayatri describes exotic Chinese food seen-but-not-tasted. With Ken she leads the way into Rock Creek Park on a muggy morning. We turn back at the <strong>DANGER</strong> sign where road construction begins. Friendly cyclists swoop past.</p><p>"How many animals can we recognize from their sounds?" asks Barry. Suddenly a big red-headed woodpecker jackhammers nearby. "That's one!"</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1170622569">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-06-08</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Fried scorpions, on sticks!" Gayatri describes exotic Chinese food seen-but-not-tasted. With <strong class="changes">KEN</strong> she leads the way into Rock Creek Park on a muggy morning. We turn back at the DANGER sign where road construction begins. Friendly cyclists swoop past.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "Fried scorpions, on sticks!" Gayatri describes exotic Chinese food seen-but-not-tasted. With <strong class="changes">Ken</strong> she leads the way into Rock Creek Park on a muggy morning. We turn back at the <strong class="changes">**</strong>DANGER<strong class="changes">**</strong> sign where road construction begins. Friendly cyclists swoop past.</p></div>
+lastmajorsummary: tweak
+ts: 1528450124
+minor: 
+host: 71.178.88.174
+username: z
+revision: 2
+diff-major: 1
+summary: tweak
+languages: 
+text: === ~8.0 mi @ ~13.8 min/mi
+	
+	"Fried scorpions, on sticks!" Gayatri describes exotic Chinese food seen-but-not-tasted. With Ken she leads the way into Rock Creek Park on a muggy morning. We turn back at the **DANGER** sign where road construction begins. Friendly cyclists swoop past.
+	
+	"How many animals can we recognize from their sounds?" asks Barry. Suddenly a big red-headed woodpecker jackhammers nearby. "That's one!"
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1170622569|trackfile]])// - //**^z**// - 2018-06-08
+	
+lastmajor: 2
+keep-ts: 1528450124

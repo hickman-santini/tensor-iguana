@@ -1,0 +1,38 @@
+blocks: <h3>3 Comments.</h3><p>I heard somewhere that even friction methods require a 'bow' or some such to get the proper effects. Other than waiting for a lightning strike and then keeping that fire going as long as you need it, I bet any method of firestarting requires tools.</p><p>-- <a class="url http outside" href="http://packbat.livejournal.com/">RobinZimm</a> 2009-07-13 13:00 UTC</p><hr /><blockquote><p>A bow would be allowable technology if it were made by yourself, e.g., with wood (broken branch, bamboo, whatever) and cord (vine, braided long hair, whatever) ... the "rules" only forbid things that you can't make <em>ab initio</em> ... I think casting a lens of ice would be fair, for instance, though it might be hard to get one large enough and good enough to concentrate enough sunlight to make fire ... striking two rocks together for sparks would be fine, and native flint is OK but steel (the source of most sparks in fire-starters, I think) is not, unless you smelt the iron yourself and then make the steel ... hmmm&mdash;wonder if relying on meteoritic iron should be allowed?<br /></p></blockquote><p>-- <a class="url http outside" href="http://zhurnaly.com">zz</a> 2009-07-13 15:13 UTC</p><hr /><p>hmmm, wonder if the laziest (least exertion) and lowest of low-tech fire-starting method might be to arrange a big array of shiny objects (flat stones? slabs of ice?) to focus sunlight onto a small area? ... not fast, and requires some geometric calculation (and a sunny day) and a hillside or other way to arrange the semi-natural mirrors ... <em><strong>^z</strong></em></p><p>-- <a class="url http outside" href="http://zhurnaly.com">zhurnaly</a> 2012-04-23 13:51 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.138.10
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 3 Comments. ===
+	I heard somewhere that even friction methods require a 'bow' or some such to get the proper effects. Other than waiting for a lightning strike and then keeping that fire going as long as you need it, I bet any method of firestarting requires tools.
+	
+	-- [http://packbat.livejournal.com/ RobinZimm] 2009-07-13 13:00 UTC
+	
+	
+	----
+	
+	"""
+	A bow would be allowable technology if it were made by yourself, e.g., with wood (broken branch, bamboo, whatever) and cord (vine, braided long hair, whatever) ... the "rules" only forbid things that you can't make //ab initio// ... I think casting a lens of ice would be fair, for instance, though it might be hard to get one large enough and good enough to concentrate enough sunlight to make fire ... striking two rocks together for sparks would be fine, and native flint is OK but steel (the source of most sparks in fire-starters, I think) is not, unless you smelt the iron yourself and then make the steel ... hmmm&mdash;wonder if relying on meteoritic iron should be allowed?
+	"""
+	
+	-- [http://zhurnaly.com zz] 2009-07-13 15:13 UTC
+	
+	
+	----
+	
+	hmmm, wonder if the laziest (least exertion) and lowest of low-tech fire-starting method might be to arrange a big array of shiny objects (flat stones? slabs of ice?) to focus sunlight onto a small area? ... not fast, and requires some geometric calculation (and a sunny day) and a hillside or other way to arrange the semi-natural mirrors ... //**^z**//
+	
+	-- [http://zhurnaly.com zhurnaly] 2012-04-23 13:51 UTC
+	
+	
+languages: 
+lastmajor: 20
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 3 Comments. ===<br />&gt; I heard somewhere that even friction methods require a 'bow' or some such to get the proper effects. Other than waiting for a lightning strike and then keeping that fire going as long as you need it, I bet any method of firestarting requires tools.<br />&gt; -- [http://packbat.livejournal.com/ RobinZimm] 2009-07-13 13:00 UTC<br />&gt; ----<br />&gt; """<br />&gt; A bow would be allowable technology if it were made by yourself, e.g., with wood (broken branch, bamboo, whatever) and cord (vine, braided long hair, whatever) ... the "rules" only forbid things that you can't make //ab initio// ... I think casting a lens of ice would be fair, for instance, though it might be hard to get one large enough and good enough to concentrate enough sunlight to make fire ... striking two rocks together for sparks would be fine, and native flint is OK but steel (the source of most sparks in fire-starters, I think) is not, unless you smelt the iron yourself and then make the steel ... hmmm&amp;mdash;wonder if relying on meteoritic iron should be allowed?<br />&gt; """<br />&gt; -- [http://zhurnaly.com zz] 2009-07-13 15:13 UTC<br />&gt; ----<br />&gt; hmmm, wonder if the laziest (least exertion) and lowest of low-tech fire-starting method might be to arrange a big array of shiny objects (flat stones? slabs of ice?) to focus sunlight onto a small area? ... not fast, and requires some geometric calculation (and a sunny day) and a hillside or other way to arrange the semi-natural mirrors ... //**^z**//<br />&gt; -- [http://zhurnaly.com zhurnaly] 2012-04-23 13:51 UTC</p></div>
+flags: 0
+ts: 1528057702
+minor: 
+username: z
+host: 166.137.240.115
+revision: 20
+keep-ts: 1528057702

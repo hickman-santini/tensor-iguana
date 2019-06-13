@@ -1,0 +1,23 @@
+blocks: <h3>~2.5 miles @ ~12.2 min/mi</h3><p>The <a class="url http outside" href="http://connect.garmin.com/activity/189394217">Garmin GPS trackfile</a> shows the route, but not the three rabbits that Robin and I spy: a tiny one near the Benjamin Franklin Plumber shop, and a larger pair in the neighborhood park at the corner of Birch Av and Sharon Dr. With walk breaks and a five-minute walking warm-up we make steady progress around the 'hood. A narrow shoulder on Capitol View Av is not enjoyed by Robin. A scrawny deer eyes us from the gravel parking lot near the train tracks.</p><p><em><strong>^z</strong></em> - 2012-07-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.129.41
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2.5 miles @ ~12.2 min/mi
+	
+	The [[http://connect.garmin.com/activity/189394217|Garmin GPS trackfile]] shows the route, but not the three rabbits that Robin and I spy: a tiny one near the Benjamin Franklin Plumber shop, and a larger pair in the neighborhood park at the corner of Birch Av and Sharon Dr. With walk breaks and a five-minute walking warm-up we make steady progress around the 'hood. A narrow shoulder on Capitol View Av is not enjoyed by Robin. A scrawny deer eyes us from the gravel parking lot near the train tracks.
+	
+	//**^z**// - 2012-07-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2.5 miles @ ~12.2 min/mi<br />&gt; The [[http://connect.garmin.com/activity/189394217|Garmin GPS trackfile]] shows the route, but not the three rabbits that Robin and I spy: a tiny one near the Benjamin Franklin Plumber shop, and a larger pair in the neighborhood park at the corner of Birch Av and Sharon Dr. With walk breaks and a five-minute walking warm-up we make steady progress around the 'hood. A narrow shoulder on Capitol View Av is not enjoyed by Robin. A scrawny deer eyes us from the gravel parking lot near the train tracks.<br />&gt; //**^z**// - 2012-07-11</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

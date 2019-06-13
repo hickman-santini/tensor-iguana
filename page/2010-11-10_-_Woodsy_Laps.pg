@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~3 miles @ ~10 min/mi</h3></p><p>Drinking decaf coffee doesn't motivate me enough, but thank goodness comrade Stephanie steps in to drag me away from the desk. Two laps are her prescription, around the paved path under the trees. Three deer lurk nearby and eye us in the first go-around. The second pass one stands on the asphalt but ambles away as we approach. Marked miles: 9:45 + 9:09.</p><p><em><strong>^z</strong></em> - 2010-11-21</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Drinking decaf coffee doesn't motivate me enough, but thank goodness comrade Stephanie steps in to drag me away from the desk. Two laps around the paved path under the trees<strong class="changes">: three</strong> deer lurk nearby and eye us in the first go-around. The second pass one stands on the asphalt but ambles away as we approach. Marked miles: 9:45 + 9:09.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Drinking decaf coffee doesn't motivate me enough, but thank goodness comrade Stephanie steps in to drag me away from the desk. Two laps <strong class="changes">are her prescription,</strong> around the paved path under the trees<strong class="changes">. Three</strong> deer lurk nearby and eye us in the first go-around. The second pass one stands on the asphalt but ambles away as we approach. Marked miles: 9:45 + 9:09.</p></div>
+ip: 138.88.169.233
+ts: 1290340853
+minor: 1
+host: pool-138-88-169-233.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: === ~3 miles @ ~10 min/mi
+	
+	Drinking decaf coffee doesn't motivate me enough, but thank goodness comrade Stephanie steps in to drag me away from the desk. Two laps are her prescription, around the paved path under the trees. Three deer lurk nearby and eye us in the first go-around. The second pass one stands on the asphalt but ambles away as we approach. Marked miles: 9:45 + 9:09.
+	
+	//**^z**// - 2010-11-21
+	
+lastmajor: 1
+keep-ts: 1290340853

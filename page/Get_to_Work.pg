@@ -1,0 +1,24 @@
+flags: 0
+blocks: <p>A bumper sticker for managers:</p><table class="user"><tr><td align="center"><span style="font-variant: small-caps">Mission Happens</span></td></tr></table><p>... meaning sometimes you've just gotta buckle down and do the dirty job that you're getting paid to do!</p><p><em><strong>^z</strong></em> - 2010-08-23</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ... meaning sometimes you've just gotta buckle down <strong class="changes">an</strong> do the dirty job that you're getting paid to do!</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ... meaning sometimes you've just gotta buckle down <strong class="changes">and</strong> do the dirty job that you're getting paid to do!</p></div>
+ip: 198.81.129.186
+ts: 1282648391
+minor: 1
+host: relay7.ucia.gov
+username: zzz
+revision: 2
+diff-major: 
+summary: typo fix
+languages: 
+text: A bumper sticker for managers:
+	
+	| %%Mission Happens%% |
+	
+	... meaning sometimes you've just gotta buckle down and do the dirty job that you're getting paid to do!
+	
+	//**^z**// - 2010-08-23
+	
+lastmajor: 1
+keep-ts: 1282648391

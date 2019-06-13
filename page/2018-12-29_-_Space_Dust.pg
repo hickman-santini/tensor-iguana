@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~14.7 mi @ ~14.4 min/mi</h3><p>"Willie Nelson!" a passing runner tells Barry, upon witnessing scruffy sweatband-bedecked Roadkill. A space-dust beer poster offers a selfie opportunity on the way to meet R2, Ken, and Emaad in Bethesda. For the return trip Danger Man and Roadkill "walk the line" between DC and Maryland, pausing to inspect three boundary stones placed there in 1792. The huge fountain at Chevy Chase Circle is dry; Roadkill cuts straight across it and discovers how slimy-slippery the residue in the bottom is. Happy horses at Meadowbrook Stables poke their heads out in hope of treats.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1271380451">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2019-01-24</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Willie Nelson!" a passing runner tells Barry, upon witnessing scruffy sweatband-bedecked Roadkill. A space-dust beer poster offers a selfie opportunity on the way to meet <strong class="changes">Rebecca</strong>, <strong class="changes">KEN</strong>, and Emaad in Bethesda. For the return trip <strong class="changes">Barry</strong> and Roadkill "walk the line" between DC and Maryland, pausing to inspect three boundary stones placed there in 1792. The huge fountain at Chevy Chase Circle is dry; Roadkill cuts straight across it and discovers how slimy-slippery the residue in the bottom is. Happy horses at Meadowbrook Stables poke their heads out in hope of treats.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "Willie Nelson!" a passing runner tells Barry, upon witnessing scruffy sweatband-bedecked Roadkill. A space-dust beer poster offers a selfie opportunity on the way to meet <strong class="changes">R2</strong>, <strong class="changes">Ken</strong>, and Emaad in Bethesda. For the return trip <strong class="changes">Danger Man</strong> and Roadkill "walk the line" between DC and Maryland, pausing to inspect three boundary stones placed there in 1792. The huge fountain at Chevy Chase Circle is dry; Roadkill cuts straight across it and discovers how slimy-slippery the residue in the bottom is. Happy horses at Meadowbrook Stables poke their heads out in hope of treats.</p></div>
+lastmajorsummary: tweaks
+ts: 1548325712
+minor: 
+host: 71.178.82.250
+username: z
+revision: 2
+diff-major: 1
+summary: tweaks
+languages: 
+text: === ~14.7 mi @ ~14.4 min/mi
+	
+	"Willie Nelson!" a passing runner tells Barry, upon witnessing scruffy sweatband-bedecked Roadkill. A space-dust beer poster offers a selfie opportunity on the way to meet R2, Ken, and Emaad in Bethesda. For the return trip Danger Man and Roadkill "walk the line" between DC and Maryland, pausing to inspect three boundary stones placed there in 1792. The huge fountain at Chevy Chase Circle is dry; Roadkill cuts straight across it and discovers how slimy-slippery the residue in the bottom is. Happy horses at Meadowbrook Stables poke their heads out in hope of treats.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1271380451|trackfile]])// - //**^z**// - 2019-01-24
+	
+lastmajor: 2
+keep-ts: 1548325712

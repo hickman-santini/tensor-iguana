@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">In the **New York Times** Saturday "Think Tank" feature of 10 January 1998, four philosophers were asked to identify the most underrated concepts of life. They nominated:<br />&lt; * **//Uncertainty//** - realizing that we can't know everything, and that our judgments always need to be tempered with caution;<br />&lt; * **//Kindness//** - going beyond what's required of us, to act gently and helpfully toward other living creatures;<br />&lt; * **//Pacifism//** - choosing not to return violence to violence, but rather to strive self-consistently for peace; and<br />&lt; * **//Hope//** - believing, perhaps in the face of all evidence, that things will get better, that good will triumph, and that in the long run, love wins.<br />&lt; - Tuesday, July 06, 1999 at 18:17:43 (EDT) = Datetag19990706</strong><br />&lt; [[<strong class="changes">TopicPhilosophy</strong>]] <strong class="changes">- [[TopicLife]]<br />&lt; ----<br />&lt; //(correlates: [[OnSupererogation]], [[SomethingToSell]], [[SoFunny]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">Underappreciated Ideas</strong>]]</p></div>
+ip: 70.21.102.87
+ts: 1222305480
+minor: 1
+host: pool-70-21-102-87.res.east.verizon.net
+username: MarkZimmermann
+revision: 4
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; * **//Uncertainty<strong class="changes">**//</strong> - realizing that we can't know everything, and that our judgments always need to be tempered with caution;<br />&lt; * **//Kindness<strong class="changes">**//</strong> - going beyond what's required of us, to act gently and helpfully toward other living creatures;<br />&lt; * **//Pacifism<strong class="changes">**//</strong> - choosing not to return violence to violence, but rather to strive self-consistently for peace; and<br />&lt; * **//Hope<strong class="changes">**//</strong> - believing, perhaps in the face of all evidence, that things will get better, that good will triumph, and that in the long run, love wins.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * **//Uncertainty<strong class="changes">//**</strong> - realizing that we can't know everything, and that our judgments always need to be tempered with caution;<br />&gt; * **//Kindness<strong class="changes">//**</strong> - going beyond what's required of us, to act gently and helpfully toward other living creatures;<br />&gt; * **//Pacifism<strong class="changes">//**</strong> - choosing not to return violence to violence, but rather to strive self-consistently for peace; and<br />&gt; * **//Hope<strong class="changes">//**</strong> - believing, perhaps in the face of all evidence, that things will get better, that good will triumph, and that in the long run, love wins.</p></div>
+summary: redirect
+languages: 
+text: #REDIRECT [[Underappreciated Ideas]]
+	
+lastmajor: 3
+keep-ts: 1222305480

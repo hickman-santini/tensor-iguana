@@ -1,0 +1,31 @@
+blocks: <p>"If all you have is a hammer, throw away everything that's not a nail!" Besides being a clever aphorism it's part of a title of a <a class="url http outside" href="http://arxiv.org/abs/1209.2191">recent paper on parallel algorithms</a> by University of Maryland professor Jimmy Lin. His conclusion, briefly, is that since there's already one excellent tool to solve many important problems, then instead of inventing new, marginally better approaches that are complicated and hard to maintain, it's best to figure out how to make the standard tool work in broader domains. Far beyond that realm, yes, something radically different is needed. But Lin puts it more artfully:</p><blockquote><p>To apply a metaphor: Hadoop is currently the large-scale data processing hammer of choice. We've discovered that, in addition to nails, there are actually screws&mdash;and it doesn't seem like hammering screws is a good idea. So instead of trying to invent a screwdriver, let's just get rid of the screws. If there are only nails, then our MapReduce hammer will work just fine. To be specific, much discussion in the literature surrounds the fact that iterative algorithms are not amenable to MapReduce: the (simple) solution, I suggest, is to avoid iterative algorithms!</p><p>...</p><p>Taking the metaphor a bit further (and at the expense of overextending it): On the one hand, we should perfect the hammer we already have by improving its weight balance, making a better grip, etc. On the other hand, we should be developing jackhammers&mdash;entirely new "game changers" that can do things MapReduce and Hadoop fundamentally cannot do.<br /></p></blockquote><p>Good thoughts, applicable to topics far beyond computer science ...</p><p><em><strong>^z</strong></em> - 2012-11-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.186.77
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: "If all you have is a hammer, throw away everything that's not a nail!" Besides being a clever aphorism it's part of a title of a [[http://arxiv.org/abs/1209.2191|recent paper on parallel algorithms]] by University of Maryland professor Jimmy Lin. His conclusion, briefly, is that since there's already one excellent tool to solve many important problems, then instead of inventing new, marginally better approaches that are complicated and hard to maintain, it's best to figure out how to make the standard tool work in broader domains. Far beyond that realm, yes, something radically different is needed. But Lin puts it more artfully:
+	
+	"""
+	To apply a metaphor: Hadoop is currently the large-scale data processing hammer of choice.  We've discovered that, in addition to nails, there are actually screws&mdash;and it doesn't seem like hammering screws is a good idea. So instead of trying to invent a screwdriver, let's just get rid of the screws. If there are only nails, then our MapReduce hammer will work just fine. To be specific, much discussion in the literature surrounds the fact that iterative algorithms are not amenable to MapReduce: the (simple) solution, I suggest, is to avoid iterative algorithms!
+	
+	...
+	
+	Taking the metaphor a bit further (and at the expense of overextending it): On the one hand, we should perfect the hammer we already have by improving its weight balance, making a better grip, etc. On the other hand, we should be developing jackhammers&mdash;entirely new "game changers" that can do things MapReduce and Hadoop fundamentally cannot do.
+	"""
+	
+	Good thoughts, applicable to topics far beyond computer science ...
+	
+	//**^z**// - 2012-11-18
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">"If all you have is a hammer, throw away everything that's not a nail!" Besides being a clever aphorism it's part of a title of a [[http://arxiv.org/abs/1209.2191|recent paper on parallel algorithms]] by University of Maryland professor Jimmy Lin. His conclusion, briefly, is that since there's already one excellent tool to solve many important problems, then instead of inventing new, marginally better approaches that are complicated and hard to maintain, it's best to figure out how to make the standard tool work in broader domains. Far beyond that realm, yes, something radically different is needed. But Lin puts it more artfully:<br />&gt; """<br />&gt; To apply a metaphor: Hadoop is currently the large-scale data processing hammer of choice.  We've discovered that, in addition to nails, there are actually screws&amp;mdash;and it doesn't seem like hammering screws is a good idea. So instead of trying to invent a screwdriver, let's just get rid of the screws. If there are only nails, then our MapReduce hammer will work just fine. To be specific, much discussion in the literature surrounds the fact that iterative algorithms are not amenable to MapReduce: the (simple) solution, I suggest, is to avoid iterative algorithms!<br />&gt; ...<br />&gt; Taking the metaphor a bit further (and at the expense of overextending it): On the one hand, we should perfect the hammer we already have by improving its weight balance, making a better grip, etc. On the other hand, we should be developing jackhammers&amp;mdash;entirely new "game changers" that can do things MapReduce and Hadoop fundamentally cannot do.<br />&gt; """<br />&gt; Good thoughts, applicable to topics far beyond computer science ...<br />&gt; //**^z**// - 2012-11-18</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

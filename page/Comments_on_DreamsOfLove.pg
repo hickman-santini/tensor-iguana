@@ -1,0 +1,29 @@
+blocks: <h3>2 Comments.</h3><p>see <a class="url http" href="http://sandrahurtes.com/Writings.html">http://sandrahurtes.com/Writings.html</a> and <a class="url http" href="http://www.nytimes.com/1996/06/27/garden/close-to-home-keeping-alive-the-dreams-of-love.html?pagewanted=print&amp;src=pm">http://www.nytimes.com/1996/06/27/garden/close-to-home-keeping-alive-the-dreams-of-love.html?pagewanted=print&amp;src=pm</a></p><p>-- <a class="url http outside" href="http://zhurnaly.com">zimmmmm</a> 2013-09-10 08:28 UTC</p><hr /><p>first link above seems broken - see  <a class="url http" href="http://sandrahurtes.blogspot.com">http://sandrahurtes.blogspot.com</a> ...</p><p>-- <a class="url http outside" href="http://zhurnaly.com">zzzz</a> 2016-05-26 09:29 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	see http://sandrahurtes.com/Writings.html and http://www.nytimes.com/1996/06/27/garden/close-to-home-keeping-alive-the-dreams-of-love.html?pagewanted=print&src=pm
+	
+	-- [http://zhurnaly.com zimmmmm] 2013-09-10 08:28 UTC
+	
+	
+	----
+	
+	first link above seems broken - see  http://sandrahurtes.blogspot.com ...
+	
+	-- [http://zhurnaly.com zzzz] 2016-05-26 09:29 UTC
+	
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; see http://sandrahurtes.com/Writings.html and http://www.nytimes.com/1996/06/27/garden/close-to-home-keeping-alive-the-dreams-of-love.html?pagewanted=print&amp;src=pm<br />&gt; -- [http://zhurnaly.com zimmmmm] 2013-09-10 08:28 UTC<br />&gt; ----<br />&gt; first link above seems broken - see  http://sandrahurtes.blogspot.com ...<br />&gt; -- [http://zhurnaly.com zzzz] 2016-05-26 09:29 UTC</p></div>
+flags: 0
+ts: 1528057707
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057707

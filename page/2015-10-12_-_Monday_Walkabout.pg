@@ -1,0 +1,23 @@
+blocks: <h3>~2.4 miles @ ~22.8 min/mi</h3><p>Neighborhood afternoon ramble plus grocery errand with DD: black squirrels pose holding nuts in their cute little paws and a CSX freight train cruises beneath us at the Linden Lane bridge over the Metropolitan Branch line.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/673728635">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-11-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.94.121
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2.4 miles @ ~22.8 min/mi
+	
+	Neighborhood afternoon ramble plus grocery errand with DD: black squirrels pose holding nuts in their cute little paws and a CSX freight train cruises beneath us at the Linden Lane bridge over the Metropolitan Branch line.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/673728635|trackfile]])// - //**^z**// - 2015-11-04
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2.4 miles @ ~22.8 min/mi<br />&gt; Neighborhood afternoon ramble plus grocery errand with DD: black squirrels pose holding nuts in their cute little paws and a CSX freight train cruises beneath us at the Linden Lane bridge over the Metropolitan Branch line.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/673728635|trackfile]])// - //**^z**// - 2015-11-04</strong></p></div>
+flags: 0
+ts: 1528057705
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057705

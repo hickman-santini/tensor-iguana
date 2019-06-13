@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">| Mere happenstance of sound has brought<br />&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;   Together choruses of words<br />&lt;  With meanings disparate, unsought,<br />&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;   Yet forced by poetry to serve<br />&lt;  As members of a traveling band.<br />&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;   With "love" comes "dove" and "from above";<br />&lt;  "Command" is yoked to "understand".<br />&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;   Conjoined with "moon" stiff verses shove<br />&lt;  Both "tune" and "June", as if they meant<br />&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;   Something related; neither do.<br />&lt;  Instead, imagine accident<br />&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;   Of language made the term for "true"<br />&lt;  Be spoken so it rhymed with "moose".<br />&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;   Might quadrupedal herbivores<br />&lt;  Take center stage, along with "juice",<br />&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;   As lyric praise of virtue soars<br />&lt;  To fancied heights? And could the hue<br />&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;   Of honest color be replaced,<br />&lt;  So that instead of loyal blue<br />&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;   The noblest tints would be puce-based?<br />&lt;  The mind recoils. And yet, //c'est vrai//,<br />&lt;  In other tongues it's said that way! |<br />&lt; ----<br />&lt; [[TopicPoetry]] -</strong> [[<strong class="changes">TopicLanguage</strong>]] <strong class="changes">- Datetag20040201<br />&lt; ----<br />&lt; //(correlates: [[FadingTraces]], [[WindToThyWings]], [[DiagnosisMortality]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">Roses by Other Names</strong>]]</p></div>
+ip: 141.156.150.174
+ts: 1234611323
+minor: 1
+host: pool-141-156-150-174.res.east.verizon.net
+username: MarkZimmermann
+revision: 9
+diff-major: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt;  Mere happenstance of sound has brought</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt;  Mere happenstance of sound has brought</p></div>
+summary: redirect
+languages: 
+text: #REDIRECT [[Roses by Other Names]]
+	
+lastmajor: 4
+keep-ts: 1234611323

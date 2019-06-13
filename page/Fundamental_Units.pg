@@ -1,0 +1,25 @@
+flags: 0
+blocks: <p>Many years ago (~1968?) I was captivated by an article in <strong>Analog</strong> magazine. Although it mainly ran science-fiction stories <strong>Analog</strong> did have occasional "science fact" essays, and the one that comes to mind was devoted to the "fundamental units" of nature. There were half a dozen, beginning with <em><strong>mass</strong></em>, <em><strong>length</strong></em>, and <em><strong>time</strong></em> of course, from the ordinary world we live in. Then add <em><strong>charge</strong></em> to bring in electricity and magnetism. To set the scale of quantum effects in atomic and subatomic phenomena there's <em><strong>Planck's constant</strong></em>. For temperature and thermodynamics, you need <em><strong>Boltzmann's constant</strong></em> that links heat to other forms of energy. The author of the <strong>Analog</strong> piece arranged these half-dozen parameters in a triangle that I can almost, but not quite, still visualize 40 years later. <em>(I'm not sure whether or not G, the gravitational constant, was in there; maybe it replaced one of the others?)</em></p><p>Walking home from the Metro yesterday afternoon I got to thinking about a half dozen less fundamental units: the key character attributes in "Dungeons &amp; Dragons" or other fantasy r&ocirc;le-playing games. I even came up with a silly metaphorical mapping between them and some physical quantities:<br /></p><table class="user"><tr><th align="center">attribute </th><th align="center">quantity </th></tr><tr><td align="center"><strong>Strength</strong></td><td align="center">power = <em>force</em> / <em>time</em></td></tr><tr><td align="center"><strong>Intelligence</strong></td><td align="center">speed = <em>distance</em> / <em>time</em></td></tr><tr><td align="center"><strong>Dexterity</strong></td><td align="center">acceleration = <em>distance</em> / <em>time<sup>2</sup></em></td></tr><tr><td align="center"><strong>Constitution</strong></td><td align="center">momentum = <em>mass</em> * <em>velocity</em></td></tr><tr><td align="center"><strong>Charisma</strong></td><td align="center">charge </td></tr></table><p>That leaves one final nut to crack: what is the D&amp;D character stat <strong>Wisdom</strong> analogous to? Perhaps it's dimensionless!</p><p><em><strong>^z</strong></em> - 2009-03-20</p>
+ip: 138.88.176.69
+ts: 1237539357
+minor: 
+host: pool-138-88-176-69.res.east.verizon.net
+username: zz
+revision: 1
+summary: Many years ago (~1968?) I was captivated by an article in Analog magazine. Although it mainly ran science-fiction stories Analog did have occasional "science fact" essays, and the one that comes to mind was devoted to the "fundamental units" of nature. There were half a dozen, beginning with mass, length, and time of course, from the ordinary world we live in. Then add charge to ...
+languages: 
+text: Many years ago (~1968?) I was captivated by an article in **Analog** magazine. Although it mainly ran science-fiction stories **Analog** did have occasional "science fact" essays, and the one that comes to mind was devoted to the "fundamental units" of nature. There were half a dozen, beginning with //**mass**//, //**length**//, and //**time**// of course, from the ordinary world we live in. Then add //**charge**// to bring in electricity and magnetism. To set the scale of quantum effects in atomic and subatomic phenomena there's //**Planck's constant**//. For temperature and thermodynamics, you need //**Boltzmann's constant**// that links heat to other forms of energy. The author of the **Analog** piece arranged these half-dozen parameters in a triangle that I can almost, but not quite, still visualize 40 years later. //(I'm not sure whether or not G, the gravitational constant, was in there; maybe it replaced one of the others?)//
+	
+	Walking home from the Metro yesterday afternoon I got to thinking about a half dozen less fundamental units: the key character attributes in "Dungeons & Dragons" or other fantasy r&ocirc;le-playing games. I even came up with a silly metaphorical mapping between them and some physical quantities:
+	|= attribute |= quantity |
+	| **Strength** | power = //force// / //time// |
+	| **Intelligence** | speed = //distance// / //time// |
+	| **Dexterity** | acceleration = //distance// / //time^^2^^// |
+	| **Constitution** | momentum = //mass// * //velocity// |
+	| **Charisma** | charge |
+	
+	That leaves one final nut to crack:  what is the D&D character stat **Wisdom** analogous to?  Perhaps it's dimensionless!
+	
+	//**^z**// - 2009-03-20
+	
+lastmajor: 1

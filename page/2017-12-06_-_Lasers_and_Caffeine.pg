@@ -1,0 +1,25 @@
+blocks: <h3>~4.3 mi @ ~13.4 min/mi</h3><p>"Coffee run!" Dr Kerry summarizes this morning's Dawn Patrol, as gusty 30+ mph winds blow us directly to Starbucks. Temps falling through the low 40s feel much colder. A huge tree sparkles with green Christmas lights laser-projected from below. Is that a hazard to low-flying aircraft?</p><p>"We're living in a bubble!" Not everybody in this world is mostly happy, reasonably healthy, ok financially, working at a generally-stable job, mentally kinda-calm, etc. We count our blessings, catch up on family news, and share plans for 2018. Afterwards the lying scale claims I weigh 155 lbs. <em>Better up my mileage!</em></p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1094487149">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-12-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.28
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.3 mi @ ~13.4 min/mi
+	
+	"Coffee run!" Dr Kerry summarizes this morning's Dawn Patrol, as gusty 30+ mph winds blow us directly to Starbucks. Temps falling through the low 40s feel much colder. A huge tree sparkles with green Christmas lights laser-projected from below. Is that a hazard to low-flying aircraft?
+	
+	"We're living in a bubble!" Not everybody in this world is mostly happy, reasonably healthy, ok financially, working at a generally-stable job, mentally kinda-calm, etc. We count our blessings, catch up on family news, and share plans for 2018. Afterwards the lying scale claims I weigh 155 lbs. //Better up my mileage!//
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1094487149|trackfile]])// - //**^z**// - 2017-12-27
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.3 mi @ ~13.4 min/mi<br />&gt; "Coffee run!" Dr Kerry summarizes this morning's Dawn Patrol, as gusty 30+ mph winds blow us directly to Starbucks. Temps falling through the low 40s feel much colder. A huge tree sparkles with green Christmas lights laser-projected from below. Is that a hazard to low-flying aircraft?<br />&gt; "We're living in a bubble!" Not everybody in this world is mostly happy, reasonably healthy, ok financially, working at a generally-stable job, mentally kinda-calm, etc. We count our blessings, catch up on family news, and share plans for 2018. Afterwards the lying scale claims I weigh 155 lbs. //Better up my mileage!//<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1094487149|trackfile]])// - //**^z**// - 2017-12-27</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

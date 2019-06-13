@@ -1,0 +1,26 @@
+flags: 0
+blocks: <p>Some things you get lots of chances to try, fail, and try again. Other items, however, are big Lifetime Decisions. Examples:<br /></p><ul><li>marriage/family &mdash; though the divorce rate has risen over the years, mistakes are expensive and un&aelig;sthetic, to put it mildly</li><li>career &mdash; there's more job mobility now than there used to be, but it's still hard to make radical changes</li><li>studies &mdash; with increasing depth and complexity in most fields of knowledge, it's tougher to be a renaissance man (or even a wanna-be know-it-all)</li><li>health &mdash; years of smoking, obesity, inactivity, etc. are difficult to recover from</li></ul><p>The punch line? Take care and think thrice before deciding, especially when you don't get many do-overs!</p><p><em><strong>^z</strong></em> - 2010-03-05</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; * health &amp;mdash; years of smoking, obesity, inactivity, etc. are <strong class="changes">hard</strong> to recover from<br />&lt; The punch line? Take care and think thrice before deciding when you don't get many do-overs!</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * health &amp;mdash; years of smoking, obesity, inactivity, etc. are <strong class="changes">difficult</strong> to recover from<br />&gt; The punch line? Take care and think thrice before deciding<strong class="changes">, especially</strong> when you don't get many do-overs!</p></div>
+ip: 138.88.114.105
+ts: 1267782347
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 3
+diff-major: 
+summary: tweaks 2
+languages: 
+text: Some things you get lots of chances to try, fail, and try again. Other items, however, are big Lifetime Decisions. Examples:
+	* marriage/family &mdash; though the divorce rate has risen over the years, mistakes are expensive and un&aelig;sthetic, to put it mildly
+	* career &mdash; there's more job mobility now than there used to be, but it's still hard to make radical changes
+	* studies &mdash; with increasing depth and complexity in most fields of knowledge, it's tougher to be a renaissance man (or even a wanna-be know-it-all)
+	* health &mdash; years of smoking, obesity, inactivity, etc. are difficult to recover from
+	
+	The punch line? Take care and think thrice before deciding, especially when you don't get many do-overs!
+	
+	//**^z**// - 2010-03-05
+	
+lastmajor: 1
+keep-ts: 1267782347

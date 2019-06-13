@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~4 miles @ ~9 min/mi</h3></p><p>Contemplate not running &mdash; but make the mistake of reading about yesterday's London Marathon and today's Boston Marathon &mdash; at which point guilt sets in and <em>have</em> to go out. In the locker room a fellow asks about the beard. Reply with an old joke: "Had it for more than 30 years; think wife just doesn't want to see my face." He laughs uproariously. Today's early Monday morning trot on the winding hilly path begins with a slow first lap that includes some pauses to move fallen branches out of the way. High winds and heavy rains on Saturday must have brought them down. Accelerating the pace makes miles 9.6 &rArr; 8.4 &rArr; 7.4 minutes.</p><p><em><strong>^z</strong></em> - 2011-04-27</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">I contemplate</strong> not running<strong class="changes">,</strong> but make the mistake of reading about yesterday's London Marathon and today's Boston Marathon &amp;mdash; at which point guilt sets in and <strong class="changes">I</strong> have to go out. In the locker room a fellow asks about <strong class="changes">my</strong> beard. <strong class="changes">When I tell him the</strong> old joke<strong class="changes">,</strong> "<strong class="changes">I've had</strong> it for more than 30 years; <strong class="changes">I</strong> think <strong class="changes">my</strong> wife just doesn't want to see my face<strong class="changes">," he</strong> laughs uproariously. Today's early Monday morning trot on the winding hilly path begins with a slow first lap that includes some pauses to move fallen branches out of the way. High winds and heavy rains on Saturday must have brought them down. Accelerating the pace makes <strong class="changes">for</strong> miles <strong class="changes">of</strong> 9.6 &amp;rArr; 8.4 &amp;rArr; 7.4  minutes.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Contemplate</strong> not running <strong class="changes">&amp;mdash;</strong> but make the mistake of reading about yesterday's London Marathon and today's Boston Marathon &amp;mdash; at which point guilt sets in and <strong class="changes">//</strong>have<strong class="changes">//</strong> to go out. In the locker room a fellow asks about <strong class="changes">the</strong> beard. <strong class="changes">Reply with an</strong> old joke<strong class="changes">:</strong> "<strong class="changes">Had</strong> it for more than 30 years; think wife just doesn't want to see my face<strong class="changes">." He</strong> laughs uproariously. Today's early Monday morning trot on the winding hilly path begins with a slow first lap that includes some pauses to move fallen branches out of the way. High winds and heavy rains on Saturday must have brought them down. Accelerating the pace makes miles 9.6 &amp;rArr; 8.4 &amp;rArr; 7.4  minutes.</p></div>
+ip: 141.156.142.183
+ts: 1303893665
+minor: 1
+host: pool-141-156-142-183.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweaks to more telegraphic style
+languages: 
+text: === ~4 miles @ ~9 min/mi
+	
+	Contemplate not running &mdash; but make the mistake of reading about yesterday's London Marathon and today's Boston Marathon &mdash; at which point guilt sets in and //have// to go out. In the locker room a fellow asks about the beard. Reply with an old joke: "Had it for more than 30 years; think wife just doesn't want to see my face." He laughs uproariously. Today's early Monday morning trot on the winding hilly path begins with a slow first lap that includes some pauses to move fallen branches out of the way. High winds and heavy rains on Saturday must have brought them down. Accelerating the pace makes miles 9.6 &rArr; 8.4 &rArr; 7.4  minutes.
+	
+	//**^z**// - 2011-04-27
+	
+lastmajor: 1
+keep-ts: 1303893665

@@ -1,0 +1,23 @@
+blocks: <h3>~9.2 miles @ ~12.3 min/mi</h3><p>Two rabbits eye us and hop away within the first mile. A big deer ambles across the street and through a gate into a mansion garden. Kristin and Kerry spot a pair of "Little Free Libraries" along Massachusetts Av. We pass a home Kerry recognizes, where she confesses to leaping from a ledge and over a wall into the backyard pool, many years ago. Neighborhood architecture is diverse and lovely. Drizzle changes into a light rain that rattles on the leaves and keeps us cool. We weave between cars lined up to enter McLean High School. Kristin and I get Kerry back in time for her early meeting, then add a local loop past the new McLean Metro station.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/584062159">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-06-30</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.94.95
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.2 miles @ ~12.3 min/mi
+	
+	Two rabbits eye us and hop away within the first mile. A big deer ambles across the street and through a gate into a mansion garden. Kristin and Kerry spot a pair of "Little Free Libraries" along Massachusetts Av. We pass a home Kerry recognizes, where she confesses to leaping from a ledge and over a wall into the backyard pool, many years ago. Neighborhood architecture is diverse and lovely. Drizzle changes into a light rain that rattles on the leaves and keeps us cool. We weave between cars lined up to enter McLean High School. Kristin and I get Kerry back in time for her early meeting, then add a local loop past the new McLean Metro station.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/584062159|trackfile]])// - //**^z**// - 2015-06-30
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.2 miles @ ~12.3 min/mi<br />&gt; Two rabbits eye us and hop away within the first mile. A big deer ambles across the street and through a gate into a mansion garden. Kristin and Kerry spot a pair of "Little Free Libraries" along Massachusetts Av. We pass a home Kerry recognizes, where she confesses to leaping from a ledge and over a wall into the backyard pool, many years ago. Neighborhood architecture is diverse and lovely. Drizzle changes into a light rain that rattles on the leaves and keeps us cool. We weave between cars lined up to enter McLean High School. Kristin and I get Kerry back in time for her early meeting, then add a local loop past the new McLean Metro station.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/584062159|trackfile]])// - //**^z**// - 2015-06-30</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

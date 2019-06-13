@@ -1,0 +1,23 @@
+blocks: <h3>~6.6 miles @ ~12.3 min/mi</h3><p>"We're in exactly the right place!" Kristin quotes Kerry, as I fidget impatiently for traffic lights to change so we can cross Route 7. Lovely cool weather beckons, so we greet dawnwalker Patti and let feet lead us where they will. The track at five-star Gen. George C. Marshall High School is securely defended from attack. We loop through local communities seeking cut-through gates without success. Front-yard gardens feature variegated irises, pink and orange roses, petunias. <em>("OK, enough of this flower-smelling &mdash; time to run!")</em> A grackle perches on a stone water ewer. <em>("Why is a raven like a writing-desk?")</em> A happy brown rabbit races us for half a block.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/791429273">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-06-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.169
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.6 miles @ ~12.3 min/mi
+	
+	"We're in exactly the right place!" Kristin quotes Kerry, as I fidget impatiently for traffic lights to change so we can cross Route 7. Lovely cool weather beckons, so we greet dawnwalker Patti and let feet lead us where they will. The track at five-star Gen. George C. Marshall High School is securely defended from attack. We loop through local communities seeking cut-through gates without success. Front-yard gardens feature variegated irises, pink and orange roses, petunias. //("OK, enough of this flower-smelling &mdash; time to run!")// A grackle perches on a stone water ewer. //("Why is a raven like a writing-desk?")// A happy brown rabbit races us for half a block.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/791429273|trackfile]])// - //**^z**// - 2016-06-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.6 miles @ ~12.3 min/mi<br />&gt; "We're in exactly the right place!" Kristin quotes Kerry, as I fidget impatiently for traffic lights to change so we can cross Route 7. Lovely cool weather beckons, so we greet dawnwalker Patti and let feet lead us where they will. The track at five-star Gen. George C. Marshall High School is securely defended from attack. We loop through local communities seeking cut-through gates without success. Front-yard gardens feature variegated irises, pink and orange roses, petunias. //("OK, enough of this flower-smelling &amp;mdash; time to run!")// A grackle perches on a stone water ewer. //("Why is a raven like a writing-desk?")// A happy brown rabbit races us for half a block.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/791429273|trackfile]])// - //**^z**// - 2016-06-03</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057697

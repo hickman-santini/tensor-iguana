@@ -1,0 +1,29 @@
+blocks: <h3>~3.7 miles @ ~13.1 min/mi</h3><p>"We have to run under the rainbow!" An awesome arc spans the highway on the way to Cara Marie's 'hood this morning, with fainter double bow visible in segments. In the east sunrise glints kumquat-pumpkin-hued on the underside of clouds. Intervals of running and walking average more than 1 minute/mile faster pace than just a week ago. Dialogue passing CM's favorite grocery store:</p><p>"Let's stop &mdash; I need to get a watermelon."</p><p>"Won't that slow you down?"</p><p>"You can carry it!"</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/654367936">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.7 miles @ ~13.1 min/mi
+	
+	"We have to run under the rainbow!" An awesome arc spans the highway on the way to Cara Marie's 'hood this morning, with fainter double bow visible in segments. In the east sunrise glints kumquat-pumpkin-hued on the underside of clouds. Intervals of running and walking average more than 1 minute/mile faster pace than just a week ago. Dialogue passing CM's favorite grocery store:
+	
+	"Let's stop &mdash; I need to get a watermelon."
+	
+	"Won't that slow you down?"
+	
+	"You can carry it!"
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/654367936|trackfile]])// - //**^z**// - 2015-10-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.7 miles @ ~13.1 min/mi<br />&gt; "We have to run under the rainbow!" An awesome arc spans the highway on the way to Cara Marie's 'hood this morning, with fainter double bow visible in segments. In the east sunrise glints kumquat-pumpkin-hued on the underside of clouds. Intervals of running and walking average more than 1 minute/mile faster pace than just a week ago. Dialogue passing CM's favorite grocery store:<br />&gt; "Let's stop &amp;mdash; I need to get a watermelon."<br />&gt; "Won't that slow you down?"<br />&gt; "You can carry it!"<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/654367936|trackfile]])// - //**^z**// - 2015-10-03</strong></p></div>
+flags: 0
+ts: 1528057692
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057692

@@ -1,0 +1,23 @@
+blocks: <h3>~8.7 miles @ ~12.0 min/mi</h3><p>"Don't do what I just did!" I advise the kids waiting for the crosswalk light to change, after I dash across Jones Mill Rd with a pause in the median for cars to zoom by. Today's mission: meet Mary at Lock 7 on the C&amp;O Canal. The first few miles flow easy, but then reality - aka humidity - kicks in and pace slows. A huge peleton of cyclists cruises up Goldsboro Rd; I stop to take photos and cheer them. The 7-11 at Glen Echo has Crunchy Cheetos on sale so I buy two bags and fill my bottle with ice. GPS glitches in the tunnel under Wisconsin Av and in the store add ~5% to total distance and similarly make the pace seem faster than it really was.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/651139263">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-09-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.7 miles @ ~12.0 min/mi
+	
+	"Don't do what I just did!" I advise the kids waiting for the crosswalk light to change, after I dash across Jones Mill Rd with a pause in the median for cars to zoom by. Today's mission: meet Mary at Lock 7 on the C&O Canal. The first few miles flow easy, but then reality - aka humidity - kicks in and pace slows. A huge peleton of cyclists cruises up Goldsboro Rd; I stop to take photos and cheer them. The 7-11 at Glen Echo has Crunchy Cheetos on sale so I buy two bags and fill my bottle with ice. GPS glitches in the tunnel under Wisconsin Av and in the store add ~5% to total distance and similarly make the pace seem faster than it really was.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/651139263|trackfile]])// - //**^z**// - 2015-09-29
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.7 miles @ ~12.0 min/mi<br />&gt; "Don't do what I just did!" I advise the kids waiting for the crosswalk light to change, after I dash across Jones Mill Rd with a pause in the median for cars to zoom by. Today's mission: meet Mary at Lock 7 on the C&amp;O Canal. The first few miles flow easy, but then reality - aka humidity - kicks in and pace slows. A huge peleton of cyclists cruises up Goldsboro Rd; I stop to take photos and cheer them. The 7-11 at Glen Echo has Crunchy Cheetos on sale so I buy two bags and fill my bottle with ice. GPS glitches in the tunnel under Wisconsin Av and in the store add ~5% to total distance and similarly make the pace seem faster than it really was.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/651139263|trackfile]])// - //**^z**// - 2015-09-29</strong></p></div>
+flags: 0
+ts: 1528057686
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057686

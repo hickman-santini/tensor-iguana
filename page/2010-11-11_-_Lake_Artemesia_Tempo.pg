@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~3 miles @ ~7.6 min/mi</h3></p><p>Lake Artemesia is paved with ducks, and clouds of midges float in the sunbeams. I try to dodge them but at least one gets into my left eye&mdash;a gnat, not a duck, that is. With a 5k race coming up in a couple of days I head down Paint Branch Trail from the UM engineering bldg parking lot ~4pm, running hard to see what sort of pace I can sustain. By GPS the first mile is 7:58, swerving past young joggers and pedestrians. Mile 2 around the lake is 7:20. I'm definitely winded now, and intermittently am blinded by the light as I round the north end of the lake and head back. The third mile is 7:31 in spite of an effort to accelerate. Pulse is ~180 during the walk/jog return to the start. Daughter Gray isn't done yet so I grab a water bottle from the car and, heart rate now ~110 and falling, walk half a mile upstream, scanning the woods for deer without success.</p><p><em><strong>^z</strong></em> - 2010-11-23</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Lake Artemesia is paved with ducks, and clouds of midges float in the sunbeams. I try to dodge them but at least one gets into my left eye&amp;mdash;a gnat, not a duck, that is. With a 5k race coming up in a couple of days I head down Paint Branch Trail from the UM engineering bldg parking lot ~4pm, running hard to see what sort of pace I can sustain. By GPS the first mile is 7:58, swerving past young joggers and pedestrians. Mile 2 around the lake is 7:20. I'm definitely winded now, and intermittently am blinded by the light as I round the north end of the lake and head back. The third mile is 7:31 in spite of an effort to accelerate. Pulse is ~180 during the walk/jog <strong class="changes">back</strong> to the start. Daughter Gray isn't done yet so I grab a water bottle from the car and, heart rate now ~110 and falling, walk half a mile upstream <strong class="changes">and back</strong>, scanning the woods for deer without success.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Lake Artemesia is paved with ducks, and clouds of midges float in the sunbeams. I try to dodge them but at least one gets into my left eye&amp;mdash;a gnat, not a duck, that is. With a 5k race coming up in a couple of days I head down Paint Branch Trail from the UM engineering bldg parking lot ~4pm, running hard to see what sort of pace I can sustain. By GPS the first mile is 7:58, swerving past young joggers and pedestrians. Mile 2 around the lake is 7:20. I'm definitely winded now, and intermittently am blinded by the light as I round the north end of the lake and head back. The third mile is 7:31 in spite of an effort to accelerate. Pulse is ~180 during the walk/jog <strong class="changes">return</strong> to the start. Daughter Gray isn't done yet so I grab a water bottle from the car and, heart rate now ~110 and falling, walk half a mile upstream, scanning the woods for deer without success.</p></div>
+ip: 138.88.169.233
+ts: 1290505529
+minor: 1
+host: pool-138-88-169-233.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: === ~3 miles @ ~7.6 min/mi
+	
+	Lake Artemesia is paved with ducks, and clouds of midges float in the sunbeams. I try to dodge them but at least one gets into my left eye&mdash;a gnat, not a duck, that is. With a 5k race coming up in a couple of days I head down Paint Branch Trail from the UM engineering bldg parking lot ~4pm, running hard to see what sort of pace I can sustain. By GPS the first mile is 7:58, swerving past young joggers and pedestrians. Mile 2 around the lake is 7:20. I'm definitely winded now, and intermittently am blinded by the light as I round the north end of the lake and head back. The third mile is 7:31 in spite of an effort to accelerate. Pulse is ~180 during the walk/jog return to the start. Daughter Gray isn't done yet so I grab a water bottle from the car and, heart rate now ~110 and falling, walk half a mile upstream, scanning the woods for deer without success.
+	
+	//**^z**// - 2010-11-23
+	
+lastmajor: 1
+keep-ts: 1290505529

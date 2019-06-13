@@ -1,0 +1,28 @@
+blocks: <p>Beautiful language, thoughtful insights: <strong>Howards End</strong> by E. M. Forster (1910) is a classic that one may regret not having read sooner &mdash; or perhaps better, feel grateful for having had the chance to read, however belatedly. It resonates with the best of Charles Dickens and P. G. Wodehouse, and sometimes has the feel of the film <strong>Stranger Than Fiction</strong>, with its omniscient narrator's commentary and its fascinating characters wrestling with what it means to be human. And the themes! Love and strife, poverty and wealth, men and women, art and nature ...</p><p>And always, such metaphorical sharpness, such striking prose! For example, in Chapter II a description of the city:<br /></p><blockquote><p>She broke off, and listened to the sounds of a London morning. Their house was in Wickham Place, and fairly quiet, for a lofty promontory of buildings separated it from the main thoroughfare. One had the sense of a backwater, or rather of an estuary, whose waters flowed in from the invisible sea, and ebbed into a profound silence while the waves without were still beating. Though the promontory consisted of flats&mdash;expensive, with cavernous entrance halls, full of concierges and palms&mdash;it fulfilled its purpose, and gained for the older houses opposite a certain measure of peace. These, too, would be swept away in time, and another promontory would arise upon their site, as humanity piled itself higher and higher on the precious soil of London.<br /></p></blockquote><p>More lovely bits to follow ...</p><p><em><strong>^z</strong></em> - 2017-07-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.95
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Beautiful language, thoughtful insights: **Howards End** by E. M. Forster (1910) is a classic that one may regret not having read sooner &mdash; or perhaps better, feel grateful for having had the chance to read, however belatedly. It resonates with the best of Charles Dickens and P. G. Wodehouse, and sometimes has the feel of the film **Stranger Than Fiction**, with its omniscient narrator's commentary and its fascinating characters wrestling with what it means to be human. And the themes! Love and strife, poverty and wealth, men and women, art and nature ...
+	
+	And always, such metaphorical sharpness, such striking prose! For example, in Chapter II a description of the city:
+	"""
+	She broke off, and listened to the sounds of a London morning. Their house was in Wickham Place, and fairly quiet, for a lofty promontory of buildings separated it from the main thoroughfare. One had the sense of a backwater, or rather of an estuary, whose waters flowed in from the invisible sea, and ebbed into a profound silence while the waves without were still beating. Though the promontory consisted of flats&mdash;expensive, with cavernous entrance halls, full of concierges and palms&mdash;it fulfilled its purpose, and gained for the older houses opposite a certain measure of peace. These, too, would be swept away in time, and another promontory would arise upon their site, as humanity piled itself higher and higher on the precious soil of London.
+	"""
+	
+	More lovely bits to follow ...
+	
+	//**^z**// - 2017-07-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Beautiful language, thoughtful insights: **Howards End** by E. M. Forster (1910) is a classic that one may regret not having read sooner &amp;mdash; or perhaps better, feel grateful for having had the chance to read, however belatedly. It resonates with the best of Charles Dickens and P. G. Wodehouse, and sometimes has the feel of the film **Stranger Than Fiction**, with its omniscient narrator's commentary and its fascinating characters wrestling with what it means to be human. And the themes! Love and strife, poverty and wealth, men and women, art and nature ...<br />&gt; And always, such metaphorical sharpness, such striking prose! For example, in Chapter II a description of the city:<br />&gt; """<br />&gt; She broke off, and listened to the sounds of a London morning. Their house was in Wickham Place, and fairly quiet, for a lofty promontory of buildings separated it from the main thoroughfare. One had the sense of a backwater, or rather of an estuary, whose waters flowed in from the invisible sea, and ebbed into a profound silence while the waves without were still beating. Though the promontory consisted of flats&amp;mdash;expensive, with cavernous entrance halls, full of concierges and palms&amp;mdash;it fulfilled its purpose, and gained for the older houses opposite a certain measure of peace. These, too, would be swept away in time, and another promontory would arise upon their site, as humanity piled itself higher and higher on the precious soil of London.<br />&gt; """<br />&gt; More lovely bits to follow ...<br />&gt; //**^z**// - 2017-07-19</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

@@ -1,0 +1,36 @@
+flags: 0
+blocks: <p>"More Art Than Science" &mdash; a subsection title, and a good summary of Hal Higdon's 1992 <strong>Run Fast: How to Train for a 5-K or 10-K Race</strong>. Throughout the book Higdon quotes experienced coaches and athletes, then immediately proceeds to contradict their advice. On page 6 in describing what he offers beginners who take lessons from him, Higdon admits, "... mostly, we are not teaching running; rather, we're <em>peddling motivation</em>." In the next paragraph: "The most important thing we tell beginners is ... simply 'You're doing great. Keep it up.'" Training plans are generic at best.</p><p>Higdon offers a list of prescriptions in Chapter 14 ("The Polishing Touch: Be Your Own Best Coach"):<br /></p><ul><li>Plan Ahead</li><li>Look Behind</li><li>Define Your Goal</li><li>Be Realistic</li><li>Don't Be Trapped by History</li><li>Make Small Changes</li><li>Get Out of the Rut</li><li>Program Some Rest</li><li>Respect Your Environment</li><li>Progress Carefully Toward Your Goal</li><li>Put It in Writing</li><li>Review Regularly</li></ul><p>How seriously should one take these, or any other, training rules? Hal Higdon's comment on page 36 is: "Again, do what works best for you." OK.</p><p><em><strong>^z</strong></em> - 2010-12-15</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "More Art Than Science" &amp;mdash; a subsection title, and a good summary of Hal Higdon's 1992 **Run Fast: How to Train for a 5-K or 10-K Race**. Throughout the book Higdon quotes experienced coaches and athletes, then immediately proceeds to contradict their advice. On page 6<strong class="changes">,</strong> describing what he offers beginners who take lessons from him, Higdon admits, "... mostly, we are not teaching running; rather, we're //peddling motivation//." In the next paragraph: "The most important thing we tell beginners is ... simply 'You're doing great. Keep it up.'" Training plans are generic at best.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "More Art Than Science" &amp;mdash; a subsection title, and a good summary of Hal Higdon's 1992 **Run Fast: How to Train for a 5-K or 10-K Race**. Throughout the book Higdon quotes experienced coaches and athletes, then immediately proceeds to contradict their advice. On page 6 <strong class="changes">in</strong> describing what he offers beginners who take lessons from him, Higdon admits, "... mostly, we are not teaching running; rather, we're //peddling motivation//." In the next paragraph: "The most important thing we tell beginners is ... simply 'You're doing great. Keep it up.'" Training plans are generic at best.</p></div>
+ip: 138.88.169.233
+ts: 1292405874
+minor: 1
+host: pool-138-88-169-233.res.east.verizon.net
+username: Mark Zimmermann
+revision: 3
+diff-major: 
+summary: tweaks 2
+languages: 
+text: "More Art Than Science" &mdash; a subsection title, and a good summary of Hal Higdon's 1992 **Run Fast: How to Train for a 5-K or 10-K Race**. Throughout the book Higdon quotes experienced coaches and athletes, then immediately proceeds to contradict their advice. On page 6 in describing what he offers beginners who take lessons from him, Higdon admits, "... mostly, we are not teaching running; rather, we're //peddling motivation//." In the next paragraph: "The most important thing we tell beginners is ... simply 'You're doing great. Keep it up.'" Training plans are generic at best.
+	
+	Higdon offers a list of prescriptions in Chapter 14 ("The Polishing Touch: Be Your Own Best Coach"):
+	* Plan Ahead
+	* Look Behind
+	* Define Your Goal
+	* Be Realistic
+	* Don't Be Trapped by History
+	* Make Small Changes
+	* Get Out of the Rut
+	* Program Some Rest
+	* Respect Your Environment
+	* Progress Carefully Toward Your Goal
+	* Put It in Writing
+	* Review Regularly
+	
+	How seriously should one take these, or any other, training rules? Hal Higdon's comment on page 36 is: "Again, do what works best for you." OK.
+	
+	//**^z**// - 2010-12-15
+	
+lastmajor: 1
+keep-ts: 1292405874

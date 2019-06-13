@@ -1,0 +1,23 @@
+blocks: <h3>~2.5 miles @ ~10.5 min/mi</h3><p>It's dark at 5:30am, and a temperature of 40&deg;F in light rain isn't too comforting either. But when I arrive Kristin has already been running laps for almost half an hour on the rubbery ~1/6th mile path at <a class="url http outside" href="http://www.fairfaxcounty.gov/parks/clemyjontri/">Clemyjontri Park</a> next to Georgetown Pike in northern Virginia. I've jogged past here dozens of times since 2009 but never ventured inside. It's called "<a class="url http outside" href="http://mom.me/fun/travel/3190-the-worlds-coolest-playgrounds/item/13752-clemyjontri-park/">one of the world's coolest playgrounds</a>" but in the gloom we can't see much of it. Kristin and I do about 15 loops together, chatting about how we met our respective spouses, meltdowns that our kids had recently, etc. We have some spooky parallels in our families, though I'm a couple of decades farther down the road ahead of her. The <a class="url http outside" href="http://connect.garmin.com/activity/247504419">Garmin GPS</a> credits us with ~2.77 miles together at ~10 min/mi pace. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/133619702">Runkeeper's app</a> on the iPhone is more conservative, at 2.60 miles and ~11 min/mi. Split the difference, and add ~2 miles for Kristen's warm-up. Afterwards she stretches while I attempt to do a pull-up, and fail. We drive the few miles down the road to the office and get to work.</p><p><em><strong>^z</strong></em> - 2012-12-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.18.231
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2.5 miles @ ~10.5 min/mi
+	
+	It's dark at 5:30am, and a temperature of 40&deg;F in light rain isn't too comforting either. But when I arrive Kristin has already been running laps for almost half an hour on the rubbery ~1/6th mile path at [[http://www.fairfaxcounty.gov/parks/clemyjontri/|Clemyjontri Park]] next to Georgetown Pike in northern Virginia. I've jogged past here dozens of times since 2009 but never ventured inside. It's called "[[http://mom.me/fun/travel/3190-the-worlds-coolest-playgrounds/item/13752-clemyjontri-park/|one of the world's coolest playgrounds]]" but in the gloom we can't see much of it. Kristin and I do about 15 loops together, chatting about how we met our respective spouses, meltdowns that our kids had recently, etc. We have some spooky parallels in our families, though I'm a couple of decades farther down the road ahead of her. The [[http://connect.garmin.com/activity/247504419|Garmin GPS]] credits us with ~2.77 miles together at ~10 min/mi pace. [[http://runkeeper.com/user/zhurnaly/activity/133619702|Runkeeper's app]] on the iPhone is more conservative, at 2.60 miles and ~11 min/mi. Split the difference, and add ~2 miles for Kristen's warm-up. Afterwards she stretches while I attempt to do a pull-up, and fail. We drive the few miles down the road to the office and get to work.
+	
+	//**^z**// - 2012-12-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2.5 miles @ ~10.5 min/mi<br />&gt; It's dark at 5:30am, and a temperature of 40&amp;deg;F in light rain isn't too comforting either. But when I arrive Kristin has already been running laps for almost half an hour on the rubbery ~1/6th mile path at [[http://www.fairfaxcounty.gov/parks/clemyjontri/|Clemyjontri Park]] next to Georgetown Pike in northern Virginia. I've jogged past here dozens of times since 2009 but never ventured inside. It's called "[[http://mom.me/fun/travel/3190-the-worlds-coolest-playgrounds/item/13752-clemyjontri-park/|one of the world's coolest playgrounds]]" but in the gloom we can't see much of it. Kristin and I do about 15 loops together, chatting about how we met our respective spouses, meltdowns that our kids had recently, etc. We have some spooky parallels in our families, though I'm a couple of decades farther down the road ahead of her. The [[http://connect.garmin.com/activity/247504419|Garmin GPS]] credits us with ~2.77 miles together at ~10 min/mi pace. [[http://runkeeper.com/user/zhurnaly/activity/133619702|Runkeeper's app]] on the iPhone is more conservative, at 2.60 miles and ~11 min/mi. Split the difference, and add ~2 miles for Kristen's warm-up. Afterwards she stretches while I attempt to do a pull-up, and fail. We drive the few miles down the road to the office and get to work.<br />&gt; //**^z**// - 2012-12-20</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

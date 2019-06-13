@@ -1,0 +1,25 @@
+blocks: <h3>~5.3 miles @ ~13.1 min/mi</h3><p>"Justice as Fairness!" is philosopher John Rawls' bumper-sticker summary of his theory of justice. One of Kristin's kids is fully on board with that; the other currently is more in-the-moment I-want-what-I-want. Demands a tricky balancing-act by a good Mom!</p><p>The skeleton Dawn Patrol crew takes a lap for luck around McLean High School track, then trots south as an umber sky slowly brightens. Icicle-lights glitter in a window to frame a line of snowman-statuettes. A bronchitis cough intrudes during walk breaks, never while on the run. "Is that a rabbit?" Nope, just a small bunny-shaped cedar branch blowdown.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/929921417">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 70.117.106.239
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.3 miles @ ~13.1 min/mi
+	
+	"Justice as Fairness!" is philosopher John Rawls' bumper-sticker summary of his theory of justice. One of Kristin's kids is fully on board with that; the other currently is more in-the-moment I-want-what-I-want. Demands a tricky balancing-act by a good Mom!
+	
+	The skeleton Dawn Patrol crew takes a lap for luck around McLean High School track, then trots south as an umber sky slowly brightens. Icicle-lights glitter in a window to frame a line of snowman-statuettes. A bronchitis cough intrudes during walk breaks, never while on the run. "Is that a rabbit?" Nope, just a small bunny-shaped cedar branch blowdown.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/929921417|trackfile]])// - //**^z**// - 2017-03-09
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.3 miles @ ~13.1 min/mi<br />&gt; "Justice as Fairness!" is philosopher John Rawls' bumper-sticker summary of his theory of justice. One of Kristin's kids is fully on board with that; the other currently is more in-the-moment I-want-what-I-want. Demands a tricky balancing-act by a good Mom!<br />&gt; The skeleton Dawn Patrol crew takes a lap for luck around McLean High School track, then trots south as an umber sky slowly brightens. Icicle-lights glitter in a window to frame a line of snowman-statuettes. A bronchitis cough intrudes during walk breaks, never while on the run. "Is that a rabbit?" Nope, just a small bunny-shaped cedar branch blowdown.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/929921417|trackfile]])// - //**^z**// - 2017-03-09</strong></p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057678

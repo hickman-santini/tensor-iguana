@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~4 miles @ ~10 min/mi</h3></p><p>I squint my eyes and hold my breath like a sounding whale as I dive through the dust cloud thrown up by a leaf-blower. The yard worker blasting grass clippings off the sidewalk pauses until I get past. A warm mid-afternoon lures me down Georgetown Pike to investigate the track at Langley High School. Gates in the stadium fence are chained shut, except for one which stands ajar. A young fellow is doing pushups on the side of the field. I have time for only one lap, a 1:53 brisker-than-sustainable pace, then trot back to the office.</p><p><em><strong>^z</strong></em> - 2009-07-02</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; I squint my eyes and hold my breath like a sounding whale as I dive through the dust cloud thrown up by a leaf-blower. The yard worker blasting grass clippings off the sidewalk pauses until I get past. A warm mid-afternoon lures me down Georgetown Pike to investigate the track at Langley High School. <strong class="changes">High chain-link gates</strong> in the stadium fence are chained shut, except for one which stands ajar. A young fellow is doing pushups on the side of the field. I have time for only one lap, a 1:53 brisker-than-sustainable pace, then trot back to the office.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; I squint my eyes and hold my breath like a sounding whale as I dive through the dust cloud thrown up by a leaf-blower. The yard worker blasting grass clippings off the sidewalk pauses until I get past. A warm mid-afternoon lures me down Georgetown Pike to investigate the track at Langley High School. <strong class="changes">Gates</strong> in the stadium fence are chained shut, except for one which stands ajar. A young fellow is doing pushups on the side of the field. I have time for only one lap, a 1:53 brisker-than-sustainable pace, then trot back to the office.</p></div>
+ip: 141.156.132.93
+ts: 1246523998
+minor: 1
+host: pool-141-156-132-93.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: === ~4 miles @ ~10 min/mi
+	
+	I squint my eyes and hold my breath like a sounding whale as I dive through the dust cloud thrown up by a leaf-blower. The yard worker blasting grass clippings off the sidewalk pauses until I get past. A warm mid-afternoon lures me down Georgetown Pike to investigate the track at Langley High School. Gates in the stadium fence are chained shut, except for one which stands ajar. A young fellow is doing pushups on the side of the field. I have time for only one lap, a 1:53 brisker-than-sustainable pace, then trot back to the office.
+	
+	//**^z**// - 2009-07-02
+	
+lastmajor: 1
+keep-ts: 1246523998

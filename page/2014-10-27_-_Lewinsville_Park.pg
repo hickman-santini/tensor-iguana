@@ -1,0 +1,23 @@
+blocks: <h3>~6.4 miles @ ~10.9 min/mi</h3><p><em>Owl?</em> Kerry and Amber shine flashlights up just in time to glimpse a huge gray shape swooping back to the trees above our heads. The eastern horizon is starting to glow as we cut through Lewinsville Park. It's crisp, clear, and calm, with temps in the low 40s. We accelerate in the home stretch as we try to get the average pace down below 11 min/mi. Yesterday Kerry's teenage son expressed disbelief that she can run a marathon. Challenge accepted! Amber is back from visiting family at the Pennsylvania farm, where a barn party was great fun. Splits by the <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/460260513">Runkeeper</a> GPS: 11:15 + 11:17 + 10:55 + 10:58 + 10:57 + 10:43 and final half mile at 9:22 &mdash; nice "descending" pace!</p><p><em><strong>^z</strong></em> - 2014-11-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.236
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.4 miles @ ~10.9 min/mi
+	
+	//Owl?// Kerry and Amber shine flashlights up just in time to glimpse a huge gray shape swooping back to the trees above our heads. The eastern horizon is starting to glow as we cut through Lewinsville Park. It's crisp, clear, and calm, with temps in the low 40s. We accelerate in the home stretch as we try to get the average pace down below 11 min/mi. Yesterday Kerry's teenage son expressed disbelief that she can run a marathon. Challenge accepted! Amber is back from visiting family at the Pennsylvania farm, where a barn party was great fun. Splits by the [[http://runkeeper.com/user/zhurnaly/activity/460260513|Runkeeper]] GPS: 11:15 + 11:17 + 10:55 + 10:58 + 10:57 + 10:43 and final half mile at 9:22 &mdash; nice "descending" pace!
+	
+	//**^z**// - 2014-11-11
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.4 miles @ ~10.9 min/mi<br />&gt; //Owl?// Kerry and Amber shine flashlights up just in time to glimpse a huge gray shape swooping back to the trees above our heads. The eastern horizon is starting to glow as we cut through Lewinsville Park. It's crisp, clear, and calm, with temps in the low 40s. We accelerate in the home stretch as we try to get the average pace down below 11 min/mi. Yesterday Kerry's teenage son expressed disbelief that she can run a marathon. Challenge accepted! Amber is back from visiting family at the Pennsylvania farm, where a barn party was great fun. Splits by the [[http://runkeeper.com/user/zhurnaly/activity/460260513|Runkeeper]] GPS: 11:15 + 11:17 + 10:55 + 10:58 + 10:57 + 10:43 and final half mile at 9:22 &amp;mdash; nice "descending" pace!<br />&gt; //**^z**// - 2014-11-11</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057700

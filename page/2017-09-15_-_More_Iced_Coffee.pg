@@ -1,0 +1,23 @@
+blocks: <h3>~7.3 miles @ ~13.7 min/mi</h3><p>"Let's head toward that lovely pink sunrise!" - "Let's buy coffee at the bottom of this hill!" The Dawn Patrol lets the Earth guide its footsteps today, turning east instead of west and bypassing a Peets to permit a gravity-assisted ramble before pausing at a Starbucks. We debate the value of formal <em>(obsessive documentation bad, historical record good)</em> vs informal <em>("Work hard - great job!")</em> annual performance reviews. Plans for Sunday's Navy-AF Half Marathon take shape nicely. Families and friends in Florida all seem to have survived Hurricane Irma.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1054172388">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-10-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.137
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.3 miles @ ~13.7 min/mi
+	
+	"Let's head toward that lovely pink sunrise!" - "Let's buy coffee at the bottom of this hill!" The Dawn Patrol lets the Earth guide its footsteps today, turning east instead of west and bypassing a Peets to permit a gravity-assisted ramble before pausing at a Starbucks. We debate the value of formal //(obsessive documentation bad, historical record good)// vs informal //("Work hard - great job!")// annual performance reviews. Plans for Sunday's Navy-AF Half Marathon take shape nicely. Families and friends in Florida all seem to have survived Hurricane Irma.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1054172388|trackfile]])// - //**^z**// - 2017-10-12
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.3 miles @ ~13.7 min/mi<br />&gt; "Let's head toward that lovely pink sunrise!" - "Let's buy coffee at the bottom of this hill!" The Dawn Patrol lets the Earth guide its footsteps today, turning east instead of west and bypassing a Peets to permit a gravity-assisted ramble before pausing at a Starbucks. We debate the value of formal //(obsessive documentation bad, historical record good)// vs informal //("Work hard - great job!")// annual performance reviews. Plans for Sunday's Navy-AF Half Marathon take shape nicely. Families and friends in Florida all seem to have survived Hurricane Irma.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1054172388|trackfile]])// - //**^z**// - 2017-10-12</strong></p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057687

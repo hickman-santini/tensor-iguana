@@ -1,0 +1,17 @@
+flags: 0
+blocks: <p>Decal seen on the back window of a MINI Cooper:<br /></p><table class="user"><tr><td align="center"><strong><span style="font-variant: small-caps">Actual Size</span></strong></td></tr></table><p>... a label that works <em><strong>anywhere</strong>!</em></p><p><em><strong>^z</strong></em> - 2010-07-09</p>
+ip: 198.81.129.186
+ts: 1278673677
+minor: 
+host: relay7.ucia.gov
+username: zzz
+revision: 1
+summary: Decal seen on the back window of a MINI Cooper: | **%%Actual Size%%** | ... a label that works //**anywhere**!// //**^z**// - 2010-07-09 
+languages: 
+text: Decal seen on the back window of a MINI Cooper:
+	| **%%Actual Size%%** |
+	... a label that works //**anywhere**!//
+	
+	//**^z**// - 2010-07-09
+	
+lastmajor: 1

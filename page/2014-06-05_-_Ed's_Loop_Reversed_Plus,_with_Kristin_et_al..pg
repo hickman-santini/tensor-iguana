@@ -1,0 +1,23 @@
+blocks: <h3>~5.8 miles @ ~11.6 min/mi</h3><p>Coney Count = 3: one rabbit sitting in the middle of the street at mile 2, one in the brush about mile 4, and one at the edge of the parking lot during our cool-down walk (so technically it doesn't count as part of the "run"). Kristin and I meander through Pimmit Hills early, then join Ed and David to do "Ed's Loop" but in the reverse direction at my insistence. Light intermittent drizzle and high humidity, moderated by intermittent breezes, makes for a pleasant trek. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/367934805">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/515755730">Garmin</a> GPS differ by less than 2%.</p><p><em><strong>^z</strong></em> - 2014-06-25</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.213.42
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.8 miles @ ~11.6 min/mi
+	
+	Coney Count = 3: one rabbit sitting in the middle of the street at mile 2, one in the brush about mile 4, and one at the edge of the parking lot during our cool-down walk (so technically it doesn't count as part of the "run"). Kristin and I meander through Pimmit Hills early, then join Ed and David to do "Ed's Loop" but in the reverse direction at my insistence. Light intermittent drizzle and high humidity, moderated by intermittent breezes, makes for a pleasant trek. [[http://runkeeper.com/user/zhurnaly/activity/367934805|Runkeeper]] and [[http://connect.garmin.com/modern/activity/515755730|Garmin]] GPS differ by less than 2%.
+	
+	//**^z**// - 2014-06-25
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.8 miles @ ~11.6 min/mi<br />&gt; Coney Count = 3: one rabbit sitting in the middle of the street at mile 2, one in the brush about mile 4, and one at the edge of the parking lot during our cool-down walk (so technically it doesn't count as part of the "run"). Kristin and I meander through Pimmit Hills early, then join Ed and David to do "Ed's Loop" but in the reverse direction at my insistence. Light intermittent drizzle and high humidity, moderated by intermittent breezes, makes for a pleasant trek. [[http://runkeeper.com/user/zhurnaly/activity/367934805|Runkeeper]] and [[http://connect.garmin.com/modern/activity/515755730|Garmin]] GPS differ by less than 2%.<br />&gt; //**^z**// - 2014-06-25</strong></p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057678

@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">After observing a wide variety of "Periodic Table of// **X** //" posters that are cute graphically &amp;mdash; but //(mostly!)// make no sense organizationally, conceptually, or metaphorically &amp;mdash; it's clear that a well-structured "Periodic Table of Periodic Tables" is needed. How to make one?<br />&lt; //(cf.</strong> [[<strong class="changes">http://www.google.com/search?q=%22periodic%20table%20of%22-elements]] for a Google search that will turn up oodles of pseudo "</strong>Periodic<strong class="changes">" tables as grist for the mill, including tables of mathematicians, booze, collaboration, condiments, ...)//<br />&lt; ----<br />&lt; [[TopicHumor]] - [[TopicScience</strong>]] <strong class="changes">- Datetag20071117<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[MagnetohydrodynamicAphorism]], [[OnDuals]], [[GentleGentlyGentling]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[Periodic <strong class="changes">Tables</strong>]]</p></div>
+ip: 141.156.150.174
+ts: 1234662899
+minor: 1
+host: pool-141-156-150-174.res.east.verizon.net
+username: MarkZimmermann
+revision: 4
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>cf. [[http://www.google.com/search?q=%22periodic%20table%20of%22-elements]] for a Google search that will turn up oodles of pseudo "Periodic" tables as grist for the mill, including tables of mathematicians, booze, collaboration, condiments, <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>cf. [[http://www.google.com/search?q=%22periodic%20table%20of%22-elements]] for a Google search that will turn up oodles of pseudo "Periodic" tables as grist for the mill, including tables of mathematicians, booze, collaboration, condiments, <strong class="changes">...)//</strong></p></div>
+summary: redirect
+languages: 
+text: #REDIRECT [[Periodic Tables]]
+	
+lastmajor: 2
+keep-ts: 1234662899

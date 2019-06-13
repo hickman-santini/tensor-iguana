@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[http://leuf.com/ww/wikicom?WwwBio</strong> Bo Leuf<strong class="changes">] is a wiki master, wrote one of the first //(and still best)// books on wiki issues (**[http://leuf.com/ww/wikicom?TheWikiWay The Wiki Way]**), and has for many years kept an online journal, "[http://leuf.net/ww/wikidn Daynotes]". Bo also provides web hosting services with a delightful level of personal involvement, integrity, good humor, technical expertise, and cameraderie. If any of these are of interest to you please [http://leuf.net/ww/wikinet?ContactInfo contact Bo directly].<br />&lt; ----<br />&lt; //(correlates: [[LeufNet]], [[DisBelief]], [[LongDistanceFriendliness]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[</strong>Bo Leuf<strong class="changes">]]</strong></p></div>
+ip: 70.21.102.87
+ts: 1223601572
+minor: 1
+host: pool-70-21-102-87.res.east.verizon.net
+username: MarkZimmermann
+revision: 5
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Bo Leuf <strong class="changes">[[</strong>http://leuf.com/ww/wikicom<strong class="changes">?[[</strong>WwwBio<strong class="changes">]]]]</strong> hosts the http://zhurnal.net domain, writes the code that runs the [[ZhurnalWiki]], and provides a delightful level of personal service as well as good humor and cameraderie. If any of these are of interest I strongly recommend that you contact Bo directly via <strong class="changes">[[</strong>http://leuf.net/ww/wikinet<strong class="changes">?[[</strong>ContactInfo<strong class="changes">]]]]</strong> ...// **^z** //</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Bo Leuf <strong class="changes">[</strong>http://leuf.com/ww/wikicom<strong class="changes">?</strong>WwwBio<strong class="changes">]</strong> hosts the http://zhurnal.net domain, writes the code that runs the [[ZhurnalWiki]], and provides a delightful level of personal service as well as good humor and cameraderie. If any of these are of interest I strongly recommend that you contact Bo directly via <strong class="changes">[</strong>http://leuf.net/ww/wikinet<strong class="changes">?</strong>ContactInfo<strong class="changes">]</strong> ...// **^z** //</p></div>
+summary: redirect
+languages: 
+text: #REDIRECT [[Bo Leuf]]
+	
+lastmajor: 3
+keep-ts: 1223601572

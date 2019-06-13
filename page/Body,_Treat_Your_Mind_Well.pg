@@ -1,0 +1,28 @@
+blocks: <table class="user"><tr><td align="right">Body, treat your mind well:<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Feed it<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Breathe for it<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Send it news of the world<br />&nbsp; &nbsp; &nbsp; &nbsp; Distract it when it panics<br />&nbsp; &nbsp; &nbsp; Put it to sleep if it becomes weary<br />&nbsp; &nbsp; Tickle it with joy beyond its comprehension<br />&nbsp; And when you've finished, send it back<br />To where it all began.</td></tr></table><p><em><strong>^z</strong></em> - 2016-11-30</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.174
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Body, treat your mind well:
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Feed it
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Breathe for it
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Send it news of the world
+	&nbsp; &nbsp; &nbsp; &nbsp;  Distract it when it panics
+	&nbsp; &nbsp; &nbsp;  Put it to sleep if it becomes weary
+	&nbsp; &nbsp;  Tickle it with joy beyond its comprehension
+	&nbsp; And when you've finished, send it back
+	To where it all began. |
+	
+	//**^z**// - 2016-11-30
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; | Body, treat your mind well:<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Feed it<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;  Breathe for it<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;  Send it news of the world<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;  Distract it when it panics<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp;  Put it to sleep if it becomes weary<br />&gt; &amp;nbsp; &amp;nbsp;  Tickle it with joy beyond its comprehension<br />&gt; &amp;nbsp; And when you've finished, send it back<br />&gt; To where it all began. |<br />&gt; //**^z**// - 2016-11-30</p></div>
+flags: 0
+ts: 1528057677
+minor: 
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057677

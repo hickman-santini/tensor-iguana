@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p>Such silly advice! Why should "instincts" be better than thoughtful, systematic collection and analysis of data? Yet people are constantly told "trust your instincts" when running through potentially-dangerous areas, evaluating strangers, etc. Maybe it's because one can never be proved wrong or held liable for recommending "trust your instincts"? Or maybe it's an implicit endorsement of prejudice?</p><p><em><strong>^z</strong></em> - 2010-02-04</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Such silly advice! Why should "instincts" be better than <strong class="changes">reason or experience based on</strong> thoughtful, systematic collection and analysis of data? Yet people are constantly told "trust your instincts" when running through potentially-dangerous areas, evaluating strangers, etc. Maybe it's because one can never be proved wrong or held liable for recommending "trust your instincts"?</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Such silly advice! Why should "instincts" be better than thoughtful, systematic collection and analysis of data? Yet people are constantly told "trust your instincts" when running through potentially-dangerous areas, evaluating strangers, etc. Maybe it's because one can never be proved wrong or held liable for recommending "trust your instincts"? <strong class="changes">Or maybe it's an implicit endorsement of prejudice?</strong></p></div>
+ip: 141.156.145.55
+ts: 1265277681
+minor: 1
+host: pool-141-156-145-55.res.east.verizon.net
+username:  zz
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: Such silly advice! Why should "instincts" be better than thoughtful, systematic collection and analysis of data? Yet people are constantly told "trust your instincts" when running through potentially-dangerous areas, evaluating strangers, etc. Maybe it's because one can never be proved wrong or held liable for recommending "trust your instincts"? Or maybe it's an implicit endorsement of prejudice?
+	
+	//**^z**// - 2010-02-04
+	
+lastmajor: 1
+keep-ts: 1265277681

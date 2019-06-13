@@ -1,0 +1,21 @@
+blocks: <p>Some months ago <strong>The Economist</strong> magazine had an issue railing against "regulations". Not surprisingly, the primary author(s) said that regulations "destroy jobs". But is that true, in any meaningful sense? Or is this just the fallacy, well-attacked in other <strong>Economist</strong> articles, that there's only a fixed amount of work to be done and therefore any <em>(unwanted-by-the-writer)</em> changes will "destroy jobs"? And if it were valid, wouldn't the same argument also hold against new technology, or in fact against any efficiency improvements at all? Hmmm ...</p><p><em><strong>^z</strong></em> - 2012-09-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 66.90.165.157
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Some months ago **The Economist** magazine had an issue railing against "regulations". Not surprisingly, the primary author(s) said that regulations "destroy jobs". But is that true, in any meaningful sense? Or is this just the fallacy, well-attacked in other **Economist** articles, that there's only a fixed amount of work to be done and therefore any //(unwanted-by-the-writer)// changes will "destroy jobs"? And if it were valid, wouldn't the same argument also hold against new technology, or in fact against any efficiency improvements at all? Hmmm ...
+	
+	//**^z**// - 2012-09-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Some months ago **The Economist** magazine had an issue railing against "regulations". Not surprisingly, the primary author(s) said that regulations "destroy jobs". But is that true, in any meaningful sense? Or is this just the fallacy, well-attacked in other **Economist** articles, that there's only a fixed amount of work to be done and therefore any //(unwanted-by-the-writer)// changes will "destroy jobs"? And if it were valid, wouldn't the same argument also hold against new technology, or in fact against any efficiency improvements at all? Hmmm ...<br />&gt; //**^z**// - 2012-09-05</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057688

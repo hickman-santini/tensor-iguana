@@ -1,0 +1,40 @@
+blocks: <p>Good thoughts &mdash; on collaboration, software development, long-term progress, clearer thinking, and other important topics &mdash; excerpted and edited from the Oddmuse wiki page "<a class="url http outside" href="https://oddmuse.org/wiki/Refactoring">Refactoring</a>":</p><ul><li>Write down everything<br /></li></ul><blockquote><p>Good ideas fade away if not implemented fast enough. The problem is, there is not enough time to implement all of your great ideas today. Write everything down and share it! Some day we will sort it out. The chance that we will remember it if is not written down is just too low.<br /></p></blockquote><ul><li>Bad ideas are actually good<br /></li></ul><blockquote><p>If you think that something requires attention but it feels like your proposed solution is not good enough (too hard to implement for too little gain, or just plain wrong), still write that down. It will help us to keep track of things.<br /></p></blockquote><ul><li>This page is not holy<br /></li></ul><blockquote><p>If you find something weird, just edit it. Nothing on this page is cast in stone. Feel free to express your opinion especially if you are against something.<br /></p></blockquote><ul><li>Small things matter<br /></li></ul><blockquote><p>Small tasks are as important as big ones. You can dream big, but if simple stuff is not taken care of, the whole system will never be good.<br /></p></blockquote><p><em><strong>^z</strong></em> - 2016-08-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.54
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Good thoughts &mdash; on collaboration, software development, long-term progress, clearer thinking, and other important topics &mdash; excerpted and edited from the Oddmuse wiki page "[[https://oddmuse.org/wiki/Refactoring|Refactoring]]":
+	
+	* Write down everything
+	"""
+	Good ideas fade away if not implemented fast enough. The problem is, there is not enough time to implement all of your great ideas today. Write everything down and share it! Some day we will sort it out. The chance that we will remember it if is not written down is just too low.
+	"""
+	
+	* Bad ideas are actually good
+	"""
+	If you think that something requires attention but it feels like your proposed solution is not good enough (too hard to implement for too little gain, or just plain wrong), still write that down. It will help us to keep track of things.
+	"""
+	
+	* This page is not holy
+	"""
+	If you find something weird, just edit it. Nothing on this page is cast in stone. Feel free to express your opinion especially if you are against something.
+	"""
+	
+	* Small things matter
+	"""
+	Small tasks are as important as big ones. You can dream big, but if simple stuff is not taken care of, the whole system will never be good.
+	"""
+	
+	//**^z**// - 2016-08-11
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Good thoughts &amp;mdash; on collaboration, software development, long-term progress, clearer thinking, and other important topics &amp;mdash; excerpted and edited from the Oddmuse wiki page "[[https://oddmuse.org/wiki/Refactoring|Refactoring]]":<br />&gt; * Write down everything<br />&gt; """<br />&gt; Good ideas fade away if not implemented fast enough. The problem is, there is not enough time to implement all of your great ideas today. Write everything down and share it! Some day we will sort it out. The chance that we will remember it if is not written down is just too low.<br />&gt; """<br />&gt; * Bad ideas are actually good<br />&gt; """<br />&gt; If you think that something requires attention but it feels like your proposed solution is not good enough (too hard to implement for too little gain, or just plain wrong), still write that down. It will help us to keep track of things.<br />&gt; """<br />&gt; * This page is not holy<br />&gt; """<br />&gt; If you find something weird, just edit it. Nothing on this page is cast in stone. Feel free to express your opinion especially if you are against something.<br />&gt; """<br />&gt; * Small things matter<br />&gt; """<br />&gt; Small tasks are as important as big ones. You can dream big, but if simple stuff is not taken care of, the whole system will never be good.<br />&gt; """<br />&gt; //**^z**// - 2016-08-11</p></div>
+flags: 0
+ts: 1528057702
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057702

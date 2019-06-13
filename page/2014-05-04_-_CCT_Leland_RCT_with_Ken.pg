@@ -1,0 +1,23 @@
+blocks: <h3>~10 miles @ ~11 min/mi</h3><p>Bunny count = 1 (on Warren St!) <em>en route</em> to join Ken Swab in Bethesda for a hilly Leland St trek to Rock Creek, then upstream home. GPS resolution-test spirals around the Mermaid Fountain in National Park Seminary offer a chance to eye its beauty. An iPhone glitch adds a bonus 1/3 mile to the <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/347446683">Runkeeper</a> tally upon leaving the tunnel under Wisconsin Av, as compared to the <a class="url http outside" href="http://connect.garmin.com/activity/492753070">Garmin</a> trackfile. Ken recounts yesterday's antique fair and pottery expedition to Pennsylvania with his DW, and we analyze blister prevention tactics.</p><p><em><strong>^z</strong></em> - 2014-06-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10 miles @ ~11 min/mi
+	
+	Bunny count = 1 (on Warren St!) //en route// to join Ken Swab in Bethesda for a hilly Leland St trek to Rock Creek, then upstream home. GPS resolution-test spirals around the Mermaid Fountain in National Park Seminary offer a chance to eye its beauty. An iPhone glitch adds a bonus 1/3 mile to the [[http://runkeeper.com/user/zhurnaly/activity/347446683|Runkeeper]] tally upon leaving the tunnel under Wisconsin Av, as compared to the [[http://connect.garmin.com/activity/492753070|Garmin]] trackfile. Ken recounts yesterday's antique fair and pottery expedition to Pennsylvania with his DW, and we analyze blister prevention tactics.
+	
+	//**^z**// - 2014-06-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10 miles @ ~11 min/mi<br />&gt; Bunny count = 1 (on Warren St!) //en route// to join Ken Swab in Bethesda for a hilly Leland St trek to Rock Creek, then upstream home. GPS resolution-test spirals around the Mermaid Fountain in National Park Seminary offer a chance to eye its beauty. An iPhone glitch adds a bonus 1/3 mile to the [[http://runkeeper.com/user/zhurnaly/activity/347446683|Runkeeper]] tally upon leaving the tunnel under Wisconsin Av, as compared to the [[http://connect.garmin.com/activity/492753070|Garmin]] trackfile. Ken recounts yesterday's antique fair and pottery expedition to Pennsylvania with his DW, and we analyze blister prevention tactics.<br />&gt; //**^z**// - 2014-06-07</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

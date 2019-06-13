@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">In Charles Dickens' //A Christmas Carol// when Scrooge tells the ghost of his partner Marley "... you were always a good man of business..." the response is:<br />&lt; :"Business!" cried the Ghost, wringing his hands again. "Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and benevolence were all my business. The dealings of my trade were but a drop of water in the comprehensive ocean of my business!"<br />&lt; - Sunday, May 30, 1999 at 08:02:40 (EDT) = Datetag19990530<br />&lt; [[TopicLiterature]] - [[TopicLife]] -[[TopicFaith]] -</strong> [[<strong class="changes">TopicSociety]] - [[TopicPhilosophy</strong>]]<br />&lt; <strong class="changes">----<br />&lt; //(correlates: [[OceansOfNotions]], [[RazorBladeEconomics]], [[CelebrationOfLife]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">My Business</strong>]]</p></div>
+ip: 70.21.87.47
+ts: 1220565703
+minor: 1
+host: pool-70-21-87-47.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>correlates: [[OceansOfNotions]], [[RazorBladeEconomics]], [[CelebrationOfLife]], <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>correlates: [[OceansOfNotions]], [[RazorBladeEconomics]], [[CelebrationOfLife]], <strong class="changes">...)//</strong></p></div>
+summary: redirect to [[My Business]]
+languages: 
+text: #REDIRECT [[My Business]]
+	
+lastmajor: 2
+keep-ts: 1220565703

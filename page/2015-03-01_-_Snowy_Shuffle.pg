@@ -1,0 +1,23 @@
+blocks: <h3>~10 miles @ ~11.5 min/mi</h3><p>Maracas rattle in syncopation with the crunch of feet on snow &mdash; or, in this case, it's beard icicles that brush the beat against the front of a frozen windbreaker. Late morning Sunday snow showers turn to sleet. A rambling trek around slippery neighborhood streets adds a detour to tag the 1792 northernmost DC Boundary Stone plus a pause for photos at the sign for "Mile 0.0" of the future Capital Crescent Trail extension. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/520339471">Trackfile</a> tells the tale.</p><p><em><strong>^z</strong></em> - 2015-03-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.98.108
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10 miles @ ~11.5 min/mi
+	
+	Maracas rattle in syncopation with the crunch of feet on snow &mdash; or, in this case, it's beard icicles that brush the beat against the front of a frozen windbreaker. Late morning Sunday snow showers turn to sleet. A rambling trek around slippery neighborhood streets adds a detour to tag the 1792 northernmost DC Boundary Stone plus a pause for photos at the sign for "Mile 0.0" of the future Capital Crescent Trail extension. [[http://runkeeper.com/user/zhurnaly/activity/520339471|Trackfile]] tells the tale.
+	
+	//**^z**// - 2015-03-22
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10 miles @ ~11.5 min/mi<br />&gt; Maracas rattle in syncopation with the crunch of feet on snow &amp;mdash; or, in this case, it's beard icicles that brush the beat against the front of a frozen windbreaker. Late morning Sunday snow showers turn to sleet. A rambling trek around slippery neighborhood streets adds a detour to tag the 1792 northernmost DC Boundary Stone plus a pause for photos at the sign for "Mile 0.0" of the future Capital Crescent Trail extension. [[http://runkeeper.com/user/zhurnaly/activity/520339471|Trackfile]] tells the tale.<br />&gt; //**^z**// - 2015-03-22</strong></p></div>
+flags: 0
+ts: 1528057685
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057685

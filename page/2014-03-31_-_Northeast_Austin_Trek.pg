@@ -1,0 +1,23 @@
+blocks: <h3>~10 miles @ ~10.6 min/mi</h3><p>Texas-wide sidewalks, maybe reserving space for future road expansion, aid a fast-for-me urban loop around my Mom's extended neighborhood, passing by a golf course and multiple convenience stores, pawn shops, check-cashing facilities, gas stations, Whataburgers, Sonics, and Taco Bells <em>(I resist temptation to stop for breakfast)</em>. Rolling hills and high humidity are countered by intermittent breezes and merciful clouds. <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/197881258">Runtastic</a> using the iPhone GPS records the route and estimates the splits.</p><p><em><strong>^z</strong></em> - 2014-05-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.166
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10 miles @ ~10.6 min/mi
+	
+	Texas-wide sidewalks, maybe reserving space for future road expansion, aid a fast-for-me urban loop around my Mom's extended neighborhood, passing by a golf course and multiple convenience stores, pawn shops, check-cashing facilities, gas stations, Whataburgers, Sonics, and Taco Bells //(I resist temptation to stop for breakfast)//. Rolling hills and high humidity are countered by intermittent breezes and merciful clouds. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/197881258|Runtastic]] using the iPhone GPS records the route and estimates the splits.
+	
+	//**^z**// - 2014-05-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10 miles @ ~10.6 min/mi<br />&gt; Texas-wide sidewalks, maybe reserving space for future road expansion, aid a fast-for-me urban loop around my Mom's extended neighborhood, passing by a golf course and multiple convenience stores, pawn shops, check-cashing facilities, gas stations, Whataburgers, Sonics, and Taco Bells //(I resist temptation to stop for breakfast)//. Rolling hills and high humidity are countered by intermittent breezes and merciful clouds. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/197881258|Runtastic]] using the iPhone GPS records the route and estimates the splits.<br />&gt; //**^z**// - 2014-05-11</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057697

@@ -1,0 +1,23 @@
+blocks: <h3>~4.9 miles @ ~12.8 min/mi</h3><p>Sunday afternoon Cara Marie Manlandro and I take a ramble down memory lane. "Recall how you almost puked here?" and "This is that hill we barely made it up on your first 16 mile day!" and "Here's where you first did a sub-8 minute mile." Wind gusts almost blow us off the bridge, and walk breaks are interspersed with too-fast sprints. Great to run with you again, CM!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/528850294">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-04-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.218
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 miles @ ~12.8 min/mi
+	
+	Sunday afternoon Cara Marie Manlandro and I take a ramble down memory lane. "Recall how you almost puked here?" and "This is that hill we barely made it up on your first 16 mile day!" and "Here's where you first did a sub-8 minute mile." Wind gusts almost blow us off the bridge, and walk breaks are interspersed with too-fast sprints. Great to run with you again, CM!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/528850294|trackfile]])// - //**^z**// - 2015-04-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 miles @ ~12.8 min/mi<br />&gt; Sunday afternoon Cara Marie Manlandro and I take a ramble down memory lane. "Recall how you almost puked here?" and "This is that hill we barely made it up on your first 16 mile day!" and "Here's where you first did a sub-8 minute mile." Wind gusts almost blow us off the bridge, and walk breaks are interspersed with too-fast sprints. Great to run with you again, CM!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/528850294|trackfile]])// - //**^z**// - 2015-04-11</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

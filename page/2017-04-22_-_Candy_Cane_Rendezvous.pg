@@ -1,0 +1,23 @@
+blocks: <h3>~2.2 miles @ ~12.5 min/mi</h3><p>"Good morning, Gayatri!" &mdash; "Good morning, Mark!" At 6am we arrive at the Candy Cane City playground on Rock Creek simultaneously, driving and on foot respectively. But suddenly Gayatri discovers that her husband Atin's wallet is somehow in the car with her. <em>Oops!</em> After a quick trip back to drop it off at her home, we're ready to start running ...</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/969243433">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-05-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.183
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2.2 miles @ ~12.5 min/mi
+	
+	"Good morning, Gayatri!" &mdash; "Good morning, Mark!" At 6am we arrive at the Candy Cane City playground on Rock Creek simultaneously, driving and on foot respectively. But suddenly Gayatri discovers that her husband Atin's wallet is somehow in the car with her. //Oops!// After a quick trip back to drop it off at her home, we're ready to start running ...
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/969243433|trackfile]])// - //**^z**// - 2017-05-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2.2 miles @ ~12.5 min/mi<br />&gt; "Good morning, Gayatri!" &amp;mdash; "Good morning, Mark!" At 6am we arrive at the Candy Cane City playground on Rock Creek simultaneously, driving and on foot respectively. But suddenly Gayatri discovers that her husband Atin's wallet is somehow in the car with her. //Oops!// After a quick trip back to drop it off at her home, we're ready to start running ...<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/969243433|trackfile]])// - //**^z**// - 2017-05-19</strong></p></div>
+flags: 0
+ts: 1528057704
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057704

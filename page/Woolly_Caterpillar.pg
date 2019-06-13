@@ -1,0 +1,24 @@
+flags: 0
+blocks: <p>Forever, it seems, I've been afraid of furry brown and black caterpillars. Somehow in the dark recesses of my youth I got the notion that their coats were prickly like sea urchins or porcupines. Or maybe, I thought, they were like nettles and would irritate the skin of anyone who touched them. <em>Yow!</em></p><p>But last month, don't ask me why, I managed to work up my courage. I picked up a two-inch-long brown fuzzy monster and moved it off the sidewalk near my front door, so it wouldn't accidentally get stepped on. And it didn't hurt me!</p><p>What's next on my list of terrors to overcome? Maybe I should try standing up in front of a crowd and giving a speech? Or stop procrastinating and work on the r&eacute;sum&eacute; that I need to prepare? Nah &mdash; that's still far too scary ...</p><p><em><strong>^z</strong></em> - 2011-03-11</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; But last month, don't ask me why, I managed to work up my courage<strong class="changes">, pick</strong> a two-inch-long brown fuzzy monster <strong class="changes">up</strong> and <strong class="changes">move</strong> it off the sidewalk near my front door, so it wouldn't accidentally get stepped on. And it didn't hurt me!<br />&lt; <strong class="changes">So what</strong>'s next on my list of terrors to overcome? Maybe I should try standing up in front of a crowd and giving a speech? Or stop procrastinating and work on the r&amp;eacute;sum&amp;eacute; that I need to prepare? Nah &amp;mdash; that's still far too scary ...</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; But last month, don't ask me why, I managed to work up my courage<strong class="changes">. I picked up</strong> a two-inch-long brown fuzzy monster and <strong class="changes">moved</strong> it off the sidewalk near my front door, so it wouldn't accidentally get stepped on. And it didn't hurt me!<br />&gt; <strong class="changes">What</strong>'s next on my list of terrors to overcome? Maybe I should try standing up in front of a crowd and giving a speech? Or stop procrastinating and work on the r&amp;eacute;sum&amp;eacute; that I need to prepare? Nah &amp;mdash; that's still far too scary ...</p></div>
+ip: 138.88.177.215
+ts: 1299836190
+minor: 1
+host: pool-138-88-177-215.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: Forever, it seems, I've been afraid of furry brown and black caterpillars. Somehow in the dark recesses of my youth I got the notion that their coats were prickly like sea urchins or porcupines. Or maybe, I thought, they were like nettles and would irritate the skin of anyone who touched them. //Yow!//
+	
+	But last month, don't ask me why, I managed to work up my courage. I picked up a two-inch-long brown fuzzy monster and moved it off the sidewalk near my front door, so it wouldn't accidentally get stepped on. And it didn't hurt me!
+	
+	What's next on my list of terrors to overcome? Maybe I should try standing up in front of a crowd and giving a speech? Or stop procrastinating and work on the r&eacute;sum&eacute; that I need to prepare? Nah &mdash; that's still far too scary ...
+	
+	//**^z**// - 2011-03-11
+	
+lastmajor: 1
+keep-ts: 1299836190

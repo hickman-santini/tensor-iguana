@@ -1,0 +1,29 @@
+flags: 0
+blocks: <p><h3>2 Comments.</h3>Comments by RadRob:</p><p><a class="url http outside" href="http://zhurnaly.com/cgi-bin/wiki?action=browse;id=ZhurnalyWiki_CSS_Experiments;css=http://zhurnaly.com/zhurnaly_right_gotobar.css">GoToBar on Right</a> looks good - only problem is that the sidebar is half the width, instead of some fixed number of ems. (I'd go with ems so that it scales properly with changing font size - define sidebar as 15 ems and main text as 30 ems or remaining width, whichever is larger, and I think it'll look good even if the user changes their font size.)</p><p>Having tested all of these on the iPhone and on the MacBook &mdash; the latter with Firefox, Safari, Google Chrome, and Stainless &mdash; I would have to say that the house style has the nicest edit box but otherwise I'm indifferent between that, Pastel, and NoPastel.</p><p>-- RadRob 2010-03-01 09:42 UTC</p><hr /><p>tnx Robin! --- this browser on the HP netbook seems to have strange problems sometimes with reverting to the default stylesheet ... I have to quit and restart to clear the cache (maybe) ... many thanks for your tests and comments! <em><strong>^z</strong></em></p><p>-- <a class="url http outside" href="http://zhurnaly.com">zz</a> 2010-03-01 09:57 UTC</p>
+ip: 138.88.180.121
+ts: 1274140420
+minor: 0
+host: pool-138-88-180-121.res.east.verizon.net
+username: RadRob
+revision: 9
+summary: Rollback to 2010-05-17 23:15 UTC
+languages: 
+text: === 2 Comments. ===
+	Comments by RadRob:
+	
+	[[http://zhurnaly.com/cgi-bin/wiki?action=browse;id=ZhurnalyWiki_CSS_Experiments;css=http://zhurnaly.com/zhurnaly_right_gotobar.css|GoToBar on Right]] looks good - only problem is that the sidebar is half the width, instead of some fixed number of ems. (I'd go with ems so that it scales properly with changing font size - define sidebar as 15 ems and main text as 30 ems or remaining width, whichever is larger, and I think it'll look good even if the user changes their font size.)
+	
+	Having tested all of these on the iPhone and on the MacBook &mdash; the latter with Firefox, Safari, Google Chrome, and Stainless &mdash; I would have to say that the house style has the nicest edit box but otherwise I'm indifferent between that, Pastel, and NoPastel.
+	
+	-- RadRob 2010-03-01 09:42 UTC
+	
+	
+	----
+	
+	tnx Robin! --- this browser on the HP netbook seems to have strange problems sometimes with reverting to the default stylesheet ... I have to quit and restart to clear the cache (maybe) ... many thanks for your tests and comments! //**^z**//
+	
+	-- [http://zhurnaly.com zz] 2010-03-01 09:57 UTC
+	
+	
+lastmajor: 9
+keep-ts: 1274140420

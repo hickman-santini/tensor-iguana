@@ -1,0 +1,27 @@
+blocks: <h3>~12.4 miles @ ~14.6 min/mi</h3><p>"I appreciate you!" Kerry's daughter texts the words every mom wants to hear. She's serving as a summer nanny and now realizes how much unrecognized work her mother did over the years. Kristin and I applaud and then demand, "Save that message!"</p><p>Early on a humid summer morning we ramble across McLean. Rabbit count = 7, plus 2 speedy chipmunks. The woods of Langley Forks Park are muddy, but nobody trips on roots or falls into Dead Run at the water crossing. New mansions are springing up; we admire their architecture. In a front yard bright-hued ceramic pots slant akimbo in deliberate sculptural-artistic design.</p><p>During the return trip Kerry and I play rock-paper-scissors to decide who buys the other's iced coffee. She wins the honor of paying. We're tardy getting back for Kristin's morning meeting. "Just say, 'We ran late!'".</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/830249317">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-08-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.54
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12.4 miles @ ~14.6 min/mi
+	
+	"I appreciate you!" Kerry's daughter texts the words every mom wants to hear. She's serving as a summer nanny and now realizes how much unrecognized work her mother did over the years. Kristin and I applaud and then demand, "Save that message!"
+	
+	Early on a humid summer morning we ramble across McLean. Rabbit count = 7, plus 2 speedy chipmunks. The woods of Langley Forks Park are muddy, but nobody trips on roots or falls into Dead Run at the water crossing. New mansions are springing up; we admire their architecture. In a front yard bright-hued ceramic pots slant akimbo in deliberate sculptural-artistic design.
+	
+	During the return trip Kerry and I play rock-paper-scissors to decide who buys the other's iced coffee. She wins the honor of paying. We're tardy getting back for Kristin's morning meeting. "Just say, 'We ran late!'".
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/830249317|trackfile]])// - //**^z**// - 2016-08-12
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12.4 miles @ ~14.6 min/mi<br />&gt; "I appreciate you!" Kerry's daughter texts the words every mom wants to hear. She's serving as a summer nanny and now realizes how much unrecognized work her mother did over the years. Kristin and I applaud and then demand, "Save that message!"<br />&gt; Early on a humid summer morning we ramble across McLean. Rabbit count = 7, plus 2 speedy chipmunks. The woods of Langley Forks Park are muddy, but nobody trips on roots or falls into Dead Run at the water crossing. New mansions are springing up; we admire their architecture. In a front yard bright-hued ceramic pots slant akimbo in deliberate sculptural-artistic design.<br />&gt; During the return trip Kerry and I play rock-paper-scissors to decide who buys the other's iced coffee. She wins the honor of paying. We're tardy getting back for Kristin's morning meeting. "Just say, 'We ran late!'".<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/830249317|trackfile]])// - //**^z**// - 2016-08-12</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057711

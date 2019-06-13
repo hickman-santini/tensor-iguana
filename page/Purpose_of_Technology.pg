@@ -1,0 +1,22 @@
+blocks: <p>Last month in the <strong>Washington Post</strong> appeared a well-written but seemingly anonymous essay, "<a class="url http outside" href="http://www.washingtonpost.com/national/on-innovations/google-glass-and-the-genesis-of-the-hive-mind/2012/06/27/gJQAuY1Z7V_story.html">Google Glass and the Genesis of the Hive Mind</a>". Digging suggests it's by <a class="url http outside" href="http://blog.jolieodell.com/">Jolie O'Dell</a> who writes for <a class="url http outside" href="http://venturebeat.com/author/jolieodell/">VentureBeat</a>. The article makes some sharp observations about the narcissistic nature of folks who are hyper-connected and "share" everything they eat, everywhere they go, etc. "We're spewing wave upon wave of drivel into the ether, convinced that our sharing has some moral merit." Ms. O'Dell hits the bit at the center of the target with her comment:<br /></p><table class="user"><tr><td align="center">I love technology as a means to an end, the end being a full and happy life.</td></tr></table><p><em><strong>^z</strong></em> - 2012-07-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.27.40
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Last month in the **Washington Post** appeared a well-written but seemingly anonymous essay, "[[http://www.washingtonpost.com/national/on-innovations/google-glass-and-the-genesis-of-the-hive-mind/2012/06/27/gJQAuY1Z7V_story.html|Google Glass and the Genesis of the Hive Mind]]". Digging suggests it's by [[http://blog.jolieodell.com/|Jolie O'Dell]] who writes for [[http://venturebeat.com/author/jolieodell/|VentureBeat]]. The article makes some sharp observations about the narcissistic nature of folks who are hyper-connected and "share" everything they eat, everywhere they go, etc. "We're spewing wave upon wave of drivel into the ether, convinced that our sharing has some moral merit." Ms. O'Dell hits the bit at the center of the target with her comment:
+	| I love technology as a means to an end, the end being a full and happy life. | 
+	
+	//**^z**// - 2012-07-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Last month in the **Washington Post** appeared a well-written but seemingly anonymous essay, "[[http://www.washingtonpost.com/national/on-innovations/google-glass-and-the-genesis-of-the-hive-mind/2012/06/27/gJQAuY1Z7V_story.html|Google Glass and the Genesis of the Hive Mind]]". Digging suggests it's by [[http://blog.jolieodell.com/|Jolie O'Dell]] who writes for [[http://venturebeat.com/author/jolieodell/|VentureBeat]]. The article makes some sharp observations about the narcissistic nature of folks who are hyper-connected and "share" everything they eat, everywhere they go, etc. "We're spewing wave upon wave of drivel into the ether, convinced that our sharing has some moral merit." Ms. O'Dell hits the bit at the center of the target with her comment:<br />&gt; | I love technology as a means to an end, the end being a full and happy life. | <br />&gt; //**^z**// - 2012-07-20</strong></p></div>
+flags: 0
+ts: 1528057705
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057705

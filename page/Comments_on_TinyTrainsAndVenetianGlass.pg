@@ -1,0 +1,22 @@
+blocks: <h3>1 Comment.</h3><p>See "<a class="url http outside" href="http://www.atoptics.co.uk/atoptics/oppos1.htm">Opposition Effect</a>" and subsequent pages for an explanation of how the same phenomenon &mdash; correlated shadows &mdash; explains why Saturn's rings get so bright when that planet is in opposition (180&deg; from the Sun relative to the Earth) ... neat!</p><p>-- <a class="url http outside" href="http://zhurnaly.com">Mark Zimmermann</a> 2011-04-01 11:12 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.117
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	See "[[http://www.atoptics.co.uk/atoptics/oppos1.htm|Opposition Effect]]" and subsequent pages for an explanation of how the same phenomenon &mdash; correlated shadows &mdash; explains why Saturn's rings get so bright when that planet is in opposition (180&deg; from the Sun relative to the Earth) ... neat!
+	
+	-- [http://zhurnaly.com Mark Zimmermann] 2011-04-01 11:12 UTC
+	
+	
+languages: 
+lastmajor: 22
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; See "[[http://www.atoptics.co.uk/atoptics/oppos1.htm|Opposition Effect]]" and subsequent pages for an explanation of how the same phenomenon &amp;mdash; correlated shadows &amp;mdash; explains why Saturn's rings get so bright when that planet is in opposition (180&amp;deg; from the Sun relative to the Earth) ... neat!<br />&gt; -- [http://zhurnaly.com Mark Zimmermann] 2011-04-01 11:12 UTC</p></div>
+flags: 0
+ts: 1528057693
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 22
+keep-ts: 1528057693

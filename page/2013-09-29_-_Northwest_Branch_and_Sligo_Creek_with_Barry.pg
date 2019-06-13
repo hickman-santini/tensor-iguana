@@ -1,0 +1,27 @@
+blocks: <h3>~12 miles @ ~12.2 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Northwest_Branch_Rock_z.jpg" alt="http://zhurnaly.com/images/running/Northwest_Branch_Rock_z.jpg" /></td><td align="right">Sunday afternoon: trot to Barry Smith's home, then up Northwest Branch Trail and back via Kemp Mill and Sligo Creek. Dog-walkers along Northwest Branch are out in force. At the big rock I practice cross-training by faux-lifting it. Barry shares an image on Facebook and reports that it gets more "Like" clicks than anything else he has posted.</td></tr></table><p>We follow Kemp Mill to Arcola rather than take the Wheaton Regional Park trail. A svelte girl at University Blvd in black two-piece running garb encourages us to push the pace. To reach the water fountain at the Sligo-Dennis Rec Center I sprint a fast quarter mile.</p><p><a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/249607123">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/383465721">Garmin</a> generally concur. |</p><p><em><strong>^z</strong></em> - 2013-10-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12 miles @ ~12.2 min/mi
+	
+	| http://zhurnaly.com/images/running/Northwest_Branch_Rock_z.jpg | Sunday afternoon: trot to Barry Smith's home, then up Northwest Branch Trail and back via Kemp Mill and Sligo Creek. Dog-walkers along Northwest Branch are out in force. At the big rock I practice cross-training by faux-lifting it. Barry shares an image on Facebook and reports that it gets more "Like" clicks than anything else he has posted.
+	
+	We follow Kemp Mill to Arcola rather than take the Wheaton Regional Park trail. A svelte girl at University Blvd in black two-piece running garb encourages us to push the pace. To reach the water fountain at the Sligo-Dennis Rec Center I sprint a fast quarter mile.
+	
+	[[http://runkeeper.com/user/zhurnaly/activity/249607123|Runkeeper]] and [[http://connect.garmin.com/activity/383465721|Garmin]] generally concur. |
+	
+	//**^z**// - 2013-10-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12 miles @ ~12.2 min/mi<br />&gt; | http://zhurnaly.com/images/running/Northwest_Branch_Rock_z.jpg | Sunday afternoon: trot to Barry Smith's home, then up Northwest Branch Trail and back via Kemp Mill and Sligo Creek. Dog-walkers along Northwest Branch are out in force. At the big rock I practice cross-training by faux-lifting it. Barry shares an image on Facebook and reports that it gets more "Like" clicks than anything else he has posted.<br />&gt; We follow Kemp Mill to Arcola rather than take the Wheaton Regional Park trail. A svelte girl at University Blvd in black two-piece running garb encourages us to push the pace. To reach the water fountain at the Sligo-Dennis Rec Center I sprint a fast quarter mile.<br />&gt; [[http://runkeeper.com/user/zhurnaly/activity/249607123|Runkeeper]] and [[http://connect.garmin.com/activity/383465721|Garmin]] generally concur. |<br />&gt; //**^z**// - 2013-10-19</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

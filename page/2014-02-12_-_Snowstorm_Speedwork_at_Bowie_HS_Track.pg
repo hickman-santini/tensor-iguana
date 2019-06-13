@@ -1,0 +1,28 @@
+blocks: <h3>~4.9 miles @ ~9 min/mi</h3><table class="user"><tr><td align="right">As snow and sleet sting the eyes it's a ladder of laps, 1-2-3-4-3-2-1, in the near-darkness at 7pm around the Bowie High School track. The left hamstring (or is it the glute?) aches, as it has for some weeks now.<br /><br /><a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/174305418">Runtastic</a> shows one view of the course and pace, based on the iPhone's GPS.</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Bowie_HS_track_laps_2014-02-12.jpg" alt="http://zhurnaly.com/images/running/Bowie_HS_track_laps_2014-02-12.jpg" /></td></tr></table><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Snowstorm_intervals_Bowie_HS_2014-02-12.jpg" alt="http://zhurnaly.com/images/running/Snowstorm_intervals_Bowie_HS_2014-02-12.jpg" /></td><td align="right">The <a class="url http outside" href="http://connect.garmin.com/activity/444634447">Garmin</a> wrist GPS provides a sharper graph of pace versus time, with an inverted axis. Splits: 2:14 + 3:53 + 5:50 + 7:52 + 6:00 + 3:52 + 1:57</td></tr></table><p><em><strong>^z</strong></em> - 2014-03-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.31
+summary: \\
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 miles @ ~9 min/mi<br />&gt; | As snow and sleet sting the eyes it's a ladder of laps, 1-2-3-4-3-2-1, in the near-darkness at 7pm around the Bowie High School track. The left hamstring (or is it the glute?) aches, as it has for some weeks now.<br />&gt; [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/174305418|Runtastic]] shows one view of the course and pace, based on the iPhone's GPS. | http://zhurnaly.com/images/running/Bowie_HS_track_laps_2014-02-12.jpg |<br />&gt; | http://zhurnaly.com/images/running/Snowstorm_intervals_Bowie_HS_2014-02-12.jpg | The [[http://connect.garmin.com/activity/444634447|Garmin]] wrist GPS provides a sharper graph of pace versus time, with an inverted axis. Splits: 2:14 + 3:53 + 5:50 + 7:52 + 6:00 + 3:52 + 1:57 |<br />&gt; //**^z**// - 2014-03-04</strong></p></div>
+languages: 
+text: === ~4.9 miles @ ~9 min/mi
+	
+	| As snow and sleet sting the eyes it's a ladder of laps, 1-2-3-4-3-2-1, in the near-darkness at 7pm around the Bowie High School track. The left hamstring (or is it the glute?) aches, as it has for some weeks now.
+	\\
+	[[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/174305418|Runtastic]] shows one view of the course and pace, based on the iPhone's GPS. | http://zhurnaly.com/images/running/Bowie_HS_track_laps_2014-02-12.jpg |
+	
+	| http://zhurnaly.com/images/running/Snowstorm_intervals_Bowie_HS_2014-02-12.jpg | The [[http://connect.garmin.com/activity/444634447|Garmin]] wrist GPS provides a sharper graph of pace versus time, with an inverted axis. Splits: 2:14 + 3:53 + 5:50 + 7:52 + 6:00 + 3:52 + 1:57 |
+	
+	//**^z**// - 2014-03-04
+	
+lastmajor: 3
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div>
+flags: 0
+ts: 1557401680
+minor: 1
+host: 128.29.43.1
+username: z
+revision: 4
+keep-ts: 1557401680

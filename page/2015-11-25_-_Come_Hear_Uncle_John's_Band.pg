@@ -1,0 +1,25 @@
+blocks: <h3>~6.5 miles @ ~11.6 min/mi</h3><p>"We are the champions, my friend!" I tell Kerry, in honor of Freddie Mercury who died 24 years ago yesterday. Kerry remembers an awesome performance by a Queen tribute band at a friend's wedding. We're at mile 6, climbing the hills of Churchill Rd, pausing to pet dogs and chat with neighbors as the sun rises. The Grateful Dead's "Uncle John's Band" loops inside my head.</p><p>It's a frosty morning, almost-full moon low in the west as we begin. Two deer eye us from the far side of a meadow. Kerry's calf is mostly recovered from the Potomac Heritage misstep at mile 11 a fortnight ago. Her son Fletcher gets back this afternoon, his first visit home from college. Tomorrow is a Turkey Trot in which they have competed for the past 7 years. So we skip speedwork on the Langley High School track and plan 5k race strategy. Best of luck, Mom!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/696808176">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-12-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.32
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.5 miles @ ~11.6 min/mi
+	
+	"We are the champions, my friend!" I tell Kerry, in honor of Freddie Mercury who died 24 years ago yesterday. Kerry remembers an awesome performance by a Queen tribute band at a friend's wedding. We're at mile 6, climbing the hills of Churchill Rd, pausing to pet dogs and chat with neighbors as the sun rises. The Grateful Dead's "Uncle John's Band" loops inside my head.
+	
+	It's a frosty morning, almost-full moon low in the west as we begin. Two deer eye us from the far side of a meadow. Kerry's calf is mostly recovered from the Potomac Heritage misstep at mile 11 a fortnight ago. Her son Fletcher gets back this afternoon, his first visit home from college. Tomorrow is a Turkey Trot in which they have competed for the past 7 years. So we skip speedwork on the Langley High School track and plan 5k race strategy. Best of luck, Mom!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/696808176|trackfile]])// - //**^z**// - 2015-12-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.5 miles @ ~11.6 min/mi<br />&gt; "We are the champions, my friend!" I tell Kerry, in honor of Freddie Mercury who died 24 years ago yesterday. Kerry remembers an awesome performance by a Queen tribute band at a friend's wedding. We're at mile 6, climbing the hills of Churchill Rd, pausing to pet dogs and chat with neighbors as the sun rises. The Grateful Dead's "Uncle John's Band" loops inside my head.<br />&gt; It's a frosty morning, almost-full moon low in the west as we begin. Two deer eye us from the far side of a meadow. Kerry's calf is mostly recovered from the Potomac Heritage misstep at mile 11 a fortnight ago. Her son Fletcher gets back this afternoon, his first visit home from college. Tomorrow is a Turkey Trot in which they have competed for the past 7 years. So we skip speedwork on the Langley High School track and plan 5k race strategy. Best of luck, Mom!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/696808176|trackfile]])// - //**^z**// - 2015-12-11</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057711

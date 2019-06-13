@@ -1,0 +1,22 @@
+blocks: <h3>1 Comment.</h3><p>It is inspiring that in the middle of the tragedies of our time your spirit strains to appreciate the beautiful and the ordinary. Ordinary. That word, that condition  has, in itself, become enviable.</p><p>-- <a class="url http outside" href="http://zhurnaly.com">comment move</a> 2009-06-14 00:33 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 198.228.200.154
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	It is inspiring that in the middle of the tragedies of our time your spirit strains to appreciate the beautiful and the ordinary.  Ordinary.  That word, that condition  has, in itself, become enviable.
+	
+	-- [http://zhurnaly.com comment move] 2009-06-14 00:33 UTC
+	
+	
+languages: 
+lastmajor: 7
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; It is inspiring that in the middle of the tragedies of our time your spirit strains to appreciate the beautiful and the ordinary.  Ordinary.  That word, that condition  has, in itself, become enviable.<br />&gt; -- [http://zhurnaly.com comment move] 2009-06-14 00:33 UTC</p></div>
+flags: 0
+ts: 1528057679
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 7
+keep-ts: 1528057679

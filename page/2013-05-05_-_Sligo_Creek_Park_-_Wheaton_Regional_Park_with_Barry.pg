@@ -1,0 +1,23 @@
+blocks: <h3>~8 miles @ ~11.8 min/mi</h3><p>Cinco de Mayo Sunday: mid-afternoon Barry Smith and I set off from his home on Belevdere St and follow the connector path to Sligo Creek Trail. Upstream we trek, past a drummer thumping in the meadow at University Blvd. In Wheaton Regional Park we curve west around the ballfields, leave the park to take Hermitage Av, and then cut through on right-of-way paths to Henderson Av where we go by the house &mdash; I call it "New Place" &mdash; that DW and I plan to buy this month. The current owner is out front and shakes our hands. Then back to the park, across the miniature railroad tracks, past Pine Lake and the dog park we loop. Downstream when we're almost back to his neighborhood Barry shows me a natural-surface trail that leads along Wheaton Branch, a tributary stream to Sligo Creek. We follow it to its source, a big pond, and circumnavigate that past watchful geese. <a class="url http outside" href="http://connect.garmin.com/activity/308434327">Garmin</a> and <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/176411618">Runkeeper</a> concur.</p><p><em><strong>^z</strong></em> - 2013-05-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.213.25
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8 miles @ ~11.8 min/mi
+	
+	Cinco de Mayo Sunday: mid-afternoon Barry Smith and I set off from his home on Belevdere St and follow the connector path to Sligo Creek Trail. Upstream we trek, past a drummer thumping in the meadow at University Blvd. In Wheaton Regional Park we curve west around the ballfields, leave the park to take Hermitage Av, and then cut through on right-of-way paths to Henderson Av where we go by the house &mdash; I call it "New Place" &mdash; that DW and I plan to buy this month. The current owner is out front and shakes our hands. Then back to the park, across the miniature railroad tracks, past Pine Lake and the dog park we loop. Downstream when we're almost back to his neighborhood Barry shows me a natural-surface trail that leads along Wheaton Branch, a tributary stream to Sligo Creek. We follow it to its source, a big pond, and circumnavigate that past watchful geese. [[http://connect.garmin.com/activity/308434327|Garmin]] and [[http://runkeeper.com/user/zhurnaly/activity/176411618|Runkeeper]] concur.
+	
+	//**^z**// - 2013-05-27
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8 miles @ ~11.8 min/mi<br />&gt; Cinco de Mayo Sunday: mid-afternoon Barry Smith and I set off from his home on Belevdere St and follow the connector path to Sligo Creek Trail. Upstream we trek, past a drummer thumping in the meadow at University Blvd. In Wheaton Regional Park we curve west around the ballfields, leave the park to take Hermitage Av, and then cut through on right-of-way paths to Henderson Av where we go by the house &amp;mdash; I call it "New Place" &amp;mdash; that DW and I plan to buy this month. The current owner is out front and shakes our hands. Then back to the park, across the miniature railroad tracks, past Pine Lake and the dog park we loop. Downstream when we're almost back to his neighborhood Barry shows me a natural-surface trail that leads along Wheaton Branch, a tributary stream to Sligo Creek. We follow it to its source, a big pond, and circumnavigate that past watchful geese. [[http://connect.garmin.com/activity/308434327|Garmin]] and [[http://runkeeper.com/user/zhurnaly/activity/176411618|Runkeeper]] concur.<br />&gt; //**^z**// - 2013-05-27</strong></p></div>
+flags: 0
+ts: 1528057682
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057682

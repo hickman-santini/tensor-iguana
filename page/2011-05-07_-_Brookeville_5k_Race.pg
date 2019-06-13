@@ -1,0 +1,37 @@
+flags: 0
+blocks: <p><h3>~3.1 miles @ ~7.2 min/mi</h3></p><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Brookeville_5k_2011_z.jpg" alt="http://zhurnaly.com/images/running/Brookeville_5k_2011_z.jpg" /></td><td align="right">MCRRC's "Capital for a Day" Brookeville 5k race is a fly-and-die. Mile splits from the <a class="url http outside" href="http://connect.garmin.com/activity/84006369">GPS trackfile</a>:<p><strong>7:02</strong> &mdash; forgivably fast, mostly downhill after inadequate warmup<br /><strong>7:05</strong> &mdash; foolishly following two young ladies<br /><strong>7:38</strong> &mdash; flameout, fading until the finish line comes into view</p><p>Christina Caravoulias works the registration table; Jim Farkas does data entry. Michele McLeod ran three miles from home to the starting line. She's planning a double-crossing of the Grand Canyon soon. I thank her daughter Sophie for helping me entertain Kate Abbott's sons a couple of years ago at Fountainhead Park on the Bull Run Trail during the Women's Half Marathon. My bib "666" is pinned upside down to avoid demonic jinxes.</p><p>"This portends a hill!" a young man tells me as we blast downslope near the beginning. "Don't say that!" I reply. Today the strategy of pushing hard works only for the first two miles, 14 minutes flat at the official marker (allowing 4 seconds to cross the starting line) . Two women run a bit ahead of me. Near the halfway point I overtake one and pant out pace info at her request. The other gal stays strong; after I finish in ~22:22 I congratulate her. Pete Darmody comes in ~5 minutes ahead of me. We chat briefly about physics and fallacies.</p><p><br /><br /><br /><br /><br /><em>(photo by Ken Trombatore)</em></p></td></tr></table><p><em>(official result: 47th place overall, 43rd of 101 males, 7th of 14 men 55-59 years old, 22:19 for an average 7:11 pace)</em> - <em><strong>^z</strong></em> - 2011-05-18</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; MCRRC's "Capital for a Day" Brookeville 5k race is a fly-and-die. Mile splits from the [[http://connect.garmin.com/activity/84006369|GPS trackfile]]:<br />&lt; <strong class="changes">*</strong> **7:02** &amp;mdash; forgivably fast, mostly downhill after inadequate warmup<br />&lt; <strong class="changes">*</strong> **7:05** &amp;mdash; foolishly following two young ladies<br />&lt; <strong class="changes">*</strong> **7:38** &amp;mdash; flameout, fading until the finish line comes into view</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| http://zhurnaly.com/images/running/Brookeville_5k_2011_z.jpg |</strong> MCRRC's "Capital for a Day" Brookeville 5k race is a fly-and-die. Mile splits from the [[http://connect.garmin.com/activity/84006369|GPS trackfile]]:<br />&gt; **7:02** &amp;mdash; forgivably fast, mostly downhill after inadequate warmup<br />&gt; **7:05** &amp;mdash; foolishly following two young ladies<br />&gt; **7:38** &amp;mdash; flameout, fading until the finish line comes into view</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\ \\ \\ \\ \\<br />&gt; //(photo by Ken Trombatore)// |</p></div>
+ip: 138.88.179.129
+ts: 1305941070
+minor: 1
+host: pool-138-88-179-129.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: add photo
+languages: 
+text: === ~3.1 miles @ ~7.2 min/mi
+	
+	| http://zhurnaly.com/images/running/Brookeville_5k_2011_z.jpg | MCRRC's "Capital for a Day" Brookeville 5k race is a fly-and-die. Mile splits from the [[http://connect.garmin.com/activity/84006369|GPS trackfile]]:
+	
+	**7:02** &mdash; forgivably fast, mostly downhill after inadequate warmup
+	**7:05** &mdash; foolishly following two young ladies
+	**7:38** &mdash; flameout, fading until the finish line comes into view
+	
+	Christina Caravoulias works the registration table; Jim Farkas does data entry. Michele McLeod ran three miles from home to the starting line. She's planning a double-crossing of the Grand Canyon soon. I thank her daughter Sophie for helping me entertain Kate Abbott's sons a couple of years ago at Fountainhead Park on the Bull Run Trail during the Women's Half Marathon. My bib "666" is pinned upside down to avoid demonic jinxes.
+	
+	"This portends a hill!" a young man tells me as we blast downslope near the beginning. "Don't say that!" I reply.  Today the strategy of pushing hard works only for the first two miles, 14 minutes flat at the official marker (allowing 4 seconds to cross the starting line) . Two women run a bit ahead of me. Near the halfway point I overtake one and pant out pace info at her request. The other gal stays strong; after I finish in ~22:22 I congratulate her. Pete Darmody comes in ~5 minutes ahead of me. We chat briefly about physics and fallacies.
+	
+	
+	\\ \\ \\ \\ \\
+	
+	//(photo by Ken Trombatore)// |
+	
+	
+	//(official result: 47th place overall, 43rd of 101 males, 7th of 14 men 55-59 years old, 22:19 for an average 7:11 pace)// - //**^z**// - 2011-05-18
+	
+lastmajor: 1
+keep-ts: 1305941070

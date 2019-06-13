@@ -1,0 +1,23 @@
+blocks: <h3>~6 miles @ ~11.1 min/mi</h3><p>As we start, the car thermometer registers a brisk 27&deg;F &mdash; it's a balmy 29 when we stop. Barry Smith, Rebecca Rosenberg, and Ken Swab lead me limping (tight right hamstring after yesterday's race) along Rock Creek Trail, with a digression to Ken-Gar for hillwork. Four big deer stare at us along the way. RacePacket sets up for a frigid 5k, and we pose by the clock at the finish line. <a class="url http outside" href="http://connect.garmin.com/activity/410887294">Garmin</a> and <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/276493814">Runkeeper</a> show time and distance trackfiles.</p><p><em><strong>^z</strong></em> - 2013-12-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.214.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6 miles @ ~11.1 min/mi
+	
+	As we start, the car thermometer registers a brisk 27&deg;F &mdash; it's a balmy 29 when we stop. Barry Smith, Rebecca Rosenberg, and Ken Swab lead me limping (tight right hamstring after yesterday's race) along Rock Creek Trail, with a digression to Ken-Gar for hillwork. Four big deer stare at us along the way. RacePacket sets up for a frigid 5k, and we pose by the clock at the finish line. [[http://connect.garmin.com/activity/410887294|Garmin]] and [[http://runkeeper.com/user/zhurnaly/activity/276493814|Runkeeper]] show time and distance trackfiles.
+	
+	//**^z**// - 2013-12-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6 miles @ ~11.1 min/mi<br />&gt; As we start, the car thermometer registers a brisk 27&amp;deg;F &amp;mdash; it's a balmy 29 when we stop. Barry Smith, Rebecca Rosenberg, and Ken Swab lead me limping (tight right hamstring after yesterday's race) along Rock Creek Trail, with a digression to Ken-Gar for hillwork. Four big deer stare at us along the way. RacePacket sets up for a frigid 5k, and we pose by the clock at the finish line. [[http://connect.garmin.com/activity/410887294|Garmin]] and [[http://runkeeper.com/user/zhurnaly/activity/276493814|Runkeeper]] show time and distance trackfiles.<br />&gt; //**^z**// - 2013-12-23</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

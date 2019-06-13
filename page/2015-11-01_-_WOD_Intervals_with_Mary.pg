@@ -1,0 +1,27 @@
+blocks: <h3>~4.2 miles @ ~13.5 min/mi</h3><p>"Maybe your crotch problem?" suggests Mary, rather indelicately, to explain my sub-par performance at the 5k race a couple of days ago. "Oops, I meant to say 'groin' or 'hip adductor'." But no matter &mdash; we've done 50 milers together, we're trail friends, we can say anything!</p><p>Today Mary's coach prescribes four repeated intervals of 9 minutes running + 1 minute recovery. We execute to perfection along the W&amp;OD Trail in Reston on a Sunday afternoon, averaging ~12.5 min/mi pace for 40 minutes. Cars stop politely and cyclists give warning as they swoop past. Conversation as always is thoughtful and frank.</p><p>And afterwards: a shopping expedition to Trader Joe's for wine and chocolate and kefir!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/684968637">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-11-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.98.89
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.2 miles @ ~13.5 min/mi
+	
+	"Maybe your crotch problem?" suggests Mary, rather indelicately, to explain my sub-par performance at the 5k race a couple of days ago. "Oops, I meant to say 'groin' or 'hip adductor'." But no matter &mdash; we've done 50 milers together, we're trail friends, we can say anything!
+	
+	Today Mary's coach prescribes four repeated intervals of 9 minutes running + 1 minute recovery. We execute to perfection along the W&OD Trail in Reston on a Sunday afternoon, averaging ~12.5 min/mi pace for 40 minutes. Cars stop politely and cyclists give warning as they swoop past. Conversation as always is thoughtful and frank.
+	
+	And afterwards: a shopping expedition to Trader Joe's for wine and chocolate and kefir!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/684968637|trackfile]])// - //**^z**// - 2015-11-18
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.2 miles @ ~13.5 min/mi<br />&gt; "Maybe your crotch problem?" suggests Mary, rather indelicately, to explain my sub-par performance at the 5k race a couple of days ago. "Oops, I meant to say 'groin' or 'hip adductor'." But no matter &amp;mdash; we've done 50 milers together, we're trail friends, we can say anything!<br />&gt; Today Mary's coach prescribes four repeated intervals of 9 minutes running + 1 minute recovery. We execute to perfection along the W&amp;OD Trail in Reston on a Sunday afternoon, averaging ~12.5 min/mi pace for 40 minutes. Cars stop politely and cyclists give warning as they swoop past. Conversation as always is thoughtful and frank.<br />&gt; And afterwards: a shopping expedition to Trader Joe's for wine and chocolate and kefir!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/684968637|trackfile]])// - //**^z**// - 2015-11-18</strong></p></div>
+flags: 0
+ts: 1528057686
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057686

@@ -1,0 +1,16 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">{{{<br />&lt;      Sunbeams clothe bare limbs<br />&lt;        In gossamer gowns bejeweled<br />&lt;      With diamond dewdrops<br />&lt; }}}<br />&lt; //(composed during a run this morning through the woods of Rock Creek Park, Washington, DC, as the sun gleamed off dripping branches; cf.</strong> [[<strong class="changes">SurfaceWaves</strong>]] <strong class="changes">(6 Dec 1999), [[RockCreekValleyTrail]] (30 Apr 2004), ...)//<br />&lt; ----<br />&lt; [[TopicPoetry]] - [[TopicPersonalHistory]] - [[TopicRunning]] - Datetag20051226<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[SurfaceWaves]], [[What Do You Think of When You Run]], [[GreenMountain]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">Winter Wardrobe</strong>]]</p></div>
+ip: 141.156.150.174
+ts: 1234622532
+minor: 1
+host: pool-141-156-150-174.res.east.verizon.net
+username: MarkZimmermann
+revision: 7
+diff-major: 
+summary: redirect
+languages: 
+text: #REDIRECT [[Winter Wardrobe]]
+	
+lastmajor: 3
+keep-ts: 1234622532

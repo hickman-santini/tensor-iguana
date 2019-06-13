@@ -1,0 +1,23 @@
+blocks: <h3>~5.9 miles @ ~13.2 min/mi</h3><p>"Bunny Eyes!" Kristin spots 5 rabbits today during a soggy-warm Dawn Patrol meander. Overnight storms leave big puddles behind; sunrise seems to come late, perhaps due to thick cloud cover. The track at George Marshall HS is securely fenced off &mdash; no speedwork for us today! <em><strong>Fantastic Beasts and Where to Find Them</strong></em> is Caitlin's latest film recommendation. After a delay at the Route 7 crosswalk we dash most of the way back and pull the average pace down by more than a minute/mile.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1023836269">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-08-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.79
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.9 miles @ ~13.2 min/mi
+	
+	"Bunny Eyes!" Kristin spots 5 rabbits today during a soggy-warm Dawn Patrol meander. Overnight storms leave big puddles behind; sunrise seems to come late, perhaps due to thick cloud cover. The track at George Marshall HS is securely fenced off &mdash; no speedwork for us today! //**Fantastic Beasts and Where to Find Them**// is Caitlin's latest film recommendation. After a delay at the Route 7 crosswalk we dash most of the way back and pull the average pace down by more than a minute/mile.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1023836269|trackfile]])// - //**^z**// - 2017-08-21
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.9 miles @ ~13.2 min/mi<br />&gt; "Bunny Eyes!" Kristin spots 5 rabbits today during a soggy-warm Dawn Patrol meander. Overnight storms leave big puddles behind; sunrise seems to come late, perhaps due to thick cloud cover. The track at George Marshall HS is securely fenced off &amp;mdash; no speedwork for us today! //**Fantastic Beasts and Where to Find Them**// is Caitlin's latest film recommendation. After a delay at the Route 7 crosswalk we dash most of the way back and pull the average pace down by more than a minute/mile.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1023836269|trackfile]])// - //**^z**// - 2017-08-21</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

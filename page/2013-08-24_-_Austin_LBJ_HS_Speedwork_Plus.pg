@@ -1,0 +1,29 @@
+blocks: <h3>~8 miles @ ~10 min/mi</h3><table class="user"><tr><td align="right">Soggy Summer Sunrise Speedwork: at LBJ High School track, a ladder of laps 1-2-3-4-3-2-1 with half-lap recovery walk between each interval. Yesterday's dinner of primary color TexMex food may have been slightly suboptimal <em>(photo is a guacamole &amp; queso tortilla cup)</em><br /><br />Splits during the ladder are 1:52 + 3:45 + 5:52 + 7:51 + 5:49 + 3:53 + 1:44. Infield sprinklers suddenly pop up like black mushrooms and welcome-surprise-spray me halfway through the pattern. A Texas-sized dragonfly buzzes by. On the way home, a tiny chihuahua dashes across the street and chases me, barking furiously.<br /><br /><a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/230612837">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/365619270">Garmin</a> concur.</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/gucacmole_and_queso_tortilla_cup_tres_amigos_2013.jpg" alt="http://zhurnaly.com/images/gucacmole_and_queso_tortilla_cup_tres_amigos_2013.jpg" /></td></tr></table><p><em><strong>^z</strong></em> - 2013-09-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.216.229
+summary: \\
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8 miles @ ~10 min/mi<br />&gt; | Soggy Summer Sunrise Speedwork: at LBJ High School track, a ladder of laps 1-2-3-4-3-2-1 with half-lap recovery walk between each interval. Yesterday's dinner of primary color TexMex food may have been slightly suboptimal //(photo is a guacamole &amp; queso tortilla cup)//<br />&gt; Splits during the ladder are 1:52 + 3:45 + 5:52 + 7:51 + 5:49 + 3:53 + 1:44. Infield sprinklers suddenly pop up like black mushrooms and welcome-surprise-spray me halfway through the pattern. A Texas-sized dragonfly buzzes by. On the way home, a tiny chihuahua dashes across the street and chases me, barking furiously.<br />&gt; [[http://runkeeper.com/user/zhurnaly/activity/230612837|Runkeeper]] and [[http://connect.garmin.com/activity/365619270|Garmin]] concur. | http://zhurnaly.com/images/gucacmole_and_queso_tortilla_cup_tres_amigos_2013.jpg |<br />&gt; //**^z**// - 2013-09-11</strong></p></div>
+languages: 
+text: === ~8 miles @ ~10 min/mi
+	
+	| Soggy Summer Sunrise Speedwork: at LBJ High School track, a ladder of laps 1-2-3-4-3-2-1 with half-lap recovery walk between each interval. Yesterday's dinner of primary color TexMex food may have been slightly suboptimal //(photo is a guacamole & queso tortilla cup)//
+	\\
+	Splits during the ladder are 1:52 + 3:45 + 5:52 + 7:51 + 5:49 + 3:53 + 1:44. Infield sprinklers suddenly pop up like black mushrooms and welcome-surprise-spray me halfway through the pattern. A Texas-sized dragonfly buzzes by. On the way home, a tiny chihuahua dashes across the street and chases me, barking furiously.
+	\\
+	[[http://runkeeper.com/user/zhurnaly/activity/230612837|Runkeeper]] and [[http://connect.garmin.com/activity/365619270|Garmin]] concur. | http://zhurnaly.com/images/gucacmole_and_queso_tortilla_cup_tres_amigos_2013.jpg |
+	
+	//**^z**// - 2013-09-11
+	
+lastmajor: 3
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div>
+flags: 0
+ts: 1557401654
+minor: 1
+host: 128.29.43.1
+username: z
+revision: 4
+keep-ts: 1557401654

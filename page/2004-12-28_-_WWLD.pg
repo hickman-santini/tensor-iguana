@@ -1,0 +1,28 @@
+flags: 0
+blocks: <p><h3>~9 miles @ ~10.8 min/mi</h3></p><p>Important safety tip: don't watch a certain scene of the movie <strong>Dodgeball</strong> right before going out on a run. In the film Lance Armstrong makes a cameo appearance. At a critical moment he meets a character who's about to drop out of the competition. Lance tells him:<br /></p><blockquote><p>Quit? You know, once I was thinking of quitting when I was diagnosed with brain, lung and testicular cancer all at the same time. But with the love and support of my friends and family, I got back on the bike and won the Tour de France five times in a row. But I'm sure you have a good reason to quit. So what are you dying of that's keeping you from the finals?<br /></p></blockquote><p>If, like me today, you've just changed into jogging garb and are about to hit the road when you see that ... well, suffice it to say that you're not going to feel good about wimping out just because it's a little chilly. What Would Lance Do? Carry on!</p><p>So today's loop is a brisk one, especially since the temperature is ~30F. I proceed at ~10:30 pace on my Sligo-Wheaton-Kensington Loop. <em>(from home to Sligo Creek via Forest Glen, north to University Blvd., then west through Wheaton to Kensington, continuing along Connecticut Ave. to Washington St., thence to Kensington Parkway and homeward along Rock Creek Trail.)</em></p><p>A small detour lets me get in a timed mile near the end, the somewhat downhill MitP #21, which zips by in 9:15. Icy patches along the route cause occasional pauses. I turn on my headlamp at ~5pm, strobing to deter turning auto traffic, and arrive back home at 6pm.</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">:"</strong>Quit? You know, once I was thinking of quitting when I was diagnosed with brain, lung and testicular cancer all at the same time. But with the love and support of my friends and family, I got back on the bike and won the Tour de France five times in a row. But I'm sure you have a good reason to quit. So what are you dying of that's keeping you from the finals<strong class="changes">?"</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">"""</strong><br />&gt; Quit? You know, once I was thinking of quitting when I was diagnosed with brain, lung and testicular cancer all at the same time. But with the love and support of my friends and family, I got back on the bike and won the Tour de France five times in a row. But I'm sure you have a good reason to quit. So what are you dying of that's keeping you from the finals<strong class="changes">?<br />&gt; """</strong></p></div>
+ip: 138.88.108.245
+ts: 1330808892
+minor: 1
+host: pool-138-88-108-245.res.east.verizon.net
+username: Zimm
+revision: 2
+diff-major: 
+summary: fmt fix
+languages: 
+text: === ~9 miles @ ~10.8 min/mi
+	
+	Important safety tip: don't watch a certain scene of the movie **Dodgeball** right before going out on a run. In the film Lance Armstrong makes a cameo appearance. At a critical moment he meets a character who's about to drop out of the competition. Lance tells him:
+	"""
+	Quit? You know, once I was thinking of quitting when I was diagnosed with brain, lung and testicular cancer all at the same time. But with the love and support of my friends and family, I got back on the bike and won the Tour de France five times in a row. But I'm sure you have a good reason to quit. So what are you dying of that's keeping you from the finals?
+	"""
+	
+	If, like me today, you've just changed into jogging garb and are about to hit the road when you see that ... well, suffice it to say that you're not going to feel good about wimping out just because it's a little chilly. What Would Lance Do?  Carry on!
+	
+	So today's loop is a brisk one, especially since the temperature is ~30F. I proceed at ~10:30 pace on my Sligo-Wheaton-Kensington Loop. //(from home to Sligo Creek via Forest Glen, north to University Blvd., then west through Wheaton to Kensington, continuing along Connecticut Ave. to Washington St., thence to Kensington Parkway and homeward along Rock Creek Trail.)//
+	
+	A small detour lets me get in a timed mile near the end, the somewhat downhill MitP #21, which zips by in 9:15. Icy patches along the route cause occasional pauses. I turn on my headlamp at ~5pm, strobing to deter turning auto traffic, and arrive back home at 6pm.
+	
+keep-ts: 1330808892

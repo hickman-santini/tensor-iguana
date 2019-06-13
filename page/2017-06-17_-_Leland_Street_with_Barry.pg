@@ -1,0 +1,27 @@
+blocks: <h3>~10.4 miles @ ~12.8 min/mi</h3><p>"I thought <em><strong>you</strong></em> were supposed to be pulling <em><strong>me</strong></em> along!" Barry and I take turns taking the hills of Leland St on a warm-and-humid morn. Six rabbits nibble front lawn grass; three chipmunks dance across the road. We follow a narrow trail along the west bank of Rock Creek, brush against nettles, and pause to rinse legs using water from our bottles.</p><p>"Mundanes might freak out at the sight. Weak ones could swoon," I explain, as I put my singlet back on when we return to civilization or what passes for it. Earlier, on the solo run from home to our rendezvous I push hard and do mile two in 8.3 minutes by the GPS. Waiting for others to arrive I meander around downtown Bethesda. An exhausted runner sits outside a shop and catches her breath. The verge of the art-fountain-sculpture quotes Winnie the Pooh: <strong>IT IS MORE FUN TO TALK WITH SOMEONE WHO DOESN'T USE LONG, DIFFICULT WORDS BUT RATHER SHORT, EASY WORDS LIKE "WHAT ABOUT LUNCH?"</strong></p><p><em>Yes!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1002474700">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-07-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.60
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.4 miles @ ~12.8 min/mi
+	
+	"I thought //**you**// were supposed to be pulling //**me**// along!" Barry and I take turns taking the hills of Leland St on a warm-and-humid morn. Six rabbits nibble front lawn grass; three chipmunks dance across the road. We follow a narrow trail along the west bank of Rock Creek, brush against nettles, and pause to rinse legs using water from our bottles.
+	
+	"Mundanes might freak out at the sight. Weak ones could swoon," I explain, as I put my singlet back on when we return to civilization or what passes for it. Earlier, on the solo run from home to our rendezvous I push hard and do mile two in 8.3 minutes by the GPS. Waiting for others to arrive I meander around downtown Bethesda. An exhausted runner sits outside a shop and catches her breath. The verge of the art-fountain-sculpture quotes Winnie the Pooh: **IT IS MORE FUN TO TALK WITH SOMEONE WHO DOESN'T USE LONG, DIFFICULT WORDS BUT RATHER SHORT, EASY WORDS LIKE "WHAT ABOUT LUNCH?"**
+	
+	//Yes!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1002474700|trackfile]])// - //**^z**// - 2017-07-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.4 miles @ ~12.8 min/mi<br />&gt; "I thought //**you**// were supposed to be pulling //**me**// along!" Barry and I take turns taking the hills of Leland St on a warm-and-humid morn. Six rabbits nibble front lawn grass; three chipmunks dance across the road. We follow a narrow trail along the west bank of Rock Creek, brush against nettles, and pause to rinse legs using water from our bottles.<br />&gt; "Mundanes might freak out at the sight. Weak ones could swoon," I explain, as I put my singlet back on when we return to civilization or what passes for it. Earlier, on the solo run from home to our rendezvous I push hard and do mile two in 8.3 minutes by the GPS. Waiting for others to arrive I meander around downtown Bethesda. An exhausted runner sits outside a shop and catches her breath. The verge of the art-fountain-sculpture quotes Winnie the Pooh: **IT IS MORE FUN TO TALK WITH SOMEONE WHO DOESN'T USE LONG, DIFFICULT WORDS BUT RATHER SHORT, EASY WORDS LIKE "WHAT ABOUT LUNCH?"**<br />&gt; //Yes!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1002474700|trackfile]])// - //**^z**// - 2017-07-07</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

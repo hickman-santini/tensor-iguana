@@ -1,0 +1,23 @@
+blocks: <h3>~5 miles @ ~11 min/mi</h3><p>Kristin spies one little rabbit and I see another in our 2 mile 6am warm-up loop <em>(see first <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/385776861">Runkeeper</a> iPhone GPS file; I hit the "Stop" button by mistake)</em> before meeting Ed at the loading dock to trot with him on a sweat-soaked 3-mile loop around the office neighborhood <em>(start tracking late on second <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/385807259">Runkeeper</a> log; <a class="url http outside" href="http://connect.garmin.com/modern/activity/535823721">Garmin</a> GPS has the whole 5.0+ as one)</em>. Conversation covers family (recent birthdays of various children), training, and Independence Day holiday weekend plans, in between observations of how warm and humid it is this morning.</p><p><em><strong>^z</strong></em> - 2014-07-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.225
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5 miles @ ~11 min/mi
+	
+	Kristin spies one little rabbit and I see another in our 2 mile 6am warm-up loop //(see first [[http://runkeeper.com/user/zhurnaly/activity/385776861|Runkeeper]] iPhone GPS file; I hit the "Stop" button by mistake)// before meeting Ed at the loading dock to trot with him on a sweat-soaked 3-mile loop around the office neighborhood //(start tracking late on second [[http://runkeeper.com/user/zhurnaly/activity/385807259 |Runkeeper]] log; [[http://connect.garmin.com/modern/activity/535823721|Garmin]] GPS has the whole 5.0+ as one)//. Conversation covers family (recent birthdays of various children), training, and Independence Day holiday weekend plans, in between observations of how warm and humid it is this morning.
+	
+	//**^z**// - 2014-07-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5 miles @ ~11 min/mi<br />&gt; Kristin spies one little rabbit and I see another in our 2 mile 6am warm-up loop //(see first [[http://runkeeper.com/user/zhurnaly/activity/385776861|Runkeeper]] iPhone GPS file; I hit the "Stop" button by mistake)// before meeting Ed at the loading dock to trot with him on a sweat-soaked 3-mile loop around the office neighborhood //(start tracking late on second [[http://runkeeper.com/user/zhurnaly/activity/385807259 |Runkeeper]] log; [[http://connect.garmin.com/modern/activity/535823721|Garmin]] GPS has the whole 5.0+ as one)//. Conversation covers family (recent birthdays of various children), training, and Independence Day holiday weekend plans, in between observations of how warm and humid it is this morning.<br />&gt; //**^z**// - 2014-07-15</strong></p></div>
+flags: 0
+ts: 1528057692
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057692

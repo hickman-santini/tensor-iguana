@@ -1,0 +1,26 @@
+flags: 0
+blocks: <h3>~24.5 miles @ ~11.7 min/mi</h3><p>In the dawn's gloom a rabbit startles me as it scampers across the Capital Crescent Trail. Light snow that has been falling takes a break now. I'm slouching towards Bethesda to accompany Sara Crum and Harold Rosen on their last long run before they taper in preparation for a February three-day trek in the Andes. Shirley Skorbiansky and Debbie Elliott join us, and a little after 7am we proceed down the CCT. Their pace&mdash;10-11 min/mi&mdash;is a bit too brisk for me, so I lag behind and let them pull me along. Proof: I hardly talk at all today!</p><p>As we approach Fletcher's Boathouse snow showers begin again. We take a porta-john break (but I keep my GPS timer running). A mile farther along Harold points out the lovely black-and-white scene across the Potomac River. I drag a gloved hand along a wooden railing by the trail, first leaving a wiggly line in the snow, then making dashes, then dots. At the end of the rail where the trail narrows I slip and fall, fortunately without damage.</p><p>We pause at the National Zoo but the water fountain isn't working. Shirley loses a veneer off a tooth and laughs but refuses to smile. "I look like a witch!" she says. A mile up the trail there's running water in the park restrooms, but I still have plenty in my hydration backpack. At Meadowbrook Stables when the group again pauses I thank everyone and branch homeward. I almost turn off Rock Creek Trail at Ray's Meadow, but a glance at my GPS says that it will only read 23.5 miles when I finish&mdash;not as luminous in the logbook as a mile more. So upstream I proceed toward the Mormon Temple, still pushing the pace, still treading carefully on icy spots. The big hill to Walter Reed Annex is a challenge. At the top I turn left to make a figure-8 trackfile pattern and avoid retracing my path until I reach the front steps and stop the clock.</p><p><em>(cf. <a class="url http outside" href="http://connect.garmin.com/activity/62573336">GPS track map</a>)</em> - <em><strong>^z</strong></em> - 2011-01-22</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //(cf. [[http://connect.garmin.com/<strong class="changes">dashboard?cid=694080</strong>|GPS track map]])// - //**^z**// - 2011-01-22</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; //(cf. [[http://connect.garmin.com/<strong class="changes">activity/62573336</strong>|GPS track map]])// - //**^z**// - 2011-01-22</p></div>
+ip: 141.156.17.10
+ts: 1528057678
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 4
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~24.5 miles @ ~11.7 min/mi
+	
+	In the dawn's gloom a rabbit startles me as it scampers across the Capital Crescent Trail. Light snow that has been falling takes a break now. I'm slouching towards Bethesda to accompany Sara Crum and Harold Rosen on their last long run before they taper in preparation for a February three-day trek in the Andes. Shirley Skorbiansky and Debbie Elliott join us, and a little after 7am we proceed down the CCT. Their pace&mdash;10-11 min/mi&mdash;is a bit too brisk for me, so I lag behind and let them pull me along. Proof: I hardly talk at all today!
+	
+	As we approach Fletcher's Boathouse snow showers begin again. We take a porta-john break (but I keep my GPS timer running). A mile farther along Harold points out the lovely black-and-white scene across the Potomac River. I drag a gloved hand along a wooden railing by the trail, first leaving a wiggly line in the snow, then making dashes, then dots. At the end of the rail where the trail narrows I slip and fall, fortunately without damage.
+	
+	We pause at the National Zoo but the water fountain isn't working. Shirley loses a veneer off a tooth and laughs but refuses to smile. "I look like a witch!" she says. A mile up the trail there's running water in the park restrooms, but I still have plenty in my hydration backpack. At Meadowbrook Stables when the group again pauses I thank everyone and branch homeward. I almost turn off Rock Creek Trail at Ray's Meadow, but a glance at my GPS says that it will only read 23.5 miles when I finish&mdash;not as luminous in the logbook as a mile more. So upstream I proceed toward the Mormon Temple, still pushing the pace, still treading carefully on icy spots. The big hill to Walter Reed Annex is a challenge. At the top I turn left to make a figure-8 trackfile pattern and avoid retracing my path until I reach the front steps and stop the clock.
+	
+	//(cf. [[http://connect.garmin.com/activity/62573336|GPS track map]])// - //**^z**// - 2011-01-22
+	
+languages: 
+lastmajor: 1
+keep-ts: 1528057678

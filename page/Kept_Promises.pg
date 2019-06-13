@@ -1,0 +1,30 @@
+blocks: <p>A fancy piece of chocolate comes wrapped in foil that offers a fortune/proverb. Yesterday's says:</p><table class="user"><tr><td align="center">Keep the promises you make to yourself.</td></tr></table><p>Three interpretations:<br /></p><ul><li>When you promise yourself something, do it.</li><li>Don't tell anybody else about your promises.</li><li>Only make promises involving yourself.</li></ul><p>Fascinatingly ambiguous &mdash; deliberately so? And are there other meanings? How about in other choco-"fortunes"?</p><p><em><strong>^z</strong></em> - 2014-05-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.136
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: A fancy piece of chocolate comes wrapped in foil that offers a fortune/proverb. Yesterday's says:
+	
+	| Keep the promises you make to yourself. |
+	
+	Three interpretations:
+	* When you promise yourself something, do it.
+	* Don't tell anybody else about your promises.
+	* Only make promises involving yourself.
+	
+	Fascinatingly ambiguous &mdash; deliberately so? And are there other meanings? How about in other choco-"fortunes"?
+	
+	//**^z**// - 2014-05-08
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">A fancy piece of chocolate comes wrapped in foil that offers a fortune/proverb. Yesterday's says:<br />&gt; | Keep the promises you make to yourself. |<br />&gt; Three interpretations:<br />&gt; * When you promise yourself something, do it.<br />&gt; * Don't tell anybody else about your promises.<br />&gt; * Only make promises involving yourself.<br />&gt; Fascinatingly ambiguous &amp;mdash; deliberately so? And are there other meanings? How about in other choco-"fortunes"?<br />&gt; //**^z**// - 2014-05-08</strong></p></div>
+flags: 0
+ts: 1528057698
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057698

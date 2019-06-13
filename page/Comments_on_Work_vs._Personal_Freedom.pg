@@ -1,0 +1,31 @@
+blocks: <h3>2 Comments.</h3><p>"... there's the fresh air of liberty and the chance to be irresponsible in new dimensions"</p><p>I've recently retired and irresponsibility is a lot of fun :-)</p><p>-- <a class="url http outside" href="http://www.sturmsoft.com">pompousgit</a> 2011-09-16 22:50 UTC</p><hr /><p>Jonathan! --- you're back!</p><p>-- <a class="url http outside" href="http://zhurnaly.com">Zimm</a> 2011-09-17 15:47 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	"... there's the fresh air of liberty and the chance to be irresponsible in new dimensions"
+	
+	I've recently retired and irresponsibility is a lot of fun :-)
+	
+	-- [http://www.sturmsoft.com pompousgit] 2011-09-16 22:50 UTC
+	
+	
+	----
+	
+	Jonathan! --- you're back!
+	
+	-- [http://zhurnaly.com Zimm] 2011-09-17 15:47 UTC
+	
+	
+languages: 
+lastmajor: 6
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; "... there's the fresh air of liberty and the chance to be irresponsible in new dimensions"<br />&gt; I've recently retired and irresponsibility is a lot of fun :-)<br />&gt; -- [http://www.sturmsoft.com pompousgit] 2011-09-16 22:50 UTC<br />&gt; ----<br />&gt; Jonathan! --- you're back!<br />&gt; -- [http://zhurnaly.com Zimm] 2011-09-17 15:47 UTC</p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 6
+keep-ts: 1528057713

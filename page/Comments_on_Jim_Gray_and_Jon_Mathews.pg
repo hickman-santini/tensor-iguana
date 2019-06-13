@@ -1,0 +1,25 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3>Chaucer could have used a computer scientist to provide him with a spell checker. Boy, that guy's English was bad! He wouldn't have gotten out os second grade these days. Shows what happens when there isn't any universal publicke edukayshun to teeche kidz how too spel.</p><p>-- Ken S. 2009-12-21 19:16 UTC</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; === <strong class="changes">2 Comments</strong>. ===</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ===  <strong class="changes">1 Comment</strong>. ===</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; ----<br />&lt; //this page locked due to excessive wiki-spam attempts --- contact me to post here please (^_^)//<br />&lt; -- [http://zhurnaly.com  zz] 2010-02-15 17:46 UTC</p></div>
+ip: 138.88.114.76
+ts: 1327025078
+minor: 1
+host: pool-138-88-114-76.res.east.verizon.net
+username: Zimm
+revision: 13
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; === <strong class="changes">1 Comment</strong>. ===</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === <strong class="changes">2 Comments</strong>. ===</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; //this page locked due to excessive wiki-spam attempts --- contact me to post here please (^_^)//<br />&gt; -- [http://zhurnaly.com  zz] 2010-02-15 17:46 UTC</p></div>
+summary: unlock
+languages: 
+text: ===  1 Comment. ===
+	Chaucer could have used a computer scientist to provide him with a spell checker.  Boy, that guy's English was bad!  He wouldn't have gotten out os second grade these days.  Shows what happens when there isn't any universal publicke edukayshun to teeche kidz how too spel.
+	
+	-- Ken S. 2009-12-21 19:16 UTC
+	
+lastmajor: 12
+keep-ts: 1327025078

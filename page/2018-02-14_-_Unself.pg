@@ -1,0 +1,23 @@
+blocks: <h3>~6.0 mi @ ~12.8 min/mi</h3><p>"Less ego!" Dr Kristin suggests a remedy for excessive angst, bureaucratic strife, and countless other challenges. Dawn Patrol meanders through Pimmit Hills, glancing east at intervals to admire the sunrise that begins like a faint will-o-the-wisp and brightens into a tangerine conflagration on the horizon. A friendly Jennifer introduces herself as we wait for the crosswalk light to change. She's out for a few miles, her first run of 2018. <em>Happy Valentine's Day, Ma'am!</em></p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1121223848">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-03-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.0 mi @ ~12.8 min/mi
+	
+	"Less ego!" Dr Kristin suggests a remedy for excessive angst, bureaucratic strife, and countless other challenges. Dawn Patrol meanders through Pimmit Hills, glancing east at intervals to admire the sunrise that begins like a faint will-o-the-wisp and brightens into a tangerine conflagration on the horizon. A friendly Jennifer introduces herself as we wait for the crosswalk light to change. She's out for a few miles, her first run of 2018. //Happy Valentine's Day, Ma'am!//
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1121223848|trackfile]])// - //**^z**// - 2018-03-14
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.0 mi @ ~12.8 min/mi<br />&gt; "Less ego!" Dr Kristin suggests a remedy for excessive angst, bureaucratic strife, and countless other challenges. Dawn Patrol meanders through Pimmit Hills, glancing east at intervals to admire the sunrise that begins like a faint will-o-the-wisp and brightens into a tangerine conflagration on the horizon. A friendly Jennifer introduces herself as we wait for the crosswalk light to change. She's out for a few miles, her first run of 2018. //Happy Valentine's Day, Ma'am!//<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1121223848|trackfile]])// - //**^z**// - 2018-03-14</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

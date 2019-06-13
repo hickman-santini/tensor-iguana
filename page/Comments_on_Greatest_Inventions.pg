@@ -1,0 +1,45 @@
+blocks: <h3>2 Comments.</h3><p>Thank you very much!</p><p>Smolin's remarks made me interested in seeing if I could learn something about category theory, and by accidentally searching YouTube instead of Google or Wikipedia I stumbled over <a class="url http outside" href="http://youtu.be/ZKmodCApZwk">the beginning of a lecture series by Steve Awodey from the University of Oregon for computer scientists on the subject.</a> I think the main thing I learned was that I don't have the background to understand it, sadly (I would love to be able to produce <a class="url http outside" href="http://en.wikipedia.org/wiki/Abstract_nonsense">general abstract nonsense</a>), but I understood enough to be amused by this, after the 56 minute mark: in the course of discussing the philosophical unease that one might feel about categories of categories, Awodey wrote:<br /></p><blockquote><p>Fix some foundations<br /></p></blockquote><p>on the whiteboard, and a student asked him to write it larger. He said, "Here", extended the line to read:<br /></p><blockquote><p>`g{Fix some foundations}<br /></p></blockquote><p>and told the class, "...make this large...."</p><p>-- <a class="url http outside" href="http://packbat.net/w/">Packbat</a> 2014-08-21 17:36 UTC</p><h4>1 person liked this</h4><hr /><p>see <strong><a class="url http outside" href="http://math.mit.edu/~dspivak/CT4S.pdf">Category Theory for Scientists</a></strong> by David Spivak, page 12:</p><blockquote><p>I also want you to recognize that the value of mathematics is not generally obvious at first. A good student learning a good subject with a good teacher will see something compelling almost immediately, but may not see how it will be useful in real life. This will come later. I hope you will work hard to understand even without yet knowing what its actual value in your life and research will be. Like a student of soccer is encouraged to spend hours juggling the ball when he or she could be practicing penalty shots, it is important to gain facility with the materials you will be using. Doing exercises is imperative for learning mathematics.<br /></p></blockquote><p>-- <a class="url http outside" href="http://zhurnaly.com">z</a> 2016-02-02 13:37 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.1
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	Thank you very much!
+	
+	Smolin's remarks made me interested in seeing if I could learn something about category theory, and by accidentally searching YouTube instead of Google or Wikipedia I stumbled over [http://youtu.be/ZKmodCApZwk the beginning of a lecture series by Steve Awodey from the University of Oregon for computer scientists on the subject.] I think the main thing I learned was that I don't have the background to understand it, sadly (I would love to be able to produce [http://en.wikipedia.org/wiki/Abstract_nonsense general abstract nonsense]), but I understood enough to be amused by this, after the 56 minute mark: in the course of discussing the philosophical unease that one might feel about categories of categories, Awodey wrote:
+	"""
+	Fix some foundations
+	"""
+	on the whiteboard, and a student asked him to write it larger. He said, "Here", extended the line to read:
+	"""
+	`g{Fix some foundations}
+	"""
+	and told the class, "...make this large...."
+	
+	-- [http://packbat.net/w/ Packbat] 2014-08-21 17:36 UTC
+	
+	
+	====1 person liked this====
+	
+	----
+	
+	see **[[http://math.mit.edu/~dspivak/CT4S.pdf|Category Theory for Scientists]]** by David Spivak, page 12:
+	
+	"""
+	I also want you to recognize that the value of mathematics is not generally obvious at first. A good student learning a good subject with a good teacher will see something compelling almost immediately, but may not see how it will be useful in real life. This will come later. I hope you will work hard to understand even without yet knowing what its actual value in your life and research will be. Like a student of soccer is encouraged to spend hours juggling the ball when he or she could be practicing penalty shots, it is important to gain facility with the materials you will be using. Doing exercises is imperative for learning mathematics.
+	"""
+	
+	-- [http://zhurnaly.com z] 2016-02-02 13:37 UTC
+	
+	
+languages: 
+lastmajor: 6
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; Thank you very much!<br />&gt; Smolin's remarks made me interested in seeing if I could learn something about category theory, and by accidentally searching YouTube instead of Google or Wikipedia I stumbled over [http://youtu.be/ZKmodCApZwk the beginning of a lecture series by Steve Awodey from the University of Oregon for computer scientists on the subject.] I think the main thing I learned was that I don't have the background to understand it, sadly (I would love to be able to produce [http://en.wikipedia.org/wiki/Abstract_nonsense general abstract nonsense]), but I understood enough to be amused by this, after the 56 minute mark: in the course of discussing the philosophical unease that one might feel about categories of categories, Awodey wrote:<br />&gt; """<br />&gt; Fix some foundations<br />&gt; """<br />&gt; on the whiteboard, and a student asked him to write it larger. He said, "Here", extended the line to read:<br />&gt; """<br />&gt; `g{Fix some foundations}<br />&gt; """<br />&gt; and told the class, "...make this large...."<br />&gt; -- [http://packbat.net/w/ Packbat] 2014-08-21 17:36 UTC<br />&gt; ====1 person liked this====<br />&gt; ----<br />&gt; see **[[http://math.mit.edu/~dspivak/CT4S.pdf|Category Theory for Scientists]]** by David Spivak, page 12:<br />&gt; """<br />&gt; I also want you to recognize that the value of mathematics is not generally obvious at first. A good student learning a good subject with a good teacher will see something compelling almost immediately, but may not see how it will be useful in real life. This will come later. I hope you will work hard to understand even without yet knowing what its actual value in your life and research will be. Like a student of soccer is encouraged to spend hours juggling the ball when he or she could be practicing penalty shots, it is important to gain facility with the materials you will be using. Doing exercises is imperative for learning mathematics.<br />&gt; """<br />&gt; -- [http://zhurnaly.com z] 2016-02-02 13:37 UTC</p></div>
+flags: 0
+ts: 1528057695
+minor: 
+username: z
+host: 166.137.240.115
+revision: 6
+keep-ts: 1528057695

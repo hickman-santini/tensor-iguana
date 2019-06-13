@@ -1,0 +1,21 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3></p><p>Just be glad he's not saying "one over five to ten past quarter to half... seven".</p><p>Maybe it's an equal opportunities thing. Six-twenty-one for the academic set, and twenty-one-after-six for the masses.</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ===1 Comment<strong class="changes">.===</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === 1 Comment<strong class="changes">. ===</strong></p></div>
+ip: 138.88.113.83
+ts: 1310937804
+minor: 1
+host: pool-138-88-113-83.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: fix fmt of comment header
+languages: 
+text: === 1 Comment. ===
+	
+	Just be glad he's not saying "one over five to ten past quarter to half... seven".
+	
+	Maybe it's an equal opportunities thing. Six-twenty-one for the academic set, and twenty-one-after-six for the masses.
+	
+keep-ts: 1310937804

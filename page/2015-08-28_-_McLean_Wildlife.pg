@@ -1,0 +1,23 @@
+blocks: <h3>~9.3 miles @ ~13.3 min/mi</h3><p>"4 Deer, 7 Rabbits!" we text-taunt Nathan as he skips the Dawn Patrol to pack for his western odyssey. Kerry's day is miraculously clear of meetings; to celebrate, she picks Benjamin St. Morning fog hangs low over meadows. We share stories of how the elder son predicted the birth of his baby sister and marvel at the glorious cool sunrise. Kristin resists sprinklers and the temptation to extend the run into double-digit mileage. A lecture <em>(by Guess Whom?)</em> on critical temperature and pressure, eutectics, and the Triple Point is mercifully brief. Kerry treats everybody to iced coffee &mdash; yay!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/644199087">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-09-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~9.3 miles @ ~13.3 min/mi
+	
+	"4 Deer, 7 Rabbits!" we text-taunt Nathan as he skips the Dawn Patrol to pack for his western odyssey. Kerry's day is miraculously clear of meetings; to celebrate, she picks Benjamin St. Morning fog hangs low over meadows. We share stories of how the elder son predicted the birth of his baby sister and marvel at the glorious cool sunrise. Kristin resists sprinklers and the temptation to extend the run into double-digit mileage. A lecture //(by Guess Whom?)// on critical temperature and pressure, eutectics, and the Triple Point is mercifully brief. Kerry treats everybody to iced coffee &mdash; yay!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/644199087|trackfile]])// - //**^z**// - 2015-09-13
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.3 miles @ ~13.3 min/mi<br />&gt; "4 Deer, 7 Rabbits!" we text-taunt Nathan as he skips the Dawn Patrol to pack for his western odyssey. Kerry's day is miraculously clear of meetings; to celebrate, she picks Benjamin St. Morning fog hangs low over meadows. We share stories of how the elder son predicted the birth of his baby sister and marvel at the glorious cool sunrise. Kristin resists sprinklers and the temptation to extend the run into double-digit mileage. A lecture //(by Guess Whom?)// on critical temperature and pressure, eutectics, and the Triple Point is mercifully brief. Kerry treats everybody to iced coffee &amp;mdash; yay!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/644199087|trackfile]])// - //**^z**// - 2015-09-13</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

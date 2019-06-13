@@ -1,0 +1,23 @@
+blocks: <h3>~5.9 miles @ ~11.4 min/mi</h3><p>Pimmit Hills coney count 6+ &mdash; after a dawn warm-up loop with Kristin, join Amber, David, and Kerry for a brisk trot including off-road detour on the connector to Pimmit Run Trail. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/357479129">RunKeeper</a> shows the last two miles as the fastest, ~10.5 min/mi pace.</p><p><em><strong>^z</strong></em> - 2014-06-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 107.214.80.107
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.9 miles @ ~11.4 min/mi
+	
+	Pimmit Hills coney count 6+ &mdash; after a dawn warm-up loop with Kristin, join Amber, David, and Kerry for a brisk trot including off-road detour on the connector to Pimmit Run Trail. [[http://runkeeper.com/user/zhurnaly/activity/357479129|RunKeeper]] shows the last two miles as the fastest, ~10.5 min/mi pace.
+	
+	//**^z**// - 2014-06-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.9 miles @ ~11.4 min/mi<br />&gt; Pimmit Hills coney count 6+ &amp;mdash; after a dawn warm-up loop with Kristin, join Amber, David, and Kerry for a brisk trot including off-road detour on the connector to Pimmit Run Trail. [[http://runkeeper.com/user/zhurnaly/activity/357479129|RunKeeper]] shows the last two miles as the fastest, ~10.5 min/mi pace.<br />&gt; //**^z**// - 2014-06-15</strong></p></div>
+flags: 0
+ts: 1528057695
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057695

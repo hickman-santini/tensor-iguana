@@ -1,0 +1,28 @@
+flags: 0
+blocks: <h3>~4.9 mi @ ~11.2 min/mi</h3><p>"Mark, with you it's <strong>always</strong> 'What you See is What you Get'!" says Aaron, a senior manager, upon spying somebody wearing running clothes to work today.</p><p>"Thank you, Sir!" &mdash; the right reply to feedback. This morning's Dawn Patrol checks out Pimmit Hills and finds no signs of civil disorder or alien occupation. K-Rex chooses the course and pushes the pace, between Roadkill's post-flu coughing fits. Birds chirp from flowering trees. Cars idle in driveways. Gray skies brighten to the aroma of breakfast cooking.</p><p>Then commences a series of unfortunate events. Discover that the bag with office clothes and shoes was forgotten at home. <em>Oops!</em> Ponder driving back and forth through morning rush hour traffic. Place car keys carefully by towel on the front seat, close that door before opening another, and find all doors now are locked. <em>Oops!</em></p><p>And it's a beautiful day &mdash; no worries! Call the auto club, and while waiting go into the locker room, shower, dry off with paper towels, and put jogging gear back on. Meet the locksmith and get back into the car. Work a normal day, and laugh with kind colleagues. Give thanks for the wonderful world we live in. <em><strong>All is well ...</strong></em></p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1145816432">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-05-02</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 mi @ ~11.2 min/mi<br />&gt; "Mark, with you it's **always** 'What you See is What you Get'!" says Aaron, a senior manager, upon spying somebody wearing running clothes to work today.<br />&gt; "Thank you, Sir!" &amp;mdash; the right reply to feedback. This morning's Dawn Patrol checks out Pimmit Hills and finds no signs of civil disorder or alien occupation. K-Rex chooses the course and pushes the pace, between Roadkill's post-flu coughing fits. Birds chirp from flowering trees. Cars idle in driveways. Gray skies brighten to the aroma of breakfast cooking.<br />&gt; Then commences a series of unfortunate events. Discover that the bag with office clothes and shoes was forgotten at home. //Oops!// Ponder driving back and forth through morning rush hour traffic. Place car keys carefully by towel on the front seat, close that door before opening another, and find all doors now are locked. //Oops!//<br />&gt; And it's a beautiful day &amp;mdash; no worries! Call the auto club, and while waiting go into the locker room, shower, dry off with paper towels, and put jogging gear back on. Meet the locksmith and get back into the car. Work a normal day, and laugh with kind colleagues. Give thanks for the wonderful world we live in. //**All is well ...**//<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1145816432|trackfile]])// - //**^z**// - 2018-05-02</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057710
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 mi @ ~11.2 min/mi
+	
+	"Mark, with you it's **always** 'What you See is What you Get'!" says Aaron, a senior manager, upon spying somebody wearing running clothes to work today.
+	
+	"Thank you, Sir!" &mdash; the right reply to feedback. This morning's Dawn Patrol checks out Pimmit Hills and finds no signs of civil disorder or alien occupation. K-Rex chooses the course and pushes the pace, between Roadkill's post-flu coughing fits. Birds chirp from flowering trees. Cars idle in driveways. Gray skies brighten to the aroma of breakfast cooking.
+	
+	Then commences a series of unfortunate events. Discover that the bag with office clothes and shoes was forgotten at home. //Oops!// Ponder driving back and forth through morning rush hour traffic. Place car keys carefully by towel on the front seat, close that door before opening another, and find all doors now are locked. //Oops!//
+	
+	And it's a beautiful day &mdash; no worries! Call the auto club, and while waiting go into the locker room, shower, dry off with paper towels, and put jogging gear back on. Meet the locksmith and get back into the car. Work a normal day, and laugh with kind colleagues. Give thanks for the wonderful world we live in. //**All is well ...**//
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1145816432|trackfile]])// - //**^z**// - 2018-05-02
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057710

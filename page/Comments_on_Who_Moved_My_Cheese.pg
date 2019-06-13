@@ -1,0 +1,30 @@
+flags: 0
+blocks: <p><h3>2 Comments.</h3>This post made me laugh out loud for a good five minutes at work - nice Mark! "Good job!"</p><p>-- Caren 2010-08-17 16:12 UTC</p><hr /><p>Tnx, Caren! --- for some reason <em><strong>my</strong></em> boss really laughed at this review too  ...(^_^) ... ^z</p><p>-- <a class="url http outside" href="http://zhurnaly.com">zz</a> 2010-08-18 00:47 UTC</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; === <strong class="changes">1 Comment</strong>. ===</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === <strong class="changes">2 Comments</strong>. ===</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; Tnx, Caren! --- for some reason //**my**// boss really laughed at this review too  ...(^_^) ... ^z<br />&gt; -- [http://zhurnaly.com zz] 2010-08-18 00:47 UTC</p></div>
+ip: 141.156.145.155
+ts: 1282092446
+minor: 
+host: pool-141-156-145-155.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 1
+summary: Tnx, Caren! --- for some reason //**my**// boss really laughed at this review too  ...(^_^) ... ^z
+languages: 
+text: === 2 Comments. ===
+	This post made me laugh out loud for a good five minutes at work - nice Mark! "Good job!"
+	
+	-- Caren 2010-08-17 16:12 UTC
+	
+	
+	----
+	
+	Tnx, Caren! --- for some reason //**my**// boss really laughed at this review too  ...(^_^) ... ^z
+	
+	-- [http://zhurnaly.com zz] 2010-08-18 00:47 UTC
+	
+	
+lastmajor: 2
+keep-ts: 1282092446

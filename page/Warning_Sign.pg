@@ -1,0 +1,32 @@
+flags: 0
+blocks: <p>The other day I saw what looked like a poem on a big sign at the entrance to a high-security facility:</p><table class="user"><tr><td align="right"><strong>NOTICE</strong><p><span style="font-variant: small-caps"> By entering here<br /> all Persons and<br /> Personal property,<br /> including vehicles,<br /> are subject<br /> to inspection<br /> at any time.<br /> Your entry<br /> signifies consent. </span></p></td></tr></table><p><em><strong>^z</strong></em> - 2011-03-10</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;   Personal property</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;   Personal property<strong class="changes">,</strong></p></div>
+ip: 138.88.177.215
+ts: 1299749988
+minor: 1
+host: pool-138-88-177-215.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: typo fix
+languages: 
+text: The other day I saw what looked like a poem on a big sign at the entrance to a high-security facility:
+	
+	| **NOTICE**
+	
+	%% By entering here
+	  all Persons and
+	  Personal property,
+	  including vehicles,
+	  are subject
+	  to inspection
+	  at any time.
+	  Your entry
+	  signifies consent. %% |
+	
+	//**^z**// - 2011-03-10
+	
+lastmajor: 1
+keep-ts: 1299749988

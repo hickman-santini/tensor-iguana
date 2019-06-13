@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~6.5 mi @ ~11.2 min/mi</h3><p>"Pick up your pace!" Joe, a Dear Boss of 15 years ago, rolls down the car window as he drives by and shouts words of encouragement to Dawn Patrol. We climb a hill and admire an eastern sky, glistening pinks above clouds, somber blues below. At McLean High School the gate to the track is closed. Feet lead through quiet neighborhoods, past tulips, cherry trees, hyacinths. Text messages bring news of traffic and family: Mom has fallen and broken a hip. In the condo complex a sign warns, "Speed Limit 9 1/2". K-Rex spies a red fox.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1152253299">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-05-15</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.5 mi @ ~11.2 min/mi<br />&gt; "Pick up your pace!" Joe, a Dear Boss of 15 years ago, rolls down the car window as he drives by and shouts words of encouragement to Dawn Patrol. We climb a hill and admire an eastern sky, glistening pinks above clouds, somber blues below. At McLean High School the gate to the track is closed. Feet lead through quiet neighborhoods, past tulips, cherry trees, hyacinths. Text messages bring news of traffic and family: Mom has fallen and broken a hip. In the condo complex a sign warns, "Speed Limit 9 1/2". K-Rex spies a red fox.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1152253299|trackfile]])// - //**^z**// - 2018-05-15</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057698
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.5 mi @ ~11.2 min/mi
+	
+	"Pick up your pace!" Joe, a Dear Boss of 15 years ago, rolls down the car window as he drives by and shouts words of encouragement to Dawn Patrol. We climb a hill and admire an eastern sky, glistening pinks above clouds, somber blues below. At McLean High School the gate to the track is closed. Feet lead through quiet neighborhoods, past tulips, cherry trees, hyacinths. Text messages bring news of traffic and family: Mom has fallen and broken a hip. In the condo complex a sign warns, "Speed Limit 9 1/2". K-Rex spies a red fox.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1152253299|trackfile]])// - //**^z**// - 2018-05-15
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057698

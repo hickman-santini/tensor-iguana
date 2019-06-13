@@ -1,0 +1,23 @@
+blocks: <h3>~8.0 miles @ ~12.0 min/mi</h3><p>'Gymnastics moms are so <em><strong>judgy</strong>!</em>" says Cait, describing her five-year-old niece's class yesterday. Kristin leads us through Tysons Corner at a brisk pace on a cool morning. Since Kerry is out of town we consider diverting to TP her home, but decide that with only two squares of paper between us the effect might be aesthetically lacking. A crowd of kids await their bus on the first day of school and cheer us as we pass.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1044382339">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-09-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.38
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.0 miles @ ~12.0 min/mi
+	
+	'Gymnastics moms are so //**judgy**!//" says Cait, describing her five-year-old niece's class yesterday. Kristin leads us through Tysons Corner at a brisk pace on a cool morning. Since Kerry is out of town we consider diverting to TP her home, but decide that with only two squares of paper between us the effect might be aesthetically lacking. A crowd of kids await their bus on the first day of school and cheer us as we pass.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1044382339|trackfile]])// - //**^z**// - 2017-09-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.0 miles @ ~12.0 min/mi<br />&gt; 'Gymnastics moms are so //**judgy**!//" says Cait, describing her five-year-old niece's class yesterday. Kristin leads us through Tysons Corner at a brisk pace on a cool morning. Since Kerry is out of town we consider diverting to TP her home, but decide that with only two squares of paper between us the effect might be aesthetically lacking. A crowd of kids await their bus on the first day of school and cheer us as we pass.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1044382339|trackfile]])// - //**^z**// - 2017-09-24</strong></p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057678

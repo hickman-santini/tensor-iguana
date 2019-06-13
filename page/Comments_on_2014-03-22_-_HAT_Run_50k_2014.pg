@@ -1,0 +1,37 @@
+blocks: <h3>1 Comment.</h3><p>This was my first year running the HAT, and I was thoroughly delighted by it. The course was beautiful and variegated, and those french fries . . . <em>those french fries!</em></p><p>I don't think I'd call the hills über-steep, however, although for sure there were a few that did not lack for delta-z.</p><p>Perhaps we need a taxonomy of steepness for rating hills:</p><p>Steep<br />Dai-steep<br />Mega-steep<br />Maha-steep<br />Über-steep<br />Maka-steep<br />Ultra-steep<br />Taikyoku-steep<br />Barkley</p><p>-- <a class="url http outside" href="http://fiatjustitia.net">KipCondor</a> 2014-05-05 21:42 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 66.87.80.66
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	This was my first year running the HAT, and I was thoroughly delighted by it. The course was beautiful and variegated, and those french fries . . . //those french fries!//
+	
+	I don't think I'd call the hills über-steep, however, although for sure there were a few that did not lack for delta-z.
+	
+	Perhaps we need a taxonomy of steepness for rating hills:
+	
+	Steep
+	Dai-steep
+	Mega-steep
+	Maha-steep
+	Über-steep
+	Maka-steep
+	Ultra-steep
+	Taikyoku-steep
+	Barkley
+	
+	-- [http://fiatjustitia.net KipCondor] 2014-05-05 21:42 UTC
+	
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; This was my first year running the HAT, and I was thoroughly delighted by it. The course was beautiful and variegated, and those french fries . . . //those french fries!//<br />&gt; I don't think I'd call the hills über-steep, however, although for sure there were a few that did not lack for delta-z.<br />&gt; Perhaps we need a taxonomy of steepness for rating hills:<br />&gt; Steep<br />&gt; Dai-steep<br />&gt; Mega-steep<br />&gt; Maha-steep<br />&gt; Über-steep<br />&gt; Maka-steep<br />&gt; Ultra-steep<br />&gt; Taikyoku-steep<br />&gt; Barkley<br />&gt; -- [http://fiatjustitia.net KipCondor] 2014-05-05 21:42 UTC</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057712

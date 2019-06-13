@@ -1,0 +1,23 @@
+blocks: <h3>~7.2 miles @ ~12.1 min/mi</h3><p>"Some days we went hours without seeing anybody!" Kristin notes the contrast between all the joggers out this warm McLean morning and how things were during recent winter months, when only the few, the proud, the foolish ventured out. The sun rises much earlier now, until Daylight Saving Time begins next week. Tiara Chapel joins us to tour the neighborhood, recovering from her recent Nashville half-marathon. We circle back and she passes the torch to Beth, who leads us on a Pimmit Hills loop. Conversation includes dogs and their sometimes-strange names. Kerry's daughter on the Langley HS girls basketball team will be at the Virginia State Finals tonight &mdash; <em>go Lady Saxons!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/746974467">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-03-28</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.184
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.2 miles @ ~12.1 min/mi
+	
+	"Some days we went hours without seeing anybody!" Kristin notes the contrast between all the joggers out this warm McLean morning and how things were during recent winter months, when only the few, the proud, the foolish ventured out. The sun rises much earlier now, until Daylight Saving Time begins next week. Tiara Chapel joins us to tour the neighborhood, recovering from her recent Nashville half-marathon. We circle back and she passes the torch to Beth, who leads us on a Pimmit Hills loop. Conversation includes dogs and their sometimes-strange names. Kerry's daughter on the Langley HS girls basketball team will be at the Virginia State Finals tonight &mdash; //go Lady Saxons!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/746974467|trackfile]])// - //**^z**// - 2016-03-28
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.2 miles @ ~12.1 min/mi<br />&gt; "Some days we went hours without seeing anybody!" Kristin notes the contrast between all the joggers out this warm McLean morning and how things were during recent winter months, when only the few, the proud, the foolish ventured out. The sun rises much earlier now, until Daylight Saving Time begins next week. Tiara Chapel joins us to tour the neighborhood, recovering from her recent Nashville half-marathon. We circle back and she passes the torch to Beth, who leads us on a Pimmit Hills loop. Conversation includes dogs and their sometimes-strange names. Kerry's daughter on the Langley HS girls basketball team will be at the Virginia State Finals tonight &amp;mdash; //go Lady Saxons!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/746974467|trackfile]])// - //**^z**// - 2016-03-28</strong></p></div>
+flags: 0
+ts: 1528057705
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057705

@@ -1,0 +1,25 @@
+blocks: <h3>~4.4 mi @ ~9.3 min/mi</h3><p>"Would you rather qualify for Boston or be an Ironman?" A rabbit sprints across the Bethesda Trolley Trail in front of Caitlin, caught in headlamp beam. Omen, or portent? The Dawn Patrol Duo dashes around the NIH campus today, dodging sleepy pedestrians doing a zombie march into the Metro station.</p><p>"It doesn't get easier - you just get faster!" Yes, and downhill helps, as does reaching major road crossings just as the light turns green. Cait's quick warning precludes a runner-cyclist collision in the gloom. Mile splits by GPS descend: 10.3 + 9.6 + 9.2 + 8.6 and a final fraction at 7.8 min/mi pace. Yow!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1099488351">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-01-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.144
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.4 mi @ ~9.3 min/mi
+	
+	"Would you rather qualify for Boston or be an Ironman?" A rabbit sprints across the Bethesda Trolley Trail in front of Caitlin, caught in headlamp beam. Omen, or portent? The Dawn Patrol Duo dashes around the NIH campus today, dodging sleepy pedestrians doing a zombie march into the Metro station.
+	
+	"It doesn't get easier - you just get faster!" Yes, and downhill helps, as does reaching major road crossings just as the light turns green. Cait's quick warning precludes a runner-cyclist collision in the gloom. Mile splits by GPS descend: 10.3 + 9.6 + 9.2 + 8.6 and a final fraction at 7.8 min/mi pace. Yow!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1099488351|trackfile]])// - //**^z**// - 2018-01-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.4 mi @ ~9.3 min/mi<br />&gt; "Would you rather qualify for Boston or be an Ironman?" A rabbit sprints across the Bethesda Trolley Trail in front of Caitlin, caught in headlamp beam. Omen, or portent? The Dawn Patrol Duo dashes around the NIH campus today, dodging sleepy pedestrians doing a zombie march into the Metro station.<br />&gt; "It doesn't get easier - you just get faster!" Yes, and downhill helps, as does reaching major road crossings just as the light turns green. Cait's quick warning precludes a runner-cyclist collision in the gloom. Mile splits by GPS descend: 10.3 + 9.6 + 9.2 + 8.6 and a final fraction at 7.8 min/mi pace. Yow!<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1099488351|trackfile]])// - //**^z**// - 2018-01-16</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

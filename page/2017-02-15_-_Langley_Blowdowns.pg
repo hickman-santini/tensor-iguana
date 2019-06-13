@@ -1,0 +1,25 @@
+blocks: <h3>~7.4 miles @ ~12.9 min/mi</h3><p>"Fox!" Cait spots the creature hunkered down in the brush by Dead Run, eyes glowing orange in our headlamps. Half a block later it's Kristin's turn: "Rabbit!" The big bunny dashes across a front lawn. Hope it survives!</p><p>The Dawn Patrol strides over sticks and twigs blown down by recent high winds. Broken trees almost block the path in a couple of location; bands of yellow "CAUTION" tape stretch across the asphalt. We ramble into Langley and text-message a GPS push-pin waypoint to Dr Kerry when we pass in front of her home. "You should have come in for coffee!" she replies.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/934143198">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.103
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.4 miles @ ~12.9 min/mi
+	
+	"Fox!" Cait spots the creature hunkered down in the brush by Dead Run, eyes glowing orange in our headlamps. Half a block later it's Kristin's turn: "Rabbit!" The big bunny dashes across a front lawn. Hope it survives!
+	
+	The Dawn Patrol strides over sticks and twigs blown down by recent high winds. Broken trees almost block the path in a couple of location; bands of yellow "CAUTION" tape stretch across the asphalt. We ramble into Langley and text-message a GPS push-pin waypoint to Dr Kerry when we pass in front of her home. "You should have come in for coffee!" she replies.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/934143198|trackfile]])// - //**^z**// - 2017-03-18
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.4 miles @ ~12.9 min/mi<br />&gt; "Fox!" Cait spots the creature hunkered down in the brush by Dead Run, eyes glowing orange in our headlamps. Half a block later it's Kristin's turn: "Rabbit!" The big bunny dashes across a front lawn. Hope it survives!<br />&gt; The Dawn Patrol strides over sticks and twigs blown down by recent high winds. Broken trees almost block the path in a couple of location; bands of yellow "CAUTION" tape stretch across the asphalt. We ramble into Langley and text-message a GPS push-pin waypoint to Dr Kerry when we pass in front of her home. "You should have come in for coffee!" she replies.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/934143198|trackfile]])// - //**^z**// - 2017-03-18</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

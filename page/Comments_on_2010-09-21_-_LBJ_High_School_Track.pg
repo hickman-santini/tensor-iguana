@@ -1,0 +1,23 @@
+blocks: <h3>1 Comment.</h3><p>Very funny Mark! Old Man tries to teach America's Youth. Love it!</p><p>-- Caren Jew 2010-10-01 16:46 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.30.123
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	
+	Very funny Mark! Old Man tries to teach America's Youth.  Love it!
+	
+	-- Caren Jew 2010-10-01 16:46 UTC
+	
+	
+languages: 
+lastmajor: 23
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; Very funny Mark! Old Man tries to teach America's Youth.  Love it!<br />&gt; -- Caren Jew 2010-10-01 16:46 UTC</p></div>
+flags: 0
+ts: 1528057676
+minor: 
+username: z
+host: 166.137.240.115
+revision: 23
+keep-ts: 1528057676

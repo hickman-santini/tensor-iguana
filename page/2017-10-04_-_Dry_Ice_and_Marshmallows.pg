@@ -1,0 +1,25 @@
+blocks: <h3>~4.9 miles @ ~15.4 min/mi</h3><p>"The ground here is just too slippery!" Caitlin declares. Acorns and walnuts decorate the pathways and make for treacherous footing, so the Dawn Patrol extends walk breaks and watches the eastern sky brighten through blushing pink into nectarine orange. Kerry describes weekend plans for an epic odyssey, a solo drive to join her sister in Asheville NC for a top-level equestrian event. Deer amble across Windy Hill Road in the gloom.</p><p>"Dry ice and marshmallows!" Kristin tells of a "Mad Scientist" kids' educational Halloween show. Cars zip by as we step as far out of the way as we can along a sidewalkless commuter route. One honks, long and loud, after it has passed us. A school bus backs into a dead-end side street to safely reverse course.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1064730282">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-11-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.131
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 miles @ ~15.4 min/mi
+	
+	"The ground here is just too slippery!" Caitlin declares. Acorns and walnuts decorate the pathways and make for treacherous footing, so the Dawn Patrol extends walk breaks and watches the eastern sky brighten through blushing pink into nectarine orange. Kerry describes weekend plans for an epic odyssey, a solo drive to join her sister in Asheville NC for a top-level equestrian event. Deer amble across Windy Hill Road in the gloom.
+	
+	"Dry ice and marshmallows!" Kristin tells of a "Mad Scientist" kids' educational Halloween show. Cars zip by as we step as far out of the way as we can along a sidewalkless commuter route. One honks, long and loud, after it has passed us. A school bus backs into a dead-end side street to safely reverse course.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1064730282|trackfile]])// - //**^z**// - 2017-11-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 miles @ ~15.4 min/mi<br />&gt; "The ground here is just too slippery!" Caitlin declares. Acorns and walnuts decorate the pathways and make for treacherous footing, so the Dawn Patrol extends walk breaks and watches the eastern sky brighten through blushing pink into nectarine orange. Kerry describes weekend plans for an epic odyssey, a solo drive to join her sister in Asheville NC for a top-level equestrian event. Deer amble across Windy Hill Road in the gloom.<br />&gt; "Dry ice and marshmallows!" Kristin tells of a "Mad Scientist" kids' educational Halloween show. Cars zip by as we step as far out of the way as we can along a sidewalkless commuter route. One honks, long and loud, after it has passed us. A school bus backs into a dead-end side street to safely reverse course.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1064730282|trackfile]])// - //**^z**// - 2017-11-02</strong></p></div>
+flags: 0
+ts: 1528057707
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057707

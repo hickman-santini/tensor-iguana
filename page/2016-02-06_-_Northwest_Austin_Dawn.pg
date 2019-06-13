@@ -1,0 +1,27 @@
+blocks: <h3>~11.3 miles @ ~13.0 min/mi</h3><p>"The New Moon in the Old Moon's arms," or maybe vice versa: Venus glistens a few degrees away from an earthshine-ashy lunar disc. Sunrise begins near Riata Park, where three dozen ducks and a single pair of alabaster swans paddle. A great blue heron, six-foot wingspan, takes flight from a thicket on the edge of Yett Creek Park. A side path leads across the railroad tracks where beige hopper cars stretch north to the vanishing point.</p><p>From the corner of Ganymede and Pluto neighborhood streets lead south to another rail line. A passing cyclist denies knowledge of any trails through the woods, but then points to a open gate and says, "Try it!" Two dome tents appear to be single-person homeless shelters. Bright graffiti decorates concrete abutments along Big Walnut Creek in Balcones District Park.</p><p>Back on the sidewalks meander up the rocky trail in Great Hills Park. Get lost briefly, tangle feet in vines and almost fall onto the limestone. Sprint along roads back to the start &mdash; ~11.3 miles @ ~13 min/mi including photo ops. <em>(Ignore GPS trackfile glitch at end that adds a few infinite-speed miles.)</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/730396059">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-02-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.19
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~11.3 miles @ ~13.0 min/mi
+	
+	"The New Moon in the Old Moon's arms," or maybe vice versa: Venus glistens a few degrees away from an earthshine-ashy lunar disc. Sunrise begins near Riata Park, where three dozen ducks and a single pair of alabaster swans paddle. A great blue heron, six-foot wingspan, takes flight from a thicket on the edge of Yett Creek Park. A side path leads across the railroad tracks where beige hopper cars stretch north to the vanishing point.
+	
+	From the corner of Ganymede and Pluto neighborhood streets lead south to another rail line. A passing cyclist denies knowledge of any trails through the woods, but then points to a open gate and says, "Try it!" Two dome tents appear to be single-person homeless shelters. Bright graffiti decorates concrete abutments along Big Walnut Creek in Balcones District Park.
+	
+	Back on the sidewalks meander up the rocky trail in Great Hills Park. Get lost briefly, tangle feet in vines and almost fall onto the limestone. Sprint along roads back to the start &mdash; ~11.3 miles @ ~13 min/mi including photo ops. //(Ignore GPS trackfile glitch at end that adds a few infinite-speed miles.)//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/730396059|trackfile]])// - //**^z**// - 2016-02-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~11.3 miles @ ~13.0 min/mi<br />&gt; "The New Moon in the Old Moon's arms," or maybe vice versa: Venus glistens a few degrees away from an earthshine-ashy lunar disc. Sunrise begins near Riata Park, where three dozen ducks and a single pair of alabaster swans paddle. A great blue heron, six-foot wingspan, takes flight from a thicket on the edge of Yett Creek Park. A side path leads across the railroad tracks where beige hopper cars stretch north to the vanishing point.<br />&gt; From the corner of Ganymede and Pluto neighborhood streets lead south to another rail line. A passing cyclist denies knowledge of any trails through the woods, but then points to a open gate and says, "Try it!" Two dome tents appear to be single-person homeless shelters. Bright graffiti decorates concrete abutments along Big Walnut Creek in Balcones District Park.<br />&gt; Back on the sidewalks meander up the rocky trail in Great Hills Park. Get lost briefly, tangle feet in vines and almost fall onto the limestone. Sprint along roads back to the start &amp;mdash; ~11.3 miles @ ~13 min/mi including photo ops. //(Ignore GPS trackfile glitch at end that adds a few infinite-speed miles.)//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/730396059|trackfile]])// - //**^z**// - 2016-02-17</strong></p></div>
+flags: 0
+ts: 1528057704
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057704

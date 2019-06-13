@@ -1,0 +1,26 @@
+flags: 0
+blocks: <p><h3>~15.5 miles @ ~12.7 min/mi</h3></p><p>"Up your mileage!" That's the runner's answer to any ailment, so with my sore knee and horrid cold/cough I meet Gayatri Datta at 7am Saturday in downtown Bethesda to run a loop along the Capital Crescent Trail and Rock Creek. Within the first half mile we witness tragedy: a big bag of donuts lies in shreds, torn open on the ground, scrumptious contents strewn over the bikepath. "I should snag one of those!" I say, then amend the resolution to, "Well, maybe when we're done." Soon thereafter I spy an unopened Clif Shot energy gel and console myself by picking it up.</p><p>Outbound on our planned 20+ mile trek I soon get tired. At Fletchers Boathouse we visit the latrines and I ask if we can turn around soon, to make it a 10 mile day. Gayatri persuades me to go on to the Thompson Boat Center for 15. My GPS tracks closely with her unit until we pass through the Dalecarlia Tunnel, at which point the numbers mysteriously diverge by a few tenths of a mile. They reconverge during our return trip. Weird!</p><p>And the donuts? On the home stretch when we pass them, alas, the tragic scene is compounded: they've been run over by bicycles, trodden upon, and probably dog-licked. May they rest in peace.</p><p><em><strong>^z</strong></em> - 2010-03-27</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">==</strong> ~15.5 miles @ ~12.7 min/mi</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">===</strong> ~15.5 miles @ ~12.7 min/mi</p></div>
+ip: 138.88.114.105
+ts: 1269691715
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 3
+diff-major: 
+summary: tweak 2
+languages: 
+text: === ~15.5 miles @ ~12.7 min/mi
+	
+	"Up your mileage!" That's the runner's answer to any ailment, so with my sore knee and horrid cold/cough I meet Gayatri Datta at 7am Saturday in downtown Bethesda to run a loop along the Capital Crescent Trail and Rock Creek. Within the first half mile we witness tragedy: a big bag of donuts lies in shreds, torn open on the ground, scrumptious contents strewn over the bikepath. "I should snag one of those!" I say, then amend the resolution to, "Well, maybe when we're done." Soon thereafter I spy an unopened Clif Shot energy gel and console myself by picking it up.
+	
+	Outbound on our planned 20+ mile trek I soon get tired. At Fletchers Boathouse we visit the latrines and I ask if we can turn around soon, to make it a 10 mile day. Gayatri persuades me to go on to the Thompson Boat Center for 15. My GPS tracks closely with her unit until we pass through the Dalecarlia Tunnel, at which point the numbers mysteriously diverge by a few tenths of a mile. They reconverge during our return trip. Weird!
+	
+	And the donuts? On the home stretch when we pass them, alas, the tragic scene is compounded: they've been run over by bicycles, trodden upon, and probably dog-licked. May they rest in peace.
+	
+	//**^z**// - 2010-03-27
+	
+lastmajor: 1
+keep-ts: 1269691715

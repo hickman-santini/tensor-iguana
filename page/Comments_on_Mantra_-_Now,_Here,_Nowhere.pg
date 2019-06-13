@@ -1,0 +1,77 @@
+blocks: <p>
+	<table width="355" height="480" background="http://zhurnaly.com/images/running/National_Harbor_big_wheel_2016-10-17.jpg" cellpadding="5" cellspacing="0">
+	<tr>
+	<td>
+	<p><font color="#ffffff">
+	Now<br />
+	Here<br />
+	Nowhere<br />
+	<br />
+	&nbsp; &nbsp; &nbsp; Stay Between<br />
+	<br />
+	in the gap where<br />
+	future touches past,<br />
+	the missing point<br />
+	at the center of all<br />
+	<br />
+	... just being,<br />
+	going nowhere<br />
+	</font></p>
+	</td>
+	</tr>
+	</table>
+	</p><hr /><p>
+	<style>
+	table.user { background-image: url("http://zhurnaly.com/images/running/graffiti_z_2018-02-04_t.jpg"); color: white; font-size: x-large; }
+	</style>
+	</p><table class="user"><tr><td align="center"><strong> <br /><br /><br /><br />&nbsp; &nbsp; &nbsp; this is <br /><br />&nbsp; &nbsp; &nbsp; a test <br /><br /><br /></strong></td></tr></table>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: <html>
+	<table width="355" height="480" background="http://zhurnaly.com/images/running/National_Harbor_big_wheel_2016-10-17.jpg" cellpadding="5" cellspacing="0">
+	<tr>
+	<td>
+	<p><font color="#ffffff">
+	Now<br />
+	Here<br />
+	Nowhere<br />
+	<br />
+	&nbsp; &nbsp; &nbsp; Stay Between<br />
+	<br />
+	in the gap where<br />
+	future touches past,<br />
+	the missing point<br />
+	at the center of all<br />
+	<br />
+	... just being,<br />
+	going nowhere<br />
+	</font></p>
+	</td>
+	</tr>
+	</table>
+	</html>
+	
+	----
+	
+	<html>
+	<style>
+	table.user { background-image: url("http://zhurnaly.com/images/running/graffiti_z_2018-02-04_t.jpg"); color: white; font-size: x-large; }
+	</style>
+	</html>
+	
+	| ** \\ \\ \\ \\ &nbsp; &nbsp; &nbsp; this is \\ \\ &nbsp; &nbsp; &nbsp; a test \\ \\ \\ ** |
+	
+languages: 
+lastmajor: 14
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">&lt;html&gt;<br />&gt; &lt;table width="355" height="480" background="http://zhurnaly.com/images/running/National_Harbor_big_wheel_2016-10-17.jpg" cellpadding="5" cellspacing="0"&gt;<br />&gt; &lt;tr&gt;<br />&gt; &lt;td&gt;<br />&gt; &lt;p&gt;&lt;font color="#ffffff"&gt;<br />&gt; Now&lt;br /&gt;<br />&gt; Here&lt;br /&gt;<br />&gt; Nowhere&lt;br /&gt;<br />&gt; &lt;br /&gt;<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; Stay Between&lt;br /&gt;<br />&gt; &lt;br /&gt;<br />&gt; in the gap where&lt;br /&gt;<br />&gt; future touches past,&lt;br /&gt;<br />&gt; the missing point&lt;br /&gt;<br />&gt; at the center of all&lt;br /&gt;<br />&gt; &lt;br /&gt;<br />&gt; ... just being,&lt;br /&gt;<br />&gt; going nowhere&lt;br /&gt;<br />&gt; &lt;/font&gt;&lt;/p&gt;<br />&gt; &lt;/td&gt;<br />&gt; &lt;/tr&gt;<br />&gt; &lt;/table&gt;<br />&gt; &lt;/html&gt;<br />&gt; ----<br />&gt; &lt;html&gt;<br />&gt; &lt;style&gt;<br />&gt; table.user { background-image: url("http://zhurnaly.com/images/running/graffiti_z_2018-02-04_t.jpg"); color: white; font-size: x-large; }<br />&gt; &lt;/style&gt;<br />&gt; &lt;/html&gt;<br />&gt; | ** \\ \\ \\ \\ &amp;nbsp; &amp;nbsp; &amp;nbsp; this is \\ \\ &amp;nbsp; &amp;nbsp; &amp;nbsp; a test \\ \\ \\ ** |</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 14
+keep-ts: 1528057703

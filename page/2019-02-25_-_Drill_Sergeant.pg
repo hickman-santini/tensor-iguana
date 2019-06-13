@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~4.4 mi @ ~12.9 min/mi</h3><p>"Quit smiling! I'm not your mother!" - "Pick up your pace, maggot!" - The drill sergeant voice of Runkeeper offers tough love along with an occasional "Yee-Haw!" of encouragement. K2 and Roadkill trek cautiously across icy puddles to Starbucks, reminiscing <em>en route</em> about long-ago favorite restaurants <em>("formerly Coyote Taco, before that Taco Amigo" and "where Asian Corner used to be, now El Tio", etc.)</em>. Blister, hip, and mystery foot bump are all getting better. We reverse the route taken a few days ago.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1294269559">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2019-03-21</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Quit smiling! I'm not your mother!" - "Pick up your pace, maggot!" - The drill sergeant voice of Runkeeper offers tough love along with an occasional "<strong class="changes">YeeHaw</strong>!" of encouragement. K2 and Roadkill trek cautiously across icy puddles to Starbucks, reminiscing en route about long-ago favorite restaurants //("formerly Coyote Taco, before that Taco Amigo" and "where Asian Corner used to be, now El Tio", etc.)//. Blister, hip, and mystery foot bump are all getting better. We reverse the route taken a few days ago.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "Quit smiling! I'm not your mother!" - "Pick up your pace, maggot!" - The drill sergeant voice of Runkeeper offers tough love along with an occasional "<strong class="changes">Yee-Haw</strong>!" of encouragement. K2 and Roadkill trek cautiously across icy puddles to Starbucks, reminiscing <strong class="changes">//</strong>en route<strong class="changes">//</strong> about long-ago favorite restaurants //("formerly Coyote Taco, before that Taco Amigo" and "where Asian Corner used to be, now El Tio", etc.)//. Blister, hip, and mystery foot bump are all getting better. We reverse the route taken a few days ago.</p></div>
+lastmajorsummary: tweaks
+ts: 1553161282
+minor: 
+host: 166.137.240.54
+username: z
+revision: 2
+diff-major: 1
+summary: tweaks
+languages: 
+text: === ~4.4 mi @ ~12.9 min/mi
+	
+	"Quit smiling! I'm not your mother!" - "Pick up your pace, maggot!" - The drill sergeant voice of Runkeeper offers tough love along with an occasional "Yee-Haw!" of encouragement. K2 and Roadkill trek cautiously across icy puddles to Starbucks, reminiscing //en route// about long-ago favorite restaurants //("formerly Coyote Taco, before that Taco Amigo" and "where Asian Corner used to be, now El Tio", etc.)//. Blister, hip, and mystery foot bump are all getting better. We reverse the route taken a few days ago.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1294269559|trackfile]])// - //**^z**// - 2019-03-21
+	
+lastmajor: 2
+keep-ts: 1553161282

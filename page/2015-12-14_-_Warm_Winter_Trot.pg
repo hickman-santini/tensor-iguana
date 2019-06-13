@@ -1,0 +1,23 @@
+blocks: <h3>~5 miles @ ~11.8 min/mi</h3><p>"Good summer morning!" the gentleman waiting at the bus stop greets Kristin and Kerry and me as we run by. Temps are in the upper 50's, trees are clothed in Xmas lights, and lawns feature inflated polychromatic sculptures. Glowing arcs swoop up at one house to direct Santa to the chimney-top. We discuss how to make prints and ornaments by dipping wee baby hands, feet, or other body parts in paint, and the alternative approach using glue plus glitter. <em>Sounds messy!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity705080204/">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-01-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.94.213
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5 miles @ ~11.8 min/mi
+	
+	"Good summer morning!" the gentleman waiting at the bus stop greets Kristin and Kerry and me as we run by. Temps are in the upper 50's, trees are clothed in Xmas lights, and lawns feature inflated polychromatic sculptures. Glowing arcs swoop up at one house to direct Santa to the chimney-top. We discuss how to make prints and ornaments by dipping wee baby hands, feet, or other body parts in paint, and the alternative approach using glue plus glitter. //Sounds messy!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity705080204/|trackfile]])// - //**^z**// - 2016-01-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5 miles @ ~11.8 min/mi<br />&gt; "Good summer morning!" the gentleman waiting at the bus stop greets Kristin and Kerry and me as we run by. Temps are in the upper 50's, trees are clothed in Xmas lights, and lawns feature inflated polychromatic sculptures. Glowing arcs swoop up at one house to direct Santa to the chimney-top. We discuss how to make prints and ornaments by dipping wee baby hands, feet, or other body parts in paint, and the alternative approach using glue plus glitter. //Sounds messy!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity705080204/|trackfile]])// - //**^z**// - 2016-01-02</strong></p></div>
+flags: 0
+ts: 1528057692
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057692

@@ -1,0 +1,25 @@
+blocks: <h3>~11.3 miles @ ~11.5 min/mi</h3><p>A big doe stands nervously in the mud, then flips up her white tail and flees into the thickets. Heavy rains midday leave puddles on the path and high roiling waters in the stream. Race officials are installing big signs along the course of tomorrow's half marathon. At the barbecue shack on Old Georgetown Rd two guys are starting the charcoal fires to cook meats. Sidewalks in downtown Bethesda are crowded with shoppers.</p><p>Back home, the scale shows just under 150 lbs for a loss of ~2% from dehydration, in spite of three water stops at fountains en route. No wonder the final miles included so many involuntary walk breaks! Will a slice of cheesecake baked a few hours ago neutralize all the spartan goodness of this run?</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/654770056">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~11.3 miles @ ~11.5 min/mi
+	
+	A big doe stands nervously in the mud, then flips up her white tail and flees into the thickets. Heavy rains midday leave puddles on the path and high roiling waters in the stream. Race officials are installing big signs along the course of tomorrow's half marathon. At the barbecue shack on Old Georgetown Rd two guys are starting the charcoal fires to cook meats. Sidewalks in downtown Bethesda are crowded with shoppers.
+	
+	Back home, the scale shows just under 150 lbs for a loss of ~2% from dehydration, in spite of three water stops at fountains en route. No wonder the final miles included so many involuntary walk breaks! Will a slice of cheesecake baked a few hours ago neutralize all the spartan goodness of this run?
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/654770056|trackfile]])// - //**^z**// - 2015-10-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~11.3 miles @ ~11.5 min/mi<br />&gt; A big doe stands nervously in the mud, then flips up her white tail and flees into the thickets. Heavy rains midday leave puddles on the path and high roiling waters in the stream. Race officials are installing big signs along the course of tomorrow's half marathon. At the barbecue shack on Old Georgetown Rd two guys are starting the charcoal fires to cook meats. Sidewalks in downtown Bethesda are crowded with shoppers.<br />&gt; Back home, the scale shows just under 150 lbs for a loss of ~2% from dehydration, in spite of three water stops at fountains en route. No wonder the final miles included so many involuntary walk breaks! Will a slice of cheesecake baked a few hours ago neutralize all the spartan goodness of this run?<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/654770056|trackfile]])// - //**^z**// - 2015-10-03</strong></p></div>
+flags: 0
+ts: 1528057692
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057692

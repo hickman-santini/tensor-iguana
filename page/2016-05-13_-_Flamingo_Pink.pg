@@ -1,0 +1,23 @@
+blocks: <h3>~6.6 miles @ ~13.5 min/mi</h3><p>"They did NOT go halfway!" Kerry comments on the carnation-colored house with matching garage on Meadowbrook Avenue in West McLean. Socks are damp after exploring grassy cut-throughs at Westgate Child Center and Franklin Sherman Elementary School. "You've been FLAMINGOED!" reads a sign in front of the McLean Baptist Church, where Kristin points out a flock of lawn-ornament birds guarding the sidewalk. At a ballet-exercise studio a pair of flamingo statuettes pose en pointe, dressed in Hawaiian-style grass skirts. Nearby caption: "Barre Burn!".</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/787018224">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-05-28</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.6 miles @ ~13.5 min/mi
+	
+	"They did NOT go halfway!" Kerry comments on the carnation-colored house with matching garage on Meadowbrook Avenue in West McLean. Socks are damp after exploring grassy cut-throughs at Westgate Child Center and Franklin Sherman Elementary School. "You've been FLAMINGOED!" reads a sign in front of the McLean Baptist Church, where Kristin points out a flock of lawn-ornament birds guarding the sidewalk. At a ballet-exercise studio a pair of flamingo statuettes pose en pointe, dressed in Hawaiian-style grass skirts. Nearby caption: "Barre Burn!".
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/787018224|trackfile]])// - //**^z**// - 2016-05-28
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.6 miles @ ~13.5 min/mi<br />&gt; "They did NOT go halfway!" Kerry comments on the carnation-colored house with matching garage on Meadowbrook Avenue in West McLean. Socks are damp after exploring grassy cut-throughs at Westgate Child Center and Franklin Sherman Elementary School. "You've been FLAMINGOED!" reads a sign in front of the McLean Baptist Church, where Kristin points out a flock of lawn-ornament birds guarding the sidewalk. At a ballet-exercise studio a pair of flamingo statuettes pose en pointe, dressed in Hawaiian-style grass skirts. Nearby caption: "Barre Burn!".<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/787018224|trackfile]])// - //**^z**// - 2016-05-28</strong></p></div>
+flags: 0
+ts: 1528057710
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057710

@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~4.6 mi @ ~14.2 min/mi</h3><p>"We shoveled!" K-Rex explains the realities of growing up in a coal-heated home, an era when cinders helped cars get traction on icy roads as well as forming a track surface. Dawn Patrol circles McLean on a brisk morning, taking back yard cut-throughs and pausing to thaw at Starbucks. The rising sun casts long shadows as the gibbous moon sets on the home stretch, a sprint to get K2 back in time for early meetings, in honor of the late Sir Roger Bannister.</p><p>"That toenail finally came off!" The Stone Mill 50 miler was in November last year. Evil Scale reads 156 again, up 4 lbs from a dehydrated anomaly yesterday.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1129185144">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-04-01</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.6 mi @ ~14.2 min/mi<br />&gt; "We shoveled!" K-Rex explains the realities of growing up in a coal-heated home, an era when cinders helped cars get traction on icy roads as well as forming a track surface. Dawn Patrol circles McLean on a brisk morning, taking back yard cut-throughs and pausing to thaw at Starbucks. The rising sun casts long shadows as the gibbous moon sets on the home stretch, a sprint to get K2 back in time for early meetings, in honor of the late Sir Roger Bannister.<br />&gt; "That toenail finally came off!" The Stone Mill 50 miler was in November last year. Evil Scale reads 156 again, up 4 lbs from a dehydrated anomaly yesterday.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1129185144|trackfile]])// - //**^z**// - 2018-04-01</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057684
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.6 mi @ ~14.2 min/mi
+	
+	"We shoveled!" K-Rex explains the realities of growing up in a coal-heated home, an era when cinders helped cars get traction on icy roads as well as forming a track surface. Dawn Patrol circles McLean on a brisk morning, taking back yard cut-throughs and pausing to thaw at Starbucks. The rising sun casts long shadows as the gibbous moon sets on the home stretch, a sprint to get K2 back in time for early meetings, in honor of the late Sir Roger Bannister.
+	
+	"That toenail finally came off!" The Stone Mill 50 miler was in November last year. Evil Scale reads 156 again, up 4 lbs from a dehydrated anomaly yesterday.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1129185144|trackfile]])// - //**^z**// - 2018-04-01
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057684

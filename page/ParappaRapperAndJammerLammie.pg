@@ -1,0 +1,17 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">My son Merle has discovered some entertainingly-weird Japanese video games: **</strong>Parappa <strong class="changes">the</strong> Rapper<strong class="changes">**</strong> and <strong class="changes">its sequel, **Um</strong> Jammer <strong class="changes">Lammie** //(I think</strong> Lammy <strong class="changes">is spelled with a Y - [[RadRob]])//. Both have a minimalist style of animation, with deliberately two-dimensional characters --- paper-cutout-like figures moving through a semi-3D world //(I heard that when they made the first game, they did this because the machine couldn't handle fully 3-D models [[RadRob]])//. Both feature cute &amp; catchy copy-what-I-do musical rhythmic challenges. Both send their protagonists through a series of unexpected difficulties. And both have a cynical attitude toward the clich\xE9s of standard gaming, and do a good job of parodying those clich\xE9s.<br />&lt; Most interestingly, however, both games feature philosophical mantras. In **Parappa** it's //You gotta believe!//, in yourself and your abilities. In **Lammie** the refrain is //It's all in the mind!//, at least for the majority of challenges in life. Good optimistic themes.<br />&lt; [[TopicPhilosophy]] - [[TopicLife</strong>]] <strong class="changes">- Datetag20010831<br />&lt; ----<br />&lt; //(correlates: [[PrimeObsession]], [[CultOfLeadership]], [[EmptyShelves]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[</strong>Parappa Rapper and Jammer Lammy]]</p></div>
+	ip:
+minor: 
+70.21.64.155
+ts: 1200619660
+host: pool-70-21-64-155.res.east.verizon.net
+username: z
+revision: 3
+diff-major: 1
+summary: fix accented character, move to Parappa Rapper and Jammer Lammy, leave redirect here
+languages: 
+text: #REDIRECT [[Parappa Rapper and Jammer Lammy]]
+	
+lastmajor: 3
+keep-ts: 1200619660

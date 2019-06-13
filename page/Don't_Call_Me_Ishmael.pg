@@ -1,0 +1,35 @@
+flags: 0
+blocks: <p>Michael Bauer's young-person's novel <strong>Don't Call Me Ishmael</strong> is childish and crude, witty and fun. Its ninth grade Australian protagonist, Ishmael Lesueur, makes friends and struggles with shyness. He yearns for a girl. Comeuppance comes to a clich&eacute; of a class bully. A plot arches, not unpredictably. After 50 short chapters, good triumphs.</p><p>Yet magically, buried within this competently-written boy's book, <strong>Don't Call Me Ishmael</strong> paints a scene of extraordinary insight. Chapter 27 has Our Hero talking on the phone to his debate team leader James Scobie, the New Kid who's nerdy-weird-twitchy, a survivor of brain surgery that he claims has left him neurologically unable to experience fear. Ishmael asks:<br /></p><blockquote><p>"Scobie ... you know that story ... about the tumor and the operation and everything ... and about never being afraid? Is it really true?"</p><p>A long silence followed. I pictured Scobie's face frozen mid-twist. Finally I heard his voice. It seemed different somehow.</p><p>"Sort of ... the tumor, the operation ... they're true. The other thing ... not being afraid ... well, it depends on how you look at it. Maybe it wasn't a scalpel that did it. Maybe ... when you're lying in an operating room and someone is cutting into your brain ... and you don't know whether you're going to ..."</p><p>For a few seconds all I could hear was Scobie breathing. When he continued it was almost in a whisper.</p><p>"Well ... maybe there's just so much fear you can have ... and in that one moment you use up all the fear you were ever supposed to feel ... and it's the fear that cuts you ... and it cuts you so deep that you just decide that nothing else is worth being afraid of ... and that nothing is going to scare you any more ... because you just won't let it."<br /></p></blockquote><p><em><strong>Yes</strong></em> ...</p><p><em><strong>^z</strong></em> - 2018-05-05</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Michael Bauer's young-person's novel **Don't Call Me Ishmael** is childish and crude, witty and fun. Its ninth grade Australian protagonist, Ishmael Lesueur, makes friends and struggles with shyness. He yearns for a girl. Comeuppance comes to a clich&amp;eacute; of a class bully. A plot arches, not unpredictably. After 50 short chapters, good triumphs.<br />&gt; Yet magically, buried within this competently-written boy's book, **Don't Call Me Ishmael** paints a scene of extraordinary insight. Chapter 27 has Our Hero talking on the phone to his debate team leader James Scobie, the New Kid who's nerdy-weird-twitchy, a survivor of brain surgery that he claims has left him neurologically unable to experience fear. Ishmael asks:<br />&gt; """<br />&gt; "Scobie ... you know that story ... about the tumor and the operation and everything ... and about never being afraid? Is it really true?"<br />&gt; A long silence followed. I pictured Scobie's face frozen mid-twist. Finally I heard his voice. It seemed different somehow.<br />&gt; "Sort of ... the tumor, the operation ... they're true. The other thing ... not being afraid ... well, it depends on how you look at it. Maybe it wasn't a scalpel that did it. Maybe ... when you're lying in an operating room and someone is cutting into your brain ... and you don't know whether you're going to ..."<br />&gt; For a few seconds all I could hear was Scobie breathing. When he continued it was almost in a whisper.<br />&gt; "Well ... maybe there's just so much fear you can have ... and in that one moment you use up all the fear you were ever supposed to feel ... and it's the fear that cuts you ... and it cuts you so deep that you just decide that nothing else is worth being afraid of ... and that nothing is going to scare you any more ... because you just won't let it."<br />&gt; """<br />&gt; //**Yes**// ...<br />&gt; //**^z**// - 2018-05-05</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057696
+minor: 0
+host: 166.137.240.115
+username: z
+revision: 4
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Michael Bauer's young-person's novel **Don't Call Me Ishmael** is childish and crude, witty and fun. Its ninth grade Australian protagonist, Ishmael Lesueur, makes friends and struggles with shyness. He yearns for a girl. Comeuppance comes to a clich&eacute; of a class bully. A plot arches, not unpredictably. After 50 short chapters, good triumphs.
+	
+	Yet magically, buried within this competently-written boy's book, **Don't Call Me Ishmael** paints a scene of extraordinary insight. Chapter 27 has Our Hero talking on the phone to his debate team leader James Scobie, the New Kid who's nerdy-weird-twitchy, a survivor of brain surgery that he claims has left him neurologically unable to experience fear. Ishmael asks:
+	"""
+	"Scobie ... you know that story ... about the tumor and the operation and everything ... and about never being afraid? Is it really true?"
+	
+	A long silence followed. I pictured Scobie's face frozen mid-twist. Finally I heard his voice. It seemed different somehow.
+	
+	"Sort of ... the tumor, the operation ... they're true. The other thing ... not being afraid ... well, it depends on how you look at it. Maybe it wasn't a scalpel that did it. Maybe ... when you're lying in an operating room and someone is cutting into your brain ... and you don't know whether you're going to ..."
+	
+	For a few seconds all I could hear was Scobie breathing. When he continued it was almost in a whisper.
+	
+	"Well ... maybe there's just so much fear you can have ... and in that one moment you use up all the fear you were ever supposed to feel ... and it's the fear that cuts you ... and it cuts you so deep that you just decide that nothing else is worth being afraid of ... and that nothing is going to scare you any more ... because you just won't let it."
+	"""
+	
+	//**Yes**// ...
+	
+	//**^z**// - 2018-05-05
+	
+languages: 
+lastmajor: 4
+keep-ts: 1528057696

@@ -1,0 +1,23 @@
+blocks: <table class="user"><tr><td align="right">Thoughts drop gently from the mind<br />Like leaves, like snowflakes,<br />Toward the heart.</td></tr></table><p><em>(inspired by Patricia Long, at a meditation workshop she led on 2014-01-19 in Bethesda, Maryland)</em> - <em><strong>^z</strong></em> - 2014-01-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.211.54
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Thoughts drop gently from the mind
+	Like leaves, like snowflakes,
+	Toward the heart. |
+	
+	//(inspired by Patricia Long, at a meditation workshop she led on 2014-01-19 in Bethesda, Maryland)// - //**^z**// - 2014-01-22
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Thoughts drop gently from the mind<br />&gt; Like leaves, like snowflakes,<br />&gt; Toward the heart. |<br />&gt; //(inspired by Patricia Long, at a meditation workshop she led on 2014-01-19 in Bethesda, Maryland)// - //**^z**// - 2014-01-22</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057711

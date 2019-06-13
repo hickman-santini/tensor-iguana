@@ -1,0 +1,23 @@
+blocks: <h3>~6.7 miles @ ~8.8 min/mi</h3><p>Feel tired after work when I arrive home. Nap, or run? After a mile I wake up a bit and begin to push the pace, for splits by <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/161320071">Runkeeper</a> of 9:08 + 8:25 + 9:02 + 7:58 + 8:50 + 8:54 + a final partial  mile at 8:48 min/mi pace. Swing by Jennings Ct where there's a house DW has her eye on, only half a mile or so from the Wheaton Metro station. Elevation graph shows a peak at the corner of University and Veirs Mill, with the Mormon Temple hill on Stoneybrook relatively minor by comparison. Steep climb home via Forsythe Av is rough. Step aside for a #4 RideOn bus to pass by, run on the shoulder for other traffic. <a class="url http outside" href="http://connect.garmin.com/activity/291192907">Garmin</a> is in close agreement with the iPhone GPS.</p><p><em><strong>^z</strong></em> - 2013-04-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.215.161
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.7 miles @ ~8.8 min/mi
+	
+	Feel tired after work when I arrive home. Nap, or run? After a mile I wake up a bit and begin to push the pace, for splits by [[http://runkeeper.com/user/zhurnaly/activity/161320071|Runkeeper]] of 9:08 + 8:25 + 9:02 + 7:58 + 8:50 + 8:54 + a final partial  mile at 8:48 min/mi pace. Swing by Jennings Ct where there's a house DW has her eye on, only half a mile or so from the Wheaton Metro station. Elevation graph shows a peak at the corner of University and Veirs Mill, with the Mormon Temple hill on Stoneybrook relatively minor by comparison. Steep climb home via Forsythe Av is rough. Step aside for a #4 RideOn bus to pass by, run on the shoulder for other traffic. [[http://connect.garmin.com/activity/291192907|Garmin]] is in close agreement with the iPhone GPS.
+	
+	//**^z**// - 2013-04-12
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.7 miles @ ~8.8 min/mi<br />&gt; Feel tired after work when I arrive home. Nap, or run? After a mile I wake up a bit and begin to push the pace, for splits by [[http://runkeeper.com/user/zhurnaly/activity/161320071|Runkeeper]] of 9:08 + 8:25 + 9:02 + 7:58 + 8:50 + 8:54 + a final partial  mile at 8:48 min/mi pace. Swing by Jennings Ct where there's a house DW has her eye on, only half a mile or so from the Wheaton Metro station. Elevation graph shows a peak at the corner of University and Veirs Mill, with the Mormon Temple hill on Stoneybrook relatively minor by comparison. Steep climb home via Forsythe Av is rough. Step aside for a #4 RideOn bus to pass by, run on the shoulder for other traffic. [[http://connect.garmin.com/activity/291192907|Garmin]] is in close agreement with the iPhone GPS.<br />&gt; //**^z**// - 2013-04-12</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057697

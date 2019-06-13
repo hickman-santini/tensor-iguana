@@ -1,0 +1,40 @@
+blocks: <h3>2 Comments.</h3><p>You'll have to explain the gullible thing... People might take you at your word, especially since you've posted it on the Web for all to see -- makes you authoritative :)</p><hr /><p>The authoritative <strong>Onion</strong> reports <em>(22 May 2002)</em> in "Factual Error Found on Internet":<br /></p><blockquote><p>LONGMONT, CO - The Information Age was dealt a stunning blow Monday, when a factual error was discovered on the Internet. The error was found on TedsUltimateBradyBunch.com, a <em>Brady Bunch</em> fan site that incorrectly listed the show's debut year as 1968, not 1969.</p><p>Caryn Wisniewski, a Pueblo, CO, legal secretary and diehard <em>Brady Bunch</em> fan, came across the mistake while searching for information about the show's first-season cast.</p><p>"When I first saw 1968 on the web page, I thought, 'Wow, apparently, all those <em>Brady Bunch</em> books I've read listing 1969 as the show's first year were wrong,'" Wisniewski told reporters at a press conference. "But even though I obviously trusted the Internet, I was still kind of puzzled. So I checked other <em>Brady Bunch</em> fan sites, and all of them said 1969. After a while, it slowly began to sink in that the World Wide Web might be tainted with unreliable information."<br /></p></blockquote><p>and later in that same shocking article is a quote from Paul Boutin, senior editor of <strong>Wired</strong>:<br /></p><blockquote><p>"Will we ever fully trust the Web again?" Boutin asked. "We may well be witnessing the dawn of a new era of skepticism in which we no longer accept everything we read online at face value. But regardless of what the future holds, one thing is clear: The Internet's status as the world's definitive repository of incontrovertible fact has been jeopardized."<br /></p></blockquote><p>-<em> <strong>^z</strong> </em>-<br /></p><hr />
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.170.21
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	
+	
+	You'll have to explain the gullible thing... People might take you at your word, especially since you've posted it on the Web for all to see -- makes you authoritative :)
+	
+	----
+	
+	The authoritative **Onion** reports //(22 May 2002)// in "Factual Error Found on Internet":
+	"""
+	LONGMONT, CO - The Information Age was dealt a stunning blow Monday, when a factual error was discovered on the Internet. The error was found on TedsUltimateBradyBunch.com, a //Brady Bunch// fan site that incorrectly listed the show's debut year as 1968, not 1969.
+	
+	Caryn Wisniewski, a Pueblo, CO, legal secretary and diehard //Brady Bunch// fan, came across the mistake while searching for information about the show's first-season cast.
+	
+	"When I first saw 1968 on the web page, I thought, 'Wow, apparently, all those //Brady Bunch// books I've read listing 1969 as the show's first year were wrong,'" Wisniewski told reporters at a press conference. "But even though I obviously trusted the Internet, I was still kind of puzzled. So I checked other //Brady Bunch// fan sites, and all of them said 1969. After a while, it slowly began to sink in that the World Wide Web might be tainted with unreliable information."
+	"""
+	
+	and later in that same shocking article is a quote from Paul Boutin, senior editor of **Wired**:
+	"""
+	"Will we ever fully trust the Web again?" Boutin asked. "We may well be witnessing the dawn of a new era of skepticism in which we no longer accept everything we read online at face value. But regardless of what the future holds, one thing is clear: The Internet's status as the world's definitive repository of incontrovertible fact has been jeopardized."
+	"""
+	
+	-// **^z** //-
+	----
+	
+languages: 
+lastmajor: 25
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; You'll have to explain the gullible thing... People might take you at your word, especially since you've posted it on the Web for all to see -- makes you authoritative :)<br />&gt; ----<br />&gt; The authoritative **Onion** reports //(22 May 2002)// in "Factual Error Found on Internet":<br />&gt; """<br />&gt; LONGMONT, CO - The Information Age was dealt a stunning blow Monday, when a factual error was discovered on the Internet. The error was found on TedsUltimateBradyBunch.com, a //Brady Bunch// fan site that incorrectly listed the show's debut year as 1968, not 1969.<br />&gt; Caryn Wisniewski, a Pueblo, CO, legal secretary and diehard //Brady Bunch// fan, came across the mistake while searching for information about the show's first-season cast.<br />&gt; "When I first saw 1968 on the web page, I thought, 'Wow, apparently, all those //Brady Bunch// books I've read listing 1969 as the show's first year were wrong,'" Wisniewski told reporters at a press conference. "But even though I obviously trusted the Internet, I was still kind of puzzled. So I checked other //Brady Bunch// fan sites, and all of them said 1969. After a while, it slowly began to sink in that the World Wide Web might be tainted with unreliable information."<br />&gt; """<br />&gt; and later in that same shocking article is a quote from Paul Boutin, senior editor of **Wired**:<br />&gt; """<br />&gt; "Will we ever fully trust the Web again?" Boutin asked. "We may well be witnessing the dawn of a new era of skepticism in which we no longer accept everything we read online at face value. But regardless of what the future holds, one thing is clear: The Internet's status as the world's definitive repository of incontrovertible fact has been jeopardized."<br />&gt; """<br />&gt; -// **^z** //-<br />&gt; ----</p></div>
+flags: 0
+ts: 1528057689
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 25
+keep-ts: 1528057689

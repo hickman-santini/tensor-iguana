@@ -1,0 +1,23 @@
+blocks: <h3>~6.7 miles @ ~12.3 min/mi</h3><p>"Foxes!" Two shadowy silhouettes sprint across Poppy Drive as we approach. Kristin and I glimpse them racing down Dalmatian, and then they're gone. On a damp Monday before dawn we roam silent streets: the birds haven't reset their clocks for Daylight Saving Time and are sleeping in. A single runner in the distance leads us around the Kent Gardens neighborhood, then vanishes. New mansions sprawl, windows dark. At mile 5 we find ourselves back at the McLean High School track, and run a lap for luck.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/749839702">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.188
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.7 miles @ ~12.3 min/mi
+	
+	"Foxes!" Two shadowy silhouettes sprint across Poppy Drive as we approach. Kristin and I glimpse them racing down Dalmatian, and then they're gone. On a damp Monday before dawn we roam silent streets: the birds haven't reset their clocks for Daylight Saving Time and are sleeping in. A single runner in the distance leads us around the Kent Gardens neighborhood, then vanishes. New mansions sprawl, windows dark. At mile 5 we find ourselves back at the McLean High School track, and run a lap for luck.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/749839702|trackfile]])// - //**^z**// - 2016-04-04
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.7 miles @ ~12.3 min/mi<br />&gt; "Foxes!" Two shadowy silhouettes sprint across Poppy Drive as we approach. Kristin and I glimpse them racing down Dalmatian, and then they're gone. On a damp Monday before dawn we roam silent streets: the birds haven't reset their clocks for Daylight Saving Time and are sleeping in. A single runner in the distance leads us around the Kent Gardens neighborhood, then vanishes. New mansions sprawl, windows dark. At mile 5 we find ourselves back at the McLean High School track, and run a lap for luck.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/749839702|trackfile]])// - //**^z**// - 2016-04-04</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057711

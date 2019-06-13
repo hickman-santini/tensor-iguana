@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p>The problems of the newspaper industry have a simple root cause: most people most of the time don't want news&mdash;they want to spend a few minutes of quiet time looking at interesting semi-random "stuff". I just got through doing that this morning online, then walked outside to pick up the papers at the street. The front pages have some nice things on them which would ordinarily be highly entertaining: politics, disasters, accusations, striking photographs, funny surprises. But since I've already had my fix of "stuff" their appeal is considerably reduced.</p><p><em><strong>^z</strong></em> - 2010-04-27</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; The problems of the newspaper industry have a simple root cause: most people most of the time don't want <strong class="changes">"</strong>news<strong class="changes">"</strong> &amp;mdash; they want to spend a few minutes of quiet time looking at interesting semi-random "stuff". I just got through doing that this morning online, <strong class="changes">and</strong> then walked outside to pick up the papers at the street. The front pages have some nice things on them which would ordinarily be highly entertaining: politics, disasters, accusations, striking photographs, funny surprises. But since I've already had my fix of "stuff" their appeal is considerably reduced.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; The problems of the newspaper industry have a simple root cause: most people most of the time don't want news&amp;mdash;they want to spend a few minutes of quiet time looking at interesting semi-random "stuff". I just got through doing that this morning online, then walked outside to pick up the papers at the street. The front pages have some nice things on them which would ordinarily be highly entertaining: politics, disasters, accusations, striking photographs, funny surprises. But since I've already had my fix of "stuff" their appeal is considerably reduced.</p></div>
+ip: 138.88.114.105
+ts: 1272359629
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: The problems of the newspaper industry have a simple root cause: most people most of the time don't want news&mdash;they want to spend a few minutes of quiet time looking at interesting semi-random "stuff". I just got through doing that this morning online, then walked outside to pick up the papers at the street. The front pages have some nice things on them which would ordinarily be highly entertaining: politics, disasters, accusations, striking photographs, funny surprises. But since I've already had my fix of "stuff" their appeal is considerably reduced.
+	
+	//**^z**// - 2010-04-27
+	
+lastmajor: 1
+keep-ts: 1272359629

@@ -1,0 +1,20 @@
+blocks: <p>2012-08-23 Caleb Scharf  <a class="url http outside" href="http://www.politics-prose.com/event/book/caleb-scharf-gravity%E2%80%99s-engines">discusses</a> his new book <strong>Gravity's Engines</strong> at Politics and Prose, 5015 Conn. Ave . The book has been reviewed  <a class="url http outside" href="http://online.wsj.com/article/SB10000872396390443931404577550972761881592.html">here</a> and <a class="url http outside" href="http://www.newscientist.com/blogs/culturelab/2012/08/did-black-holes-shape-the-evolution-of-the-universe.html">there</a><br /><img class="url http" src="http://si.wsj.net/public/resources/images/RV-AH668_GRAVIT_G_20120803011714.jpg" alt="http://si.wsj.net/public/resources/images/RV-AH668_GRAVIT_G_20120803011714.jpg" /></p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 174.252.121.152
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: 2012-08-23 Caleb Scharf  [http://www.politics-prose.com/event/book/caleb-scharf-gravity%E2%80%99s-engines discusses]  his new book **Gravity's Engines**  at Politics and Prose, 5015 Conn. Ave .  The book has been reviewed  [http://online.wsj.com/article/SB10000872396390443931404577550972761881592.html here] and [http://www.newscientist.com/blogs/culturelab/2012/08/did-black-holes-shape-the-evolution-of-the-universe.html there]
+	http://si.wsj.net/public/resources/images/RV-AH668_GRAVIT_G_20120803011714.jpg
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">2012-08-23 Caleb Scharf  [http://www.politics-prose.com/event/book/caleb-scharf-gravity%E2%80%99s-engines discusses]  his new book **Gravity's Engines**  at Politics and Prose, 5015 Conn. Ave .  The book has been reviewed  [http://online.wsj.com/article/SB10000872396390443931404577550972761881592.html here] and [http://www.newscientist.com/blogs/culturelab/2012/08/did-black-holes-shape-the-evolution-of-the-universe.html there]<br />&gt; http://si.wsj.net/public/resources/images/RV-AH668_GRAVIT_G_20120803011714.jpg</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057688

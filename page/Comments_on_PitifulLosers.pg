@@ -1,0 +1,18 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3></p><p>This is a funny post!<br /></p><hr />
+ip: 138.88.112.52
+ts: 1232014131
+minor: 
+host: pool-138-88-112-52.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+summary: Rollback to 2008-12-28 10:05 UTC
+languages: 
+text: === 1 Comment. ===
+	
+	This is a funny post!
+	----
+	
+	
+lastmajor: 3
+keep-ts: 1232014131

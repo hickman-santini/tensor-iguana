@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p>At the office a few days ago a colleague was trying to find a lost memo, and scolded himself by quoting a rule he should have followed: "Never throw anything away!"</p><p>"Ah," I said, "but at my home by practicing 'Never throw anything away' we've proved a corollary: <em>'Never find anything when you need it!'</em>"</p><p><em><strong>^z</strong></em> - 2010-01-23</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; At the office a few days ago a colleague was trying to find a lost memo, and scolded himself <strong class="changes">with the</strong> rule he should have followed <strong class="changes">:"</strong>Never throw anything away!"</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; At the office a few days ago a colleague was trying to find a lost memo, and scolded himself <strong class="changes">by quoting a</strong> rule he should have followed<strong class="changes">: "</strong>Never throw anything away!"</p></div>
+ip: 141.156.145.55
+ts: 1264282871
+minor: 1
+host: pool-141-156-145-55.res.east.verizon.net
+username:  zz
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: At the office a few days ago a colleague was trying to find a lost memo, and scolded himself by quoting a rule he should have followed: "Never throw anything away!"
+	
+	"Ah," I said, "but at my home by practicing 'Never throw anything away' we've proved a corollary: //'Never find anything when you need it!'//"
+	
+	//**^z**// - 2010-01-23
+	
+lastmajor: 1
+keep-ts: 1264282871

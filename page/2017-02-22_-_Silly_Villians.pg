@@ -1,0 +1,28 @@
+blocks: <h3>~6.9 miles @ ~12.3 min/mi</h3><p>"Condiment King!"</p><p>"Chuck the Evil Sandwich Making Guy!"</p><p>Cait and Kristin compare notes on supervillains, respectively from the new <strong>Lego Batman</strong> movie and the PBS <strong>WordGirl</strong> series. Dawn Patrol's route today meanders past the Eagle Mansion and the Lavender Cabin &mdash; both of which sound like good names for an evil malefactor's lair!</p><p>We advise Cait on her family's upcoming Disneyworld Half Marathon <em>("Have fun!" and "Don't fall down!")</em> and share stories from the past weekend. Kristin reports on the hazards of letting a South Park toy with speech synthesis capability fall into the hands of young children. <em><strong>Danger!</strong></em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/937712169">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.52
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.9 miles @ ~12.3 min/mi
+	
+	"Condiment King!"
+	
+	"Chuck the Evil Sandwich Making Guy!"
+	
+	Cait and Kristin compare notes on supervillains, respectively from the new **Lego Batman** movie and the PBS **WordGirl** series. Dawn Patrol's route today meanders past the Eagle Mansion and the Lavender Cabin &mdash; both of which sound like good names for an evil malefactor's lair!
+	
+	We advise Cait on her family's upcoming Disneyworld Half Marathon //("Have fun!" and "Don't fall down!")// and share stories from the past weekend. Kristin reports on the hazards of letting a South Park toy with speech synthesis capability fall into the hands of young children. //**Danger!**//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/937712169|trackfile]])// - //**^z**// - 2017-03-24
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~6.9 miles @ ~12.3 min/mi<br />&gt; "Condiment King!"<br />&gt; "Chuck the Evil Sandwich Making Guy!"<br />&gt; Cait and Kristin compare notes on supervillains, respectively from the new **Lego Batman** movie and the PBS **WordGirl** series. Dawn Patrol's route today meanders past the Eagle Mansion and the Lavender Cabin &amp;mdash; both of which sound like good names for an evil malefactor's lair!<br />&gt; We advise Cait on her family's upcoming Disneyworld Half Marathon //("Have fun!" and "Don't fall down!")// and share stories from the past weekend. Kristin reports on the hazards of letting a South Park toy with speech synthesis capability fall into the hands of young children. //**Danger!**//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/937712169|trackfile]])// - //**^z**// - 2017-03-24</p></div>
+flags: 0
+ts: 1528057709
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057709

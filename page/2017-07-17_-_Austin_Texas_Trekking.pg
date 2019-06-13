@@ -1,0 +1,25 @@
+blocks: <h3>~11.0 miles @ ~13.5 min/mi</h3><p>Even at sunrise running is stressful on a warm, humid morning in Austin Texas. Rabbit count = 1, a shy bunny in Great Hills Park; deer count = 3, audacious beasts standing in the street during the final mile.</p><p>Boy Scouts have built bat houses; near a playground a faux chimney stands for chimney swifts to nest in. The lake path at Quarries Park leads back onto neighborhood streets. Bright new graffiti decorates the tunnel under Duval Road near Balcones District Park. Follow Big Walnut Creek upstream, then take the railroad tracks to Yett Creek Neighborhood Park and back to the start. <em>Whew!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1019782056">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-08-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.91.13
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~11.0 miles @ ~13.5 min/mi
+	
+	Even at sunrise running is stressful on a warm, humid morning in Austin Texas. Rabbit count = 1, a shy bunny in Great Hills Park; deer count = 3, audacious beasts standing in the street during the final mile.
+	
+	Boy Scouts have built bat houses; near a playground a faux chimney stands for chimney swifts to nest in. The lake path at Quarries Park leads back onto neighborhood streets. Bright new graffiti decorates the tunnel under Duval Road near Balcones District Park. Follow Big Walnut Creek upstream, then take the railroad tracks to Yett Creek Neighborhood Park and back to the start. //Whew!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1019782056|trackfile]])// - //**^z**// - 2017-08-14
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~11.0 miles @ ~13.5 min/mi<br />&gt; Even at sunrise running is stressful on a warm, humid morning in Austin Texas. Rabbit count = 1, a shy bunny in Great Hills Park; deer count = 3, audacious beasts standing in the street during the final mile.<br />&gt; Boy Scouts have built bat houses; near a playground a faux chimney stands for chimney swifts to nest in. The lake path at Quarries Park leads back onto neighborhood streets. Bright new graffiti decorates the tunnel under Duval Road near Balcones District Park. Follow Big Walnut Creek upstream, then take the railroad tracks to Yett Creek Neighborhood Park and back to the start. //Whew!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1019782056|trackfile]])// - //**^z**// - 2017-08-14</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

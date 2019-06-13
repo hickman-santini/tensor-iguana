@@ -1,0 +1,25 @@
+blocks: <h3>~5.6 miles @ ~14.0 min/mi</h3><p>"Tic-Tac-Toe?!" Barry accepts the challenge and we play fiercely to a tie on a flip-the-panel 3x3 array of big yellow plastic X's and O's. We're at the Colt Terrace Neighborhood Park, a playground for little kids, stretching the legs and working up appetites for pizza. A young couple busy snoggling occupies the bench where Barry had hoped to do stretches. <em>No matter!</em></p><p>"La Cerveza mas Fina" reads the label on the Corona Extra bottle lying on Inwood Avenue at mile 4, apparently unopened. <em>Finders Keepers!</em> Dr Stephanie texts us from the West Coast, awaiting her flight back after a mountainous trail run. "Barry will be the starting pitcher for the Nats soon," we lie, along with other outrageous tales. "He is a man of many talents, for sure!" she replies.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/962101998">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-05-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.246
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.6 miles @ ~14.0 min/mi
+	
+	"Tic-Tac-Toe?!" Barry accepts the challenge and we play fiercely to a tie on a flip-the-panel 3x3 array of big yellow plastic X's and O's. We're at the Colt Terrace Neighborhood Park, a playground for little kids, stretching the legs and working up appetites for pizza. A young couple busy snoggling occupies the bench where Barry had hoped to do stretches. //No matter!//
+	
+	"La Cerveza mas Fina" reads the label on the Corona Extra bottle lying on Inwood Avenue at mile 4, apparently unopened. //Finders Keepers!// Dr Stephanie texts us from the West Coast, awaiting her flight back after a mountainous trail run. "Barry will be the starting pitcher for the Nats soon," we lie, along with other outrageous tales. "He is a man of many talents, for sure!" she replies.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/962101998|trackfile]])// - //**^z**// - 2017-05-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.6 miles @ ~14.0 min/mi<br />&gt; "Tic-Tac-Toe?!" Barry accepts the challenge and we play fiercely to a tie on a flip-the-panel 3x3 array of big yellow plastic X's and O's. We're at the Colt Terrace Neighborhood Park, a playground for little kids, stretching the legs and working up appetites for pizza. A young couple busy snoggling occupies the bench where Barry had hoped to do stretches. //No matter!//<br />&gt; "La Cerveza mas Fina" reads the label on the Corona Extra bottle lying on Inwood Avenue at mile 4, apparently unopened. //Finders Keepers!// Dr Stephanie texts us from the West Coast, awaiting her flight back after a mountainous trail run. "Barry will be the starting pitcher for the Nats soon," we lie, along with other outrageous tales. "He is a man of many talents, for sure!" she replies.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/962101998|trackfile]])// - //**^z**// - 2017-05-02</strong></p></div>
+flags: 0
+ts: 1528057692
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057692

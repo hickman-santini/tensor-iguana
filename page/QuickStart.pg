@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; #REDIRECT [[<strong class="changes">Markup Syntax</strong>]]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; #REDIRECT [[<strong class="changes">Help</strong>]]</p></div>
+ip: 70.21.38.24
+ts: 1225068098
+minor: 1
+host: pool-70-21-38-24.res.east.verizon.net
+username: MarkZimmermann
+revision: 6
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[Markup Syntax]]</strong></p></div>
+summary: redirect to "Help"
+languages: 
+text: #REDIRECT [[Help]]
+	
+lastmajor: 5
+keep-ts: 1225068098

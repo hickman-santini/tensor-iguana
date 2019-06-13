@@ -1,0 +1,22 @@
+blocks: <h3>1 Comment.</h3><p>I am reminded of the beginning of Season One of <q>The Wire</q>, when Det. McNulty was questioning a witness to a guy who got killed in a craps game. The victim - "Snotboogie" - would always try to swipe the cash on the table and run away. So the detective said, "If Snotboogie always stole the money, why'd you let him play?" And the witness replied, "Got to. This America, man."</p><p>-- <a class="url http outside" href="http://packbat.net/">RobinZ</a> 2012-03-26 14:34 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.175.108
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	I am reminded of the beginning of Season One of ''The Wire'', when Det. McNulty was questioning a witness to a guy who got killed in a craps game. The victim - "Snotboogie" - would always try to swipe the cash on the table and run away. So the detective said, "If Snotboogie always stole the money, why'd you let him play?" And the witness replied, "Got to. This America, man."
+	
+	-- [http://packbat.net/ RobinZ] 2012-03-26 14:34 UTC
+	
+	
+languages: 
+lastmajor: 7
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; I am reminded of the beginning of Season One of ''The Wire'', when Det. McNulty was questioning a witness to a guy who got killed in a craps game. The victim - "Snotboogie" - would always try to swipe the cash on the table and run away. So the detective said, "If Snotboogie always stole the money, why'd you let him play?" And the witness replied, "Got to. This America, man."<br />&gt; -- [http://packbat.net/ RobinZ] 2012-03-26 14:34 UTC</p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 7
+keep-ts: 1528057701

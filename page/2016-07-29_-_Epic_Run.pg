@@ -1,0 +1,25 @@
+blocks: <h3>~4.2 miles @ ~12.4 min/mi</h3><p>"Not an Epic Run for us!" observes Kerry, as we finish a loop around the Pimmit Hills neighborhood, shortened in order to get everybody back in time for early morning meetings. No sooner said than Kristin spies a front-yard rabbit, then another and another. That's three more than Kerry and her daughter saw on Coney Island just a few days ago!</p><p>Storms drift away from the area leaving behind puddles, soggy paths, and 90%+ relative humidity. K&amp;K talk shop about stressful, "challenging" issues &mdash; great opportunities for practice in diplomacy, mindfulness, and giving good feedback!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/834408341">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-08-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.2 miles @ ~12.4 min/mi
+	
+	"Not an Epic Run for us!" observes Kerry, as we finish a loop around the Pimmit Hills neighborhood, shortened in order to get everybody back in time for early morning meetings. No sooner said than Kristin spies a front-yard rabbit, then another and another. That's three more than Kerry and her daughter saw on Coney Island just a few days ago!
+	
+	Storms drift away from the area leaving behind puddles, soggy paths, and 90%+ relative humidity. K&K talk shop about stressful, "challenging" issues &mdash; great opportunities for practice in diplomacy, mindfulness, and giving good feedback!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/834408341|trackfile]])// - //**^z**// - 2016-08-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.2 miles @ ~12.4 min/mi<br />&gt; "Not an Epic Run for us!" observes Kerry, as we finish a loop around the Pimmit Hills neighborhood, shortened in order to get everybody back in time for early morning meetings. No sooner said than Kristin spies a front-yard rabbit, then another and another. That's three more than Kerry and her daughter saw on Coney Island just a few days ago!<br />&gt; Storms drift away from the area leaving behind puddles, soggy paths, and 90%+ relative humidity. K&amp;K talk shop about stressful, "challenging" issues &amp;mdash; great opportunities for practice in diplomacy, mindfulness, and giving good feedback!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/834408341|trackfile]])// - //**^z**// - 2016-08-20</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

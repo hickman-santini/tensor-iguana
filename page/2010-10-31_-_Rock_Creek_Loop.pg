@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~5 miles @ ~11.5 min/mi</h3></p><p>A new high-water mark, the longest distance for Cara Marie Manlandro after her illness: we begin in early afternoon and see the train tracks at the soon-to-be no-whistling Forest Glen grade crossing, then down Ireland Dr and Rock Creek to East-West Hwy. On the way home I note that we'll be a few tenths of a mile short of CM's 5.0 mile target, so we add a little out-and-back to the industrial park on Linden La.</p><p><em><strong>^z</strong></em> - 2010-11-09</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; A new high-water mark, the longest distance for Cara Marie Manlandro after her illness: we begin in early afternoon and see the train tracks at the soon-to-be no-whistling Forest Glen grade crossing, then down Ireland Dr and Rock Creek to East-West Hwy. On the way home I <strong class="changes">see</strong> that we'll be a few tenths of a mile short of CM's 5.0 mile target, so we add a little out-and-back to the industrial park on Linden La.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; A new high-water mark, the longest distance for Cara Marie Manlandro after her illness: we begin in early afternoon and see the train tracks at the soon-to-be no-whistling Forest Glen grade crossing, then down Ireland Dr and Rock Creek to East-West Hwy. On the way home I <strong class="changes">note</strong> that we'll be a few tenths of a mile short of CM's 5.0 mile target, so we add a little out-and-back to the industrial park on Linden La.</p></div>
+ip: 138.88.184.182
+ts: 1289295781
+minor: 1
+host: pool-138-88-184-182.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: === ~5 miles @ ~11.5 min/mi
+	
+	A new high-water mark, the longest distance for Cara Marie Manlandro after her illness: we begin in early afternoon and see the train tracks at the soon-to-be no-whistling Forest Glen grade crossing, then down Ireland Dr and Rock Creek to East-West Hwy. On the way home I note that we'll be a few tenths of a mile short of CM's 5.0 mile target, so we add a little out-and-back to the industrial park on Linden La.
+	
+	//**^z**// - 2010-11-09
+	
+lastmajor: 1
+keep-ts: 1289295781

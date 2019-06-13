@@ -1,0 +1,26 @@
+blocks: <p>Yesterday a colleague at work shared a link to the essay "<a class="url http outside" href="http://www.infoq.com/articles/fail-safe-organization">The Fail-Safe Organization</a>" by Steve Peha. It's mainly about agile software development, via the theme of how to help people in a company know themselves and learn from their mistakes. In the course of that the writer muses on how to deal with feedback. In particular:<br /></p><blockquote><p><strong>The best response to feedback is "Thank you"</strong>. Often, when we receive negative feedback, especially in front of our peers, we feel the need either to apologize, to take immediate action to correct something, or to challenge its veracity. In the heat of the moment, neither of these strategies is an optimal response. The optimal response to feedback, whether positive or negative, is simply to say, "Thank you." There may indeed be something that needs to be corrected right away but a knee-jerk reaction to fix things is likely to invite more feedback if the reaction fails to address the issue. Apology is also a reflexive action many of us feel the need to take when we receive negative feedback. But apology complicates matters. What does "I'm sorry" mean? Does it mean that one is overcome by sorrow? Does it mean that a situation will be corrected or kept from recurring? Does an apology even indicate to the person giving the feedback that the feedback is understood? No. How about: "Thanks for the feedback. It gives me a better understanding of what you need." Wouldn't something like that work better?<br /></p></blockquote><p><em><strong>Thank you</strong>!</em></p><p><em><strong>^z</strong></em> - 2013-08-31</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.216.229
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Yesterday a colleague at work shared a link to the essay "[[http://www.infoq.com/articles/fail-safe-organization|The Fail-Safe Organization]]" by Steve Peha. It's mainly about agile software development, via the theme of how to help people in a company know themselves and learn from their mistakes. In the course of that the writer muses on how to deal with feedback. In particular:
+	"""
+	**The best response to feedback is "Thank you"**. Often, when we receive negative feedback, especially in front of our peers, we feel the need either to apologize, to take immediate action to correct something, or to challenge its veracity. In the heat of the moment, neither of these strategies is an optimal response. The optimal response to feedback, whether positive or negative, is simply to say, "Thank you." There may indeed be something that needs to be corrected right away but a knee-jerk reaction to fix things is likely to invite more feedback if the reaction fails to address the issue. Apology is also a reflexive action many of us feel the need to take when we receive negative feedback. But apology complicates matters. What does "I'm sorry" mean? Does it mean that one is overcome by sorrow? Does it mean that a situation will be corrected or kept from recurring? Does an apology even indicate to the person giving the feedback that the feedback is understood? No. How about: "Thanks for the feedback. It gives me a better understanding of what you need." Wouldn't something like that work better?
+	"""
+	
+	//**Thank you**!//
+	
+	//**^z**// - 2013-08-31
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Yesterday a colleague at work shared a link to the essay "[[http://www.infoq.com/articles/fail-safe-organization|The Fail-Safe Organization]]" by Steve Peha. It's mainly about agile software development, via the theme of how to help people in a company know themselves and learn from their mistakes. In the course of that the writer muses on how to deal with feedback. In particular:<br />&gt; """<br />&gt; **The best response to feedback is "Thank you"**. Often, when we receive negative feedback, especially in front of our peers, we feel the need either to apologize, to take immediate action to correct something, or to challenge its veracity. In the heat of the moment, neither of these strategies is an optimal response. The optimal response to feedback, whether positive or negative, is simply to say, "Thank you." There may indeed be something that needs to be corrected right away but a knee-jerk reaction to fix things is likely to invite more feedback if the reaction fails to address the issue. Apology is also a reflexive action many of us feel the need to take when we receive negative feedback. But apology complicates matters. What does "I'm sorry" mean? Does it mean that one is overcome by sorrow? Does it mean that a situation will be corrected or kept from recurring? Does an apology even indicate to the person giving the feedback that the feedback is understood? No. How about: "Thanks for the feedback. It gives me a better understanding of what you need." Wouldn't something like that work better?<br />&gt; """<br />&gt; //**Thank you**!//<br />&gt; //**^z**// - 2013-08-31</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057712

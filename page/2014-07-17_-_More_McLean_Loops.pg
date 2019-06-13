@@ -1,0 +1,23 @@
+blocks: <h3>~5.6 miles @ ~10.5 min/mi</h3><p>Three bunnies greet us this morning: first a pair spotted by Kristin and Amber at mile 1.5, then a scrawny singleton that Ed glimpses at mile 4. Lovely cool weather makes for a happy trek around Pimmit Hills ("David's loop reversed") for David, Kerry, Amber, Kristin, and me starting at 0600. At 6:30am Ed takes over for Kerry &amp; David. I pause the GPS when inside a building mid-run. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/394857989">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/548145708">Garmin</a> gather data.</p><p><em><strong>^z</strong></em> - 2014-08-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.209.198
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~5.6 miles @ ~10.5 min/mi
+	
+	Three bunnies greet us this morning: first a pair spotted by Kristin and Amber at mile 1.5, then a scrawny singleton that Ed glimpses at mile 4. Lovely cool weather makes for a happy trek around Pimmit Hills ("David's loop reversed") for David, Kerry, Amber, Kristin, and me starting at 0600. At 6:30am Ed takes over for Kerry & David. I pause the GPS when inside a building mid-run. [[http://runkeeper.com/user/zhurnaly/activity/394857989|Runkeeper]] and [[http://connect.garmin.com/modern/activity/548145708|Garmin]] gather data.
+	
+	//**^z**// - 2014-08-01
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.6 miles @ ~10.5 min/mi<br />&gt; Three bunnies greet us this morning: first a pair spotted by Kristin and Amber at mile 1.5, then a scrawny singleton that Ed glimpses at mile 4. Lovely cool weather makes for a happy trek around Pimmit Hills ("David's loop reversed") for David, Kerry, Amber, Kristin, and me starting at 0600. At 6:30am Ed takes over for Kerry &amp; David. I pause the GPS when inside a building mid-run. [[http://runkeeper.com/user/zhurnaly/activity/394857989|Runkeeper]] and [[http://connect.garmin.com/modern/activity/548145708|Garmin]] gather data.<br />&gt; //**^z**// - 2014-08-01</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

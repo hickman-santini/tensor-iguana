@@ -1,0 +1,25 @@
+blocks: <h3>~3.6 miles @ ~12.1 min/mi</h3><p>"Good luck finding something safe to quote from <em>this</em> morning's conversation!" Dr Beth says. We're in the final quarter-mile of a trek rich in "frank and open" dialogue, to use a term from diplomacy-speak.</p><p>"Hmmmmm ... maybe I'll quote <em>that</em> statement!" replies Mr Meta. Frost decorates windshields of parked cars. A scrawny rabbit scampers away as we prepare to set out, eastern sky beginning to glow orange. Ice cubes are strewn across the sidewalk as a food service truck cleans out yesterday's bins in preparation for a fresh start.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/759056292">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.8
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.6 miles @ ~12.1 min/mi
+	
+	"Good luck finding something safe to quote from //this// morning's conversation!" Dr Beth says. We're in the final quarter-mile of a trek rich in "frank and open" dialogue, to use a term from diplomacy-speak.
+	
+	"Hmmmmm ... maybe I'll quote //that// statement!" replies Mr Meta. Frost decorates windshields of parked cars. A scrawny rabbit scampers away as we prepare to set out, eastern sky beginning to glow orange. Ice cubes are strewn across the sidewalk as a food service truck cleans out yesterday's bins in preparation for a fresh start.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/759056292|trackfile]])// - //**^z**// - 2016-04-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.6 miles @ ~12.1 min/mi<br />&gt; "Good luck finding something safe to quote from //this// morning's conversation!" Dr Beth says. We're in the final quarter-mile of a trek rich in "frank and open" dialogue, to use a term from diplomacy-speak.<br />&gt; "Hmmmmm ... maybe I'll quote //that// statement!" replies Mr Meta. Frost decorates windshields of parked cars. A scrawny rabbit scampers away as we prepare to set out, eastern sky beginning to glow orange. Ice cubes are strewn across the sidewalk as a food service truck cleans out yesterday's bins in preparation for a fresh start.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/759056292|trackfile]])// - //**^z**// - 2016-04-20</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057690

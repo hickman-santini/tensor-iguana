@@ -1,0 +1,23 @@
+blocks: <h3>~4.5 miles @ ~12 min/mi</h3><p>Kristin and I take advantage of a neighborhood cut-through path and find our way past fragrant flowers to McLean High School's fancy cushioned track, where at sunrise we join half a dozen others to do five 200 meter repeats at ~50 seconds each, with half a lap recovery walk between each sprint. Dr K's first experiment with interval training goes well: no puking! <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/367295025">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/515755715">Garmin</a> show the way, with return route via Westmoreland St and Chain Bridge Rd to Anderson Rd.</p><p><em><strong>^z</strong></em> - 2014-06-25</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.213.42
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.5 miles @ ~12 min/mi
+	
+	Kristin and I take advantage of a neighborhood cut-through path and find our way past fragrant flowers to McLean High School's fancy cushioned track, where at sunrise we join half a dozen others to do five 200 meter repeats at ~50 seconds each, with half a lap recovery walk between each sprint. Dr K's first experiment with interval training goes well: no puking! [[http://runkeeper.com/user/zhurnaly/activity/367295025|Runkeeper]] and [[http://connect.garmin.com/modern/activity/515755715|Garmin]] show the way, with return route via Westmoreland St and Chain Bridge Rd to Anderson Rd.
+	
+	//**^z**// - 2014-06-25
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.5 miles @ ~12 min/mi<br />&gt; Kristin and I take advantage of a neighborhood cut-through path and find our way past fragrant flowers to McLean High School's fancy cushioned track, where at sunrise we join half a dozen others to do five 200 meter repeats at ~50 seconds each, with half a lap recovery walk between each sprint. Dr K's first experiment with interval training goes well: no puking! [[http://runkeeper.com/user/zhurnaly/activity/367295025|Runkeeper]] and [[http://connect.garmin.com/modern/activity/515755715|Garmin]] show the way, with return route via Westmoreland St and Chain Bridge Rd to Anderson Rd.<br />&gt; //**^z**// - 2014-06-25</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

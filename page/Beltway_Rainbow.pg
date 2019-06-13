@@ -1,0 +1,21 @@
+blocks: <p><img class="url http" src="http://zhurnaly.com/images/Beltway_Rainbow.jpg" alt="http://zhurnaly.com/images/Beltway_Rainbow.jpg" /></p><p><em>(... taken from a bridge over the Washington DC area Beltway, I-495, on 2013-04-12 ...)</em> - <em><strong>^z</strong></em> - 2013-05-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.79
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: http://zhurnaly.com/images/Beltway_Rainbow.jpg
+	
+	//(... taken from a bridge over the Washington DC area Beltway, I-495, on 2013-04-12 ...)// - //**^z**// - 2013-05-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">http://zhurnaly.com/images/Beltway_Rainbow.jpg<br />&gt; //(... taken from a bridge over the Washington DC area Beltway, I-495, on 2013-04-12 ...)// - //**^z**// - 2013-05-07</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057712

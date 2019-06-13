@@ -1,0 +1,23 @@
+blocks: <h3>~3 miles @ ~10.2 min/mi</h3><p>It's a humid morning meander with Amber, David, and Kerry. Discussions include Mother's Day yoga, aphid control, running shoe hoopla, Memorial Day plans, the Gettysburg Address, and a recent bachelor party in New Orleans that brings to mind the film <strong>The Hangover</strong>. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/352966615">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/502608528">Garmin</a> GPS redundantly record the route.</p><p><em><strong>^z</strong></em> - 2014-06-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3 miles @ ~10.2 min/mi
+	
+	It's a humid morning meander with Amber, David, and Kerry. Discussions include Mother's Day yoga, aphid control, running shoe hoopla, Memorial Day plans, the Gettysburg Address, and a recent bachelor party in New Orleans that brings to mind the film **The Hangover**. [[http://runkeeper.com/user/zhurnaly/activity/352966615|Runkeeper]] and [[http://connect.garmin.com/activity/502608528|Garmin]] GPS redundantly record the route.
+	
+	//**^z**//  - 2014-06-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3 miles @ ~10.2 min/mi<br />&gt; It's a humid morning meander with Amber, David, and Kerry. Discussions include Mother's Day yoga, aphid control, running shoe hoopla, Memorial Day plans, the Gettysburg Address, and a recent bachelor party in New Orleans that brings to mind the film **The Hangover**. [[http://runkeeper.com/user/zhurnaly/activity/352966615|Runkeeper]] and [[http://connect.garmin.com/activity/502608528|Garmin]] GPS redundantly record the route.<br />&gt; //**^z**//  - 2014-06-11</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

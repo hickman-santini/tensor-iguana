@@ -1,0 +1,23 @@
+blocks: <h3>~6.3 miles @ ~14.7 min/mi</h3><p>A doe and fawn munch grass by the W&amp;OD Trail as cyclists zoom past. Mary Ewell and I do an out-and-back to the church near the Carolina Brothers BBQ place, with great conversation all along the way. Hip adductor twinges tolerably.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/601607986">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-07-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.3 miles @ ~14.7 min/mi
+	
+	A doe and fawn munch grass by the W&OD Trail as cyclists zoom past. Mary Ewell and I do an out-and-back to the church near the Carolina Brothers BBQ place, with great conversation all along the way. Hip adductor twinges tolerably.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/601607986|trackfile]])// - //**^z**// - 2015-07-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.3 miles @ ~14.7 min/mi<br />&gt; A doe and fawn munch grass by the W&amp;OD Trail as cyclists zoom past. Mary Ewell and I do an out-and-back to the church near the Carolina Brothers BBQ place, with great conversation all along the way. Hip adductor twinges tolerably.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/601607986|trackfile]])// - //**^z**// - 2015-07-19</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

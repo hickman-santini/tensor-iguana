@@ -1,0 +1,22 @@
+blocks: <h3>~4.3 miles @ ~9.4 min/mi</h3><p>Monarch butterfly poses on the pathway, wings together. Sidewalks vanish arbitrarily and reappear, sometimes, on the opposite side of the street. Patches of poison ivy and no-shoulder make for danger. The new loop today goes down busy Great Falls Rd to Idylwood to the elementary school where a trek along the parking lot leads to Lemon Road Park and nice paved bike path, rickety bridge over concrete-clad creek, steep stairs, and suddenly Pimmit Rd, <em>terra cognita</em> from earlier runs in the neighborhood. Walkers coming in to the building as I'm heading out at 1pm say the weather is perfect, which of course means that at 70&deg;F it's a bit warm for running.</p><p><em>(cf. <a class="url http outside" href="http://connect.garmin.com/activity/119402767">GPS trackfile</a>, ...)</em> - <em><strong>^z</strong></em> - 2011-10-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.30.123
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.3 miles @ ~9.4 min/mi
+	
+	Monarch butterfly poses on the pathway, wings together. Sidewalks vanish arbitrarily and reappear, sometimes, on the opposite side of the street. Patches of poison ivy and no-shoulder make for danger. The new loop today goes down busy Great Falls Rd to Idylwood to the elementary school where a trek along the parking lot leads to Lemon Road Park and nice paved bike path, rickety bridge over concrete-clad creek, steep stairs, and suddenly Pimmit Rd, //terra cognita// from earlier runs in the neighborhood. Walkers coming in to the building as I'm heading out at 1pm say the weather is perfect, which of course means that at 70&deg;F it's a bit warm for running.
+	
+	//(cf. [[http://connect.garmin.com/activity/119402767|GPS trackfile]], ...)// - //**^z**// - 2011-10-20
+	
+languages: 
+lastmajor: 6
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~4.3 miles @ ~9.4 min/mi<br />&gt; Monarch butterfly poses on the pathway, wings together. Sidewalks vanish arbitrarily and reappear, sometimes, on the opposite side of the street. Patches of poison ivy and no-shoulder make for danger. The new loop today goes down busy Great Falls Rd to Idylwood to the elementary school where a trek along the parking lot leads to Lemon Road Park and nice paved bike path, rickety bridge over concrete-clad creek, steep stairs, and suddenly Pimmit Rd, //terra cognita// from earlier runs in the neighborhood. Walkers coming in to the building as I'm heading out at 1pm say the weather is perfect, which of course means that at 70&amp;deg;F it's a bit warm for running.<br />&gt; //(cf. [[http://connect.garmin.com/activity/119402767|GPS trackfile]], ...)// - //**^z**// - 2011-10-20</p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 6
+keep-ts: 1528057683

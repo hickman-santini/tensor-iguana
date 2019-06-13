@@ -1,0 +1,23 @@
+blocks: <h3>~9.0 miles @ ~11.5 min/mi</h3><p>"Raise your hand if you're a Frequentist!" Nathan tells of a Bayesian professor at the University of Washington who asks for a Day One vote by his students and taunts those who answer "incorrectly". Kristin leads the Dawn Patrol as it discovers massive holes in the Evans Farm gated community security perimeter. A construction project gets us back via Mayflower Drive and Pathfinder Lane. We analyze Seattle graffiti <em>("$500 reward" scrawled in chalk on a mailbox next to a shakily-drawn quadruped)</em> and politics <em>(voting by mail, with rational argumentation on ballots)</em>. Beth joins us for Wednesday laps at the McLean High School track <em>(five 400m intervals at 1:44 + 1:43 + 1:41 + 1:40 + 1:40)</em> during a beautiful pink-salmon sunrise.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/755067409">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.93.243
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.0 miles @ ~11.5 min/mi
+	
+	"Raise your hand if you're a Frequentist!" Nathan tells of a Bayesian professor at the University of Washington who asks for a Day One vote by his students and taunts those who answer "incorrectly". Kristin leads the Dawn Patrol as it discovers massive holes in the Evans Farm gated community security perimeter. A construction project gets us back via Mayflower Drive and Pathfinder Lane. We analyze Seattle graffiti //("$500 reward" scrawled in chalk on a mailbox next to a shakily-drawn quadruped)// and politics //(voting by mail, with rational argumentation on ballots)//. Beth joins us for Wednesday laps at the McLean High School track //(five 400m intervals at 1:44 + 1:43 + 1:41 + 1:40 + 1:40)// during a beautiful pink-salmon sunrise.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/755067409|trackfile]])// - //**^z**// - 2016-04-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.0 miles @ ~11.5 min/mi<br />&gt; "Raise your hand if you're a Frequentist!" Nathan tells of a Bayesian professor at the University of Washington who asks for a Day One vote by his students and taunts those who answer "incorrectly". Kristin leads the Dawn Patrol as it discovers massive holes in the Evans Farm gated community security perimeter. A construction project gets us back via Mayflower Drive and Pathfinder Lane. We analyze Seattle graffiti //("$500 reward" scrawled in chalk on a mailbox next to a shakily-drawn quadruped)// and politics //(voting by mail, with rational argumentation on ballots)//. Beth joins us for Wednesday laps at the McLean High School track //(five 400m intervals at 1:44 + 1:43 + 1:41 + 1:40 + 1:40)// during a beautiful pink-salmon sunrise.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/755067409|trackfile]])// - //**^z**// - 2016-04-15</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057690

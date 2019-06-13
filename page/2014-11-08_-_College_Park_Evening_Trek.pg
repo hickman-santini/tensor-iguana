@@ -1,0 +1,25 @@
+blocks: <h3>~6.5 miles @ ~8.6 min/mi</h3><p>Whiff of perfume from a flock of chattering young ladies leaving their dorm for dinner ... rattle of railroad equipment working on the tracks ... honking geese take off toward sunset from the surface of Lake Artemisia ... a fawn creeps across Indian Creek Trail, and a four-point buck nibbles weeds at the east end of the main runway at College Park Airport ... "Good job!" salute from a trio of young men on the sidewalk near Marathon Deli ...</p><p>It's a brisk evening loop around the University of Maryland while DD attends a friend's piano recital. Important Safety Tip #1: don't try to carry heavy keys in loose-fitting shorts! And Tip #2: consider wearing two layers, or other extra insulation, when temps are below 50&deg;F! <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/466895167">Runkeeper</a> records route.</p><p><em><strong>^z</strong></em> - 2014-12-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.14
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.5 miles @ ~8.6 min/mi
+	
+	Whiff of perfume from a flock of chattering young ladies leaving their dorm for dinner ... rattle of railroad equipment working on the tracks ... honking geese take off toward sunset from the surface of Lake Artemisia ... a fawn creeps across Indian Creek Trail, and a four-point buck nibbles weeds at the east end of the main runway at College Park Airport ... "Good job!" salute from a trio of young men on the sidewalk near Marathon Deli ...
+	
+	It's a brisk evening loop around the University of Maryland while DD attends a friend's piano recital. Important Safety Tip #1: don't try to carry heavy keys in loose-fitting shorts! And Tip #2: consider wearing two layers, or other extra insulation, when temps are below 50&deg;F! [[http://runkeeper.com/user/zhurnaly/activity/466895167|Runkeeper]] records route.
+	
+	//**^z**// - 2014-12-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.5 miles @ ~8.6 min/mi<br />&gt; Whiff of perfume from a flock of chattering young ladies leaving their dorm for dinner ... rattle of railroad equipment working on the tracks ... honking geese take off toward sunset from the surface of Lake Artemisia ... a fawn creeps across Indian Creek Trail, and a four-point buck nibbles weeds at the east end of the main runway at College Park Airport ... "Good job!" salute from a trio of young men on the sidewalk near Marathon Deli ...<br />&gt; It's a brisk evening loop around the University of Maryland while DD attends a friend's piano recital. Important Safety Tip #1: don't try to carry heavy keys in loose-fitting shorts! And Tip #2: consider wearing two layers, or other extra insulation, when temps are below 50&amp;deg;F! [[http://runkeeper.com/user/zhurnaly/activity/466895167|Runkeeper]] records route.<br />&gt; //**^z**// - 2014-12-03</strong></p></div>
+flags: 0
+ts: 1528057709
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057709

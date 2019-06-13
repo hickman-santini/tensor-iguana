@@ -1,0 +1,21 @@
+blocks: <p>The <a class="url http outside" href="http://vhtrc.org/brr">Bull Run Run</a> 50 mile ultramarathon includes a friendly team competition, with awards for fastest, oldest, etc. Every member of a four-person team must finish the race in order to be eligible to win a prize. The competition for slowest total team time, the only category in which I might have a chance, isn't exactly "heated" &mdash; it's more "luke-warm". This year another team, which shall remain nameless here, thought it had won in that biggest-loser category. But after BRR was over I appealed to the Director, who checked the records. He confirmed that my crew &mdash; "Team Rocket", aka the team devoted to doing Evil with Pokemon &mdash; in fact was slower. That gave us the win as losers and caused our rival team to lose that honor. But wait a minute: doesn't that make them a <em><strong>greater</strong></em> loser, since they failed to win as losers? But if they won, then they lost, and therefore ...</p><p><em><strong>^z</strong></em> - 2013-04-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.79
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: The [[http://vhtrc.org/brr|Bull Run Run]] 50 mile ultramarathon includes a friendly team competition, with awards for fastest, oldest, etc. Every member of a four-person team must finish the race in order to be eligible to win a prize. The competition for slowest total team time, the only category in which I might have a chance, isn't exactly "heated" &mdash; it's more "luke-warm". This year another team, which shall remain nameless here, thought it had won in that biggest-loser category. But after BRR was over I appealed to the Director, who checked the records. He confirmed that my crew &mdash; "Team Rocket", aka the team devoted to doing Evil with Pokemon &mdash; in fact was slower. That gave us the win as losers and caused our rival team to lose that honor. But wait a minute: doesn't that make them a //**greater**// loser, since they failed to win as losers? But if they won, then they lost, and therefore ...
+	
+	//**^z**// - 2013-04-27
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">The [[http://vhtrc.org/brr|Bull Run Run]] 50 mile ultramarathon includes a friendly team competition, with awards for fastest, oldest, etc. Every member of a four-person team must finish the race in order to be eligible to win a prize. The competition for slowest total team time, the only category in which I might have a chance, isn't exactly "heated" &amp;mdash; it's more "luke-warm". This year another team, which shall remain nameless here, thought it had won in that biggest-loser category. But after BRR was over I appealed to the Director, who checked the records. He confirmed that my crew &amp;mdash; "Team Rocket", aka the team devoted to doing Evil with Pokemon &amp;mdash; in fact was slower. That gave us the win as losers and caused our rival team to lose that honor. But wait a minute: doesn't that make them a //**greater**// loser, since they failed to win as losers? But if they won, then they lost, and therefore ...<br />&gt; //**^z**// - 2013-04-27</strong></p></div>
+flags: 0
+ts: 1528057704
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057704

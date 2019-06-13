@@ -1,0 +1,34 @@
+blocks: <p>In her essay last week "<a class="url http outside" href="http://www.washingtonpost.com/opinions/kathleen-parker-afghan-athlete-runs-for-more-than-speed/2012/08/07/a12cec7a-e0d4-11e1-a19c-fcfa365396c8_story.html">Afghan athlete runs for more than speed</a>" Kathleen Parker in the <strong>Washington Post</strong> rhapsodizes about the primal simplicity of running:<br /></p><blockquote><p>... Every able-bodied human being on the planet can and has run, knows the feeling of running full speed &mdash; as fast as you can &mdash; and the exhilaration of crossing a finish line, or not.</p><p>...</p><p>... Whoever may be faster in the next lane, the fastest person in the runner's heart is the runner herself. The feeling of fastest possible, though known to most, is indescribable. It is too bad that life eventually slows the sprinter in every former child.</p><p>Running is unique in sport by virtue of its utter purity, requiring nothing more than a willing body and force of spirit. No accoutrements: No bats, balls, helmets, motors, masks, goggles, oars, nets, padding, bars or beams. It's just you against ground, gravity and your own heart, not merely literally.</p><p>Sure, some are more genetically blessed than others, but anyone can turn the ignition and churn away. Deprived of wings, running is as close as we humans come to flying. To run is to be alone, free and limited only by the horizon. Whether recreational or functional, to run is to escape.<br /></p></blockquote><p>Parker's ultimate theme is the challenges that women, particularly in some Muslim-fundamentalist nations, have had to overcome in order to live decent lives.</p><p><em><strong>^z</strong></em> - 2012-08-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.20.215
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: In her essay last week "[[http://www.washingtonpost.com/opinions/kathleen-parker-afghan-athlete-runs-for-more-than-speed/2012/08/07/a12cec7a-e0d4-11e1-a19c-fcfa365396c8_story.html|Afghan athlete runs for more than speed]]" Kathleen Parker in the **Washington Post** rhapsodizes about the primal simplicity of running:
+	"""
+	... Every able-bodied human being on the planet can and has run, knows the feeling of running full speed &mdash; as fast as you can &mdash; and the exhilaration of crossing a finish line, or not.
+	
+	...
+	
+	... Whoever may be faster in the next lane, the fastest person in the runner's heart is the runner herself. The feeling of fastest possible, though known to most, is indescribable. It is too bad that life eventually slows the sprinter in every former child.
+	
+	Running is unique in sport by virtue of its utter purity, requiring nothing more than a willing body and force of spirit. No accoutrements: No bats, balls, helmets, motors, masks, goggles, oars, nets, padding, bars or beams. It's just you against ground, gravity and your own heart, not merely literally.
+	
+	Sure, some are more genetically blessed than others, but anyone can turn the ignition and churn away. Deprived of wings, running is as close as we humans come to flying. To run is to be alone, free and limited only by the horizon. Whether recreational or functional, to run is to escape.
+	"""
+	
+	Parker's ultimate theme is the challenges that women, particularly in some Muslim-fundamentalist nations, have had to overcome in order to live decent lives.
+	
+	//**^z**// - 2012-08-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">In her essay last week "[[http://www.washingtonpost.com/opinions/kathleen-parker-afghan-athlete-runs-for-more-than-speed/2012/08/07/a12cec7a-e0d4-11e1-a19c-fcfa365396c8_story.html|Afghan athlete runs for more than speed]]" Kathleen Parker in the **Washington Post** rhapsodizes about the primal simplicity of running:<br />&gt; """<br />&gt; ... Every able-bodied human being on the planet can and has run, knows the feeling of running full speed &amp;mdash; as fast as you can &amp;mdash; and the exhilaration of crossing a finish line, or not.<br />&gt; ...<br />&gt; ... Whoever may be faster in the next lane, the fastest person in the runner's heart is the runner herself. The feeling of fastest possible, though known to most, is indescribable. It is too bad that life eventually slows the sprinter in every former child.<br />&gt; Running is unique in sport by virtue of its utter purity, requiring nothing more than a willing body and force of spirit. No accoutrements: No bats, balls, helmets, motors, masks, goggles, oars, nets, padding, bars or beams. It's just you against ground, gravity and your own heart, not merely literally.<br />&gt; Sure, some are more genetically blessed than others, but anyone can turn the ignition and churn away. Deprived of wings, running is as close as we humans come to flying. To run is to be alone, free and limited only by the horizon. Whether recreational or functional, to run is to escape.<br />&gt; """<br />&gt; Parker's ultimate theme is the challenges that women, particularly in some Muslim-fundamentalist nations, have had to overcome in order to live decent lives.<br />&gt; //**^z**// - 2012-08-16</strong></p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057687

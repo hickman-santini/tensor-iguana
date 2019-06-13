@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>2 miles @ ~8.1 min/mi</h3><p>"хорошо!" Roadkill cheers awesome-fast 74 year old Igor Lvovskyi at the Friday evening MCRRC "Going Green" track meet's 2 mile race. Hard rains fall during early heats but pause for our group to run around big puddles. Kind comrade Cindy Cohen chats with Roadkill during early laps, then pulls ahead - as does 10 year old Anna Arnold. <em>вздох!</em></p><p>400m lap splits = 2:01 + 2:00 + 2:04 + 2:05 + 1:56 + 1:58 + 2:00 + 2:00 <em>(that last includes the extra 18 meters to make two full miles from 3200 m)</em> &mdash; official time 16:08, for 2nd place of 3 in age/gender group. And now, it's Tor Taco Time!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1207152281">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-08-23</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; 400m lap splits = 2:01 + 2:00 + 2:04 + 2:05 + 1:56 + 1:58 + 2:00 + 2:00 //(that last includes the extra 18 meters to make two full miles from 3200 m)// <strong class="changes">--</strong> official time 16:08, for 2nd place of 3 in age/gender group. And now, it's Tor Taco Time!</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; 400m lap splits = 2:01 + 2:00 + 2:04 + 2:05 + 1:56 + 1:58 + 2:00 + 2:00 //(that last includes the extra 18 meters to make two full miles from 3200 m)// <strong class="changes">&amp;mdash;</strong> official time 16:08, for 2nd place of 3 in age/gender group. And now, it's Tor Taco Time!</p></div>
+lastmajorsummary: tweak 2
+ts: 1535017392
+minor: 
+host: 71.178.84.31
+username: z
+revision: 4
+diff-major: 1
+summary: tweak 2
+languages: 
+text: === 2 miles @ ~8.1 min/mi
+	
+	"хорошо!" Roadkill cheers awesome-fast 74 year old Igor Lvovskyi at the Friday evening MCRRC "Going Green" track meet's 2 mile race. Hard rains fall during early heats but pause for our group to run around big puddles. Kind comrade Cindy Cohen chats with Roadkill during early laps, then pulls ahead - as does 10 year old Anna Arnold. //вздох!//
+	
+	400m lap splits = 2:01 + 2:00 + 2:04 + 2:05 + 1:56 + 1:58 + 2:00 + 2:00 //(that last includes the extra 18 meters to make two full miles from 3200 m)// &mdash; official time 16:08, for 2nd place of 3 in age/gender group. And now, it's Tor Taco Time!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1207152281|trackfile]])// - //**^z**// - 2018-08-23
+	
+lastmajor: 4
+keep-ts: 1535017392

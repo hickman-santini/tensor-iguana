@@ -1,0 +1,24 @@
+flags: 0
+blocks: <p>An amusing mixed-metaphor appears in <strong>Science News</strong> magazine <em>(<a class="url http outside" href="http://www.sciencenews.org/view/generic/id/38540/title/Extrasolar_planetary_system_makes_pictorial_debut">2008-12-06</a>)</em>, wherein a speaker confounds "whole enchilada" <em>(all of something)</em> and "real McCoy" <em>(a genuine article)</em>:<br /></p><blockquote><p>"There is good reason to hope that that this is indeed the first true image of an extrasolar planetary system," says theorist Alan Boss of the Carnegie Institution for Science in Washington, D.C. "This one might well be the real enchilada."<br /></p></blockquote><p><em><strong>^z</strong></em> - 2008-12-22</p><p><h4>1 person liked this</h4></p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ====1 person liked this====</p></div>
+ip: 141.156.142.183
+ts: 1304282533
+minor: 1
+host: pool-141-156-142-183.res.east.verizon.net
+username: ZzZz
+revision: 2
+diff-major: 
+summary: I like this!
+languages: 
+text: An amusing mixed-metaphor appears in **Science News** magazine //([[http://www.sciencenews.org/view/generic/id/38540/title/Extrasolar_planetary_system_makes_pictorial_debut|2008-12-06]])//, wherein a speaker confounds "whole enchilada"  //(all of something)// and "real McCoy" //(a genuine article)//:
+	"""
+	"There is good reason to hope that that this is indeed the first true image of an extrasolar planetary system," says theorist Alan Boss of the Carnegie Institution for Science in Washington, D.C. "This one might well be the real enchilada."
+	"""
+	
+	//**^z**// - 2008-12-22
+	
+	====1 person liked this====
+	
+lastmajor: 1
+keep-ts: 1304282533

@@ -1,0 +1,55 @@
+blocks: <p>At a presentation last month titled  "If Not Now, Zen?", Blaise Aguirre, M.D. (Medical Director, McLean Hospital, Harvard Medical School) offered a hierarchical list of "Mindfulness Skills". Slightly edited for parallelism and style:<br /></p><ul><li><strong>WHAT</strong> Skills<ul><li>Observe<ul><li>Just notice your experience (thoughts, feelings, sensations) without labeling them.</li><li>Just notice and attend with all of your senses.</li></ul></li><li>Describe<ul><li>Put words to the experience (fact, not opinion).</li><li>Act as if you are a researcher making observations for an experiment.</li><li>Notice judgmental words and labels as these can cause distress.</li></ul></li><li>Participate<ul><li>Participate without self-consciousness.</li><li>Enter fully into the experience.</li><li>Don't separate yourself from the activity.</li><li>Participate in the moment you are in as if that moment is all that matters.</li></ul></li></ul></li><li><strong>HOW</strong> Skills<ul><li>With intention</li><li>Without judgment<ul><li>Judgments are short-hand assessments of an experience and inherently miss or leave out  information.</li><li>Common judgments are: good, bad, stupid, ugly, pretty or what "should" or "should not be."</li><li>Judgments get in the way of evaluating and assessing.</li><li>Judgments prevent further curiosity.</li><li>Judgments are often habitual.</li><li>Judgments enhance "negative" emotions (sadness, anger, guilt, shame).</li></ul></li><li>Focusing on one thing in the moment<ul><li>One-mindfully is deceivingly simple.</li><li>Do one and only one thing in the moment.</li><li>Let go of attempts to multi-task.</li></ul></li><li>Non reactively<ul><li>Simply observe: Don't suppress or enhance.</li><li>Be open, curious, accepting.</li><li>Patiently allow emotions and sensations to unfold in their own time. Breathe!</li></ul></li><li>Effectively<ul><li>Do what the situation calls for.</li><li>Let go of being right and turn to being effective.</li><li>Build awareness so that you do not make the situation worse.</li></ul></li></ul></li></ul><p><em><strong>^z</strong></em> - 2014-06-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.213.42
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: At a presentation last month titled  "If Not Now, Zen?", Blaise Aguirre, M.D. (Medical Director, McLean Hospital, Harvard Medical School) offered a hierarchical list of "Mindfulness Skills". Slightly edited for parallelism and style:
+	* **WHAT** Skills
+	** Observe
+	*** Just notice your experience (thoughts, feelings, sensations) without labeling them.
+	*** Just notice and attend with all of your senses.
+	** Describe
+	*** Put words to the experience (fact, not opinion).
+	*** Act as if you are a researcher making observations for an experiment.
+	*** Notice judgmental words and labels as these can cause distress.
+	** Participate
+	*** Participate without self-consciousness.
+	*** Enter fully into the experience.
+	*** Don't separate yourself from the activity.
+	*** Participate in the moment you are in as if that moment is all that matters.
+	* **HOW** Skills
+	** With intention
+	** Without judgment
+	*** Judgments are short-hand assessments of an experience and inherently miss or leave out  information.
+	*** Common judgments are: good, bad, stupid, ugly, pretty or what "should" or "should not be."
+	*** Judgments get in the way of evaluating and assessing.
+	*** Judgments prevent further curiosity.
+	*** Judgments are often habitual.
+	*** Judgments enhance "negative" emotions (sadness, anger, guilt, shame).
+	** Focusing on one thing in the moment
+	*** One-mindfully is deceivingly simple.
+	*** Do one and only one thing in the moment.
+	*** Let go of attempts to multi-task.
+	** Non reactively
+	*** Simply observe: Don't suppress or enhance.
+	*** Be open, curious, accepting.
+	*** Patiently allow emotions and sensations to unfold in their own time. Breathe!
+	** Effectively
+	*** Do what the situation calls for.
+	*** Let go of being right and turn to being effective.
+	*** Build awareness so that you do not make the situation worse.
+	
+	//**^z**// - 2014-06-24
+	
+languages: 
+lastmajor: 6
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">At a presentation last month titled  "If Not Now, Zen?", Blaise Aguirre, M.D. (Medical Director, McLean Hospital, Harvard Medical School) offered a hierarchical list of "Mindfulness Skills". Slightly edited for parallelism and style:<br />&gt; * **WHAT** Skills<br />&gt; ** Observe<br />&gt; *** Just notice your experience (thoughts, feelings, sensations) without labeling them.<br />&gt; *** Just notice and attend with all of your senses.<br />&gt; ** Describe<br />&gt; *** Put words to the experience (fact, not opinion).<br />&gt; *** Act as if you are a researcher making observations for an experiment.<br />&gt; *** Notice judgmental words and labels as these can cause distress.<br />&gt; ** Participate<br />&gt; *** Participate without self-consciousness.<br />&gt; *** Enter fully into the experience.<br />&gt; *** Don't separate yourself from the activity.<br />&gt; *** Participate in the moment you are in as if that moment is all that matters.<br />&gt; * **HOW** Skills<br />&gt; ** With intention<br />&gt; ** Without judgment<br />&gt; *** Judgments are short-hand assessments of an experience and inherently miss or leave out  information.<br />&gt; *** Common judgments are: good, bad, stupid, ugly, pretty or what "should" or "should not be."<br />&gt; *** Judgments get in the way of evaluating and assessing.<br />&gt; *** Judgments prevent further curiosity.<br />&gt; *** Judgments are often habitual.<br />&gt; *** Judgments enhance "negative" emotions (sadness, anger, guilt, shame).<br />&gt; ** Focusing on one thing in the moment<br />&gt; *** One-mindfully is deceivingly simple.<br />&gt; *** Do one and only one thing in the moment.<br />&gt; *** Let go of attempts to multi-task.<br />&gt; ** Non reactively<br />&gt; *** Simply observe: Don't suppress or enhance.<br />&gt; *** Be open, curious, accepting.<br />&gt; *** Patiently allow emotions and sensations to unfold in their own time. Breathe!<br />&gt; ** Effectively<br />&gt; *** Do what the situation calls for.<br />&gt; *** Let go of being right and turn to being effective.<br />&gt; *** Build awareness so that you do not make the situation worse.<br />&gt; //**^z**// - 2014-06-24</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 6
+keep-ts: 1528057683

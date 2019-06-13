@@ -1,0 +1,35 @@
+blocks: <h3>~5.5 miles @ ~9.3 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Seneca_Slopes_2013_course_map.jpg" alt="http://zhurnaly.com/images/running/Seneca_Slopes_2013_course_map.jpg" /></td><td align="right">Brrrrrrr! Snow flurries begin as the Seneca Slopes XC race is about to start. It's a hilly trek through the woods, over rocks, roots, and a few muddy swales. At mile 4 I slip and fall; fellow runners pause to check but I'm ok and wave them on as I stagger to my feet, check knee and hand but only find slight scrapes, pick up my cap, and carry on with a loss of only a few seconds.</td></tr></table><p>Arch-nemesis 6-year-old Jason Parks beats me handily today, by more than a minute, as the <a class="url http outside" href="http://www.mcrrc.org/seneca-slopes-9k-0">official results</a> list me first of seven in the 60-64 year old male cohort, 57th place overall behind 48 men and 8 women, with 153 total finishers.</p><p>The <a class="url http outside" href="http://connect.garmin.com/activity/413620647">Garmin</a> GPS and iPhone <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/278784809">Runkeeper</a> roughly concur on route and pace. |</p><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Seneca_Slopes_z1_by_nguyen.jpg" alt="http://zhurnaly.com/images/running/Seneca_Slopes_z1_by_nguyen.jpg" /></td><td align="right">Approximate splits from the Garmin: 9:01 + 9:18 + 9:42 + 9:34 + 9:18 + final fraction kicking it in at 8:39 min/mi pace.</td></tr></table><p>Many thanks to kind friend Barry Smith for driving me to/from the race!</p><p><br /><br /><br /><em>(photos by Hai Nguyen &mdash; at mile ~1.5 and climbing the stairs to the finish line)</em> | <img class="url http" src="http://zhurnaly.com/images/running/Seneca_Slopes_z2_by_nguyen.jpg" alt="http://zhurnaly.com/images/running/Seneca_Slopes_z2_by_nguyen.jpg" /> |</p><p><em><strong>^z</strong></em> - 2013-12-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.214.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.5 miles @ ~9.3 min/mi
+	
+	| http://zhurnaly.com/images/running/Seneca_Slopes_2013_course_map.jpg | Brrrrrrr! Snow flurries begin as the Seneca Slopes XC race is about to start. It's a hilly trek through the woods, over rocks, roots, and a few muddy swales. At mile 4 I slip and fall; fellow runners pause to check but I'm ok and wave them on as I stagger to my feet, check knee and hand but only find slight scrapes, pick up my cap, and carry on with a loss of only a few seconds.
+	
+	Arch-nemesis 6-year-old Jason Parks beats me handily today, by more than a minute, as the [[http://www.mcrrc.org/seneca-slopes-9k-0|official results]] list me first of seven in the 60-64 year old male cohort, 57th place overall behind 48 men and 8 women, with 153 total finishers.
+	
+	The [[http://connect.garmin.com/activity/413620647|Garmin]] GPS and iPhone [[http://runkeeper.com/user/zhurnaly/activity/278784809|Runkeeper]] roughly concur on route and pace. |
+	
+	| http://zhurnaly.com/images/running/Seneca_Slopes_z1_by_nguyen.jpg | Approximate splits from the Garmin: 9:01 + 9:18 + 9:42 + 9:34 + 9:18 + final fraction kicking it in at 8:39 min/mi pace.
+	
+	Many thanks to kind friend Barry Smith for driving me to/from the race!
+	
+	\\ \\ \\
+	
+	//(photos by Hai Nguyen &mdash; at mile ~1.5 and climbing the stairs to the finish line)// | http://zhurnaly.com/images/running/Seneca_Slopes_z2_by_nguyen.jpg |
+	
+	//**^z**// - 2013-12-27
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.5 miles @ ~9.3 min/mi<br />&gt; | http://zhurnaly.com/images/running/Seneca_Slopes_2013_course_map.jpg | Brrrrrrr! Snow flurries begin as the Seneca Slopes XC race is about to start. It's a hilly trek through the woods, over rocks, roots, and a few muddy swales. At mile 4 I slip and fall; fellow runners pause to check but I'm ok and wave them on as I stagger to my feet, check knee and hand but only find slight scrapes, pick up my cap, and carry on with a loss of only a few seconds.<br />&gt; Arch-nemesis 6-year-old Jason Parks beats me handily today, by more than a minute, as the [[http://www.mcrrc.org/seneca-slopes-9k-0|official results]] list me first of seven in the 60-64 year old male cohort, 57th place overall behind 48 men and 8 women, with 153 total finishers.<br />&gt; The [[http://connect.garmin.com/activity/413620647|Garmin]] GPS and iPhone [[http://runkeeper.com/user/zhurnaly/activity/278784809|Runkeeper]] roughly concur on route and pace. |<br />&gt; | http://zhurnaly.com/images/running/Seneca_Slopes_z1_by_nguyen.jpg | Approximate splits from the Garmin: 9:01 + 9:18 + 9:42 + 9:34 + 9:18 + final fraction kicking it in at 8:39 min/mi pace.<br />&gt; Many thanks to kind friend Barry Smith for driving me to/from the race!<br />&gt; \\ \\ \\<br />&gt; //(photos by Hai Nguyen &amp;mdash; at mile ~1.5 and climbing the stairs to the finish line)// | http://zhurnaly.com/images/running/Seneca_Slopes_z2_by_nguyen.jpg |<br />&gt; //**^z**// - 2013-12-27</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057697

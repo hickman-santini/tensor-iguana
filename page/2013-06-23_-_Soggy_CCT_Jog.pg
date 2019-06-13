@@ -1,0 +1,23 @@
+blocks: <h3>~12 miles @ ~10.5 min/mi</h3><p>Light drizzle turns to outright rain as Ken Swab and Rebecca Rosenberg join me for middle miles on the CCT. Only one Warren St rabbit is out today. The actual distance is ~12 miles, since the iPhone <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/198726543">Runkeeper</a> GPS has mega-glitches both times emerging from Wisconsin Av tunnel, as compared to the <a class="url http outside" href="http://connect.garmin.com/activity/332211398">Garmin</a>. Vee Hartenstine sprints by and greets me at mile 10 on the way home. Garmin splits: 10:11+ 9:20 + 9:27 + 10:51 + 12:39 + 10:42 + 11:18 + 11:45 + 10:11 + 8:56 + 10:44 + 9:36 min/mi.</p><p><em><strong>^z</strong></em> - 2013-07-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.67
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12 miles @ ~10.5 min/mi
+	
+	Light drizzle turns to outright rain as Ken Swab and Rebecca Rosenberg join me for middle miles on the CCT. Only one Warren St rabbit is out today. The actual distance is ~12 miles, since the iPhone [[http://runkeeper.com/user/zhurnaly/activity/198726543|Runkeeper]] GPS has mega-glitches both times emerging from Wisconsin Av tunnel, as compared to the [[http://connect.garmin.com/activity/332211398|Garmin]]. Vee Hartenstine sprints by and greets me at mile 10 on the way home. Garmin splits: 10:11+ 9:20 + 9:27 + 10:51 + 12:39 + 10:42 + 11:18 + 11:45 + 10:11 + 8:56 + 10:44 + 9:36 min/mi.
+	
+	//**^z**// - 2013-07-14
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12 miles @ ~10.5 min/mi<br />&gt; Light drizzle turns to outright rain as Ken Swab and Rebecca Rosenberg join me for middle miles on the CCT. Only one Warren St rabbit is out today. The actual distance is ~12 miles, since the iPhone [[http://runkeeper.com/user/zhurnaly/activity/198726543|Runkeeper]] GPS has mega-glitches both times emerging from Wisconsin Av tunnel, as compared to the [[http://connect.garmin.com/activity/332211398|Garmin]]. Vee Hartenstine sprints by and greets me at mile 10 on the way home. Garmin splits: 10:11+ 9:20 + 9:27 + 10:51 + 12:39 + 10:42 + 11:18 + 11:45 + 10:11 + 8:56 + 10:44 + 9:36 min/mi.<br />&gt; //**^z**// - 2013-07-14</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

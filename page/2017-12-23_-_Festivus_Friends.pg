@@ -1,0 +1,27 @@
+blocks: <h3>~12.7 mi @ ~14.8 min/mi</h3><p>"Don't quote me!" says Barry, and allows that statement to be quoted. Festivus dawns cloudy and damp. We meet at Candy Cane City and ramble along Rock Creek, taking a detour through Woodend Sanctuary, the Audubon Society's lovely land.</p><p>"This is a <strong>naturist</strong> center, isn't it? Or was that a typo?" Butterflies painted on a bus offer a photo op. Four big deer cross the path back to the trail and eye us warily. We climb up from the valley, meander through neighborhoods, and take a new trail back to Rock Creek.</p><p>"Perhaps my best years are gone. When there was a chance of happiness. But I wouldn't want them back. Not with the fire in me now." Rebecca joins us and quotes Samuel Beckett on aging. Then it's back to airing grievances. "My main grievance is that you've got far too many grievances!"</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1099869472">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-01-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.144
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12.7 mi @ ~14.8 min/mi
+	
+	"Don't quote me!" says Barry, and allows that statement to be quoted. Festivus dawns cloudy and damp. We meet at Candy Cane City and ramble along Rock Creek, taking a detour through Woodend Sanctuary, the Audubon Society's lovely land.
+	
+	"This is a **naturist** center, isn't it? Or was that a typo?" Butterflies painted on a bus offer a photo op. Four big deer cross the path back to the trail and eye us warily. We climb up from the valley, meander through neighborhoods, and take a new trail back to Rock Creek.
+	
+	"Perhaps my best years are gone. When there was a chance of happiness. But I wouldn't want them back. Not with the fire in me now." Rebecca joins us and quotes Samuel Beckett on aging. Then it's back to airing grievances. "My main grievance is that you've got far too many grievances!"
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1099869472|trackfile]])// - //**^z**// - 2018-01-18
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12.7 mi @ ~14.8 min/mi<br />&gt; "Don't quote me!" says Barry, and allows that statement to be quoted. Festivus dawns cloudy and damp. We meet at Candy Cane City and ramble along Rock Creek, taking a detour through Woodend Sanctuary, the Audubon Society's lovely land.<br />&gt; "This is a **naturist** center, isn't it? Or was that a typo?" Butterflies painted on a bus offer a photo op. Four big deer cross the path back to the trail and eye us warily. We climb up from the valley, meander through neighborhoods, and take a new trail back to Rock Creek.<br />&gt; "Perhaps my best years are gone. When there was a chance of happiness. But I wouldn't want them back. Not with the fire in me now." Rebecca joins us and quotes Samuel Beckett on aging. Then it's back to airing grievances. "My main grievance is that you've got far too many grievances!"<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1099869472|trackfile]])// - //**^z**// - 2018-01-18</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

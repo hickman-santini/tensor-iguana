@@ -1,0 +1,29 @@
+blocks: <h3>2 Comments.</h3><p>I'm not an old fool, but I could try to write "The Young Fool's Quickstart Guide to Control Systems" ... I'd have to go back to my textbooks, though...</p><p>-- <a class="url http outside" href="http://packbat.dreamwidth.org/">RobinZ</a> 2010-12-09 14:05 UTC</p><hr /><p>I dare you to! (^_^)</p><p>-- <a class="url http outside" href="http://zhurnaly.com">^z</a> 2010-12-09 17:38 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.17.10
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	I'm not an old fool, but I could try to write "The Young Fool's Quickstart Guide to Control Systems" ... I'd have to go back to my textbooks, though...
+	
+	-- [http://packbat.dreamwidth.org/ RobinZ] 2010-12-09 14:05 UTC
+	
+	
+	----
+	
+	I dare you to!  (^_^)
+	
+	-- [http://zhurnaly.com ^z] 2010-12-09 17:38 UTC
+	
+	
+languages: 
+lastmajor: 33
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; I'm not an old fool, but I could try to write "The Young Fool's Quickstart Guide to Control Systems" ... I'd have to go back to my textbooks, though...<br />&gt; -- [http://packbat.dreamwidth.org/ RobinZ] 2010-12-09 14:05 UTC<br />&gt; ----<br />&gt; I dare you to!  (^_^)<br />&gt; -- [http://zhurnaly.com ^z] 2010-12-09 17:38 UTC</p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 33
+keep-ts: 1528057700

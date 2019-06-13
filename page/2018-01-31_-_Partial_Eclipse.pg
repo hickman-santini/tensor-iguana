@@ -1,0 +1,23 @@
+blocks: <h3>~4.2 mi @ ~11.8 min/mi</h3><p>"Is that ice on your beard, or ...?" asks Cait, peering at a shiny chin. West winds with temps falling into the upper teens make for chilly body parts, both mentionable and un. Kristin leads the Dawn Patrol on a frosty loop around Pimmit Hills. A full moon glimmers like a pearl, entering the Earth's shadow as it sets behind thin clouds.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1115489878">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-03-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.186
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.2 mi @ ~11.8 min/mi
+	
+	"Is that ice on your beard, or ...?" asks Cait, peering at a shiny chin. West winds with temps falling into the upper teens make for chilly body parts, both mentionable and un. Kristin leads the Dawn Patrol on a frosty loop around Pimmit Hills. A full moon glimmers like a pearl, entering the Earth's shadow as it sets behind thin clouds.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1115489878|trackfile]])// - //**^z**// - 2018-03-01
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.2 mi @ ~11.8 min/mi<br />&gt; "Is that ice on your beard, or ...?" asks Cait, peering at a shiny chin. West winds with temps falling into the upper teens make for chilly body parts, both mentionable and un. Kristin leads the Dawn Patrol on a frosty loop around Pimmit Hills. A full moon glimmers like a pearl, entering the Earth's shadow as it sets behind thin clouds.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1115489878|trackfile]])// - //**^z**// - 2018-03-01</strong></p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057687

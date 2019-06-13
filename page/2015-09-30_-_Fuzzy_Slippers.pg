@@ -1,0 +1,23 @@
+blocks: <h3>~3.5 miles @ ~13.1 min/mi</h3><p>"Some people need a sign on the inside of their door - '<em>Shirt? Shoes?'</em> - to remind them!" says Beth, when we meet a young woman walking toward McLean High School in fuzzy slippers. It's a foggy-soggy morning, perfect for intervals. So, try two 400 meter repeats at the track: push the first in 2:10 and pace more comfortably on the second at 2:17. The not-so-subtle campaign to seduce Dr B into a marathon next year continues: "15 minutes/mile? You could <em>WALK</em> most of it!" She doesn't say no ...</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/666135388">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-25</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.5 miles @ ~13.1 min/mi
+	
+	"Some people need a sign on the inside of their door - '//Shirt? Shoes?'// - to remind them!" says Beth, when we meet a young woman walking toward McLean High School in fuzzy slippers. It's a foggy-soggy morning, perfect for intervals. So, try two 400 meter repeats at the track: push the first in 2:10 and pace more comfortably on the second at 2:17. The not-so-subtle campaign to seduce Dr B into a marathon next year continues: "15 minutes/mile? You could //WALK// most of it!" She doesn't say no ...
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/666135388|trackfile]])// - //**^z**// - 2015-10-25
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.5 miles @ ~13.1 min/mi<br />&gt; "Some people need a sign on the inside of their door - '//Shirt? Shoes?'// - to remind them!" says Beth, when we meet a young woman walking toward McLean High School in fuzzy slippers. It's a foggy-soggy morning, perfect for intervals. So, try two 400 meter repeats at the track: push the first in 2:10 and pace more comfortably on the second at 2:17. The not-so-subtle campaign to seduce Dr B into a marathon next year continues: "15 minutes/mile? You could //WALK// most of it!" She doesn't say no ...<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/666135388|trackfile]])// - //**^z**// - 2015-10-25</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

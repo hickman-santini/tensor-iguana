@@ -1,0 +1,28 @@
+flags: 0
+blocks: <p>At the office certain themes repeatedly come up in conversation, to such an extent that they've become a running joke. Some people are so annoyed that they say, "You can't talk about that!" when debate begins. I haven't yet learned most of the taboo issues, but two that I'm aware of are:</p><ul><li><strong>Can you make fire without artificial/technological aids?</strong> It seems easy enough in the movies and in Boy Scout lore, but the most common approaches require artificial materials: batteries, lenses, steel, special chemicals, etc. Can you start a blaze using only "native" substances? <em>(I suspect yes, but with great difficulty, using friction methods.)</em></li><li><strong>Who would win in a fight between a Man and a Baboon?</strong> The man is assumed to be unarmed. The baboon is assumed to be untrained but pugnacious. <em>(I would run away as fast and as far as possible, in hopes of exhausting the great ape and thus winning peacefully.)</em></li></ul><p>Folks have suggested making a list of forbidden topics and putting up a sign that says:<br /></p><table class="user"><tr><td align="center"><span style="font-variant: small-caps">___ Days Since ___ Was Discussed</span></td></tr></table><p>... like the signage one sometimes sees at construction sites displaying how long since the last accident.</p><p><em><strong>^z</strong></em> - 2009-07-13</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; * **Who would win in a fight between a Man and a Baboon?** The man is assumed to be unarmed. The baboon is assumed to be untrained but pugnacious. //(I would run away as fast and as far as possible, in hopes of <strong class="changes">exhausing</strong> the great ape and thus winning peacefully.)//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * **Who would win in a fight between a Man and a Baboon?** The man is assumed to be unarmed. The baboon is assumed to be untrained but pugnacious. //(I would run away as fast and as far as possible, in hopes of <strong class="changes">exhausting</strong> the great ape and thus winning peacefully.)//</p></div>
+ip: 65.222.202.205
+ts: 1247498142
+minor: 1
+host: 65.222.202.205
+username: zz
+revision: 3
+diff-major: 
+summary: typo fix
+languages: 
+text: At the office certain themes repeatedly come up in conversation, to such an extent that they've become a running joke. Some people are so annoyed that they say, "You can't talk about that!" when debate begins. I haven't yet learned most of the taboo issues, but two that I'm aware of are:
+	
+	* **Can you make fire without artificial/technological aids?** It seems easy enough in the movies and in Boy Scout lore, but the most common approaches require artificial materials: batteries, lenses, steel, special chemicals, etc. Can you start a blaze using only "native" substances? //(I suspect yes, but with great difficulty, using friction methods.)//
+	
+	* **Who would win in a fight between a Man and a Baboon?** The man is assumed to be unarmed. The baboon is assumed to be untrained but pugnacious. //(I would run away as fast and as far as possible, in hopes of exhausting the great ape and thus winning peacefully.)//
+	
+	Folks have suggested making a list of forbidden topics and putting up a sign that says:
+	| %%___ Days Since ___ Was Discussed%% |
+	... like the signage one sometimes sees at construction sites displaying how long since the last accident.
+	
+	//**^z**// - 2009-07-13
+	
+lastmajor: 1
+keep-ts: 1247498142

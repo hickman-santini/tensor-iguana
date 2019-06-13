@@ -1,0 +1,23 @@
+blocks: <p>... during a visit to family in central Texas, a field of longhorn cattle near Schulenberg:</p><p><img class="url http" src="http://zhurnaly.com/images/longhorn_near_Schulenberg.jpg" alt="http://zhurnaly.com/images/longhorn_near_Schulenberg.jpg" /></p><p><em><strong>^z</strong></em> - 2015-06-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.208.51
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: ... during a visit to family in central Texas, a field of longhorn cattle near Schulenberg:
+	
+	http://zhurnaly.com/images/longhorn_near_Schulenberg.jpg
+	
+	//**^z**// - 2015-06-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">... during a visit to family in central Texas, a field of longhorn cattle near Schulenberg:<br />&gt; http://zhurnaly.com/images/longhorn_near_Schulenberg.jpg<br />&gt; //**^z**// - 2015-06-05</strong></p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057678

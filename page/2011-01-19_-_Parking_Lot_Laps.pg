@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~4.5 miles @ ~9 min/mi</h3></p><p>After yesterday's ice storm today's sudden warm spell &mdash; close to 50&deg;F! &mdash; sees me in shorts, with rolled up shirtsleeves after the first 1.5 mile circuit around the parking lots at work. Pace improves each loop: ~9.1 &rArr; ~8.0 &rArr; ~7.5 min/mi.</p><p><em><strong>^z</strong></em> - 2011-02-03</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; After yesterday's ice storm today's sudden warm spell &amp;mdash; close to 50&amp;deg;F<strong class="changes">!</strong>&amp;mdash; sees me in shorts, with rolled up shirtsleeves after the first 1.5 mile circuit around the parking lots at work. Pace improves each loop: ~9.1 &amp;rArr; ~8.0 &amp;rArr; ~7.5 min/mi.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; After yesterday's ice storm today's sudden warm spell &amp;mdash; close to 50&amp;deg;F<strong class="changes">! </strong>&amp;mdash; sees me in shorts, with rolled up shirtsleeves after the first 1.5 mile circuit around the parking lots at work. Pace improves each loop: ~9.1 &amp;rArr; ~8.0 &amp;rArr; ~7.5 min/mi.</p></div>
+ip: 138.88.28.125
+ts: 1296726359
+minor: 1
+host: pool-138-88-28-125.res.east.verizon.net
+username: Mark Zimmermann
+revision: 3
+diff-major: 
+summary: tweaks 2
+languages: 
+text: === ~4.5 miles @ ~9 min/mi
+	
+	After yesterday's ice storm today's sudden warm spell &mdash; close to 50&deg;F! &mdash; sees me in shorts, with rolled up shirtsleeves after the first 1.5 mile circuit around the parking lots at work. Pace improves each loop: ~9.1 &rArr; ~8.0 &rArr; ~7.5 min/mi.
+	
+	//**^z**// - 2011-02-03
+	
+lastmajor: 1
+keep-ts: 1296726359

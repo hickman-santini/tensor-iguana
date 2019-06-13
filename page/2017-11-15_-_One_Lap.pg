@@ -1,0 +1,25 @@
+blocks: <h3>~5.4 miles @ ~10.9 min/mi</h3><p>"I'm happy enough with 1:58!" Caitlin comments as we catch our breath after a brisk lap around the McLean High School track. A waning crescent moon hangs low in the east; Venus glows just above the horizon. Frost glitters like a dusting of diamonds on windshields and sere grass.</p><p>"I have 90 minutes to write 3 hours worth of code!" Molly explains why she must stop at 1.5 miles. The Dawn Patrol cuts past baseball fields in Westgate Park to get her back early, then rambles through the gated Evans Farm community, dodging a jet of steam billowing from a dryer vent.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1085999619">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-12-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.218
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.4 miles @ ~10.9 min/mi
+	
+	"I'm happy enough with 1:58!" Caitlin comments as we catch our breath after a brisk lap around the McLean High School track. A waning crescent moon hangs low in the east; Venus glows just above the horizon. Frost glitters like a dusting of diamonds on windshields and sere grass.
+	
+	"I have 90 minutes to write 3 hours worth of code!" Molly explains why she must stop at 1.5 miles. The Dawn Patrol cuts past baseball fields in Westgate Park to get her back early, then rambles through the gated Evans Farm community, dodging a jet of steam billowing from a dryer vent.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1085999619|trackfile]])// - //**^z**// - 2017-12-08
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.4 miles @ ~10.9 min/mi<br />&gt; "I'm happy enough with 1:58!" Caitlin comments as we catch our breath after a brisk lap around the McLean High School track. A waning crescent moon hangs low in the east; Venus glows just above the horizon. Frost glitters like a dusting of diamonds on windshields and sere grass.<br />&gt; "I have 90 minutes to write 3 hours worth of code!" Molly explains why she must stop at 1.5 miles. The Dawn Patrol cuts past baseball fields in Westgate Park to get her back early, then rambles through the gated Evans Farm community, dodging a jet of steam billowing from a dryer vent.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1085999619|trackfile]])// - //**^z**// - 2017-12-08</strong></p></div>
+flags: 0
+ts: 1528057695
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057695

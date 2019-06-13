@@ -1,0 +1,23 @@
+blocks: <h3>~5.4 miles @ ~11.8 min/mi</h3><p>"I placed a jar in Tennessee, / And round it was, upon a hill." It's a Coffee Run morning, a sunrise sprint straight for Starbucks. Once caffeinated we slow the pace and give thanks for health, family, friends. Kerry tells of her daughter's super-busy schedule, unstopped by sniffles. The looming weekend promises no rest. I recount metacognitive bumper-stickers from a recent conference: "We need to discover methods to discover new methods" ... "Our metaphors are too linear &mdash; 'momentum', 'tension', etc. &mdash; for a nonlinear emergent world" ... "It's not a collection problem, it's a cognition problem!" ... "How can we generate hypotheses we cannot imagine?" Perhaps poetry can help.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/864511307">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-10-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.227
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.4 miles @ ~11.8 min/mi
+	
+	"I placed a jar in Tennessee, / And round it was, upon a hill." It's a Coffee Run morning, a sunrise sprint straight for Starbucks. Once caffeinated we slow the pace and give thanks for health, family, friends. Kerry tells of her daughter's super-busy schedule, unstopped by sniffles. The looming weekend promises no rest. I recount metacognitive bumper-stickers from a recent conference: "We need to discover methods to discover new methods" ... "Our metaphors are too linear &mdash; 'momentum', 'tension', etc. &mdash; for a nonlinear emergent world" ... "It's not a collection problem, it's a cognition problem!" ... "How can we generate hypotheses we cannot imagine?" Perhaps poetry can help.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/864511307|trackfile]])// - //**^z**// - 2016-10-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.4 miles @ ~11.8 min/mi<br />&gt; "I placed a jar in Tennessee, / And round it was, upon a hill." It's a Coffee Run morning, a sunrise sprint straight for Starbucks. Once caffeinated we slow the pace and give thanks for health, family, friends. Kerry tells of her daughter's super-busy schedule, unstopped by sniffles. The looming weekend promises no rest. I recount metacognitive bumper-stickers from a recent conference: "We need to discover methods to discover new methods" ... "Our metaphors are too linear &amp;mdash; 'momentum', 'tension', etc. &amp;mdash; for a nonlinear emergent world" ... "It's not a collection problem, it's a cognition problem!" ... "How can we generate hypotheses we cannot imagine?" Perhaps poetry can help.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/864511307|trackfile]])// - //**^z**// - 2016-10-15</strong></p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057678

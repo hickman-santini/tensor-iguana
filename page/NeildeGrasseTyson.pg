@@ -1,0 +1,23 @@
+blocks: <p><a class="url http outside" href="https://twitter.com/neiltyson">Tweet!</a></p><p><a class="url http outside" href="http://www.reddit.com/r/IAmA/comments/mateq/i_am_neil_degrasse_tyson_ama/">NdGT's first Reddit AskMeAnything</a>. For context, <a class="url http outside" href="http://www.reddit.com/r/IAmA/top/?sort=top&amp;t=all">The top AMAs of all time</a>, and <a class="url http outside" href="http://www.forbes.com/sites/ryanholiday/2012/05/01/inside-the-reddit-ama-the-interview-revolution-that-has-everyone-talking/">Forbes comments on the platform</a>.</p><p><a class="url http outside" href="http://www.wired.com/geekdad/2011/08/cosmos-to-get-a-sequel-hosted-by-neil-degrasse-tyson/">Cosmos 2.0</a></p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.88.208
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: [https://twitter.com/neiltyson Tweet!]
+	
+	[http://www.reddit.com/r/IAmA/comments/mateq/i_am_neil_degrasse_tyson_ama/ NdGT's first Reddit AskMeAnything]. For context, [http://www.reddit.com/r/IAmA/top/?sort=top&t=all The top AMAs of all time], and [http://www.forbes.com/sites/ryanholiday/2012/05/01/inside-the-reddit-ama-the-interview-revolution-that-has-everyone-talking/ Forbes comments on the platform]. 
+	
+	[http://www.wired.com/geekdad/2011/08/cosmos-to-get-a-sequel-hosted-by-neil-degrasse-tyson/ Cosmos 2.0]
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">[https://twitter.com/neiltyson Tweet!]<br />&gt; [http://www.reddit.com/r/IAmA/comments/mateq/i_am_neil_degrasse_tyson_ama/ NdGT's first Reddit AskMeAnything]. For context, [http://www.reddit.com/r/IAmA/top/?sort=top&amp;t=all The top AMAs of all time], and [http://www.forbes.com/sites/ryanholiday/2012/05/01/inside-the-reddit-ama-the-interview-revolution-that-has-everyone-talking/ Forbes comments on the platform]. <br />&gt; [http://www.wired.com/geekdad/2011/08/cosmos-to-get-a-sequel-hosted-by-neil-degrasse-tyson/ Cosmos 2.0]</strong></p></div>
+flags: 0
+ts: 1528057677
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057677

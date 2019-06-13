@@ -1,0 +1,37 @@
+flags: 0
+blocks: <table class="user"><tr><td align="right">The Massanutten Trail is built of gaps:<br />Shawl Gap; Veach Gap; Sherman, Milford, Habron Gap,<br />Notches in a ridge line, spaces, voids,<br />Emptiness where valley touches hill,<br />Clefts where saddles bridge the land and sky ...<br /><br />Pits and crevasses, outlines, silhouettes,<br />Openings among the tumbled rocks,<br />Peeks between the scrub brush and the stones,<br />Glimpses of a river far below,<br />Breaks to catch a breath during a climb ...<br /><br />Miles to walk until the next crossroads,<br />Hours far away from other folk,<br />Pauses that divide the words we say,<br />Interruptions, blinks during a glance,<br />The chasms in between us ...</td></tr></table><p><em><strong>^z</strong></em> - 2009-12-10</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; //**^z**// - 2009-12-10</p></div>
+ip: 71.178.96.15
+ts: 1528057695
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 5
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | The Massanutten Trail is built of gaps:
+	Shawl Gap; Veach Gap; Sherman, Milford, Habron Gap,
+	Notches in a ridge line, spaces, voids, 
+	Emptiness where valley touches hill,
+	Clefts where saddles bridge the land and sky ...
+	\\
+	Pits and crevasses, outlines, silhouettes,
+	Openings among the tumbled rocks,
+	Peeks between the scrub brush and the stones,
+	Glimpses of a river far below,
+	Breaks to catch a breath during a climb ...
+	\\
+	Miles to walk until the next crossroads,
+	Hours far away from other folk,
+	Pauses that divide the words we say,
+	Interruptions, blinks during a glance,
+	The chasms in between us ... |
+	
+	//**^z**// - 2009-12-10
+	
+languages: 
+lastmajor: 1
+keep-ts: 1528057695

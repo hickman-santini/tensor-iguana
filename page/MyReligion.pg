@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">//(from Chapter 39 of **Middlemarch**, by "George Eliot")//<br />&lt; 'Oh, my life is very simple,' said Dorothea, her lips curling with an exquisite smile, which irradiated her melancholy. 'I am always at Lowick.'<br />&lt; 'That is a dreadful imprisonment,' said Will, impetuously.<br />&lt; 'No, don't think that,' said Dorothea. 'I have no longings.'<br />&lt; He did not speak, but she replied to some change in his expression. 'I mean, for myself. Except that I should like not to have so much more than my share without doing anything for others. But I have a belief of my own, and it comforts me.'<br />&lt; 'What is that?' said Will, rather jealous of the belief.<br />&lt; 'That by desiring what is perfectly good, even when we don't quite know what it is and cannot do what we would, we are part of the divine power against evil &amp;mdash; widening the skirts of light and making the struggle with darkness narrower.'<br />&lt; 'That is a beautiful mysticism &amp;mdash; it is a &amp;mdash;'<br />&lt; 'Please not to call it by any name,' said Dorothea, putting out her hands entreatingly. 'You will say it is Persian, or something else geographical. It is my life. I have found it out, and cannot part with it. I have always been finding out my religion since I was a little girl. I used to pray so much &amp;mdash; now I hardly ever pray. I try not to have desires merely for myself, because they may not be good for others, and I have too much already. I only told you, that you might know quite well how my days go at Lowick.'<br />&lt; 'God bless you for telling me!' said Will, ardently, and rather wondering at himself. They were looking at each other like two fond children who were talking confidentially of birds.<br />&lt; 'What is //your// religion?' said Dorothea. 'I mean &amp;mdash; not what you know about religion, but the belief that helps you most?'<br />&lt; ...<br />&lt; ----</strong><br />&lt; [[<strong class="changes">TopicFaith</strong>]] <strong class="changes">- [[TopicLiterature]] - [[TopicPoetry]] - Datetag20001106<br />&lt; ----<br />&lt; //(correlates: [[TrueStory]], [[TerribleObstacles]], [[PartyLines]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">My Religion</strong>]]</p></div>
+ip: 70.21.87.47
+ts: 1220521278
+minor: 1
+host: pool-70-21-87-47.res.east.verizon.net
+username: MarkZimmermann
+revision: 4
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>correlates: [[TrueStory]], [[TerribleObstacles]], [[PartyLines]], <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>correlates: [[TrueStory]], [[TerribleObstacles]], [[PartyLines]], <strong class="changes">...)//</strong></p></div>
+summary: make redirect to [[My Religion]]
+languages: 
+text: #REDIRECT [[My Religion]]
+	
+lastmajor: 3
+keep-ts: 1220521278

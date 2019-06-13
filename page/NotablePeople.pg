@@ -1,0 +1,18 @@
+flags: 0
+blocks: <p><a class="url http outside" href="http://zhurnaly.com/cgi-bin/wiki/EdwinTJaynes">Edwin T. Jaynes</a><br /><a class="url http outside" href="http://zhurnaly.com/cgi-bin/wiki/NeildeGrasseTyson">Neil deGrasse Tyson</a></p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; [http://zhurnaly.com/cgi-bin/wiki/EdwinTJaynes Edwin T. Jaynes]<br />&gt; [http://zhurnaly.com/cgi-bin/wiki/NeildeGrasseTyson Neil deGrasse Tyson]</p></div>
+ip: 108.48.88.208
+ts: 1528057707
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 4
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: [http://zhurnaly.com/cgi-bin/wiki/EdwinTJaynes Edwin T. Jaynes]
+	[http://zhurnaly.com/cgi-bin/wiki/NeildeGrasseTyson Neil deGrasse Tyson]
+	
+	
+languages: 
+keep-ts: 1528057707

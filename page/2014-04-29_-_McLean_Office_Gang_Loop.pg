@@ -1,0 +1,23 @@
+blocks: <h3>~3.5 miles @ ~10.4 min/mi</h3><p>Mochi-mochi and Diet Coke breakfast fuels morning jog with office colleagues David, Ed, and Kristin &mdash; two bunny sightings in light drizzle &mdash; Kanzan pink cherry trees and pastel tulips in bloom &mdash; <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/344344032">Runkeeper</a> records "Ed's Loop" route.</p><p><em><strong>^z</strong></em> - 2014-06-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.5 miles @ ~10.4 min/mi
+	
+	Mochi-mochi and Diet Coke breakfast fuels morning jog with office colleagues David, Ed, and Kristin &mdash; two bunny sightings in light drizzle &mdash; Kanzan pink cherry trees and pastel tulips in bloom &mdash; [[http://runkeeper.com/user/zhurnaly/activity/344344032|Runkeeper]] records "Ed's Loop" route.
+	
+	//**^z**// - 2014-06-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.5 miles @ ~10.4 min/mi<br />&gt; Mochi-mochi and Diet Coke breakfast fuels morning jog with office colleagues David, Ed, and Kristin &amp;mdash; two bunny sightings in light drizzle &amp;mdash; Kanzan pink cherry trees and pastel tulips in bloom &amp;mdash; [[http://runkeeper.com/user/zhurnaly/activity/344344032|Runkeeper]] records "Ed's Loop" route.<br />&gt; //**^z**// - 2014-06-07</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

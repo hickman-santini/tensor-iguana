@@ -1,0 +1,32 @@
+blocks: <p>When an author's name is followed by an advanced degree &mdash; "Robert Chuckrow, Ph.D." in this case &mdash; perhaps that's a danger sign? <strong>The Tai Chi Book: Refining and Enjoying a Lifetime of Practice</strong> (1998) waves that red flag, and a number of others. Chuckrow's credentials as an experimental physicist and high school physics teacher aren't particularly relevant to T'ai Chi. His physiological beliefs, particularly as described in Chapter 9 on "Health, Healing, and Sexuality", are astoundingly unsupported by evidence; the discussion of "Taoist Sexual Practices" is unscientific and bizarre by rational standards. His prose is first-person anecdotal, embarrassingly so at times.</p><p>And yet, there are also insightful moments, as in the discussion in Chapter 8 ("On Being a Student") about "Practice in Everyday Life":<br /></p><blockquote><p>Professor Cheng used to say that mere practice of the form is superfluous when everything a practitioner does is in accordance with the principles of T'ai Chi Ch'uan. As a result of these words, early on in my study of T'ai Chi Ch'uan, I became inspired to infuse every action in my daily life with the T'ai Chi Ch'uan principles.</p><p>For example, when I drove my car, I practiced holding the steering wheel so lightly that I could feel the effect of every change in the road surface. ...</p><p>I used opportunities, such as standing on a check-out line in a store, to root by standing on one leg while relaxing the upper body. I also practiced walking in such a manner that I did not commit my weight to a foot before feeling the ground underneath. ...<br /></p></blockquote><p>Overall, though, the mix of mysticism and muddle, the general disorganization, and the lack of critical analysis make it hard to read and learn from <strong>The Tai Chi Book</strong>.</p><p><em>(cf. <a class="url http outside" href="http://www.chuckrowtaichi.com">Robert Chuckrow's web site</a>, ...)</em> - <em><strong>^z</strong></em> - 2014-05-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.166
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: When an author's name is followed by an advanced degree &mdash; "Robert Chuckrow, Ph.D." in this case &mdash; perhaps that's a danger sign? **The Tai Chi Book: Refining and Enjoying a Lifetime of Practice** (1998) waves that red flag, and a number of others. Chuckrow's credentials as an experimental physicist and high school physics teacher aren't particularly relevant to T'ai Chi. His physiological beliefs, particularly as described in Chapter 9 on "Health, Healing, and Sexuality", are astoundingly unsupported by evidence; the discussion of "Taoist Sexual Practices" is unscientific and bizarre by rational standards. His prose is first-person anecdotal, embarrassingly so at times.
+	
+	And yet, there are also insightful moments, as in the discussion in Chapter 8 ("On Being a Student") about "Practice in Everyday Life":
+	"""
+	Professor Cheng used to say that mere practice of the form is superfluous when everything a practitioner does is in accordance with the principles of T'ai Chi Ch'uan. As a result of these words, early on in my study of T'ai Chi Ch'uan, I became inspired to infuse every action in my daily life with the T'ai Chi Ch'uan principles.
+	
+	For example, when I drove my car, I practiced holding the steering wheel so lightly that I could feel the effect of every change in the road surface. ...
+	
+	I used opportunities, such as standing on a check-out line in a store, to root by standing on one leg while relaxing the upper body. I also practiced walking in such a manner that I did not commit my weight to a foot before feeling the ground underneath. ...
+	"""
+	
+	Overall, though, the mix of mysticism and muddle, the general disorganization, and the lack of critical analysis make it hard to read and learn from **The Tai Chi Book**.
+	
+	//(cf. [[http://www.chuckrowtaichi.com|Robert Chuckrow's web site]], ...)// - //**^z**// - 2014-05-21
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; When an author's name is followed by an advanced degree &amp;mdash; "Robert Chuckrow, Ph.D." in this case &amp;mdash; perhaps that's a danger sign? **The Tai Chi Book: Refining and Enjoying a Lifetime of Practice** (1998) waves that red flag, and a number of others. Chuckrow's credentials as an experimental physicist and high school physics teacher aren't particularly relevant to T'ai Chi. His physiological beliefs, particularly as described in Chapter 9 on "Health, Healing, and Sexuality", are astoundingly unsupported by evidence; the discussion of "Taoist Sexual Practices" is <strong class="changes">embarrassingly</strong> unscientific and <strong class="changes">truly</strong> bizarre by rational standards. His prose is first-person anecdotal, embarrassingly so at times.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; When an author's name is followed by an advanced degree &amp;mdash; "Robert Chuckrow, Ph.D." in this case &amp;mdash; perhaps that's a danger sign? **The Tai Chi Book: Refining and Enjoying a Lifetime of Practice** (1998) waves that red flag, and a number of others. Chuckrow's credentials as an experimental physicist and high school physics teacher aren't particularly relevant to T'ai Chi. His physiological beliefs, particularly as described in Chapter 9 on "Health, Healing, and Sexuality", are astoundingly unsupported by evidence; the discussion of "Taoist Sexual Practices" is unscientific and bizarre by rational standards. His prose is first-person anecdotal, embarrassingly so at times.</p></div>
+flags: 0
+ts: 1528057680
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057680

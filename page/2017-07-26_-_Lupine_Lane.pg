@@ -1,0 +1,23 @@
+blocks: <h3>~6.1 miles @ ~13.3 min/mi</h3><p>"It's like we're on another planet!" Kristin describes the lovely weather this morning, temperature and humidity both far more comfortable than for the past week. A medium-large red fox crosses the street and stops to stare at us half a mile into the run. On Lupine Lane a peloton of spandex-clad cyclists swoops past. Kerry shares the secret of how to drive a rental car overseas, on the left side of the road down narrow country lanes in the presence of kine and other creatures. <em>(Answer: buy extra insurance!)</em> Caitlin reports meeting "Fletcher", a baby name that apparently is trending this year. A bronze front-yard sculpture depicts a young brother and sister reading together.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1025079529">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-08-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.79
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.1 miles @ ~13.3 min/mi
+	
+	"It's like we're on another planet!" Kristin describes the lovely weather this morning, temperature and humidity both far more comfortable than for the past week. A medium-large red fox crosses the street and stops to stare at us half a mile into the run. On Lupine Lane a peloton of spandex-clad cyclists swoops past. Kerry shares the secret of how to drive a rental car overseas, on the left side of the road down narrow country lanes in the presence of kine and other creatures. //(Answer: buy extra insurance!)// Caitlin reports meeting "Fletcher", a baby name that apparently is trending this year. A bronze front-yard sculpture depicts a young brother and sister reading together.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1025079529|trackfile]])// - //**^z**// - 2017-08-21
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.1 miles @ ~13.3 min/mi<br />&gt; "It's like we're on another planet!" Kristin describes the lovely weather this morning, temperature and humidity both far more comfortable than for the past week. A medium-large red fox crosses the street and stops to stare at us half a mile into the run. On Lupine Lane a peloton of spandex-clad cyclists swoops past. Kerry shares the secret of how to drive a rental car overseas, on the left side of the road down narrow country lanes in the presence of kine and other creatures. //(Answer: buy extra insurance!)// Caitlin reports meeting "Fletcher", a baby name that apparently is trending this year. A bronze front-yard sculpture depicts a young brother and sister reading together.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1025079529|trackfile]])// - //**^z**// - 2017-08-21</strong></p></div>
+flags: 0
+ts: 1528057686
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057686

@@ -1,0 +1,25 @@
+blocks: <h3>~5.3 miles @ ~13.0 min/mi</h3><p>"Your suitcase is smoking!" Cait recounts an airport situation after a carbon dioxide canister abruptly vents, resulting in rapid cooling, a cloud of fog, and a massive underwear freeze. <em>Oops!</em></p><p>Kristin leads the Dawn Patrol on a meander past the McLean Public Library. Tulip buds are opening. We share a lovely sunrise, and spy three rabbits and three big deer.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/962403071">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-05-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.246
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.3 miles @ ~13.0 min/mi
+	
+	"Your suitcase is smoking!" Cait recounts an airport situation after a carbon dioxide canister abruptly vents, resulting in rapid cooling, a cloud of fog, and a massive underwear freeze. //Oops!//
+	
+	Kristin leads the Dawn Patrol on a meander past the McLean Public Library. Tulip buds are opening. We share a lovely sunrise, and spy three rabbits and three big deer.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/962403071|trackfile]])// - //**^z**// - 2017-05-04
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.3 miles @ ~13.0 min/mi<br />&gt; "Your suitcase is smoking!" Cait recounts an airport situation after a carbon dioxide canister abruptly vents, resulting in rapid cooling, a cloud of fog, and a massive underwear freeze. //Oops!//<br />&gt; Kristin leads the Dawn Patrol on a meander past the McLean Public Library. Tulip buds are opening. We share a lovely sunrise, and spy three rabbits and three big deer.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/962403071|trackfile]])// - //**^z**// - 2017-05-04</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057700

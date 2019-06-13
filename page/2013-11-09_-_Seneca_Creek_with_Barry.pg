@@ -1,0 +1,29 @@
+blocks: <h3>~8.5 miles @ ~14 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/SCGT_frosty_meadow.jpg" alt="http://zhurnaly.com/images/running/SCGT_frosty_meadow.jpg" /></td><td align="right">Frost decorates the meadow as Barry Smith and I trek along Seneca Creek, previewing the first half dozen miles of next week's Stone Mill 50 miler. We ramble upstream to Brink Rd and then downstream to tag MD-355 and back. Barry spies a deer. I mishear it as "beer" and respond, "Where?? Where???"</td></tr></table><p>When we get back to Barry's car two hours later, we each do ~10 push-ups on the parking lot. Our hands show stigmata from the gravel surface. |</p><table class="user"><tr><td align="right">At the scenic overlook we pause to snap photos of each other. An elderly gentleman trots past and asks if we're planning to run Stone Mill. He not, and says that he's in his 70's now and sticks to shorter distances. We salute him.</td></tr></table><p> <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/268174028">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/402341940">Garmin GPS</a> show the route and pace details. | <img class="url http" src="http://zhurnaly.com/images/running/SCGT_scenic_overlook_z.jpg" alt="http://zhurnaly.com/images/running/SCGT_scenic_overlook_z.jpg" /> |</p><p><em><strong>^z</strong></em> - 2013-11-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.210.244
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.5 miles @ ~14 min/mi
+	
+	| http://zhurnaly.com/images/running/SCGT_frosty_meadow.jpg | Frost decorates the meadow as Barry Smith and I trek along Seneca Creek, previewing the first half dozen miles of next week's Stone Mill 50 miler. We ramble upstream to Brink Rd and then downstream to tag MD-355 and back. Barry spies a deer. I mishear it as "beer" and respond, "Where?? Where???"
+	
+	When we get back to Barry's car two hours later, we each do ~10 push-ups on the parking lot. Our hands show stigmata from the gravel surface. |
+	
+	| At the scenic overlook we pause to snap photos of each other. An elderly gentleman trots past and asks if we're planning to run Stone Mill. He not, and says that he's in his 70's now and sticks to shorter distances. We salute him.
+	
+	 [[http://runkeeper.com/user/zhurnaly/activity/268174028|Runkeeper]] and [[http://connect.garmin.com/activity/402341940|Garmin GPS]] show the route and pace details. | http://zhurnaly.com/images/running/SCGT_scenic_overlook_z.jpg |
+	
+	//**^z**// - 2013-11-26
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.5 miles @ ~14 min/mi<br />&gt; | http://zhurnaly.com/images/running/SCGT_frosty_meadow.jpg | Frost decorates the meadow as Barry Smith and I trek along Seneca Creek, previewing the first half dozen miles of next week's Stone Mill 50 miler. We ramble upstream to Brink Rd and then downstream to tag MD-355 and back. Barry spies a deer. I mishear it as "beer" and respond, "Where?? Where???"<br />&gt; When we get back to Barry's car two hours later, we each do ~10 push-ups on the parking lot. Our hands show stigmata from the gravel surface. |<br />&gt; | At the scenic overlook we pause to snap photos of each other. An elderly gentleman trots past and asks if we're planning to run Stone Mill. He not, and says that he's in his 70's now and sticks to shorter distances. We salute him.<br />&gt;  [[http://runkeeper.com/user/zhurnaly/activity/268174028|Runkeeper]] and [[http://connect.garmin.com/activity/402341940|Garmin GPS]] show the route and pace details. | http://zhurnaly.com/images/running/SCGT_scenic_overlook_z.jpg |<br />&gt; //**^z**// - 2013-11-26</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

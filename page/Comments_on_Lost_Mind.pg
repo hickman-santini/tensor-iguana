@@ -1,0 +1,34 @@
+blocks: <h3>1 Comment.</h3><p>or maybe:</p><table class="user"><tr><td align="right">When falling asleep, during the time<br />Between awareness of "I'm falling asleep"<br />And the jolt of awakening,<br />What are the thoughts that flow<br />Unrecorded, slipping out of memory's grasp?<br /><br />And could one use that space,<br />The gap when "Nothing I think now will ever be remembered!",<br />To seize absolute freedom<br />And wear the Ring of Gyges?</td></tr></table><p>-- <a class="url http outside" href="http://zhurnaly.com">z</a> 2015-05-19 08:12 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.94.16
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	or maybe:
+	
+	| When falling asleep, during the time
+	Between awareness of "I'm falling asleep"
+	And the jolt of awakening,
+	What are the thoughts that flow
+	Unrecorded, slipping out of memory's grasp?
+	\\
+	And could one use that space,
+	The gap when "Nothing I think now will ever be remembered!",
+	To seize absolute freedom
+	And wear the Ring of Gyges? |
+	
+	-- [http://zhurnaly.com z] 2015-05-19 08:12 UTC
+	
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; or maybe:<br />&gt; | When falling asleep, during the time<br />&gt; Between awareness of "I'm falling asleep"<br />&gt; And the jolt of awakening,<br />&gt; What are the thoughts that flow<br />&gt; Unrecorded, slipping out of memory's grasp?<br />&gt; \\<br />&gt; And could one use that space,<br />&gt; The gap when "Nothing I think now will ever be remembered!",<br />&gt; To seize absolute freedom<br />&gt; And wear the Ring of Gyges? |<br />&gt; -- [http://zhurnaly.com z] 2015-05-19 08:12 UTC</strong></p></div>
+flags: 0
+ts: 1528057695
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057695

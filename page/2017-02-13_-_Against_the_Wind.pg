@@ -1,0 +1,25 @@
+blocks: <h3>~8.9 miles @ ~13.4 min/mi</h3><p>"Wish I didn't know now what I didn't know then!" And wish I could have remembered that Zen lyric sooner this morning. Northwest breezes are 20+ mi/hr, with chilly gusts reaching 40+ mph. Kerry and Kristin have to duck under a broken cedar tree trunk that stretches over the sidewalk. The 1967 song "Windy" comes to mind &mdash; and raises the question of how many neurons are devoted to storing sunshine-pop lyrics like that? And how long should it take to recall that Bob Seeger was the artist who wrote "Against the Wind"?</p><p>"Let's run to a <em>different</em> Starbucks today!" Kristin nominates one we've never visited, in Tysons Corner next to a Harris-Teeter on Park Run Drive. But when the Dawn Patrol gets there nobody is behind the counter, although the doors are wide open! Another erstwhile coffee customer suggests being baristas for each other. But we decide against it, and after a couple of minutes give up and hit the road again.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/933171910">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.103
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.9 miles @ ~13.4 min/mi
+	
+	"Wish I didn't know now what I didn't know then!" And wish I could have remembered that Zen lyric sooner this morning. Northwest breezes are 20+ mi/hr, with chilly gusts reaching 40+ mph. Kerry and Kristin have to duck under a broken cedar tree trunk that stretches over the sidewalk. The 1967 song "Windy" comes to mind &mdash; and raises the question of how many neurons are devoted to storing sunshine-pop lyrics like that? And how long should it take to recall that Bob Seeger was the artist who wrote "Against the Wind"?
+	
+	"Let's run to a //different// Starbucks today!" Kristin nominates one we've never visited, in Tysons Corner next to a Harris-Teeter on Park Run Drive. But when the Dawn Patrol gets there nobody is behind the counter, although the doors are wide open! Another erstwhile coffee customer suggests being baristas for each other. But we decide against it, and after a couple of minutes give up and hit the road again.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/933171910|trackfile]])// - //**^z**// - 2017-03-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.9 miles @ ~13.4 min/mi<br />&gt; "Wish I didn't know now what I didn't know then!" And wish I could have remembered that Zen lyric sooner this morning. Northwest breezes are 20+ mi/hr, with chilly gusts reaching 40+ mph. Kerry and Kristin have to duck under a broken cedar tree trunk that stretches over the sidewalk. The 1967 song "Windy" comes to mind &amp;mdash; and raises the question of how many neurons are devoted to storing sunshine-pop lyrics like that? And how long should it take to recall that Bob Seeger was the artist who wrote "Against the Wind"?<br />&gt; "Let's run to a //different// Starbucks today!" Kristin nominates one we've never visited, in Tysons Corner next to a Harris-Teeter on Park Run Drive. But when the Dawn Patrol gets there nobody is behind the counter, although the doors are wide open! Another erstwhile coffee customer suggests being baristas for each other. But we decide against it, and after a couple of minutes give up and hit the road again.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/933171910|trackfile]])// - //**^z**// - 2017-03-17</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057712

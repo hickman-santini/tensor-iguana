@@ -1,0 +1,16 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">http://zhurnaly.com/images/zhurnalnet_z_images/emily_dickinson.jpg<br />&lt; {{{<br />&lt;  We do not play on Graves --<br />&lt;  Because there isn't Room --<br />&lt;  Besides -- it isn't even -- it slants<br />&lt;  And People come --<br />&lt;  And put a Flower on it --<br />&lt;  And hang their faces so --<br />&lt;  We're fearing that their Hearts will drop --<br />&lt;  And crush our pretty play --<br />&lt;  And so we move as far<br />&lt;  As Enemies -- away --<br />&lt;  Just looking round to see how far<br />&lt;  It is -- Occasionally --<br />&lt; }}}<br />&lt; //(poem by</strong> Emily Dickinson<strong class="changes">; photograph taken in Amherst, Massachusetts, August 2004; see also [[RobertFrostTrail]] (10 Aug 2004), ...)//<br />&lt; ----<br />&lt; [[TopicPoetry]] - [[TopicProfiles</strong>]] <strong class="changes">- [[TopicLiterature]] - Datetag20041111<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[WindToThyWings]], [[PersonalResponsibility]], [[ThinkingThroughPrejudice]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[</strong>Emily Dickinson]]</p></div>
+ip: 70.21.38.24
+ts: 1224961903
+minor: 1
+host: pool-70-21-38-24.res.east.verizon.net
+username: MarkZimmermann
+revision: 6
+diff-major: 
+summary: redirect
+languages: 
+text: #REDIRECT [[Emily Dickinson]]
+	
+lastmajor: 3
+keep-ts: 1224961903

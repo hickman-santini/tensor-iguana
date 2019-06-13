@@ -1,0 +1,22 @@
+blocks: <p>Total non-sequitur? Sarcastic riposte? Bitter humor? Whatever it was, I had to smile when I read TV producer Dan Harmon's <a class="url http outside" href="http://www.nytimes.com/2012/08/12/fashion/parting-is-such-sweet-revenge.html">reply to the network chief</a> who fired him from the show <strong>Community</strong> (which Harmon created):<br /></p><table class="user"><tr><td align="center">"That's a misquote. I think he meant to say he's sure cookies are yummy ..."</td></tr></table><p><em><strong>^z</strong></em> - 2012-08-25</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.30.123
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Total non-sequitur? Sarcastic riposte? Bitter humor? Whatever it was, I had to smile when I read TV producer Dan Harmon's [[http://www.nytimes.com/2012/08/12/fashion/parting-is-such-sweet-revenge.html|reply to the network chief]] who fired him from the show **Community** (which Harmon created):
+	| "That's a misquote. I think he meant to say he's sure cookies are yummy ..." |
+	
+	//**^z**// - 2012-08-25
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Total non-sequitur? Sarcastic riposte? Bitter humor? Whatever it was, I had to smile when I read TV producer Dan Harmon's [[http://www.nytimes.com/2012/08/12/fashion/parting-is-such-sweet-revenge.html|reply to the network chief]] who fired him from the show **Community** (which Harmon created):<br />&gt; | "That's a misquote. I think he meant to say he's sure cookies are yummy ..." |<br />&gt; //**^z**// - 2012-08-25</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

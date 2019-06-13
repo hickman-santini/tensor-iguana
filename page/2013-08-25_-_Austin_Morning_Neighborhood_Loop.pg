@@ -1,0 +1,27 @@
+blocks: <h3>~10 miles @ ~10.5 min/mi</h3><table class="user"><tr><td align="right">Convex curves catch my eye as I pass an iconic Austin water tower near mile 4.5 of this morning's neighborhood trek. First miles go fast, but then the rising sun starts to saut&eacute; my skull and slow the pace.</td></tr></table><p>A couple of mid-course diversions lead finally to a water fountain in a roadside park. Finally, clouds move in to shade-enable a few bonus miles at speed around the LBJ High School campus.</p><p><a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/231645756">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/365619298">Garmin</a> concur. | <img class="url http" src="http://zhurnaly.com/images/Austin_water_tower_sunrise.jpg" alt="http://zhurnaly.com/images/Austin_water_tower_sunrise.jpg" /> |</p><p><em><strong>^z</strong></em> - 2013-09-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.177
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10 miles @ ~10.5 min/mi
+	
+	| Convex curves catch my eye as I pass an iconic Austin water tower near mile 4.5 of this morning's neighborhood trek. First miles go fast, but then the rising sun starts to saut&eacute; my skull and slow the pace.
+	
+	A couple of mid-course diversions lead finally to a water fountain in a roadside park. Finally, clouds move in to shade-enable a few bonus miles at speed around the LBJ High School campus.
+	
+	[[http://runkeeper.com/user/zhurnaly/activity/231645756|Runkeeper]] and [[http://connect.garmin.com/activity/365619298|Garmin]] concur. | http://zhurnaly.com/images/Austin_water_tower_sunrise.jpg |
+	
+	//**^z**// - 2013-09-14
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10 miles @ ~10.5 min/mi<br />&gt; | Convex curves catch my eye as I pass an iconic Austin water tower near mile 4.5 of this morning's neighborhood trek. First miles go fast, but then the rising sun starts to saut&amp;eacute; my skull and slow the pace.<br />&gt; A couple of mid-course diversions lead finally to a water fountain in a roadside park. Finally, clouds move in to shade-enable a few bonus miles at speed around the LBJ High School campus.<br />&gt; [[http://runkeeper.com/user/zhurnaly/activity/231645756|Runkeeper]] and [[http://connect.garmin.com/activity/365619298|Garmin]] concur. | http://zhurnaly.com/images/Austin_water_tower_sunrise.jpg |<br />&gt; //**^z**// - 2013-09-14</strong></p></div>
+flags: 0
+ts: 1528057709
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057709

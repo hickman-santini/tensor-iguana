@@ -1,0 +1,25 @@
+blocks: <h3>~9.3 miles @ ~12.9 min/mi</h3><p>"So I'll tape a flashlight to the front and lend you some gloves!" Cait summarizes what she told her friend Bill when he wanted to spend $400 extra for a fancy model snowblower with headlights and handwarmer-handles. In the gloom we meander by McLean High School's track and down Old Chesterbrook, where a trio of bicycles swoop by in close formation. Dawn's early glow catches a giant bronze eagle perched atop the globe on a Birch Road mini-mansion.</p><p>Navigator Kristin spies three bunnies in front yards on Tucker Avenue. It's muggy but not as hot as in weeks past, and since first meetings aren't until 9am we extend the route past the Metro station where bleary-eyed commuters are shambling in to catch a train. Trail talk includes tales of roving eyes, classical pianist Yuja Wang, and holiday party humor.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/859045444">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-10-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.159
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.3 miles @ ~12.9 min/mi
+	
+	"So I'll tape a flashlight to the front and lend you some gloves!" Cait summarizes what she told her friend Bill when he wanted to spend $400 extra for a fancy model snowblower with headlights and handwarmer-handles. In the gloom we meander by McLean High School's track and down Old Chesterbrook, where a trio of bicycles swoop by in close formation. Dawn's early glow catches a giant bronze eagle perched atop the globe on a Birch Road mini-mansion.
+	
+	Navigator Kristin spies three bunnies in front yards on Tucker Avenue. It's muggy but not as hot as in weeks past, and since first meetings aren't until 9am we extend the route past the Metro station where bleary-eyed commuters are shambling in to catch a train. Trail talk includes tales of roving eyes, classical pianist Yuja Wang, and holiday party humor.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/859045444|trackfile]])// - //**^z**// - 2016-10-04
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.3 miles @ ~12.9 min/mi<br />&gt; "So I'll tape a flashlight to the front and lend you some gloves!" Cait summarizes what she told her friend Bill when he wanted to spend $400 extra for a fancy model snowblower with headlights and handwarmer-handles. In the gloom we meander by McLean High School's track and down Old Chesterbrook, where a trio of bicycles swoop by in close formation. Dawn's early glow catches a giant bronze eagle perched atop the globe on a Birch Road mini-mansion.<br />&gt; Navigator Kristin spies three bunnies in front yards on Tucker Avenue. It's muggy but not as hot as in weeks past, and since first meetings aren't until 9am we extend the route past the Metro station where bleary-eyed commuters are shambling in to catch a train. Trail talk includes tales of roving eyes, classical pianist Yuja Wang, and holiday party humor.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/859045444|trackfile]])// - //**^z**// - 2016-10-04</strong></p></div>
+flags: 0
+ts: 1528057684
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057684

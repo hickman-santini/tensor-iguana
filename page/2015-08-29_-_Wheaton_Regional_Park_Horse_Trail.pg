@@ -1,0 +1,23 @@
+blocks: <h3>~3.6 miles @ ~14.9 min/mi</h3><p>"Sorry &mdash; <em>oops!</em>" says Mary when she realizes that she apologized for a third time within the first three miles. We do two laps around the horse trail at Wheaton Regional Park, listening to the birds and stepping carefully around the heaps of manure. The hills are steep but not daunting &mdash; and nobody falls!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/645101430">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-09-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.6 miles @ ~14.9 min/mi
+	
+	"Sorry &mdash; //oops!//" says Mary when she realizes that she apologized for a third time within the first three miles. We do two laps around the horse trail at Wheaton Regional Park, listening to the birds and stepping carefully around the heaps of manure. The hills are steep but not daunting &mdash; and nobody falls!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/645101430|trackfile]])// - //**^z**// - 2015-09-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.6 miles @ ~14.9 min/mi<br />&gt; "Sorry &amp;mdash; //oops!//" says Mary when she realizes that she apologized for a third time within the first three miles. We do two laps around the horse trail at Wheaton Regional Park, listening to the birds and stepping carefully around the heaps of manure. The hills are steep but not daunting &amp;mdash; and nobody falls!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/645101430|trackfile]])// - //**^z**// - 2015-09-15</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

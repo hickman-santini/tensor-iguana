@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3></p><p>"where suddenly it becomes terrifying. Huge trees have fallen across the route, and after cautiously clambering through them there are some severely eroded segments of cliffside: rotten shale covered with wet leaves and mud, plus a bonus 50 foot drop into Rock Creek."</p><p>You're not kidding!!! I put the drop at 30-40 feet, but only because I was certain my sudden bout of vertigo overly-exxagerated the distance. Re: the fallen tree, I've gone both over and around, and have a good scare both times. But in spite of the relative "un-runnability" of that half mile section just south of Pierce Mill, the view sure is beautiful as you descend the valley to the intersection with the Melvin-Hazen Trail.</p><p>I did the full Valley Trail last Friday (have yet to post), and came across the section closed due to erosion. Perhaps because I was about eight miles in at that point and not thinking straight, I took the beaten path around the fence and ran the closed section. You did well to stay off it -- erosion indeed means erosion, and the trail literally hugs a cliff-like 10-foot drop for about a quarter of a mile, on saturated ground that feels ready to give way the entire length. Not very safe. -- ANS</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===</p></div>
+ip: 138.88.175.123
+ts: 1323018703
+minor: 1
+host: pool-138-88-175-123.res.east.verizon.net
+username: Zimm
+revision: 3
+diff-major: 
+summary: fix comment header
+languages: 
+text: === 1 Comment. ===
+	
+	"where suddenly it becomes terrifying. Huge trees have fallen across the route, and after cautiously clambering through them there are some severely eroded segments of cliffside: rotten shale covered with wet leaves and mud, plus a bonus 50 foot drop into Rock Creek."
+	
+	You're not kidding!!! I put the drop at 30-40 feet, but only because I was certain my sudden bout of vertigo overly-exxagerated the distance.  Re: the fallen tree, I've gone both over and around, and have a good scare both times.  But in spite of the relative "un-runnability" of that half mile section just south of Pierce Mill, the view sure is beautiful as you descend the valley to the intersection with the Melvin-Hazen Trail.
+	
+	I did the full Valley Trail last Friday (have yet to post), and came across the section closed due to erosion.  Perhaps because I was about eight miles in at that point and not thinking straight, I took the beaten path around the fence and ran the closed section.  You did well to stay off it -- erosion indeed means erosion, and the trail literally hugs a cliff-like 10-foot drop for about a quarter of a mile, on saturated ground that feels ready to give way the entire length.  Not very safe. -- ANS
+	
+keep-ts: 1323018703

@@ -1,0 +1,27 @@
+blocks: <h3>~10.8 miles @ ~12.6 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Rockville_millennium_trail_0_stephanie_z_2017-08-05.jpg" alt="http://zhurnaly.com/images/running/Rockville_millennium_trail_0_stephanie_z_2017-08-05.jpg" /></td><td align="right">"Intelligence plus compassion plus humor plus humility," Dr Fonda and I list characteristics of the nicest people we know. "And steadiness plus honesty plus joy!" It's a delightful breezy-cool morning to enjoy the Carl Henn Millennium Trail around Rockville. A bunny freezes at our approach, then darts into the bushes. We have the path to ourselves for the first few miles, after which increasing numbers of runners and cyclists appear.</td></tr></table><p>"The best thing about listening to opera on the radio is singing along &mdash; whether or not you know the words!" We greet other runners and offer them aid if they look weary. "Wait! Wait!" says the crosswalk voice as cars blast by. Lovely flower gardens bloom beside the asphalt.</p><p>"Beautiful, uh, hair!" I observe, when we pass a young couple out for a walk. Stephanie, who knows where my eyes strayed, laughs kindly and agrees. Thomas Farm Community Center offers a chance to pose for selfies at "Mile 0.0", and to refill the water bottle halfway around the circuit. Shaded asphalt gives way to sunny sidewalk. Woodsy parkway leads past schools to apartment complexes, then an industrial/office zone, followed by quiet neighborhoods. Original planned pace is 13-14 min/mi but even including all breaks we're faster and finish strong. Tendons in feet are twingy-OK. |</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1030905764">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-09-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.149
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.8 miles @ ~12.6 min/mi
+	
+	| http://zhurnaly.com/images/running/Rockville_millennium_trail_0_stephanie_z_2017-08-05.jpg | "Intelligence plus compassion plus humor plus humility," Dr Fonda and I list characteristics of the nicest people we know. "And steadiness plus honesty plus joy!" It's a delightful breezy-cool morning to enjoy the Carl Henn Millennium Trail around Rockville. A bunny freezes at our approach, then darts into the bushes. We have the path to ourselves for the first few miles, after which increasing numbers of runners and cyclists appear.
+	
+	"The best thing about listening to opera on the radio is singing along &mdash; whether or not you know the words!" We greet other runners and offer them aid if they look weary. "Wait! Wait!" says the crosswalk voice as cars blast by. Lovely flower gardens bloom beside the asphalt.
+	
+	"Beautiful, uh, hair!" I observe, when we pass a young couple out for a walk. Stephanie, who knows where my eyes strayed, laughs kindly and agrees. Thomas Farm Community Center offers a chance to pose for selfies at "Mile 0.0", and to refill the water bottle halfway around the circuit. Shaded asphalt gives way to sunny sidewalk. Woodsy parkway leads past schools to apartment complexes, then an industrial/office zone, followed by quiet neighborhoods. Original planned pace is 13-14 min/mi but even including all breaks we're faster and finish strong. Tendons in feet are twingy-OK. |
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1030905764|trackfile]])// - //**^z**// - 2017-09-02
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Beautiful, uh, hair!" I observe, when we pass a young couple out for a walk. Stephanie, who knows where my eyes strayed, laughs kindly and agrees. Thomas Farm Community Center offers a chance to pose for selfies <strong class="changes">("</strong>Mile 0.0<strong class="changes">")</strong> and to refill the water bottle halfway around the circuit. Shaded asphalt gives way to sunny sidewalk. Woodsy parkway leads past schools to apartment complexes, then an industrial/office zone, followed by quiet neighborhoods. Original planned pace is 13-14 min/mi but even including all breaks we're faster and finish strong. Tendons in feet are twingy-OK. |</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "Beautiful, uh, hair!" I observe, when we pass a young couple out for a walk. Stephanie, who knows where my eyes strayed, laughs kindly and agrees. Thomas Farm Community Center offers a chance to pose for selfies <strong class="changes">at "</strong>Mile 0.0<strong class="changes">",</strong> and to refill the water bottle halfway around the circuit. Shaded asphalt gives way to sunny sidewalk. Woodsy parkway leads past schools to apartment complexes, then an industrial/office zone, followed by quiet neighborhoods. Original planned pace is 13-14 min/mi but even including all breaks we're faster and finish strong. Tendons in feet are twingy-OK. |</p></div>
+flags: 0
+ts: 1528057682
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057682

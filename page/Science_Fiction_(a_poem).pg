@@ -1,0 +1,45 @@
+blocks: <table class="user"><tr><td align="right">most <br />love the spectacle<br />the outre<br />images<br />created by <br />vaunting<br />imaginations<br /><br />but<br />there is something<br />behind <br />these curtains<br />of words<br />a sense of <br />a reality<br />far more<br />fantastic<br /><br />a sense <br />that believing in<br />normalcy<br />is <br />the true work<br />of vaunting<br />imagination </td></tr></table><p><em>(by Ed Covannon)</em> - 2013-11-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | most 
+	love the spectacle
+	the outre
+	images
+	created by 
+	vaunting
+	imaginations
+	\\
+	but
+	there is something
+	behind 
+	these curtains
+	of words
+	a sense of 
+	a reality
+	far more
+	fantastic
+	\\
+	a sense 
+	that believing in
+	normalcy
+	is 
+	the true work
+	of vaunting
+	imagination |
+	
+	//(by Ed Covannon)// - 2013-11-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| most <br />&gt; love the spectacle<br />&gt; the outre<br />&gt; images<br />&gt; created by <br />&gt; vaunting<br />&gt; imaginations<br />&gt; \\<br />&gt; but<br />&gt; there is something<br />&gt; behind <br />&gt; these curtains<br />&gt; of words<br />&gt; a sense of <br />&gt; a reality<br />&gt; far more<br />&gt; fantastic<br />&gt; \\<br />&gt; a sense <br />&gt; that believing in<br />&gt; normalcy<br />&gt; is <br />&gt; the true work<br />&gt; of vaunting<br />&gt; imagination |<br />&gt; //(by Ed Covannon)// - 2013-11-19</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

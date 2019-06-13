@@ -1,0 +1,34 @@
+blocks: <table class="user"><tr><td align="right"><strong>Earth</strong> beneath<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; supporting, cradling<br />&nbsp; &nbsp; in all the worlds of all the World<br /><br /><strong>Air</strong> around<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; containing, filling<br />&nbsp; &nbsp; in all the spaces throughout all Space<br /><br /><strong>Water</strong> inside<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; flowing, pulsing<br />&nbsp; &nbsp; in all the lives of all that Live<br /><br /><strong>Fire</strong> throughout<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; flaring, fading<br />&nbsp; &nbsp; in all the thoughts of all that Think </td></tr></table><p><em><strong>^z</strong></em> - 2017-10-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.116
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | **Earth** beneath
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; supporting, cradling
+	&nbsp; &nbsp; in all the worlds of all the World
+	\\
+	**Air** around
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; containing, filling
+	&nbsp; &nbsp; in all the spaces throughout all Space
+	\\
+	**Water** inside
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; flowing, pulsing
+	&nbsp; &nbsp; in all the lives of all that Live
+	\\
+	**Fire** throughout
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; flaring, fading
+	&nbsp; &nbsp; in all the thoughts of all that Think |
+	
+	//**^z**// - 2017-10-24
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; | **Earth** beneath<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; supporting, cradling<br />&gt; &amp;nbsp; &amp;nbsp; in all the worlds of all the World<br />&gt; \\<br />&gt; **Air** around<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; containing, filling<br />&gt; &amp;nbsp; &amp;nbsp; in all the spaces throughout all Space<br />&gt; \\<br />&gt; **Water** inside<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; flowing, pulsing<br />&gt; &amp;nbsp; &amp;nbsp; in all the lives of all that Live<br />&gt; \\<br />&gt; **Fire** throughout<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; flaring, fading<br />&gt; &amp;nbsp; &amp;nbsp; in all the thoughts of all that Think |<br />&gt; //**^z**// - 2017-10-24</p></div>
+flags: 0
+ts: 1528057692
+minor: 
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057692

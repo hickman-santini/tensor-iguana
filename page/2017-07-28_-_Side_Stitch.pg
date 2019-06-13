@@ -1,0 +1,27 @@
+blocks: <h3>~7.2 miles @ ~12.0 min/mi</h3><p>"To the Sun!" Kristin sends the Dawn Patrol east on a muggy morning. A dime gleams on the sidewalk at the corner of Chain Bridge and Old Dominion. "Is there <em><strong>anything</strong></em> I could buy with this at 7-11 nowadays?" We trot past the Eagle House and the Lavender Bungalow. One small bunny hops into the bushes.</p><p>"In the dark you could follow that black dog by the white tip of his tail!" Someone obsessive requests we sprint the last quarter mile to keep our overall pace sub-12. At run's end Cait and Kristin diagnose the pain in my side. "Knife stab?" - "Kidney stone?" - "Intestinal cramp?" - "Broken rib?" - "Purely psychosomatic?"</p><p>Let the pity party begin ...</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1026237385">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-08-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.194
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.2 miles @ ~12.0 min/mi
+	
+	"To the Sun!" Kristin sends the Dawn Patrol east on a muggy morning. A dime gleams on the sidewalk at the corner of Chain Bridge and Old Dominion. "Is there //**anything**// I could buy with this at 7-11 nowadays?" We trot past the Eagle House and the Lavender Bungalow. One small bunny hops into the bushes.
+	
+	"In the dark you could follow that black dog by the white tip of his tail!" Someone obsessive requests we sprint the last quarter mile to keep our overall pace sub-12. At run's end Cait and Kristin diagnose the pain in my side. "Knife stab?" - "Kidney stone?" - "Intestinal cramp?" - "Broken rib?" - "Purely psychosomatic?"
+	
+	Let the pity party begin ...
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1026237385|trackfile]])// - //**^z**// - 2017-08-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.2 miles @ ~12.0 min/mi<br />&gt; "To the Sun!" Kristin sends the Dawn Patrol east on a muggy morning. A dime gleams on the sidewalk at the corner of Chain Bridge and Old Dominion. "Is there //**anything**// I could buy with this at 7-11 nowadays?" We trot past the Eagle House and the Lavender Bungalow. One small bunny hops into the bushes.<br />&gt; "In the dark you could follow that black dog by the white tip of his tail!" Someone obsessive requests we sprint the last quarter mile to keep our overall pace sub-12. At run's end Cait and Kristin diagnose the pain in my side. "Knife stab?" - "Kidney stone?" - "Intestinal cramp?" - "Broken rib?" - "Purely psychosomatic?"<br />&gt; Let the pity party begin ...<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1026237385|trackfile]])// - //**^z**// - 2017-08-23</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057697

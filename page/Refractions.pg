@@ -1,0 +1,21 @@
+blocks: <p><img class="url http" src="http://zhurnaly.com/images/refraction.jpg" alt="http://zhurnaly.com/images/refraction.jpg" /></p><p><em>(an old doorknob, glass sphere selfie)</em> - <em><strong>^z</strong></em> - 2014-01-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.211.54
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: http://zhurnaly.com/images/refraction.jpg
+	
+	//(an old doorknob, glass sphere selfie)// - //**^z**// - 2014-01-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">http://zhurnaly.com/images/refraction.jpg<br />&gt; //(an old doorknob, glass sphere selfie)// - //**^z**// - 2014-01-24</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

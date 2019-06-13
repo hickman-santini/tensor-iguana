@@ -1,0 +1,23 @@
+blocks: <h3>~6.7 miles @ ~13.6 min/mi</h3><p>"And they just flat-out <em><strong>lied</strong></em>!" Trail talk today includes lots of head-shaking and face-palming, as we analyze how <em><strong>not</strong></em> to handle professional issues. The Dawn Patrol confirms a great new cut-through discovered last week between Windy Hill, Elmwood, and West Langley communities. Kristin spies two rabbits; Cait and I are fortuitously color-coordinated in orange, lime, and black gear. Kerry's neighbor greets her and recommends Greenberry's coffee, but the line at Starbucks is short and iced java there gives a quick boost for the final miles.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/999456130">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-07-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.66
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.7 miles @ ~13.6 min/mi
+	
+	"And they just flat-out //**lied**//!" Trail talk today includes lots of head-shaking and face-palming, as we analyze how //**not**// to handle professional issues. The Dawn Patrol confirms a great new cut-through discovered last week between Windy Hill, Elmwood, and West Langley communities. Kristin spies two rabbits; Cait and I are fortuitously color-coordinated in orange, lime, and black gear. Kerry's neighbor greets her and recommends Greenberry's coffee, but the line at Starbucks is short and iced java there gives a quick boost for the final miles.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/999456130|trackfile]])// - //**^z**// - 2017-07-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.7 miles @ ~13.6 min/mi<br />&gt; "And they just flat-out //**lied**//!" Trail talk today includes lots of head-shaking and face-palming, as we analyze how //**not**// to handle professional issues. The Dawn Patrol confirms a great new cut-through discovered last week between Windy Hill, Elmwood, and West Langley communities. Kristin spies two rabbits; Cait and I are fortuitously color-coordinated in orange, lime, and black gear. Kerry's neighbor greets her and recommends Greenberry's coffee, but the line at Starbucks is short and iced java there gives a quick boost for the final miles.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/999456130|trackfile]])// - //**^z**// - 2017-07-02</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057690

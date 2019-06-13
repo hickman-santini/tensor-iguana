@@ -1,0 +1,26 @@
+flags: 0
+blocks: <h3>~10 miles @ ~9.7 min/mi</h3><p>"It's a new Bottle Year, so hydration packs are on sale!" Don's report on a recent bargain purchase gets comic-misheard during the first mile of the RRCA 10 Mile Club Challenge. Rain drenches racers in hilly Columbia Maryland as they dash downhill for the first few miles. Then things get real.</p><p>"My brakes are shot -- sometimes I need a runaway truck lane!" says ultra-legendary Tom Green before the race. His home is at mile 3.5 of the course. "I asked my wife to leave the front door open for me!"</p><p>Push the pace, greet always-cheerful Jeanne, hang with Don for the first mile, get a bit ahead of him mid-race, then watch his taillights fade into the distance for the home stretch. Rough GPS splits 9.9 + 9.5 + 9.5 + 9.2 + 9.6 + 10.1 + 9.8 + 9.7 + 9.7 + 9.5 minutes.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1126065563">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-03-28</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10 miles @ ~9.7 min/mi<br />&gt; "It's a new Bottle Year, so hydration packs are on sale!" Don's report on a recent bargain purchase gets comic-misheard during the first mile of the RRCA 10 Mile Club Challenge. Rain drenches racers in hilly Columbia Maryland as they dash downhill for the first few miles. Then things get real.<br />&gt; "My brakes are shot -- sometimes I need a runaway truck lane!" says ultra-legendary Tom Green before the race. His home is at mile 3.5 of the course. "I asked my wife to leave the front door open for me!"<br />&gt; Push the pace, greet always-cheerful Jeanne, hang with Don for the first mile, get a bit ahead of him mid-race, then watch his taillights fade into the distance for the home stretch. Rough GPS splits 9.9 + 9.5 + 9.5 + 9.2 + 9.6 + 10.1 + 9.8 + 9.7 + 9.7 + 9.5 minutes.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1126065563|trackfile]])// - //**^z**// - 2018-03-28</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057675
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~10 miles @ ~9.7 min/mi
+	
+	"It's a new Bottle Year, so hydration packs are on sale!" Don's report on a recent bargain purchase gets comic-misheard during the first mile of the RRCA 10 Mile Club Challenge. Rain drenches racers in hilly Columbia Maryland as they dash downhill for the first few miles. Then things get real.
+	
+	"My brakes are shot -- sometimes I need a runaway truck lane!" says ultra-legendary Tom Green before the race. His home is at mile 3.5 of the course. "I asked my wife to leave the front door open for me!"
+	
+	Push the pace, greet always-cheerful Jeanne, hang with Don for the first mile, get a bit ahead of him mid-race, then watch his taillights fade into the distance for the home stretch. Rough GPS splits 9.9 + 9.5 + 9.5 + 9.2 + 9.6 + 10.1 + 9.8 + 9.7 + 9.7 + 9.5 minutes.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1126065563|trackfile]])// - //**^z**// - 2018-03-28
+	
+lastmajor: 3
+keep-ts: 1528057675

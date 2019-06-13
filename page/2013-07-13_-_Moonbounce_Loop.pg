@@ -1,0 +1,27 @@
+blocks: <h3>~14 miles @ ~11 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Moonbounce_Castle.jpg" alt="http://zhurnaly.com/images/running/Moonbounce_Castle.jpg" /></td><td align="right">A moonbounce castle graces the front lawn of a mini-mansion on hilly Leland St, on a hyper-humid Saturday morning trek that makes for a sweat-soaked shirt, slick shorts, soggy socks, and stinky shoes. On Rock Creek Trail young Suzanne helps me hobble halfway up Stonybrook St &mdash; I introduce myself, give chase until her turnaround at the Mormon Temple gates, then continue on. She tells me that she runs by time on weekends, by distance on weekdays.</td></tr></table><p>Five big deer cross Old Spring Rd and swivel their heads in parallel to track my passage. &Uuml;ber-slippery mud in the tunnel under Connecticut Av is a reminder of yesterday's floods. Pause at Candy Cane City to greet friends who gather there for their 7:30am group jog: Ken Swab sports an eye-catching new <a class="url http outside" href="http://www.inknburn.com">INKnBURN</a> "Running Gear" mecha-print shirt but refuses my offer to fight him for it</p><p><a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/208278919">Runkeeper</a> is a little more conservative than the <a class="url http outside" href="http://connect.garmin.com/activity/341924393">Garmin</a> today. |</p><p><em><strong>^z</strong></em> - 2013-07-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.93.181
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~14 miles @ ~11 min/mi
+	
+	| http://zhurnaly.com/images/running/Moonbounce_Castle.jpg | A moonbounce castle graces the front lawn of a mini-mansion on hilly Leland St, on a hyper-humid Saturday morning trek that makes for a sweat-soaked shirt, slick shorts, soggy socks, and stinky shoes. On Rock Creek Trail young Suzanne helps me hobble halfway up Stonybrook St &mdash; I introduce myself, give chase until her turnaround at the Mormon Temple gates, then continue on. She tells me that she runs by time on weekends, by distance on weekdays.
+	
+	Five big deer cross Old Spring Rd and swivel their heads in parallel to track my passage. &Uuml;ber-slippery mud in the tunnel under Connecticut Av is a reminder of yesterday's floods. Pause at Candy Cane City to greet friends who gather there for their 7:30am group jog: Ken Swab sports an eye-catching new [[http://www.inknburn.com|INKnBURN]] "Running Gear" mecha-print shirt but refuses my offer to fight him for it
+	
+	[[http://runkeeper.com/user/zhurnaly/activity/208278919|Runkeeper]] is a little more conservative than the [[http://connect.garmin.com/activity/341924393|Garmin]] today. |
+	
+	//**^z**// - 2013-07-29
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~14 miles @ ~11 min/mi<br />&gt; | http://zhurnaly.com/images/running/Moonbounce_Castle.jpg | A moonbounce castle graces the front lawn of a mini-mansion on hilly Leland St, on a hyper-humid Saturday morning trek that makes for a sweat-soaked shirt, slick shorts, soggy socks, and stinky shoes. On Rock Creek Trail young Suzanne helps me hobble halfway up Stonybrook St &amp;mdash; I introduce myself, give chase until her turnaround at the Mormon Temple gates, then continue on. She tells me that she runs by time on weekends, by distance on weekdays.<br />&gt; Five big deer cross Old Spring Rd and swivel their heads in parallel to track my passage. &amp;Uuml;ber-slippery mud in the tunnel under Connecticut Av is a reminder of yesterday's floods. Pause at Candy Cane City to greet friends who gather there for their 7:30am group jog: Ken Swab sports an eye-catching new [[http://www.inknburn.com|INKnBURN]] "Running Gear" mecha-print shirt but refuses my offer to fight him for it<br />&gt; [[http://runkeeper.com/user/zhurnaly/activity/208278919|Runkeeper]] is a little more conservative than the [[http://connect.garmin.com/activity/341924393|Garmin]] today. |<br />&gt; //**^z**// - 2013-07-29</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

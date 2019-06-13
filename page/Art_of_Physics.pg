@@ -1,0 +1,21 @@
+flags: 0
+blocks: <p>A neat definition appeared recently in an article by Dwight Neuenschwander:<br /></p><table class="user"><tr><td align="center">Physics is the art of creating, testing, and improving a network of concepts, expressed as mathematical models, in terms of which the world becomes comprehensible.</td></tr></table><p><em>(from "<a class="url http outside" href="http://www.sigmapisigma.org/radiations/2010/ecp_fall.pdf">Elegant Connections in Physics: Thinking Like a Physicist about Amortization Schedules</a>" by Dwight E. Neuenschwander, one of a series in the Fall 2010 issue of <strong>Radiations</strong>, the magazine of <a class="url http outside" href="http://www.sigmapisigma.org/">Sigma Pi Sigma</a>, the physics honor society)</em> - <em><strong>^z</strong></em> - 2011-03-01</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //(from <strong class="changes">[[</strong>http://www.sigmapisigma.org/radiations/2010/ecp_fall.pdf<strong class="changes">|"</strong>Elegant Connections in Physics: Thinking Like a Physicist about Amortization Schedules<strong class="changes">"]]</strong> by Dwight E. Neuenschwander, one of a series in the Fall 2010 issue of **Radiations**, the magazine of [[http://www.sigmapisigma.org/|Sigma Pi Sigma]], the physics honor society)// - //**^z**// - 2011-03-01</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; //(from <strong class="changes">"[[</strong>http://www.sigmapisigma.org/radiations/2010/ecp_fall.pdf<strong class="changes">|</strong>Elegant Connections in Physics: Thinking Like a Physicist about Amortization Schedules<strong class="changes">]]"</strong> by Dwight E. Neuenschwander, one of a series in the Fall 2010 issue of **Radiations**, the magazine of [[http://www.sigmapisigma.org/|Sigma Pi Sigma]], the physics honor society)// - //**^z**// - 2011-03-01</p></div>
+ip: 138.88.177.215
+ts: 1298972668
+minor: 1
+host: pool-138-88-177-215.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweak: move quotes outside of link
+languages: 
+text: A neat definition appeared recently in an article by Dwight Neuenschwander:
+	| Physics is the art of creating, testing, and improving a network of concepts, expressed as mathematical models, in terms of which the world becomes comprehensible. |
+	
+	//(from "[[http://www.sigmapisigma.org/radiations/2010/ecp_fall.pdf|Elegant Connections in Physics: Thinking Like a Physicist about Amortization Schedules]]" by Dwight E. Neuenschwander, one of a series in the Fall 2010 issue of **Radiations**, the magazine of [[http://www.sigmapisigma.org/|Sigma Pi Sigma]], the physics honor society)// - //**^z**// - 2011-03-01
+	
+lastmajor: 1
+keep-ts: 1298972668

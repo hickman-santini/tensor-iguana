@@ -1,0 +1,25 @@
+blocks: <h3>~4.9 mi @ ~14.4 min/mi</h3><p>"Roadkill!" suggests Dr Kerry, as a trail name for someone who edges into the crosswalk at Georgetown Pike in hopes that passing cars will pause. <em>(They don't.)</em> Snowflakes glitter in headlamp-glow as temps fall into the lower 20s and westerly winds gust. Dawn Patrol loops through Langley, discussing intellectual property <em>(a current <strong>New Yorker</strong> article compares Barbie v Bratz to Jarndyce v Jarndyce)</em>, body image issues, and whether a blonde roast makes any sense for an espresso coffee bean.</p><p>"Footprints!" Dr Kristin deduces that a woman, about 5'4" tall, ran north on Balls Hill Road and returned about 20 minutes later. "There is no branch of detective science which is so important and so much neglected as the art of tracing footsteps." <em>(Sherlock Holmes, <strong>A Study in Scarlet</strong>)</em> We examine tracks left in the snow by squirrels, dogs, deer. Post-run an evil scale reads 11.3 stone.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1109488312">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-02-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.145
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 mi @ ~14.4 min/mi
+	
+	"Roadkill!" suggests Dr Kerry, as a trail name for someone who edges into the crosswalk at Georgetown Pike in hopes that passing cars will pause. //(They don't.)// Snowflakes glitter in headlamp-glow as temps fall into the lower 20s and westerly winds gust. Dawn Patrol loops through Langley, discussing intellectual property //(a current **New Yorker** article compares Barbie v Bratz to Jarndyce v Jarndyce)//, body image issues, and whether a blonde roast makes any sense for an espresso coffee bean.
+	
+	"Footprints!" Dr Kristin deduces that a woman, about 5'4" tall, ran north on Balls Hill Road and returned about 20 minutes later. "There is no branch of detective science which is so important and so much neglected as the art of tracing footsteps." //(Sherlock Holmes, **A Study in Scarlet**)// We examine tracks left in the snow by squirrels, dogs, deer. Post-run an evil scale reads 11.3 stone.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1109488312|trackfile]])// - //**^z**// - 2018-02-14
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 mi @ ~14.4 min/mi<br />&gt; "Roadkill!" suggests Dr Kerry, as a trail name for someone who edges into the crosswalk at Georgetown Pike in hopes that passing cars will pause. //(They don't.)// Snowflakes glitter in headlamp-glow as temps fall into the lower 20s and westerly winds gust. Dawn Patrol loops through Langley, discussing intellectual property //(a current **New Yorker** article compares Barbie v Bratz to Jarndyce v Jarndyce)//, body image issues, and whether a blonde roast makes any sense for an espresso coffee bean.<br />&gt; "Footprints!" Dr Kristin deduces that a woman, about 5'4" tall, ran north on Balls Hill Road and returned about 20 minutes later. "There is no branch of detective science which is so important and so much neglected as the art of tracing footsteps." //(Sherlock Holmes, **A Study in Scarlet**)// We examine tracks left in the snow by squirrels, dogs, deer. Post-run an evil scale reads 11.3 stone.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1109488312|trackfile]])// - //**^z**// - 2018-02-14</strong></p></div>
+flags: 0
+ts: 1528057677
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057677

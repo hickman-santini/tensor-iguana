@@ -1,0 +1,25 @@
+blocks: <h3>~7.1 miles @ ~13.6 min/mi</h3><p>"Murphy is his name!" says the owner of a 105-pounds-of-joy black Rottweiler-blend out for a pre-sunrise stroll. Dr Kristin and I pause to pet the big puppy, who is thrilled to make new friends. The Dawn Patrol duo meanders across Route 123, veers around crowds of construction workers on sidewalks, and ventures cautiously along the shoulder of a busy street underneath the Dulles Access Road.</p><p>Freakish February warmth brings temps in the mid-60s. Much mindful conversation and trail talk ensues. We're all so busy putting out fires, listening to lectures, and doing our duties these days. If only the whole world were a bit more grown-up and self-aware, more open and flexible, and a bit less prone to panic. <em>Maybe some day!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/930876369">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 70.117.106.239
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.1 miles @ ~13.6 min/mi
+	
+	"Murphy is his name!" says the owner of a 105-pounds-of-joy black Rottweiler-blend out for a pre-sunrise stroll. Dr Kristin and I pause to pet the big puppy, who is thrilled to make new friends. The Dawn Patrol duo meanders across Route 123, veers around crowds of construction workers on sidewalks, and ventures cautiously along the shoulder of a busy street underneath the Dulles Access Road.
+	
+	Freakish February warmth brings temps in the mid-60s. Much mindful conversation and trail talk ensues. We're all so busy putting out fires, listening to lectures, and doing our duties these days. If only the whole world were a bit more grown-up and self-aware, more open and flexible, and a bit less prone to panic. //Maybe some day!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/930876369|trackfile]])// - //**^z**// - 2017-03-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.1 miles @ ~13.6 min/mi<br />&gt; "Murphy is his name!" says the owner of a 105-pounds-of-joy black Rottweiler-blend out for a pre-sunrise stroll. Dr Kristin and I pause to pet the big puppy, who is thrilled to make new friends. The Dawn Patrol duo meanders across Route 123, veers around crowds of construction workers on sidewalks, and ventures cautiously along the shoulder of a busy street underneath the Dulles Access Road.<br />&gt; Freakish February warmth brings temps in the mid-60s. Much mindful conversation and trail talk ensues. We're all so busy putting out fires, listening to lectures, and doing our duties these days. If only the whole world were a bit more grown-up and self-aware, more open and flexible, and a bit less prone to panic. //Maybe some day!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/930876369|trackfile]])// - //**^z**// - 2017-03-10</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

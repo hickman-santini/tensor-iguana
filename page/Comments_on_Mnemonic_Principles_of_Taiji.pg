@@ -1,0 +1,30 @@
+blocks: <h3>1 Comment.</h3><p>maybe better list candidate words:<br /></p><table class="user"><tr><td align="right">Beautiful <em>(Balanced?)</em><br />Relaxed<br />Erect<br />Aware <em>(Alert? Airy?)</em><br />Separated weight<br />Turning the waist<br />Soft <em>(Slow?)</em></td></tr></table><p>-- <a class="url http outside" href="http://zhurnaly.com">zimm</a> 2014-11-13 12:20 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	maybe better list candidate words:
+	| Beautiful //(Balanced?)//
+	Relaxed
+	Erect
+	Aware //(Alert? Airy?)//
+	Separated weight
+	Turning the waist
+	Soft //(Slow?)// |
+	
+	-- [http://zhurnaly.com zimm] 2014-11-13 12:20 UTC
+	
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; maybe better list candidate words:<br />&gt; | Beautiful //(Balanced?)//<br />&gt; Relaxed<br />&gt; Erect<br />&gt; Aware //(Alert? Airy?)//<br />&gt; Separated weight<br />&gt; Turning the waist<br />&gt; Soft //(Slow?)// |<br />&gt; -- [http://zhurnaly.com zimm] 2014-11-13 12:20 UTC</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057700

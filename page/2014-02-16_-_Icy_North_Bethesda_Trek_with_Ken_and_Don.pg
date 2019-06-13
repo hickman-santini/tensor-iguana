@@ -1,0 +1,23 @@
+blocks: <h3>~12 miles @ ~11.9 min/mi</h3><p>After the latest snow it's an icy shoulders-of-the-roads Sunday afternoon jog to Ken Swab's home, where Don Libes joins us for a meander around the north Bethesda neighborhood, pulling me along for 5 miles with hilarious banter. Then the achy old left hamstring joins the twingy old right knee (banged against the car door last night, <em>ouch!</em>), and mutually persuade me to wimp out and take the J2 Metrobus most of the way back home, after Ken kindly shows me a shortcut to the nearest stop. At that point, however, OCD kicks in and makes me add a few final blocks to ensure all GPS readouts exceed 12 miles. <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/175817228">Runtastic</a> and <a class="url http outside" href="http://connect.garmin.com/activity/446536815">Garmin</a> GPS concur in the foolishness.</p><p><em><strong>^z</strong></em> - 2014-03-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.31
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12 miles @ ~11.9 min/mi
+	
+	After the latest snow it's an icy shoulders-of-the-roads Sunday afternoon jog to Ken Swab's home, where Don Libes joins us for a meander around the north Bethesda neighborhood, pulling me along for 5 miles with hilarious banter. Then the achy old left hamstring joins the twingy old right knee (banged against the car door last night, //ouch!//), and mutually persuade me to wimp out and take the J2 Metrobus most of the way back home, after Ken kindly shows me a shortcut to the nearest stop. At that point, however, OCD kicks in and makes me add a few final blocks to ensure all GPS readouts exceed 12 miles. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/175817228|Runtastic]] and [[http://connect.garmin.com/activity/446536815|Garmin]] GPS concur in the foolishness.
+	
+	//**^z**// - 2014-03-08
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12 miles @ ~11.9 min/mi<br />&gt; After the latest snow it's an icy shoulders-of-the-roads Sunday afternoon jog to Ken Swab's home, where Don Libes joins us for a meander around the north Bethesda neighborhood, pulling me along for 5 miles with hilarious banter. Then the achy old left hamstring joins the twingy old right knee (banged against the car door last night, //ouch!//), and mutually persuade me to wimp out and take the J2 Metrobus most of the way back home, after Ken kindly shows me a shortcut to the nearest stop. At that point, however, OCD kicks in and makes me add a few final blocks to ensure all GPS readouts exceed 12 miles. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/175817228|Runtastic]] and [[http://connect.garmin.com/activity/446536815|Garmin]] GPS concur in the foolishness.<br />&gt; //**^z**// - 2014-03-08</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

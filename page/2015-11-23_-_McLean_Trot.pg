@@ -1,0 +1,22 @@
+blocks: <h3>~5.4 miles @ ~11.9 min/mi</h3><p>Two vigilant doggies in a bay window bark at Kristin and me as we run past on Anderson Rd at sunrise. A 45-minute parkway traffic delay <em>(deer vs car, both sides lost)</em> makes for a late start, and Kerry's early meetings mean she can't join us. Temps are in the lower-30s, winds are brisk, and puddles are covered with a layer of ice. After we finish Kristin reveals that she burned her left hand rather badly reaching into the oven last night, during an extravaganza of baking. <em>Ouch!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/695923064">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-12-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.27
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.4 miles @ ~11.9 min/mi
+	
+	Two vigilant doggies in a bay window bark at Kristin and me as we run past on Anderson Rd at sunrise. A 45-minute parkway traffic delay //(deer vs car, both sides lost)// makes for a late start, and Kerry's early meetings mean she can't join us. Temps are in the lower-30s, winds are brisk, and puddles are covered with a layer of ice. After we finish Kristin reveals that she burned her left hand rather badly reaching into the oven last night, during an extravaganza of baking. //Ouch!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/695923064|trackfile]])// - //**^z**// - 2015-12-09
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~5.4 miles @ ~11.9 min/mi<br />&gt; Two vigilant doggies in a bay window bark at Kristin and me as we run past on Anderson Rd at sunrise. A 45-minute parkway traffic delay //(deer vs car, both sides lost)// makes for a late start, and Kerry's early meetings mean she can't join us. Temps are in the lower-30s, winds are brisk, and puddles are covered with a layer of ice. After we finish Kristin reveals that she burned her left hand rather badly reaching into the oven last night, during an extravaganza of baking. //Ouch!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/695923064|trackfile]])// - //**^z**// - 2015-12-09</p></div>
+flags: 0
+ts: 1528057686
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057686

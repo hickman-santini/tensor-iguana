@@ -1,0 +1,23 @@
+blocks: <h3>~2.4 miles @ ~10.4 min/mi</h3><p>The crewcut boy and the ponytailed girl occupy lanes 4 and 5 on the dark track tonight, chatting as they jog. Speedwork produces an almost-identical average pace: I pass them during 200m sprints, and they trot by during my recovery walks. Another young fellow is doing 400m repeats. "Good job!" I compliment him, and he reciprocates. During my penultimate repeat he asks if I'd like to partner for a lap; I apologize and decline, explaining that I feel obligated to finish the series I've started. He leaves before I can mention the Marine Corps Marathon coming up on Sunday. The <a class="url http outside" href="http://connect.garmin.com/activity/236823454">Garmin GPS</a> records splits in seconds of 48 + 45 + 43 + 43 + 43 + 43 + 43 + 44 + 43 + 44, nicely consistent. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/127143468">Runkeeper</a> roughly concurs.</p><p><em><strong>^z</strong></em> - 2012-11-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.186.77
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2.4 miles @ ~10.4 min/mi
+	
+	The crewcut boy and the ponytailed girl occupy lanes 4 and 5 on the dark track tonight, chatting as they jog. Speedwork produces an almost-identical average pace: I pass them during 200m sprints, and they trot by during my recovery walks. Another young fellow is doing 400m repeats. "Good job!" I compliment him, and he reciprocates. During my penultimate repeat he asks if I'd like to partner for a lap; I apologize and decline, explaining that I feel obligated to finish the series I've started. He leaves before I can mention the Marine Corps Marathon coming up on Sunday. The [[http://connect.garmin.com/activity/236823454|Garmin GPS]] records splits in seconds of 48 + 45 + 43 + 43 + 43 + 43 + 43 + 44 + 43 + 44, nicely consistent. [[http://runkeeper.com/user/zhurnaly/activity/127143468|Runkeeper]] roughly concurs.
+	
+	//**^z**// - 2012-11-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2.4 miles @ ~10.4 min/mi<br />&gt; The crewcut boy and the ponytailed girl occupy lanes 4 and 5 on the dark track tonight, chatting as they jog. Speedwork produces an almost-identical average pace: I pass them during 200m sprints, and they trot by during my recovery walks. Another young fellow is doing 400m repeats. "Good job!" I compliment him, and he reciprocates. During my penultimate repeat he asks if I'd like to partner for a lap; I apologize and decline, explaining that I feel obligated to finish the series I've started. He leaves before I can mention the Marine Corps Marathon coming up on Sunday. The [[http://connect.garmin.com/activity/236823454|Garmin GPS]] records splits in seconds of 48 + 45 + 43 + 43 + 43 + 43 + 43 + 44 + 43 + 44, nicely consistent. [[http://runkeeper.com/user/zhurnaly/activity/127143468|Runkeeper]] roughly concurs.<br />&gt; //**^z**// - 2012-11-13</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

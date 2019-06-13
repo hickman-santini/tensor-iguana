@@ -1,0 +1,23 @@
+blocks: <h3>~6 miles @ ~9.6 min/mi</h3><p>The mega-hill climb at the Beltway (northern) end of Northwest Branch Trail &mdash; gravel surface, 150' up in a quarter mile at ~11% grade &mdash; gets done twice. There's a <em><strong>HUGE</strong></em> error by the iPhone <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/370197937">Runkeeper</a> GPS, which perhaps is lured off-course by neighborhood WiFi signals and instead of the out-and-back shows a jump during the return trip onto neighborhood streets, for 7.21 miles and an impossible pace during miles 5, 6, and 7 of 5:01, 6:45, and 5:50 respectively. The <a class="url http outside" href="http://connect.garmin.com/modern/activity/517692767">Garmin GPS</a> is more reasonable, with 6.15 miles and hard-trotting splits of 8:38 + 8:43 + 10:38 <em>(hill!)</em> + 11:34 <em>(hill!!)</em> + 9:03 + 8:52 and final fraction in 73 seconds (8:15 min/mi pace). Two deer peer at passing runners, then dash across the stream. One sports scary-big velvet-covered antlers. Latina girls walk the hill and smile. Fishermen toss lines in the water under the New Hampshire Av bridge. A dripping wet fellow in shorts and singlet ambles along the bikepath.</p><p><em><strong>^z</strong></em> - 2014-06-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.213.42
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6 miles @ ~9.6 min/mi
+	
+	The mega-hill climb at the Beltway (northern) end of Northwest Branch Trail &mdash; gravel surface, 150' up in a quarter mile at ~11% grade &mdash; gets done twice. There's a //**HUGE**// error by the iPhone [[http://runkeeper.com/user/zhurnaly/activity/370197937|Runkeeper]] GPS, which perhaps is lured off-course by neighborhood WiFi signals and instead of the out-and-back shows a jump during the return trip onto neighborhood streets, for 7.21 miles and an impossible pace during miles 5, 6, and 7 of 5:01, 6:45, and 5:50 respectively. The [[http://connect.garmin.com/modern/activity/517692767|Garmin GPS]] is more reasonable, with 6.15 miles and hard-trotting splits of 8:38 + 8:43 + 10:38 //(hill!)// + 11:34 //(hill!!)// + 9:03 + 8:52 and final fraction in 73 seconds (8:15 min/mi pace). Two deer peer at passing runners, then dash across the stream. One sports scary-big velvet-covered antlers. Latina girls walk the hill and smile. Fishermen toss lines in the water under the New Hampshire Av bridge. A dripping wet fellow in shorts and singlet ambles along the bikepath.
+	
+	//**^z**// - 2014-06-29
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6 miles @ ~9.6 min/mi<br />&gt; The mega-hill climb at the Beltway (northern) end of Northwest Branch Trail &amp;mdash; gravel surface, 150' up in a quarter mile at ~11% grade &amp;mdash; gets done twice. There's a //**HUGE**// error by the iPhone [[http://runkeeper.com/user/zhurnaly/activity/370197937|Runkeeper]] GPS, which perhaps is lured off-course by neighborhood WiFi signals and instead of the out-and-back shows a jump during the return trip onto neighborhood streets, for 7.21 miles and an impossible pace during miles 5, 6, and 7 of 5:01, 6:45, and 5:50 respectively. The [[http://connect.garmin.com/modern/activity/517692767|Garmin GPS]] is more reasonable, with 6.15 miles and hard-trotting splits of 8:38 + 8:43 + 10:38 //(hill!)// + 11:34 //(hill!!)// + 9:03 + 8:52 and final fraction in 73 seconds (8:15 min/mi pace). Two deer peer at passing runners, then dash across the stream. One sports scary-big velvet-covered antlers. Latina girls walk the hill and smile. Fishermen toss lines in the water under the New Hampshire Av bridge. A dripping wet fellow in shorts and singlet ambles along the bikepath.<br />&gt; //**^z**// - 2014-06-29</strong></p></div>
+flags: 0
+ts: 1528057682
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057682

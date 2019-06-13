@@ -1,0 +1,22 @@
+blocks: <h3>~10 miles @ ~12 min/mi</h3><p>Dawn greets us with a beautiful pink sunrise over townhouses and mini-masions as Kristin and I meander around the Pimmit Hills neighborhood, pause for me to unlock the office for fellow workers, and then continue around McLean. Ice covers the surface of puddles in Lewinsville Park. The <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/153388376">Runtastic</a> app using the iPhone GPS provides nicer after-action maps than does Runkeeper. The <a class="url http outside" href="http://connect.garmin.com/activity/418045957">Garmin</a> concurs on distance and pace, modulo my failure to properly pause during the break. Conversation is wide-ranging and wonderful.</p><p><em><strong>^z</strong></em> - 2014-01-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.53
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10 miles @ ~12 min/mi
+	
+	Dawn greets us with a beautiful pink sunrise over townhouses and mini-masions as Kristin and I meander around the Pimmit Hills neighborhood, pause for me to unlock the office for fellow workers, and then continue around McLean. Ice covers the surface of puddles in Lewinsville Park. The [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/153388376|Runtastic]] app using the iPhone GPS provides nicer after-action maps than does Runkeeper. The [[http://connect.garmin.com/activity/418045957|Garmin]] concurs on distance and pace, modulo my failure to properly pause during the break. Conversation is wide-ranging and wonderful.
+	
+	//**^z**// - 2014-01-06
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~10 miles @ ~12 min/mi<br />&gt; Dawn greets us with a beautiful pink sunrise over townhouses and mini-masions as Kristin and I meander around the Pimmit Hills neighborhood, pause for me to unlock the office for fellow workers, and then continue around McLean. Ice covers the surface of puddles in Lewinsville Park. The [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/153388376|Runtastic]] app using the iPhone GPS provides nicer after-action maps than does Runkeeper. The [[http://connect.garmin.com/activity/418045957|Garmin]] concurs on distance and pace, modulo my failure to properly pause during the break. Conversation is wide-ranging and wonderful.<br />&gt; //**^z**// - 2014-01-06</p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057711

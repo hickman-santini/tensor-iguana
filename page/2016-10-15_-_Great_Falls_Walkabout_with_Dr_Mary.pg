@@ -1,0 +1,25 @@
+blocks: <h3>~6.2 miles @ ~22.3 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/Great_Falls_walkabout_z_2016-10-15.jpg" alt="http://zhurnaly.com/images/Great_Falls_walkabout_z_2016-10-15.jpg" /></td><td align="right">"When you ain't got nothing, you got nothing to lose!" Mary and I discuss letting-go &mdash; of the past, of judgments, of accomplishments and abilities, of limitations, of goals &mdash; and salute Nobel laureate Bob Dylan as we hike the hills of Great Falls National Park.</td></tr></table><p>Crowds near the Visitor Center thin quickly a few hundred yards down the old Carriage Trail. A cellphone tower disguised as an evergreen tree stands bolted to a concrete pad in the woods. A huge English Mastiff tugs on a leash held by a tiny girl. The Potomac splashes and churns over rocks below the Ridge Trail. |</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/880978709">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-11-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.188
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.2 miles @ ~22.3 min/mi
+	
+	| http://zhurnaly.com/images/Great_Falls_walkabout_z_2016-10-15.jpg | "When you ain't got nothing, you got nothing to lose!" Mary and I discuss letting-go &mdash; of the past, of judgments, of accomplishments and abilities, of limitations, of goals &mdash; and salute Nobel laureate Bob Dylan as we hike the hills of Great Falls National Park.
+	
+	Crowds near the Visitor Center thin quickly a few hundred yards down the old Carriage Trail. A cellphone tower disguised as an evergreen tree stands bolted to a concrete pad in the woods. A huge English Mastiff tugs on a leash held by a tiny girl. The Potomac splashes and churns over rocks below the Ridge Trail. |
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/880978709|trackfile]])// - //**^z**// - 2016-11-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.2 miles @ ~22.3 min/mi<br />&gt; | http://zhurnaly.com/images/Great_Falls_walkabout_z_2016-10-15.jpg | "When you ain't got nothing, you got nothing to lose!" Mary and I discuss letting-go &amp;mdash; of the past, of judgments, of accomplishments and abilities, of limitations, of goals &amp;mdash; and salute Nobel laureate Bob Dylan as we hike the hills of Great Falls National Park.<br />&gt; Crowds near the Visitor Center thin quickly a few hundred yards down the old Carriage Trail. A cellphone tower disguised as an evergreen tree stands bolted to a concrete pad in the woods. A huge English Mastiff tugs on a leash held by a tiny girl. The Potomac splashes and churns over rocks below the Ridge Trail. |<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/880978709|trackfile]])// - //**^z**// - 2016-11-10</strong></p></div>
+flags: 0
+ts: 1528057704
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057704

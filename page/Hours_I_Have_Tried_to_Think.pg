@@ -1,0 +1,34 @@
+blocks: <p>A poem by <a class="url http outside" href="http://packbat.net/w/Main_Page">Robin Zimmermann</a> in honor of his father's 60th birthday:</p><table class="user"><tr><td align="right">Hours I have tried to think<br />What words to copy down<br />That speak to how you make me glad<br />But have a pleasant sound.</td></tr></table><p>There's baseball running through the field<br />Us, trying to keep score --<br />Or running trails through the woods,<br />Ideas we explore<br />On running, scoring, baseball, sound,<br />A thousand things or more --</p><p>I've found a thousand, but here's the core:<br />I'm happy you're around. |</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.170.21
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: A poem by [[http://packbat.net/w/Main_Page|Robin Zimmermann]] in honor of his father's 60th birthday:
+	
+	| Hours I have tried to think
+	What words to copy down
+	That speak to how you make me glad
+	But have a pleasant sound.
+	
+	There's baseball running through the field
+	Us, trying to keep score --
+	Or running trails through the woods,
+	Ideas we explore
+	On running, scoring, baseball, sound,
+	A thousand things or more --
+	
+	I've found a thousand, but here's the core:
+	I'm happy you're around. |
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">A poem by [[http://packbat.net/w/Main_Page|Robin Zimmermann]] in honor of his father's 60th birthday:<br />&gt; | Hours I have tried to think<br />&gt; What words to copy down<br />&gt; That speak to how you make me glad<br />&gt; But have a pleasant sound.<br />&gt; There's baseball running through the field<br />&gt; Us, trying to keep score --<br />&gt; Or running trails through the woods,<br />&gt; Ideas we explore<br />&gt; On running, scoring, baseball, sound,<br />&gt; A thousand things or more --<br />&gt; I've found a thousand, but here's the core:<br />&gt; I'm happy you're around. |</strong></p></div>
+flags: 0
+ts: 1528057705
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057705

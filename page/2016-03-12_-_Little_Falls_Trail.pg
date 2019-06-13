@@ -1,0 +1,23 @@
+blocks: <h3>~13.5 miles @ ~11.7 min/mi</h3><p>"The mind is willing!" says Rebecca, when asked about plans to run tomorrow. We take the Capital Crescent Trail east and pause at "Clean Drinking Manor", an estate George Washington visited ~250 years ago. Ken leads us back via a space-filling curve through the streets of Chevy Chase. Jerry introduces us to the Little Falls Trail, parallel to the CCT. His knee is not doing well today, and his GPS auto-pauses during walk breaks. By the time we finish it reads about a mile less than mine. <em>"Shhhhh &mdash; don't tell your knee!"</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/748785604">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.112
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~13.5 miles @ ~11.7 min/mi
+	
+	"The mind is willing!" says Rebecca, when asked about plans to run tomorrow. We take the Capital Crescent Trail east and pause at "Clean Drinking Manor", an estate George Washington visited ~250 years ago. Ken leads us back via a space-filling curve through the streets of Chevy Chase. Jerry introduces us to the Little Falls Trail, parallel to the CCT. His knee is not doing well today, and his GPS auto-pauses during walk breaks. By the time we finish it reads about a mile less than mine. //"Shhhhh &mdash; don't tell your knee!"//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/748785604|trackfile]])// - //**^z**// - 2016-04-01
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~13.5 miles @ ~11.7 min/mi<br />&gt; "The mind is willing!" says Rebecca, when asked about plans to run tomorrow. We take the Capital Crescent Trail east and pause at "Clean Drinking Manor", an estate George Washington visited ~250 years ago. Ken leads us back via a space-filling curve through the streets of Chevy Chase. Jerry introduces us to the Little Falls Trail, parallel to the CCT. His knee is not doing well today, and his GPS auto-pauses during walk breaks. By the time we finish it reads about a mile less than mine. //"Shhhhh &amp;mdash; don't tell your knee!"//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/748785604|trackfile]])// - //**^z**// - 2016-04-01</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

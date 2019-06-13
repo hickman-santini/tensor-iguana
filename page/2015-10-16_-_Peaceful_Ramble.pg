@@ -1,0 +1,25 @@
+blocks: <h3>~6.0 miles @ ~12.0 min/mi</h3><p>"It's like the air is fueling us!" Kristin says, on a crispy-brisk morning with Mercury, Jupiter, Mars, and Venus all sparkly in a line, glow of sunrise growing in the east. We ramble around McLean High School and take Old Chesterbrook Rd past mini-mansions and by-comparison modest hovels. Energy and thankfulness levels are high. It feels like Kerry is with us, even though she's far away on business travel. Philosophical musings include the suggestion that Stoicism is kinda like Buddhism minus lovingkindness.</p><p>"Hair brush!" gets interpreted as "Watch out, low branches!" but turns out to be an actual comb-like artifact dropped by the path near Pimmit Run. We agree: the Marine Corps Marathon, only 9 days in the future now, really isn't important. What's worth cherishing is the joy of training together.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/675701142">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-11-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.94.121
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.0 miles @ ~12.0 min/mi
+	
+	"It's like the air is fueling us!" Kristin says, on a crispy-brisk morning with Mercury, Jupiter, Mars, and Venus all sparkly in a line, glow of sunrise growing in the east. We ramble around McLean High School and take Old Chesterbrook Rd past mini-mansions and by-comparison modest hovels. Energy and thankfulness levels are high. It feels like Kerry is with us, even though she's far away on business travel. Philosophical musings include the suggestion that Stoicism is kinda like Buddhism minus lovingkindness.
+	
+	"Hair brush!" gets interpreted as "Watch out, low branches!" but turns out to be an actual comb-like artifact dropped by the path near Pimmit Run. We agree: the Marine Corps Marathon, only 9 days in the future now, really isn't important. What's worth cherishing is the joy of training together.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/675701142|trackfile]])// - //**^z**// - 2015-11-06
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.0 miles @ ~12.0 min/mi<br />&gt; "It's like the air is fueling us!" Kristin says, on a crispy-brisk morning with Mercury, Jupiter, Mars, and Venus all sparkly in a line, glow of sunrise growing in the east. We ramble around McLean High School and take Old Chesterbrook Rd past mini-mansions and by-comparison modest hovels. Energy and thankfulness levels are high. It feels like Kerry is with us, even though she's far away on business travel. Philosophical musings include the suggestion that Stoicism is kinda like Buddhism minus lovingkindness.<br />&gt; "Hair brush!" gets interpreted as "Watch out, low branches!" but turns out to be an actual comb-like artifact dropped by the path near Pimmit Run. We agree: the Marine Corps Marathon, only 9 days in the future now, really isn't important. What's worth cherishing is the joy of training together.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/675701142|trackfile]])// - //**^z**// - 2015-11-06</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

@@ -1,0 +1,23 @@
+blocks: <h3>~3.7 miles @ ~10.0 min/mi</h3><p>"Rhubarb and strawberry crisp!" Tastes great, but gets its revenge during ten 400m intervals at the University of Maryland track. <em>Oops!</em> Two young sprinters blast along the western straightaway. Orbit lane 2, with half-lap recovery walks between repeats. Splits: 1:56 + 1:49 + 1:51 + 1:49 + 1:53 + 1:51 + 1:51 + 1:54 + 1:54 + 1:50 &mdash; followed by a veggie gyro at nearby Marathon Deli: <em>Whee!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/978426212">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-06-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.181
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.7 miles @ ~10.0 min/mi
+	
+	"Rhubarb and strawberry crisp!" Tastes great, but gets its revenge during ten 400m intervals at the University of Maryland track. //Oops!// Two young sprinters blast along the western straightaway. Orbit lane 2, with half-lap recovery walks between repeats. Splits: 1:56 + 1:49 + 1:51 + 1:49 + 1:53 + 1:51 + 1:51 + 1:54 + 1:54 + 1:50 &mdash; followed by a veggie gyro at nearby Marathon Deli: //Whee!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/978426212|trackfile]])// - //**^z**// - 2017-06-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.7 miles @ ~10.0 min/mi<br />&gt; "Rhubarb and strawberry crisp!" Tastes great, but gets its revenge during ten 400m intervals at the University of Maryland track. //Oops!// Two young sprinters blast along the western straightaway. Orbit lane 2, with half-lap recovery walks between repeats. Splits: 1:56 + 1:49 + 1:51 + 1:49 + 1:53 + 1:51 + 1:51 + 1:54 + 1:54 + 1:50 &amp;mdash; followed by a veggie gyro at nearby Marathon Deli: //Whee!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/978426212|trackfile]])// - //**^z**// - 2017-06-03</strong></p></div>
+flags: 0
+ts: 1528057705
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057705

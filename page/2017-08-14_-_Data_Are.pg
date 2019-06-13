@@ -1,0 +1,25 @@
+blocks: <h3>~11.2 miles @ ~13.0 min/mi</h3><p>"Sweet tea? You don't like sweet tea? What's wrong with you?" Kristin quotes an incredulous Southerner she met on a business trip, as I rehydrate at a mile 6 McDonalds with that classic beverage. Lavender clouds greet the Dawn Patrol on a muggy Monday morning. Kerry reports on results of a weekend pony jumping competition.</p><p>"DATA IS THE NEW BACON" reads the t-shirt of a woman who cheers us as we pass her. "Shouldn't that say DATA <strong>ARE</strong> ...?" a picky grammar person asks. We discuss how hard it is, according to one's spouse, to load a dishwasher properly or perform other common household duties up to their high standards. "So the answer is, let <strong>them</strong> do it!"</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1036033941">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-09-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.196
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~11.2 miles @ ~13.0 min/mi
+	
+	"Sweet tea? You don't like sweet tea? What's wrong with you?" Kristin quotes an incredulous Southerner she met on a business trip, as I rehydrate at a mile 6 McDonalds with that classic beverage. Lavender clouds greet the Dawn Patrol on a muggy Monday morning. Kerry reports on results of a weekend pony jumping competition.
+	
+	"DATA IS THE NEW BACON" reads the t-shirt of a woman who cheers us as we pass her. "Shouldn't that say DATA **ARE** ...?" a picky grammar person asks. We discuss how hard it is, according to one's spouse, to load a dishwasher properly or perform other common household duties up to their high standards. "So the answer is, let **them** do it!"
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1036033941|trackfile]])// - //**^z**// - 2017-09-12
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~11.2 miles @ ~13.0 min/mi<br />&gt; "Sweet tea? You don't like sweet tea? What's wrong with you?" Kristin quotes an incredulous Southerner she met on a business trip, as I rehydrate at a mile 6 McDonalds with that classic beverage. Lavender clouds greet the Dawn Patrol on a muggy Monday morning. Kerry reports on results of a weekend pony jumping competition.<br />&gt; "DATA IS THE NEW BACON" reads the t-shirt of a woman who cheers us as we pass her. "Shouldn't that say DATA **ARE** ...?" a picky grammar person asks. We discuss how hard it is, according to one's spouse, to load a dishwasher properly or perform other common household duties up to their high standards. "So the answer is, let **them** do it!"<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1036033941|trackfile]])// - //**^z**// - 2017-09-12</strong></p></div>
+flags: 0
+ts: 1528057677
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057677

@@ -1,0 +1,28 @@
+blocks: <table class="user"><tr><td align="right">When falling asleep,<br />In that brief gap between awareness<br />That one's consciousness is fading<br />And total loss of self &mdash;<br />What strange thoughts flow unrecorded,<br />Slithering away<br />As the mechanisms of memory<br />Shut down?</td></tr></table><p><em><strong>^z</strong></em> - 2013-04-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.56
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | When falling asleep,
+	In that brief gap between awareness
+	That one's consciousness is fading
+	And total loss of self &mdash;
+	What strange thoughts flow unrecorded,
+	Slithering away
+	As the mechanisms of memory
+	Shut down? |
+	
+	//**^z**// - 2013-04-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| When falling asleep,<br />&gt; In that brief gap between awareness<br />&gt; That one's consciousness is fading<br />&gt; And total loss of self &amp;mdash;<br />&gt; What strange thoughts flow unrecorded,<br />&gt; Slithering away<br />&gt; As the mechanisms of memory<br />&gt; Shut down? |<br />&gt; //**^z**// - 2013-04-05</strong></p></div>
+flags: 0
+ts: 1528057695
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057695

@@ -1,0 +1,25 @@
+blocks: <h3>~4.9 miles @ ~12.0 min/mi</h3><p><strong>PRIVATE ROAD - NO TRESPASSING</strong>, says the sign at the entrance to Hickory Hill Avenue. "Do you think that means us?" someone asks. "No!" is the obvious answer. It's <em>terra incognita</em>, one of the few lanes in McLean that the Dawn Patrol has yet to investigate. Kerry and I follow the gravel street past lovely homes to a dead-end brushy slope. Half a mile later we're looking up from the bottom of that same hillside as we trot along a creek-side path through the woods. <em>Small world!</em></p><p>On aptly-named Dead Run Drive a life-sized skeleton holds the leash of an equally bony dog. Three deer munch the grass beside the central library and eye us fearlessly as we pass close by. Within two blocks of our finish line the GPS shows us just above 12 min/mi pace. <em>"Final sprint - start your kick now - GO!"</em>.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/885314067">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-11-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 miles @ ~12.0 min/mi
+	
+	**PRIVATE ROAD - NO TRESPASSING**, says the sign at the entrance to Hickory Hill Avenue. "Do you think that means us?" someone asks. "No!" is the obvious answer. It's //terra incognita//, one of the few lanes in McLean that the Dawn Patrol has yet to investigate. Kerry and I follow the gravel street past lovely homes to a dead-end brushy slope. Half a mile later we're looking up from the bottom of that same hillside as we trot along a creek-side path through the woods. //Small world!//
+	
+	On aptly-named Dead Run Drive a life-sized skeleton holds the leash of an equally bony dog. Three deer munch the grass beside the central library and eye us fearlessly as we pass close by. Within two blocks of our finish line the GPS shows us just above 12 min/mi pace. //"Final sprint - start your kick now - GO!"//.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/885314067|trackfile]])// - //**^z**// - 2016-11-22
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 miles @ ~12.0 min/mi<br />&gt; **PRIVATE ROAD - NO TRESPASSING**, says the sign at the entrance to Hickory Hill Avenue. "Do you think that means us?" someone asks. "No!" is the obvious answer. It's //terra incognita//, one of the few lanes in McLean that the Dawn Patrol has yet to investigate. Kerry and I follow the gravel street past lovely homes to a dead-end brushy slope. Half a mile later we're looking up from the bottom of that same hillside as we trot along a creek-side path through the woods. //Small world!//<br />&gt; On aptly-named Dead Run Drive a life-sized skeleton holds the leash of an equally bony dog. Three deer munch the grass beside the central library and eye us fearlessly as we pass close by. Within two blocks of our finish line the GPS shows us just above 12 min/mi pace. //"Final sprint - start your kick now - GO!"//.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/885314067|trackfile]])// - //**^z**// - 2016-11-22</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

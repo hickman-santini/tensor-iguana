@@ -1,0 +1,23 @@
+blocks: <h3>~6.6 miles @ ~12.7 min/mi</h3><p>"I'm all Nutcrackered out!" says Molly, having seen far too many children's recital performances of the Tchaikovsky ballet. The Dawn Patrol rambles past McLean High School, does a segment on the track, and continues via cut-throughs into nearby neighborhoods. Intermittent drizzle slowly ramps up toward light rain. Kristin recaps Sunday's Army 10 Miler and sketches out plans for a potential long run on Friday. As we pass our starting point at mile 3.8 Molly peels off. Kids await school buses in the gloom. We greet dogs guarding their homes and admire tropical plants in front yards.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-11-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.106
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.6 miles @ ~12.7 min/mi
+	
+	"I'm all Nutcrackered out!" says Molly, having seen far too many children's recital performances of the Tchaikovsky ballet. The Dawn Patrol rambles past McLean High School, does a segment on the track, and continues via cut-throughs into nearby neighborhoods. Intermittent drizzle slowly ramps up toward light rain. Kristin recaps Sunday's Army 10 Miler and sketches out plans for a potential long run on Friday. As we pass our starting point at mile 3.8 Molly peels off. Kids await school buses in the gloom. We greet dogs guarding their homes and admire tropical plants in front yards.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/|trackfile]])// - //**^z**// - 2017-11-10
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.6 miles @ ~12.7 min/mi<br />&gt; "I'm all Nutcrackered out!" says Molly, having seen far too many children's recital performances of the Tchaikovsky ballet. The Dawn Patrol rambles past McLean High School, does a segment on the track, and continues via cut-throughs into nearby neighborhoods. Intermittent drizzle slowly ramps up toward light rain. Kristin recaps Sunday's Army 10 Miler and sketches out plans for a potential long run on Friday. As we pass our starting point at mile 3.8 Molly peels off. Kids await school buses in the gloom. We greet dogs guarding their homes and admire tropical plants in front yards.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/|trackfile]])// - //**^z**// - 2017-11-10</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057697

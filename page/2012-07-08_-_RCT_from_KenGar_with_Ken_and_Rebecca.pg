@@ -1,0 +1,23 @@
+blocks: <h3>~6 miles @ ~11.2 min/mi</h3><p>Karen Craney chats with me at the KenGar parking area on a sultry Sunday morning, with temperatures already in the 80s at 6:30am. She's leading the Fleet Feet training program for the Parks Half Marathon. Record high temperatures and punishing humidity are an incentive to run super-early pre-dawn. Plan One falls through, when a friend's daughter is injured and has a rough night. So Plan Two: KenGar, where I greet Ken Swab as he arrives a few minutes later. Rebecca Rosenberg is soon here. She took her dog Ivan to the emergency vet at 4am when he had a seizure. It's a rough day; the <a class="url http outside" href="http://connect.garmin.com/activity/197229076">Garmin GPS trackfile</a> shows us doing 11-12 min/mi until the last one, when Rebecca and I sprint ahead to go sub-10.</p><p><em><strong>^z</strong></em> - 2012-08-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.138.10
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6 miles @ ~11.2 min/mi
+	
+	Karen Craney chats with me at the KenGar parking area on a sultry Sunday morning, with temperatures already in the 80s at 6:30am. She's leading the Fleet Feet training program for the Parks Half Marathon. Record high temperatures and punishing humidity are an incentive to run super-early pre-dawn. Plan One falls through, when a friend's daughter is injured and has a rough night. So Plan Two: KenGar, where I greet Ken Swab as he arrives a few minutes later. Rebecca Rosenberg is soon here. She took her dog Ivan to the emergency vet at 4am when he had a seizure. It's a rough day; the [[http://connect.garmin.com/activity/197229076|Garmin GPS trackfile]] shows us doing 11-12 min/mi until the last one, when Rebecca and I sprint ahead to go sub-10.
+	
+	//**^z**// - 2012-08-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6 miles @ ~11.2 min/mi<br />&gt; Karen Craney chats with me at the KenGar parking area on a sultry Sunday morning, with temperatures already in the 80s at 6:30am. She's leading the Fleet Feet training program for the Parks Half Marathon. Record high temperatures and punishing humidity are an incentive to run super-early pre-dawn. Plan One falls through, when a friend's daughter is injured and has a rough night. So Plan Two: KenGar, where I greet Ken Swab as he arrives a few minutes later. Rebecca Rosenberg is soon here. She took her dog Ivan to the emergency vet at 4am when he had a seizure. It's a rough day; the [[http://connect.garmin.com/activity/197229076|Garmin GPS trackfile]] shows us doing 11-12 min/mi until the last one, when Rebecca and I sprint ahead to go sub-10.<br />&gt; //**^z**// - 2012-08-05</strong></p></div>
+flags: 0
+ts: 1528057691
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057691

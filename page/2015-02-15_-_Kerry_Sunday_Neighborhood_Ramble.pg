@@ -1,0 +1,25 @@
+blocks: <h3>~5.8 miles @ ~10.9 min/mi</h3><p>By mid-afternoon it's a balmy 15&deg;F and north winds have slowed to intermittent gusts of only ~25 mi/hr, so Kerry and I venture out. Sidewalks are icy but her neighborhood streets are 95% clear. We tread cautiously on the other 5% and concur that it will be too risky to run in the dark tomorrow morning. Conversation covers 3D printers, music schools, cognitive fallacies, new home construction, and the wisdom of not clinging to plans for the far future. Maybe I won't hope to buy that island after all!</p><p><a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/513411930">Runkeeper</a> records route.</p><p><em><strong>^z</strong></em> - 2015-03-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.8 miles @ ~10.9 min/mi
+	
+	By mid-afternoon it's a balmy 15&deg;F and north winds have slowed to intermittent gusts of only ~25 mi/hr, so Kerry and I venture out. Sidewalks are icy but her neighborhood streets are 95% clear. We tread cautiously on the other 5% and concur that it will be too risky to run in the dark tomorrow morning. Conversation covers 3D printers, music schools, cognitive fallacies, new home construction, and the wisdom of not clinging to plans for the far future. Maybe I won't hope to buy that island after all!
+	
+	[[http://runkeeper.com/user/zhurnaly/activity/513411930|Runkeeper]] records route.
+	
+	//**^z**// - 2015-03-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.8 miles @ ~10.9 min/mi<br />&gt; By mid-afternoon it's a balmy 15&amp;deg;F and north winds have slowed to intermittent gusts of only ~25 mi/hr, so Kerry and I venture out. Sidewalks are icy but her neighborhood streets are 95% clear. We tread cautiously on the other 5% and concur that it will be too risky to run in the dark tomorrow morning. Conversation covers 3D printers, music schools, cognitive fallacies, new home construction, and the wisdom of not clinging to plans for the far future. Maybe I won't hope to buy that island after all!<br />&gt; [[http://runkeeper.com/user/zhurnaly/activity/513411930|Runkeeper]] records route.<br />&gt; //**^z**// - 2015-03-10</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

@@ -1,0 +1,22 @@
+blocks: <h3>1 Comment.</h3><p>Funny quote from the book - reminds me of <a class="url http outside" href="http://www.theonion.com/content/node/28784">the classic Onion article</a>...</p><p>-- <a class="url http outside" href="http://packbat.livejournal.com/">RobinZimm</a> 2009-02-17 13:15 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === 1 Comment. ===
+	Funny quote from the book - reminds me of [http://www.theonion.com/content/node/28784 the classic Onion article]...
+	
+	-- [http://packbat.livejournal.com/ RobinZimm] 2009-02-17 13:15 UTC
+	
+	
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; Funny quote from the book - reminds me of [http://www.theonion.com/content/node/28784 the classic Onion article]...<br />&gt; -- [http://packbat.livejournal.com/ RobinZimm] 2009-02-17 13:15 UTC</p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057675

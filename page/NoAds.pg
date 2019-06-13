@@ -1,0 +1,16 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">"Don't be evil" is a fine philosophy //(thanks, Google!)//. Maybe saying it in positive terms and an active voice&amp;mdash;"Do good"&amp;mdash;makes it a bit shorter and clearer. I'm not always able to implement that, and certainly not completely, but it's a constant goal.<br />&lt; So here: no ads, no hidden subsidies, no secret click-tracking, no search-engine gamesmanship. Pretty much just what you see, plus a little behind-the-scenes machinery to keep noise low and useful information content high.<br />&lt; I'll keep trying to simplify things ...<br />&lt; //(cf.</strong> [[<strong class="changes">KnowingChoosingDoing</strong>]] <strong class="changes">(29 May 1999), [[My Religion]] (6 Nov 2000), [[ForThemselves]] (8 Jun 2003), [[GamingTheSystem]] (17 May 2004), [[ThisSpaceNotForRent]] (19 Dec 2004), ...)//<br />&lt; ----<br />&lt; [[TopicPhilosophy]] - [[TopicZhurnal]] - [[TopicSociety]] - [[TopicEconomics]] - Datetag20050517<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[CorrelationLog]], [[UnenviableHappiness]], [[SevenBasicPlots]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">No Ads</strong>]]</p></div>
+ip: 70.21.38.24
+ts: 1224721979
+minor: 1
+host: pool-70-21-38-24.res.east.verizon.net
+username: MarkZimmermann
+revision: 4
+diff-major: 
+summary: redirect
+languages: 
+text: #REDIRECT [[No Ads]]
+	
+lastmajor: 2
+keep-ts: 1224721979

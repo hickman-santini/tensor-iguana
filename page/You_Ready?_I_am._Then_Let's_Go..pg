@@ -1,0 +1,16 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">|</strong> [[<strong class="changes">image:http://zhurnaly.com/images/arty/</strong>You<strong class="changes">-Ready_I-Am_Then-Lets-Go_wonder_woman_superman.jpg|Wonder Woman and Superman|http://zhurnaly.com/images/arty/Wonder-Woman_Superman_you-ready_i-am_lets-go.png]] | //** "You Ready?"<br />&lt; \\<br />&lt; "</strong>I am<strong class="changes">."<br />&lt; \\<br />&lt; "</strong>Then let's go<strong class="changes">."**//<br />&lt; \\ \\ \\ \\<br />&lt; ... art by [[Wikipedia:Tony_Daniel|Tony Daniel]] for [[Wikipedia:https://en.wikipedia.org/wiki/Superman/Wonder_Woman|Superman/Wonder Woman]], in perhaps the best comic //(hmmm, "graphic novel")// image ever &amp;mdash; evoking partnership and power ... adventure and beauty and courage ... raw grace with delicate strength ... and maybe also love plus letting-go ... |<br />&lt; //(cf [[Heroes (We Could Be)]] (2018-01-25), ...)// - //**^z**// - 2018-10-24</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[You <strong class="changes">ready?</strong> I am<strong class="changes">.</strong> Then let's go<strong class="changes">.]]</strong></p></div>
+lastmajorsummary: redirect to proper capitalization
+ts: 1540372459
+minor: 
+host: 71.178.80.170
+username: z
+revision: 3
+diff-major: 1
+summary: redirect to proper capitalization
+languages: 
+text: #REDIRECT [[You ready? I am. Then let's go.]]
+	
+lastmajor: 3
+keep-ts: 1540372459

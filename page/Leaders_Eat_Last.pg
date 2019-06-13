@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p>Another book <em>(or "book")</em> with a great truth &mdash; let's all take care of each other &mdash; and not much more. Movingly-told anecdotes, yes. Testable, statistically-based evidence? Not so much, if any. Pop neurochemistry = endorphins + dopamine + serotonin + oxytocin &mdash; plenty of it. Bottom-line-up-front? Still looking for it. Simon Sinek's <em><strong>Leaders Eat Last: Why Some Teams Pull Together and Others Don't</strong></em> &mdash; an excellent 2009 TED Talk, in 300 pages.</p><p><em><strong>^z</strong></em> - 2018-12-30</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Another book //(or "book")// <strong class="changes">that built upon</strong> a great truth &amp;mdash; let's all take care of each other &amp;mdash; and not much more. Movingly-told anecdotes, yes. Testable, statistically-based evidence? Not so much, if any. Pop neurochemistry<strong class="changes">, endorphin</strong> + dopamine + serotonin + oxytocin<strong class="changes">,</strong> plenty of it. Bottom-line-up-front? Still looking for it <strong class="changes">after 300+ pages</strong>. Simon Sinek's //**Leaders Eat Last: Why Some Teams Pull Together and Others Don't**// &amp;mdash; an excellent 2009 TED Talk, in 300 pages.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Another book //(or "book")// <strong class="changes">with</strong> a great truth &amp;mdash; let's all take care of each other &amp;mdash; and not much more. Movingly-told anecdotes, yes. Testable, statistically-based evidence? Not so much, if any. Pop neurochemistry <strong class="changes">= endorphins</strong> + dopamine + serotonin + oxytocin <strong class="changes">&amp;mdash;</strong> plenty of it. Bottom-line-up-front? Still looking for it. Simon Sinek's //**Leaders Eat Last: Why Some Teams Pull Together and Others Don't**// &amp;mdash; an excellent 2009 TED Talk, in 300 pages.</p></div>
+lastmajorsummary: tweak
+ts: 1546167179
+minor: 
+host: 71.178.81.136
+username: z
+revision: 2
+diff-major: 1
+summary: tweak
+languages: 
+text: Another book //(or "book")// with a great truth &mdash; let's all take care of each other &mdash; and not much more. Movingly-told anecdotes, yes. Testable, statistically-based evidence? Not so much, if any. Pop neurochemistry = endorphins + dopamine + serotonin + oxytocin &mdash; plenty of it. Bottom-line-up-front? Still looking for it. Simon Sinek's //**Leaders Eat Last: Why Some Teams Pull Together and Others Don't**// &mdash; an excellent 2009 TED Talk, in 300 pages.
+	
+	//**^z**// - 2018-12-30
+	
+lastmajor: 2
+keep-ts: 1546167179

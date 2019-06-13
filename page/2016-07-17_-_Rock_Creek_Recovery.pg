@@ -1,0 +1,27 @@
+blocks: <h3>~4.9 miles @ ~12.7 min/mi</h3><p>"Mileage OCD, I pwnz you!" This morning's sunrise walkabout with Dr Stephanie ends with 5.99 miles on the GPS, and the run along Rock Creek at 4.99 miles. Yay for <em>(some tiny shreds of)</em> self-control!</p><p>Barry shares stories from last weekend's odyssey to Missoula, which included a beer run, a 5k, an &uuml;ber-steep climb to the big "M" on the mountain above town, and oh yeah, a marathon. I'm late arriving to KenGar and apologize to Ken and Rebecca. The gang is amused by Pok&eacute;mon Go. K&amp;R run ahead for speed &amp; distance.</p><p>Earlier, Stephanie and I walk to Dunkin Donuts for iced coffee and discuss vulnerability and friendship, virtue and life. She shares sweet news: after witnessing the niceness of ultrarunners at yesterday's Catoctin 50k, her wise daughter asks, "Mama, when can I run my first 50k?".</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/827120260">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-08-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.54
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 miles @ ~12.7 min/mi
+	
+	"Mileage OCD, I pwnz you!" This morning's sunrise walkabout with Dr Stephanie ends with 5.99 miles on the GPS, and the run along Rock Creek at 4.99 miles. Yay for //(some tiny shreds of)// self-control!
+	
+	Barry shares stories from last weekend's odyssey to Missoula, which included a beer run, a 5k, an &uuml;ber-steep climb to the big "M" on the mountain above town, and oh yeah, a marathon. I'm late arriving to KenGar and apologize to Ken and Rebecca. The gang is amused by Pok&eacute;mon Go. K&R run ahead for speed & distance.
+	
+	Earlier, Stephanie and I walk to Dunkin Donuts for iced coffee and discuss vulnerability and friendship, virtue and life. She shares sweet news: after witnessing the niceness of ultrarunners at yesterday's Catoctin 50k, her wise daughter asks, "Mama, when can I run my first 50k?".
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/827120260|trackfile]])// - //**^z**// - 2016-08-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 miles @ ~12.7 min/mi<br />&gt; "Mileage OCD, I pwnz you!" This morning's sunrise walkabout with Dr Stephanie ends with 5.99 miles on the GPS, and the run along Rock Creek at 4.99 miles. Yay for //(some tiny shreds of)// self-control!<br />&gt; Barry shares stories from last weekend's odyssey to Missoula, which included a beer run, a 5k, an &amp;uuml;ber-steep climb to the big "M" on the mountain above town, and oh yeah, a marathon. I'm late arriving to KenGar and apologize to Ken and Rebecca. The gang is amused by Pok&amp;eacute;mon Go. K&amp;R run ahead for speed &amp; distance.<br />&gt; Earlier, Stephanie and I walk to Dunkin Donuts for iced coffee and discuss vulnerability and friendship, virtue and life. She shares sweet news: after witnessing the niceness of ultrarunners at yesterday's Catoctin 50k, her wise daughter asks, "Mama, when can I run my first 50k?".<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/827120260|trackfile]])// - //**^z**// - 2016-08-07</strong></p></div>
+flags: 0
+ts: 1528057705
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057705

@@ -1,0 +1,25 @@
+blocks: <h3>~6.2 miles @ ~12.4 min/mi</h3><p>"Kristin is taking the low ones for the Team, and I'm handling the higher ones!" says Cait, brushing spider webs off her face, as the Dawn Patrol runs down stairs and across a narrow bridge over the creek. It's a humid summer morning, already warm. Rabbit Count = 3, one seen by each of us. We discover a new cut-through, between Arch Drive and tiny Pimmit Road Park.</p><p>"Can I get that for my birthday?" Kristin and Cait have been teaching younger family members to make Toy Department wish-lists for the future &mdash; good training in deferred pleasure. Lawn sprinklers pop up as we pass. Stiff-legged dogs take their owners out for early walks.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1016728997">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-08-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.74
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.2 miles @ ~12.4 min/mi
+	
+	"Kristin is taking the low ones for the Team, and I'm handling the higher ones!" says Cait, brushing spider webs off her face, as the Dawn Patrol runs down stairs and across a narrow bridge over the creek. It's a humid summer morning, already warm. Rabbit Count = 3, one seen by each of us. We discover a new cut-through, between Arch Drive and tiny Pimmit Road Park.
+	
+	"Can I get that for my birthday?" Kristin and Cait have been teaching younger family members to make Toy Department wish-lists for the future &mdash; good training in deferred pleasure. Lawn sprinklers pop up as we pass. Stiff-legged dogs take their owners out for early walks.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1016728997|trackfile]])// - //**^z**// - 2017-08-08
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.2 miles @ ~12.4 min/mi<br />&gt; "Kristin is taking the low ones for the Team, and I'm handling the higher ones!" says Cait, brushing spider webs off her face, as the Dawn Patrol runs down stairs and across a narrow bridge over the creek. It's a humid summer morning, already warm. Rabbit Count = 3, one seen by each of us. We discover a new cut-through, between Arch Drive and tiny Pimmit Road Park.<br />&gt; "Can I get that for my birthday?" Kristin and Cait have been teaching younger family members to make Toy Department wish-lists for the future &amp;mdash; good training in deferred pleasure. Lawn sprinklers pop up as we pass. Stiff-legged dogs take their owners out for early walks.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1016728997|trackfile]])// - //**^z**// - 2017-08-08</strong></p></div>
+flags: 0
+ts: 1528057686
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057686

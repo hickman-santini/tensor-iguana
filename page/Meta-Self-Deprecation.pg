@@ -1,0 +1,29 @@
+blocks: <p>A few days ago comrade KH and I, in online chat, each began trying to take responsibility for the other's failure in some trivial thing: "I must not have said it clearly", "No, I must be hard of hearing", etc. After a brief exchange I raised the stakes with:</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Don't get into a self-deprecation contest with me &mdash; it's my greatest strength!"</p><p>... and followed that up immediately with:</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Well, I guess that wasn't a very self-deprecating statement ... hmmm ... looks like I'm no good at self-deprecation either, eh?"</p><p>... a hard-to-beat move to a higher level of meta-banter!</p><p><em><strong>^z</strong></em> - 2014-05-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.136
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: A few days ago comrade KH and I, in online chat, each began trying to take responsibility for the other's failure in some trivial thing: "I must not have said it clearly", "No, I must be hard of hearing", etc. After a brief exchange I raised the stakes with:
+	
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Don't get into a self-deprecation contest with me &mdash; it's my greatest strength!"
+	
+	... and followed that up immediately with:
+	
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Well, I guess that wasn't a very self-deprecating statement ... hmmm ... looks like I'm no good at self-deprecation either, eh?"
+	
+	... a hard-to-beat move to a higher level of meta-banter!
+	
+	//**^z**// - 2014-05-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">A few days ago comrade KH and I, in online chat, each began trying to take responsibility for the other's failure in some trivial thing: "I must not have said it clearly", "No, I must be hard of hearing", etc. After a brief exchange I raised the stakes with:<br />&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"Don't get into a self-deprecation contest with me &amp;mdash; it's my greatest strength!"<br />&gt; ... and followed that up immediately with:<br />&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;"Well, I guess that wasn't a very self-deprecating statement ... hmmm ... looks like I'm no good at self-deprecation either, eh?"<br />&gt; ... a hard-to-beat move to a higher level of meta-banter!<br />&gt; //**^z**// - 2014-05-02</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

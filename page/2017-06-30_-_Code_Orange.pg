@@ -1,0 +1,25 @@
+blocks: <h3>~6.6 miles @ ~10.7 min/mi</h3><p>"The Naked Crayon!" Cait's young niece Riley loves the book <strong>The Day the Crayons Quit</strong>. We remember a classic tale of metacognitive frame-escape, <strong>Harold and the Purple Crayon</strong>. A Code Orange air quality alert this morning continues the color theme. Salty sweat stings eyes during walk breaks.</p><p>"Let's <em><strong>not</strong></em> sit on the horse!" A mustang statue symbolizes George Marshall High School. We meander cross-country to find a way through the maze of fences that protect the track there, then jog a lap (time = 2:10). Three big bunnies hop into the brush at Lemon Road Park.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1009837819">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-07-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.94
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.6 miles @ ~10.7 min/mi
+	
+	"The Naked Crayon!" Cait's young niece Riley loves the book **The Day the Crayons Quit**. We remember a classic tale of metacognitive frame-escape, **Harold and the Purple Crayon**. A Code Orange air quality alert this morning continues the color theme. Salty sweat stings eyes during walk breaks.
+	
+	"Let's //**not**// sit on the horse!" A mustang statue symbolizes George Marshall High School. We meander cross-country to find a way through the maze of fences that protect the track there, then jog a lap (time = 2:10). Three big bunnies hop into the brush at Lemon Road Park.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1009837819|trackfile]])// - //**^z**// - 2017-07-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.6 miles @ ~10.7 min/mi<br />&gt; "The Naked Crayon!" Cait's young niece Riley loves the book **The Day the Crayons Quit**. We remember a classic tale of metacognitive frame-escape, **Harold and the Purple Crayon**. A Code Orange air quality alert this morning continues the color theme. Salty sweat stings eyes during walk breaks.<br />&gt; "Let's //**not**// sit on the horse!" A mustang statue symbolizes George Marshall High School. We meander cross-country to find a way through the maze of fences that protect the track there, then jog a lap (time = 2:10). Three big bunnies hop into the brush at Lemon Road Park.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1009837819|trackfile]])// - //**^z**// - 2017-07-23</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

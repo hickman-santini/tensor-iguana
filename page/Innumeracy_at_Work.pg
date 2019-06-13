@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p>I've been repeatedly stunned during the past few weeks at the limitations of many of my colleagues in the mathematical department:<br /></p><ul><li>A comrade didn't know that the digits of &pi; (3.1415926535...) never end or repeat.</li><li>Another co-worker didn't understand exponential notation, e.g., how to write a million as 1e6 or convert 3.9e-2 to 0.039 by moving the decimal point appropriately.</li><li><strong>Nobody</strong> among a dozen technically-educated people knew how to multiply two numbers together using a slide rule.</li></ul><p>But at least most of my colleagues can <em>recognize</em> a slide rule when they see it!</p><p><em><strong>^z</strong></em> - 2010-10-09</p>
+ip: 141.156.197.245
+ts: 1286610100
+minor: 
+host: pool-141-156-197-245.res.east.verizon.net
+username: Mark Zimmermann
+revision: 1
+summary: I've been repeatedly stunned during the past few weeks at the limitations of many of my colleagues in the mathematical department: * A comrade . . .
+languages: 
+text: I've been repeatedly stunned during the past few weeks at the limitations of many of my colleagues in the mathematical department:
+	* A comrade didn't know that the digits of &pi; (3.1415926535...) never end or repeat.
+	* Another co-worker didn't understand exponential notation, e.g., how to write a million as 1e6 or convert 3.9e-2 to 0.039 by moving the decimal point appropriately.
+	* **Nobody** among a dozen technically-educated people knew how to multiply two numbers together using a slide rule.
+	
+	But at least most of my colleagues can //recognize// a slide rule when they see it!
+	
+	//**^z**// - 2010-10-09
+	
+lastmajor: 1

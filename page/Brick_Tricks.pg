@@ -1,0 +1,22 @@
+blocks: <p><img class="url http" src="http://zhurnaly.com/images/Brick_Tricks.jpg" alt="http://zhurnaly.com/images/Brick_Tricks.jpg" /></p><p>Decorative masonry on four houses, all built in 1939 on Linden Lane in Silver Spring, MD, USA ...</p><p><em><strong>^z</strong></em> - 2013-05-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.216.104
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: http://zhurnaly.com/images/Brick_Tricks.jpg
+	
+	Decorative masonry on four houses, all built in 1939 on Linden Lane in Silver Spring, MD, USA ...
+	
+	//**^z**// - 2013-05-18
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; http://zhurnaly.com/images/Brick_Tricks.jpg<br />&gt; Decorative masonry on four houses, all built in 1939 on Linden Lane in Silver Spring, MD, USA ...<br />&gt; //**^z**// - 2013-05-18</p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057690

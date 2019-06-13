@@ -1,0 +1,23 @@
+blocks: <h3>~13.2 miles @ ~12.2 min/mi</h3><p>A soggy family of panda dolls perch within the bamboo by Great Falls St. Rain pauses, resumes, then stops. Water droplets cling to the tips of pine needles like jewels. "Now I know why you wear a cap!" I tell Kerry as we run under low-hanging branches and my head gets wet. Kristin points out a chipmunk; I spy a rabbit. Nobody can decide what route to venture along, so we random-walk meander over segments of prior treks, revisit old landmarks, enjoy the cool morning, and pause at a previously unseen Taco Bell to test the doors (not yet unlocked). After 10+ miles we escort Kerry back to her car and add one more circuit to decorate the trackfile.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/585711296">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-07-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.183
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~13.2 miles @ ~12.2 min/mi
+	
+	A soggy family of panda dolls perch within the bamboo by Great Falls St. Rain pauses, resumes, then stops. Water droplets cling to the tips of pine needles like jewels. "Now I know why you wear a cap!" I tell Kerry as we run under low-hanging branches and my head gets wet. Kristin points out a chipmunk; I spy a rabbit. Nobody can decide what route to venture along, so we random-walk meander over segments of prior treks, revisit old landmarks, enjoy the cool morning, and pause at a previously unseen Taco Bell to test the doors (not yet unlocked). After 10+ miles we escort Kerry back to her car and add one more circuit to decorate the trackfile.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/585711296|trackfile]])// - //**^z**// - 2015-07-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~13.2 miles @ ~12.2 min/mi<br />&gt; A soggy family of panda dolls perch within the bamboo by Great Falls St. Rain pauses, resumes, then stops. Water droplets cling to the tips of pine needles like jewels. "Now I know why you wear a cap!" I tell Kerry as we run under low-hanging branches and my head gets wet. Kristin points out a chipmunk; I spy a rabbit. Nobody can decide what route to venture along, so we random-walk meander over segments of prior treks, revisit old landmarks, enjoy the cool morning, and pause at a previously unseen Taco Bell to test the doors (not yet unlocked). After 10+ miles we escort Kerry back to her car and add one more circuit to decorate the trackfile.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/585711296|trackfile]])// - //**^z**// - 2015-07-02</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057688

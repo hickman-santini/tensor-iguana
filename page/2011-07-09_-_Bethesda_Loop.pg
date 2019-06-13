@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~8.5 miles @ ~10.3 min/mi</h3></p><p>"Maybe you can lick the dew off the parking meters?" I suggest to Ken Swab, when he notes that he forgot to bring a water bottle on this warm but humid Saturday morning. My shorts are already soaking wet after the four mile jog from home to meet the Bethesda Rebel Runners at 0630. Others go west on the Capital Crescent Trail, but Ken and Megan (Barker? O'Rourke?) and Cat (Wood?) and I turn east on hilly Leland St, chatting about upcoming marathon plans and cruising at a brisk pace. As per the <a class="url http outside" href="http://connect.garmin.com/activity/97853905">GPS trackfile</a> I branch homeward when we get to Rock Creek.</p><p><em><strong>^z</strong></em> - 2011-07-28</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Maybe you can lick the dew off the parking meters?" I suggest to Ken Swab, when he notes that he forgot to bring a water bottle on this warm but humid <strong class="changes">summer</strong> morning. My shorts are already soaking wet after the four mile jog from home to meet the Bethesda Rebel Runners at 0630. Others go west on the Capital Crescent Trail, but Ken and Megan (Barker? O'Rourke?) and Cat (Wood?) and I turn east on hilly Leland St, chatting about upcoming marathon plans and cruising at a brisk pace. As per the [[http://connect.garmin.com/activity/97853905|GPS trackfile]] I branch homeward when we get to Rock Creek.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "Maybe you can lick the dew off the parking meters?" I suggest to Ken Swab, when he notes that he forgot to bring a water bottle on this warm but humid <strong class="changes">Saturday</strong> morning. My shorts are already soaking wet after the four mile jog from home to meet the Bethesda Rebel Runners at 0630. Others go west on the Capital Crescent Trail, but Ken and Megan (Barker? O'Rourke?) and Cat (Wood?) and I turn east on hilly Leland St, chatting about upcoming marathon plans and cruising at a brisk pace. As per the [[http://connect.garmin.com/activity/97853905|GPS trackfile]] I branch homeward when we get to Rock Creek.</p></div>
+ip: 138.88.113.83
+ts: 1311854120
+minor: 1
+host: pool-138-88-113-83.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: === ~8.5 miles @ ~10.3 min/mi
+	
+	"Maybe you can lick the dew off the parking meters?" I suggest to Ken Swab, when he notes that he forgot to bring a water bottle on this warm but humid Saturday morning. My shorts are already soaking wet after the four mile jog from home to meet the Bethesda Rebel Runners at 0630. Others go west on the Capital Crescent Trail, but Ken and Megan (Barker? O'Rourke?) and Cat (Wood?) and I turn east on hilly Leland St, chatting about upcoming marathon plans and cruising at a brisk pace. As per the [[http://connect.garmin.com/activity/97853905|GPS trackfile]] I branch homeward when we get to Rock Creek.
+	
+	//**^z**// - 2011-07-28
+	
+lastmajor: 1
+keep-ts: 1311854120

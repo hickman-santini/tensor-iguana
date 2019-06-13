@@ -1,0 +1,23 @@
+blocks: <h3>~4.4 mi @ ~12.9 min/mi</h3><p>"A sunrise so beautiful I want to hug it!" starts with the faintest scarlet tinge on the horizon, deepens to a smoldering cherry glow, then in a few minutes breaks into fiery crimson glints on the underside of slate-gray clouds. Dawn Patrol walks backwards up a hill to admire. Mars and Jupiter dance in conjunction, temps in the upper teens. Kristin tells of owls and dogs and robots. We compare notes on home-schooling reviews, speculate about the afternoon storm forecast, and thank each other for company on a chill morning!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1105700680">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-02-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.146
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.4 mi @ ~12.9 min/mi
+	
+	"A sunrise so beautiful I want to hug it!" starts with the faintest scarlet tinge on the horizon, deepens to a smoldering cherry glow, then in a few minutes breaks into fiery crimson glints on the underside of slate-gray clouds. Dawn Patrol walks backwards up a hill to admire. Mars and Jupiter dance in conjunction, temps in the upper teens. Kristin tells of owls and dogs and robots. We compare notes on home-schooling reviews, speculate about the afternoon storm forecast, and thank each other for company on a chill morning!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1105700680|trackfile]])// - //**^z**// - 2018-02-06
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.4 mi @ ~12.9 min/mi<br />&gt; "A sunrise so beautiful I want to hug it!" starts with the faintest scarlet tinge on the horizon, deepens to a smoldering cherry glow, then in a few minutes breaks into fiery crimson glints on the underside of slate-gray clouds. Dawn Patrol walks backwards up a hill to admire. Mars and Jupiter dance in conjunction, temps in the upper teens. Kristin tells of owls and dogs and robots. We compare notes on home-schooling reviews, speculate about the afternoon storm forecast, and thank each other for company on a chill morning!<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1105700680|trackfile]])// - //**^z**// - 2018-02-06</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

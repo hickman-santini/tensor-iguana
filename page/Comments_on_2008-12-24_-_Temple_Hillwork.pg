@@ -1,0 +1,28 @@
+blocks: <h3>1 Comment.</h3><p>The journey is all run, no walk, eh?</p><p class="indent level1" style="margin-left: 2em">)</p><p>Methinks the training is probably helping!</p><p>-- <a class="url http outside" href="http://caramariesvault.blogspot.com">Cara Marie</a> 2008-12-28 19:22 UTC</p><h4>1 person liked this</h4>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	The journey is all run, no walk, eh?
+	
+	:)
+	
+	Methinks the training is probably helping!
+	
+	-- [http://caramariesvault.blogspot.com Cara Marie] 2008-12-28 19:22 UTC
+	
+	
+	====1 person liked this====
+	
+languages: 
+lastmajor: 16
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; The journey is all run, no walk, eh?<br />&gt; :)<br />&gt; Methinks the training is probably helping!<br />&gt; -- [http://caramariesvault.blogspot.com Cara Marie] 2008-12-28 19:22 UTC<br />&gt; ====1 person liked this====</p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 16
+keep-ts: 1528057689

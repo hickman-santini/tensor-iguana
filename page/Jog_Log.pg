@@ -1,0 +1,17 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">&lt;journal&gt;</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[Running Logbook]]</strong></p></div>
+ip: 70.21.38.24
+ts: 1228043517
+minor: 1
+host: pool-70-21-38-24.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: redirect to Running_Logbook
+languages: 
+text: #REDIRECT [[Running Logbook]]
+	
+	
+	
+keep-ts: 1228043517

@@ -1,0 +1,54 @@
+blocks: <table class="user"><tr><td align="right">we keep <br />our silence<br /><br />we hold<br />our tongues<br /><br />we offer<br />our best,<br />are ridiculed<br />and,<br />pull back<br />our open hands<br /><br />hiding<br />in our pockets<br />fists<br /><br />we take<br />what you mocked<br />your childrens' future<br />and toss it<br />on the fire<br />warming ourselves<br /><br />and yet<br />you think<br />you judge<br />and wonder<br />why god hates you<br /><br />it is not god<br />it is<br />us<br />who keep<br />our silence </td></tr></table><p><em>(by Edward Covannon - November 2013)</em></p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | we keep 
+	our silence
+	\\
+	we hold
+	our tongues
+	\\
+	we offer
+	our best,
+	are ridiculed
+	and,
+	pull back
+	our open hands
+	\\
+	hiding
+	in our pockets
+	fists
+	\\
+	we take
+	what you mocked
+	your childrens' future
+	and toss it
+	on the fire
+	warming ourselves
+	\\
+	and yet
+	you think
+	you judge
+	and wonder
+	why god hates you
+	\\
+	it is not god
+	it is
+	us
+	who keep
+	our silence |
+	
+	//(by Edward Covannon - November 2013)//
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; | we keep <br />&gt; our silence<br />&gt; \\<br />&gt; we hold<br />&gt; our tongues<br />&gt; \\<br />&gt; we offer<br />&gt; our best,<br />&gt; are ridiculed<br />&gt; and,<br />&gt; pull back<br />&gt; our open hands<br />&gt; \\<br />&gt; hiding<br />&gt; in our pockets<br />&gt; fists<br />&gt; \\<br />&gt; we take<br />&gt; what you mocked<br />&gt; your childrens' future<br />&gt; and toss it<br />&gt; on the fire<br />&gt; warming ourselves<br />&gt; \\<br />&gt; and yet<br />&gt; you think<br />&gt; you judge<br />&gt; and wonder<br />&gt; why god hates you<br />&gt; \\<br />&gt; it is not god<br />&gt; it is<br />&gt; us<br />&gt; who keep<br />&gt; our silence |<br />&gt; //(by Edward Covannon - November 2013)//</p></div>
+flags: 0
+ts: 1528057702
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057702

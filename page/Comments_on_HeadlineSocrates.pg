@@ -1,0 +1,36 @@
+blocks: <h3>1 Comment.</h3><p>see <a class="url http" href="http://www.nytimes.com/1999/03/07/us/for-the-homeless-rebirth-through-socrates.html">http://www.nytimes.com/1999/03/07/us/for-the-homeless-rebirth-through-socrates.html</a></p><h3>For the Homeless, Rebirth Through Socrates</h3><p>By ETHAN BRONNERMARCH 7, 1999</p><blockquote><p>The students, mostly in sweat shirts and jeans, sit around a long table dotted with soda cans and cookies and consult their highlighted copies of Plato's <q>Apology.</q> Two professors guide their debate over whether Socrates, on the verge of execution, was arrogant or humble. Outside, the sun sets on the neogothic campus.</p><p>There could hardly be a more archetypal college scene than this one in the University of Notre Dame's O'Shaughnessy Building, with its seven stained glass windows representing the seven liberal arts, ancient disciplines from rhetoric to astronomy. Yet the 10 students in this weekly seminar fit no typical profile for Notre Dame or any university. They are current or former residents of the South Bend Center for the Homeless, men and women with the weathered features and oblique emotional balances of those who have spent many nights in the streets.</p><p>It may seem quaint, if not useless, to bring philosophical literature to the homeless, an idea conceived in some pristine ivory tower. But that is not how the students view it.</p><p>...<br /></p></blockquote><p>-- z 2017-07-11 13:46 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	see http://www.nytimes.com/1999/03/07/us/for-the-homeless-rebirth-through-socrates.html 
+	
+	=== For the Homeless, Rebirth Through Socrates
+	By ETHAN BRONNERMARCH 7, 1999
+	
+	"""
+	The students, mostly in sweat shirts and jeans, sit around a long table dotted with soda cans and cookies and consult their highlighted copies of Plato's ''Apology.'' Two professors guide their debate over whether Socrates, on the verge of execution, was arrogant or humble. Outside, the sun sets on the neogothic campus.
+	
+	There could hardly be a more archetypal college scene than this one in the University of Notre Dame's O'Shaughnessy Building, with its seven stained glass windows representing the seven liberal arts, ancient disciplines from rhetoric to astronomy. Yet the 10 students in this weekly seminar fit no typical profile for Notre Dame or any university. They are current or former residents of the South Bend Center for the Homeless, men and women with the weathered features and oblique emotional balances of those who have spent many nights in the streets.
+	
+	It may seem quaint, if not useless, to bring philosophical literature to the homeless, an idea conceived in some pristine ivory tower. But that is not how the students view it.
+	
+	...
+	"""
+	
+	-- z 2017-07-11 13:46 UTC
+	
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; see http://www.nytimes.com/1999/03/07/us/for-the-homeless-rebirth-through-socrates.html <br />&gt; === For the Homeless, Rebirth Through Socrates<br />&gt; By ETHAN BRONNERMARCH 7, 1999<br />&gt; """<br />&gt; The students, mostly in sweat shirts and jeans, sit around a long table dotted with soda cans and cookies and consult their highlighted copies of Plato's ''Apology.'' Two professors guide their debate over whether Socrates, on the verge of execution, was arrogant or humble. Outside, the sun sets on the neogothic campus.<br />&gt; There could hardly be a more archetypal college scene than this one in the University of Notre Dame's O'Shaughnessy Building, with its seven stained glass windows representing the seven liberal arts, ancient disciplines from rhetoric to astronomy. Yet the 10 students in this weekly seminar fit no typical profile for Notre Dame or any university. They are current or former residents of the South Bend Center for the Homeless, men and women with the weathered features and oblique emotional balances of those who have spent many nights in the streets.<br />&gt; It may seem quaint, if not useless, to bring philosophical literature to the homeless, an idea conceived in some pristine ivory tower. But that is not how the students view it.<br />&gt; ...<br />&gt; """<br />&gt; -- z 2017-07-11 13:46 UTC</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057688

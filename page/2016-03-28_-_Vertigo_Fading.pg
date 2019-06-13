@@ -1,0 +1,23 @@
+blocks: <h3>~10.1 miles @ ~12.7 min/mi</h3><p>"Thank you!" I tell Kristin as we ramble in the rain. "For a morning when I seriously thought about calling in sick, this is the best day ever!" Yesterday's dizziness (BPPV) is mostly gone, and as the sun rises we discover a new playground cut-through ("Tysons Pimmit Park"), find a quarter on the pavement, slip but don't fall down on muddy sidewalks, climb a few steep hills, and manage to achieve soggy double-digit mileage while staying mostly within the Pimmit Hills neighborhood and not repeating too many streets. Kitschy lawn art and dozens of wind chimes decorate a yard near the corner of Cherri Drive and Leonard Road. It's trash day and we chase a garbage truck for a few blocks. "What will we do if we catch it?"</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/757846233">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.8
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.1 miles @ ~12.7 min/mi
+	
+	"Thank you!" I tell Kristin as we ramble in the rain. "For a morning when I seriously thought about calling in sick, this is the best day ever!" Yesterday's dizziness (BPPV) is mostly gone, and as the sun rises we discover a new playground cut-through ("Tysons Pimmit Park"), find a quarter on the pavement, slip but don't fall down on muddy sidewalks, climb a few steep hills, and manage to achieve soggy double-digit mileage while staying mostly within the Pimmit Hills neighborhood and not repeating too many streets. Kitschy lawn art and dozens of wind chimes decorate a yard near the corner of Cherri Drive and Leonard Road. It's trash day and we chase a garbage truck for a few blocks. "What will we do if we catch it?"
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/757846233|trackfile]])// - //**^z**// - 2016-04-18
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.1 miles @ ~12.7 min/mi<br />&gt; "Thank you!" I tell Kristin as we ramble in the rain. "For a morning when I seriously thought about calling in sick, this is the best day ever!" Yesterday's dizziness (BPPV) is mostly gone, and as the sun rises we discover a new playground cut-through ("Tysons Pimmit Park"), find a quarter on the pavement, slip but don't fall down on muddy sidewalks, climb a few steep hills, and manage to achieve soggy double-digit mileage while staying mostly within the Pimmit Hills neighborhood and not repeating too many streets. Kitschy lawn art and dozens of wind chimes decorate a yard near the corner of Cherri Drive and Leonard Road. It's trash day and we chase a garbage truck for a few blocks. "What will we do if we catch it?"<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/757846233|trackfile]])// - //**^z**// - 2016-04-18</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

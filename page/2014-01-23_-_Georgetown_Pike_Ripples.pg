@@ -1,0 +1,27 @@
+blocks: <h3>~8 miles @ ~12.3 min/mi</h3><p>Today's topic is renormalization: "A year ago, could you have imagined saying 'I have an early morning meeting &mdash; we have to cut this run <em><strong>short</strong></em>, to 7 miles.' &mdash; and then overshooting to 8?" Likewise we note the evolution of revised standards for running in rough weather, over new routes, in darkness, etc.</p><p>So Kerry and Kristin and I muse, as we abridge our trek. I've forgotten my flashlight and Kristin's batteries need changing, but Kerry's headlamp is bright enough for three. Trail talk includes reminisces about throwing up after hard exercise in high school or freshman college gym classes. And there are delicate observations re what groups of solely boys (or girls) sometimes chat about when rambling along the road. <em>(Say no more!)</em></p><p>We admire the dawn, review last weekend and upcoming family plans, and then sprint back in time, barely, for early work appointments. Birds chirp at us as the sun rises. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/500939128">Runkeeper</a> records route.</p><p><em><strong>^z</strong></em> - 2015-02-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8 miles @ ~12.3 min/mi
+	
+	Today's topic is renormalization: "A year ago, could you have imagined saying 'I have an early morning meeting &mdash; we have to cut this run //**short**//, to 7 miles.' &mdash; and then overshooting to 8?" Likewise we note the evolution of revised standards for running in rough weather, over new routes, in darkness, etc.
+	
+	So Kerry and Kristin and I muse, as we abridge our trek. I've forgotten my flashlight and Kristin's batteries need changing, but Kerry's headlamp is bright enough for three. Trail talk includes reminisces about throwing up after hard exercise in high school or freshman college gym classes. And there are delicate observations re what groups of solely boys (or girls) sometimes chat about when rambling along the road. //(Say no more!)//
+	
+	We admire the dawn, review last weekend and upcoming family plans, and then sprint back in time, barely, for early work appointments. Birds chirp at us as the sun rises. [[http://runkeeper.com/user/zhurnaly/activity/500939128|Runkeeper]] records route.
+	
+	//**^z**// - 2015-02-14
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8 miles @ ~12.3 min/mi<br />&gt; Today's topic is renormalization: "A year ago, could you have imagined saying 'I have an early morning meeting &amp;mdash; we have to cut this run //**short**//, to 7 miles.' &amp;mdash; and then overshooting to 8?" Likewise we note the evolution of revised standards for running in rough weather, over new routes, in darkness, etc.<br />&gt; So Kerry and Kristin and I muse, as we abridge our trek. I've forgotten my flashlight and Kristin's batteries need changing, but Kerry's headlamp is bright enough for three. Trail talk includes reminisces about throwing up after hard exercise in high school or freshman college gym classes. And there are delicate observations re what groups of solely boys (or girls) sometimes chat about when rambling along the road. //(Say no more!)//<br />&gt; We admire the dawn, review last weekend and upcoming family plans, and then sprint back in time, barely, for early work appointments. Birds chirp at us as the sun rises. [[http://runkeeper.com/user/zhurnaly/activity/500939128|Runkeeper]] records route.<br />&gt; //**^z**// - 2015-02-14</strong></p></div>
+flags: 0
+ts: 1528057680
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057680

@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~3.9 mi @ ~12.0 min/mi</h3><p>"Probably a dead end - but there might be a cut-through!" On a drizzly-warm morning K-Rex explores Corporate Ridge, a street leading into an McLean office complex just inside the Capital Beltway. Fences block access to the apartments/condos nearby, alas, and muddy paths between parking garages lead nowhere. So go back, past Sophia's Caf&eacute; to the main road. Birds chirp loudly, as if in a tropical rainforest.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1153330210">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-05-16</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.9 mi @ ~12.0 min/mi<br />&gt; "Probably a dead end - but there might be a cut-through!" On a drizzly-warm morning K-Rex explores Corporate Ridge, a street leading into an McLean office complex just inside the Capital Beltway. Fences block access to the apartments/condos nearby, alas, and muddy paths between parking garages lead nowhere. So go back, past Sophia's Caf&amp;eacute; to the main road. Birds chirp loudly, as if in a tropical rainforest.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1153330210|trackfile]])// - //**^z**// - 2018-05-16</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057675
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~3.9 mi @ ~12.0 min/mi
+	
+	"Probably a dead end - but there might be a cut-through!" On a drizzly-warm morning K-Rex explores Corporate Ridge, a street leading into an McLean office complex just inside the Capital Beltway. Fences block access to the apartments/condos nearby, alas, and muddy paths between parking garages lead nowhere. So go back, past Sophia's Caf&eacute; to the main road. Birds chirp loudly, as if in a tropical rainforest.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1153330210|trackfile]])// - //**^z**// - 2018-05-16
+	
+lastmajor: 3
+keep-ts: 1528057675

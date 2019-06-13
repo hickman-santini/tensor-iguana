@@ -1,0 +1,23 @@
+blocks: <h3>~10 miles @ ~10.2 min/mi</h3><p>Today's trek is roughly a mirror-image of yesterday's: from the Music Center, head west on University but turn upstream along Northwest Branch Trail; climb out of the valley and, via Oakview, New Hampshire, Adelphi, and Metzerott roads, come back to campus in a big loop. There's some getting-lost and wetting-feet in the brush behind the apartments at University and Metzerott, trying to bushwhack through to Paint Branch Trail, then giving up and taking to the roads again. End when <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/280877442">Runkeeper</a> reckons 9.99 miles. The <a class="url http outside" href="http://connect.garmin.com/activity/416287865">Garmin</a> rolls over to 10.00 before hitting the Stop button.</p><p><em><strong>^z</strong></em> - 2014-01-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.1
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10 miles @ ~10.2 min/mi
+	
+	Today's trek is roughly a mirror-image of yesterday's: from the Music Center, head west on University but turn upstream along Northwest Branch Trail; climb out of the valley and, via Oakview, New Hampshire, Adelphi, and Metzerott roads, come back to campus in a big loop. There's some getting-lost and wetting-feet in the brush behind the apartments at University and Metzerott, trying to bushwhack through to Paint Branch Trail, then giving up and taking to the roads again. End when [[http://runkeeper.com/user/zhurnaly/activity/280877442|Runkeeper]] reckons 9.99 miles. The [[http://connect.garmin.com/activity/416287865|Garmin]] rolls over to 10.00 before hitting the Stop button.
+	
+	//**^z**// - 2014-01-02
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10 miles @ ~10.2 min/mi<br />&gt; Today's trek is roughly a mirror-image of yesterday's: from the Music Center, head west on University but turn upstream along Northwest Branch Trail; climb out of the valley and, via Oakview, New Hampshire, Adelphi, and Metzerott roads, come back to campus in a big loop. There's some getting-lost and wetting-feet in the brush behind the apartments at University and Metzerott, trying to bushwhack through to Paint Branch Trail, then giving up and taking to the roads again. End when [[http://runkeeper.com/user/zhurnaly/activity/280877442|Runkeeper]] reckons 9.99 miles. The [[http://connect.garmin.com/activity/416287865|Garmin]] rolls over to 10.00 before hitting the Stop button.<br />&gt; //**^z**// - 2014-01-02</strong></p></div>
+flags: 0
+ts: 1528057695
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057695

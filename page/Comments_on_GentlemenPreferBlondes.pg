@@ -1,0 +1,28 @@
+blocks: <h3>1 Comment.</h3><p>'Utilitarian' - sacrificing some happiness in order to marry a wealthy man or an attractive woman...?</p><p>I thought maybe 'egalitarian' (no difference in male vs. female 'assets') was a better fit, but I don't know if that's right, either...<br /></p><hr /><blockquote><p>other things being equal, maximize wealth and beauty! -<em> <strong>^z</strong> </em><br /></p></blockquote><p>-- <a class="url http outside" href="http://zhurnaly.com">comment move</a> 2010-08-08 23:30 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.18.99
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	'Utilitarian' - sacrificing some happiness in order to marry a wealthy man or an attractive woman...?  
+	
+	I thought maybe 'egalitarian' (no difference in male vs. female 'assets') was a better fit, but I don't know if that's right, either...
+	----
+	"""
+	other things being equal, maximize wealth and beauty! -// **^z** //
+	"""
+	
+	-- [http://zhurnaly.com comment move] 2010-08-08 23:30 UTC
+	
+	
+languages: 
+lastmajor: 29
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; 'Utilitarian' - sacrificing some happiness in order to marry a wealthy man or an attractive woman...?  <br />&gt; I thought maybe 'egalitarian' (no difference in male vs. female 'assets') was a better fit, but I don't know if that's right, either...<br />&gt; ----<br />&gt; """<br />&gt; other things being equal, maximize wealth and beauty! -// **^z** //<br />&gt; """<br />&gt; -- [http://zhurnaly.com comment move] 2010-08-08 23:30 UTC</p></div>
+flags: 0
+ts: 1528057709
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 29
+keep-ts: 1528057709

@@ -1,0 +1,25 @@
+blocks: <h3>~14 miles @ ~12.1 min/mi</h3><p>"Morning, Ladies!" the cyclist zooming by in the gloom greets us. Kristin starts laughing so hard that we have to take a walk break. "Well, my voice is higher-pitched than yours," I offer as explanation. Seven miles later another biker says, "Good morning, Sir!" in response to my salute. Once he's out of earshot Kristin asks, "So what are we? Chopped liver?"</p><p>Kerry's first-ever half marathon trek goes nicely, modulo twinges from new shoes, with a time of about 2:35. She spots half a dozen deer grazing by the W&amp;OD Trail just west of Gallows Rd. At the Vienna Community Center we take a break, then turn back. It's fun to see again folks whom we met outbound. Our route is mostly the reverse of what Kristin and I did last Friday. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/446716202">Runkeeper</a> captures the data.</p><p><em><strong>^z</strong></em> - 2014-10-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.209.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~14 miles @ ~12.1 min/mi
+	
+	"Morning, Ladies!" the cyclist zooming by in the gloom greets us. Kristin starts laughing so hard that we have to take a walk break. "Well, my voice is higher-pitched than yours," I offer as explanation. Seven miles later another biker says, "Good morning, Sir!" in response to my salute. Once he's out of earshot Kristin asks, "So what are we? Chopped liver?"
+	
+	Kerry's first-ever half marathon trek goes nicely, modulo twinges from new shoes, with a time of about 2:35. She spots half a dozen deer grazing by the W&OD Trail just west of Gallows Rd. At the Vienna Community Center we take a break, then turn back. It's fun to see again folks whom we met outbound. Our route is mostly the reverse of what Kristin and I did last Friday. [[http://runkeeper.com/user/zhurnaly/activity/446716202|Runkeeper]] captures the data.
+	
+	//**^z**// - 2014-10-21
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~14 miles @ ~12.1 min/mi<br />&gt; "Morning, Ladies!" the cyclist zooming by in the gloom greets us. Kristin starts laughing so hard that we have to take a walk break. "Well, my voice is higher-pitched than yours," I offer as explanation. Seven miles later another biker says, "Good morning, Sir!" in response to my salute. Once he's out of earshot Kristin asks, "So what are we? Chopped liver?"<br />&gt; Kerry's first-ever half marathon trek goes nicely, modulo twinges from new shoes, with a time of about 2:35. She spots half a dozen deer grazing by the W&amp;OD Trail just west of Gallows Rd. At the Vienna Community Center we take a break, then turn back. It's fun to see again folks whom we met outbound. Our route is mostly the reverse of what Kristin and I did last Friday. [[http://runkeeper.com/user/zhurnaly/activity/446716202|Runkeeper]] captures the data.<br />&gt; //**^z**// - 2014-10-21</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

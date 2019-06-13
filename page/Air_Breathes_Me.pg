@@ -1,0 +1,25 @@
+flags: 0
+blocks: <table class="user"><tr><td align="right">Air breathes me<br /> Water drinks me<br /> Earth strides beneath my feet<br /> Sky tips up my chin, so<br /> Stars can peer into my eyes </td></tr></table><p><em><strong>^z</strong></em> - 2010-01-13</p><h4>2 persons liked this</h4>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ====2 persons liked this====</p></div>
+ip: 128.29.43.2
+ts: 1528057679
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 5
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Air breathes me
+	  Water drinks me
+	  Earth strides beneath my feet
+	  Sky tips up my chin, so
+	  Stars can peer into my eyes |
+	
+	//**^z**// - 2010-01-13
+	
+	====2 persons liked this====
+	
+languages: 
+lastmajor: 1
+keep-ts: 1528057679

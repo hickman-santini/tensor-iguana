@@ -1,0 +1,23 @@
+blocks: <h3>~5.2 miles @ ~12.2 min/mi</h3><p>"They can be the 'Dawn Patrol Irregulars'!" I suggest, alluding to junior affiliates of Sherlock Holmes, as Kristin and I ramble the roads of Southridge and encounter multiple other folks out on pre-sunrise spring jogs. Warm and humid weather is a gentle introduction to sultry summer conditions soon to come. We admire giant sunroom windows <em>("... and the neighbors must get quite a view too!")</em>. Blossoms cascade down from the trees and speckle the streets.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/760227910">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.8
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.2 miles @ ~12.2 min/mi
+	
+	"They can be the 'Dawn Patrol Irregulars'!" I suggest, alluding to junior affiliates of Sherlock Holmes, as Kristin and I ramble the roads of Southridge and encounter multiple other folks out on pre-sunrise spring jogs. Warm and humid weather is a gentle introduction to sultry summer conditions soon to come. We admire giant sunroom windows //("... and the neighbors must get quite a view too!")//. Blossoms cascade down from the trees and speckle the streets.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/760227910|trackfile]])// - //**^z**// - 2016-04-22
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.2 miles @ ~12.2 min/mi<br />&gt; "They can be the 'Dawn Patrol Irregulars'!" I suggest, alluding to junior affiliates of Sherlock Holmes, as Kristin and I ramble the roads of Southridge and encounter multiple other folks out on pre-sunrise spring jogs. Warm and humid weather is a gentle introduction to sultry summer conditions soon to come. We admire giant sunroom windows //("... and the neighbors must get quite a view too!")//. Blossoms cascade down from the trees and speckle the streets.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/760227910|trackfile]])// - //**^z**// - 2016-04-22</strong></p></div>
+flags: 0
+ts: 1528057707
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057707

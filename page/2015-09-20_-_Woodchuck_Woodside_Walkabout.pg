@@ -1,0 +1,23 @@
+blocks: <h3>~6.5 miles @ ~19.6 min/mi</h3><p>"Groundhog Day!" At mile ~6 a big brown-black <em>Marmota monax</em> &mdash; aka woodchuck or whistle-pig, according to Wikipedia &mdash; lumbers across the street in front of DD Gray and me, then vanishes into the grass. We're finishing up a neighborhood walk that includes adventurous natural-surface digressions off the official trail on both sides of Sligo Creek, plus a bonus stop in a newly-reopened local ice cream parlor.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/659995032">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.5 miles @ ~19.6 min/mi
+	
+	"Groundhog Day!" At mile ~6 a big brown-black //Marmota monax// &mdash; aka woodchuck or whistle-pig, according to Wikipedia &mdash; lumbers across the street in front of DD Gray and me, then vanishes into the grass. We're finishing up a neighborhood walk that includes adventurous natural-surface digressions off the official trail on both sides of Sligo Creek, plus a bonus stop in a newly-reopened local ice cream parlor.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/659995032|trackfile]])// - //**^z**// - 2015-10-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.5 miles @ ~19.6 min/mi<br />&gt; "Groundhog Day!" At mile ~6 a big brown-black //Marmota monax// &amp;mdash; aka woodchuck or whistle-pig, according to Wikipedia &amp;mdash; lumbers across the street in front of DD Gray and me, then vanishes into the grass. We're finishing up a neighborhood walk that includes adventurous natural-surface digressions off the official trail on both sides of Sligo Creek, plus a bonus stop in a newly-reopened local ice cream parlor.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/659995032|trackfile]])// - //**^z**// - 2015-10-13</strong></p></div>
+flags: 0
+ts: 1528057698
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057698

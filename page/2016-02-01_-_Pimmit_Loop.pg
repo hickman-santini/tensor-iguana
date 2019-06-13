@@ -1,0 +1,23 @@
+blocks: <h3>~5.3 miles @ ~12.3 min/mi</h3><p>"Hello - again!" the walker greets Kerry and Kristin and me as we encounter her for a second time during our meander through Pimmit Hills. Her retro-reflective striped vest looks like a serape by the glow of headlamp and flashlights. Hills are steeper than remembered from past expeditions. As a beautiful blue-gray-orange dawn begins Kristin spies a rabbit that scampers away over front-yard snowbanks.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/727821984">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-02-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.46
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.3 miles @ ~12.3 min/mi
+	
+	"Hello - again!" the walker greets Kerry and Kristin and me as we encounter her for a second time during our meander through Pimmit Hills. Her retro-reflective striped vest looks like a serape by the glow of headlamp and flashlights. Hills are steeper than remembered from past expeditions. As a beautiful blue-gray-orange dawn begins Kristin spies a rabbit that scampers away over front-yard snowbanks.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/727821984|trackfile]])// - //**^z**// - 2016-02-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.3 miles @ ~12.3 min/mi<br />&gt; "Hello - again!" the walker greets Kerry and Kristin and me as we encounter her for a second time during our meander through Pimmit Hills. Her retro-reflective striped vest looks like a serape by the glow of headlamp and flashlights. Hills are steeper than remembered from past expeditions. As a beautiful blue-gray-orange dawn begins Kristin spies a rabbit that scampers away over front-yard snowbanks.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/727821984|trackfile]])// - //**^z**// - 2016-02-13</strong></p></div>
+flags: 0
+ts: 1528057709
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057709

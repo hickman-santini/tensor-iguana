@@ -1,0 +1,23 @@
+blocks: <h3>~4.5 miles @ ~13.0 min/mi</h3><p>"What do they teach in <em><strong>this</strong></em> elementary school?" I ask, when Tiara Chapel and Dr Beth point out a pool table by the dumpster. It's a dark damp dawn, and we've just picked our way gingerly across the leafy-slippery Pimmit Run bridge to Lemon Road Park. A rabbit peers at us with demonic retroreflecting eyes in the light of our headlamps. Tiara has just finished the Marine Corps Marathon, her first, and is stretching her legs. A few front lawn Halloween tableaux are still lit, but the giant tree-stump grizzly bear statue stands quietly undecorated. Forecast rain pauses long enough for us to finish the loop, and thankfully nobody falls down on the wet sidewalks.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/682577134">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-11-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.94.121
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.5 miles @ ~13.0 min/mi
+	
+	"What do they teach in //**this**// elementary school?" I ask, when Tiara Chapel and Dr Beth point out a pool table by the dumpster. It's a dark damp dawn, and we've just picked our way gingerly across the leafy-slippery Pimmit Run bridge to Lemon Road Park. A rabbit peers at us with demonic retroreflecting eyes in the light of our headlamps. Tiara has just finished the Marine Corps Marathon, her first, and is stretching her legs. A few front lawn Halloween tableaux are still lit, but the giant tree-stump grizzly bear statue stands quietly undecorated. Forecast rain pauses long enough for us to finish the loop, and thankfully nobody falls down on the wet sidewalks.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/682577134|trackfile]])// - //**^z**// - 2015-11-12
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.5 miles @ ~13.0 min/mi<br />&gt; "What do they teach in //**this**// elementary school?" I ask, when Tiara Chapel and Dr Beth point out a pool table by the dumpster. It's a dark damp dawn, and we've just picked our way gingerly across the leafy-slippery Pimmit Run bridge to Lemon Road Park. A rabbit peers at us with demonic retroreflecting eyes in the light of our headlamps. Tiara has just finished the Marine Corps Marathon, her first, and is stretching her legs. A few front lawn Halloween tableaux are still lit, but the giant tree-stump grizzly bear statue stands quietly undecorated. Forecast rain pauses long enough for us to finish the loop, and thankfully nobody falls down on the wet sidewalks.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/682577134|trackfile]])// - //**^z**// - 2015-11-12</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

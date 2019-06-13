@@ -1,0 +1,25 @@
+blocks: <h3>~8.8 miles @ ~13.0 min/mi</h3><p>"Nostalgia Tour!" Kerry names today's route, past well-remembered schools that her kids attended during the past dozen-plus years, by playgrounds and parks via newly-resurfaced pathways. Dense fog drifts across meadows and scatters flashlight beams. Kristin and Cait share family stories, including sibling size-rivalries and wrestling matches. Pet store visit observations include parrots perched on steering wheels and noisy engine-revving wars between a blue Lamborghini and a red Ferrari.</p><p>And then there are decision paradoxes: why is it so easy to pick a house or a spouse, and so hard to select window trim? Paul Krugman's comments come to mind: "... My happiness depends almost entirely on a few important things, like work, love and health, and everything else is not really worth worrying about &mdash; except that I usually can't or won't do anything to change the basic structure of my life, and so I worry about small things, like the state of my basement. ..." We resolve to enjoy the day. Rabbit count = 3.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/879256257">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-11-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.191
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.8 miles @ ~13.0 min/mi
+	
+	"Nostalgia Tour!" Kerry names today's route, past well-remembered schools that her kids attended during the past dozen-plus years, by playgrounds and parks via newly-resurfaced pathways. Dense fog drifts across meadows and scatters flashlight beams. Kristin and Cait share family stories, including sibling size-rivalries and wrestling matches. Pet store visit observations include parrots perched on steering wheels and noisy engine-revving wars between a blue Lamborghini and a red Ferrari.
+	
+	And then there are decision paradoxes: why is it so easy to pick a house or a spouse, and so hard to select window trim? Paul Krugman's comments come to mind: "... My happiness depends almost entirely on a few important things, like work, love and health, and everything else is not really worth worrying about &mdash; except that I usually can't or won't do anything to change the basic structure of my life, and so I worry about small things, like the state of my basement. ..." We resolve to enjoy the day. Rabbit count = 3.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/879256257|trackfile]])// - //**^z**// - 2016-11-08
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.8 miles @ ~13.0 min/mi<br />&gt; "Nostalgia Tour!" Kerry names today's route, past well-remembered schools that her kids attended during the past dozen-plus years, by playgrounds and parks via newly-resurfaced pathways. Dense fog drifts across meadows and scatters flashlight beams. Kristin and Cait share family stories, including sibling size-rivalries and wrestling matches. Pet store visit observations include parrots perched on steering wheels and noisy engine-revving wars between a blue Lamborghini and a red Ferrari.<br />&gt; And then there are decision paradoxes: why is it so easy to pick a house or a spouse, and so hard to select window trim? Paul Krugman's comments come to mind: "... My happiness depends almost entirely on a few important things, like work, love and health, and everything else is not really worth worrying about &amp;mdash; except that I usually can't or won't do anything to change the basic structure of my life, and so I worry about small things, like the state of my basement. ..." We resolve to enjoy the day. Rabbit count = 3.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/879256257|trackfile]])// - //**^z**// - 2016-11-08</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

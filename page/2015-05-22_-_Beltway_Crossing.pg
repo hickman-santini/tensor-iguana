@@ -1,0 +1,23 @@
+blocks: <h3>~9.7 miles @ ~12.1 min/mi</h3><p>"The only Constant is Change!" New route today: across the Beltway on Route 7 to Gallows Rd. Drs Kerry &amp; Kristin are feeling good after Wednesday's 5k race, though a couple of us have slight coughs, hamstring and hip twinges, etc. Two rabbits scamper into the bushes at our approach. The morning is cool and crisp. We talk of families, weekend plans, office gossip, and life. A fast runner passes us on the W&amp;OD Trail running east. His silhouette glows in the mist, surrounded by a halo in the rising sun, breath forming clouds that fade and vanish.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-06-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.184
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.7 miles @ ~12.1 min/mi
+	
+	"The only Constant is Change!" New route today: across the Beltway on Route 7 to Gallows Rd. Drs Kerry & Kristin are feeling good after Wednesday's 5k race, though a couple of us have slight coughs, hamstring and hip twinges, etc. Two rabbits scamper into the bushes at our approach. The morning is cool and crisp. We talk of families, weekend plans, office gossip, and life. A fast runner passes us on the W&OD Trail running east. His silhouette glows in the mist, surrounded by a halo in the rising sun, breath forming clouds that fade and vanish.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/|trackfile]])// - //**^z**// - 2015-06-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.7 miles @ ~12.1 min/mi<br />&gt; "The only Constant is Change!" New route today: across the Beltway on Route 7 to Gallows Rd. Drs Kerry &amp; Kristin are feeling good after Wednesday's 5k race, though a couple of us have slight coughs, hamstring and hip twinges, etc. Two rabbits scamper into the bushes at our approach. The morning is cool and crisp. We talk of families, weekend plans, office gossip, and life. A fast runner passes us on the W&amp;OD Trail running east. His silhouette glows in the mist, surrounded by a halo in the rising sun, breath forming clouds that fade and vanish.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/|trackfile]])// - //**^z**// - 2015-06-15</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

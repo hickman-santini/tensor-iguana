@@ -1,0 +1,32 @@
+flags: 0
+blocks: <p>Sometimes the used-book sale strikes out. <strong>Kundalini Yoga: The Flow of Eternal Power</strong> by Shakti Parwha Kaur Khalsa (1996) is a pretty book but extraordinarily, unhelpfully mystical. From Chapter 4 ("Breath of Life"), for instance:<br /></p><blockquote><p>Your body temperature is regulated by the flow of the prana through alternate nostrils. They function somewhat like an air-conditioning unit and a furnace, turning on and off, switching back and forth from heating to cooling every two and a half hours, keeping your temperature normal and your energies in balance.</p><p>Your pituitary gland &mdash; the master gland of the body &mdash; serves as the thermostat to control the switches. The left nostril draws in the cooling, soothing, mind-expanding energy of the moon. It is the "water" element. The right nostril draws on the sun's energy. This is for vitality, activity, and mental alertness. It heats the body. ...<br /></p></blockquote><p>And in Chapter 14 ("Sleep"):<br /></p><blockquote><p>Just as the needle of a compass is always pulled toward the north, your personal energy will get swallowed up by the pull of the earth's magnetic field unless you sleep with your electromagnetic field at right angles to it. Positioning your bed north/south could be the reason you wake up tired and grouchy in the morning.<br /></p></blockquote><p>And on and on, often with embarrassingly sexist asides aimed perhaps at female readers who are apparently the target audience. <em>("Three days of simply living on watermelon can clean your body as a woman. A man requires eleven days.")</em> No critical reasoning, no citations to reproducible scientific/medical evidence, no logic. Just bowing to authority, in this case "Yogi Bhajan, Ph.D.". Bizarre to glimpse that style of fuzzy thinking. The world has odd corners.</p><p><em><strong>^z</strong></em> - 2011-05-09</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Sometimes the used-book sale strikes out. **Kundalini Yoga: The Flow of Eternal <strong class="changes">Poser</strong>** by Shakti Parwha Kaur Khalsa (1996) is a pretty book but extraordinarily, unhelpfully mystical. From Chapter 4 ("Breath of Life"), for instance:</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Sometimes the used-book sale strikes out. **Kundalini Yoga: The Flow of Eternal <strong class="changes">Power</strong>** by Shakti Parwha Kaur Khalsa (1996) is a pretty book but extraordinarily, unhelpfully mystical. From Chapter 4 ("Breath of Life"), for instance:</p></div>
+ip: 198.81.129.194
+ts: 1304939406
+minor: 1
+host: relay2.cia.gov
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: typo fix:  "Poser" -> "Power"
+languages: 
+text: Sometimes the used-book sale strikes out. **Kundalini Yoga: The Flow of Eternal Power** by Shakti Parwha Kaur Khalsa (1996) is a pretty book but extraordinarily, unhelpfully mystical. From Chapter 4 ("Breath of Life"), for instance:
+	"""
+	Your body temperature is regulated by the flow of the prana through alternate nostrils. They function somewhat like an air-conditioning unit and a furnace, turning on and off, switching back and forth from heating to cooling every two and a half hours, keeping your temperature normal and your energies in balance.
+	
+	Your pituitary gland &mdash; the master gland of the body &mdash; serves as the thermostat to control the switches. The left nostril draws in the cooling, soothing, mind-expanding energy of the moon. It is the "water" element. The right nostril draws on the sun's energy. This is for vitality, activity, and mental alertness. It heats the body. ...
+	"""
+	
+	And in Chapter 14 ("Sleep"):
+	"""
+	Just as the needle of a compass is always pulled toward the north, your personal energy will get swallowed up by the pull of the earth's magnetic field unless you sleep with your electromagnetic field at right angles to it. Positioning your bed north/south could be the reason you wake up tired and grouchy in the morning.
+	"""
+	
+	And on and on, often with embarrassingly sexist asides aimed perhaps at female readers who are apparently the target audience. //("Three days of simply living on watermelon can clean your body as a woman. A man requires eleven days.")// No critical reasoning, no citations to reproducible scientific/medical evidence, no logic. Just bowing to authority, in this case "Yogi Bhajan, Ph.D.". Bizarre to glimpse that style of fuzzy thinking. The world has odd corners.
+	
+	//**^z**// - 2011-05-09
+	
+lastmajor: 1
+keep-ts: 1304939406

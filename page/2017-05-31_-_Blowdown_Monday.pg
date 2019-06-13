@@ -1,0 +1,25 @@
+blocks: <h3>~5.7 miles @ ~13.4 min/mi</h3><p>"Should we all split up, like in a horror movie?" &mdash; "Uh, no!" So the Dawn Patrol hangs together on a foggy-humid McLean morning. After leading us down two dead-end streets, Dr Kerry says she's a contrary indicator and we should do the opposite of what she recommends. <em>(But if we all <strong>know</strong>, and she knows that we know, should we do the opposite or ...?!?)</em></p><p>"Let's move that tree out of the street!" Cars swerve to avoid a blowdown from last night's storm that blocks half of Idlywood Road. The four of us lift the trunk, but it's cracked and not broken, still firmly attached to the stump, so we can't clear the lane. At least we try! Caitlin and Kristin laugh at reports of corporate conspiracy theories. Rabbit count = 1.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/992420008">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-06-25</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.81
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.7 miles @ ~13.4 min/mi
+	
+	"Should we all split up, like in a horror movie?" &mdash; "Uh, no!" So the Dawn Patrol hangs together on a foggy-humid McLean morning. After leading us down two dead-end streets, Dr Kerry says she's a contrary indicator and we should do the opposite of what she recommends. //(But if we all **know**, and she knows that we know, should we do the opposite or ...?!?)//
+	
+	"Let's move that tree out of the street!" Cars swerve to avoid a blowdown from last night's storm that blocks half of Idlywood Road. The four of us lift the trunk, but it's cracked and not broken, still firmly attached to the stump, so we can't clear the lane. At least we try! Caitlin and Kristin laugh at reports of corporate conspiracy theories. Rabbit count = 1.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/992420008|trackfile]])// - //**^z**// - 2017-06-25
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.7 miles @ ~13.4 min/mi<br />&gt; "Should we all split up, like in a horror movie?" &amp;mdash; "Uh, no!" So the Dawn Patrol hangs together on a foggy-humid McLean morning. After leading us down two dead-end streets, Dr Kerry says she's a contrary indicator and we should do the opposite of what she recommends. //(But if we all **know**, and she knows that we know, should we do the opposite or ...?!?)//<br />&gt; "Let's move that tree out of the street!" Cars swerve to avoid a blowdown from last night's storm that blocks half of Idlywood Road. The four of us lift the trunk, but it's cracked and not broken, still firmly attached to the stump, so we can't clear the lane. At least we try! Caitlin and Kristin laugh at reports of corporate conspiracy theories. Rabbit count = 1.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/992420008|trackfile]])// - //**^z**// - 2017-06-25</strong></p></div>
+flags: 0
+ts: 1528057694
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057694

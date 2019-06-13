@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~4.5 miles @ ~8.5 min/mi</h3></p><p>Every step I take crunches on the sidewalk &mdash; not from snowmelt refrozen into ridges, but due to excess salt crystals applied by the grounds crew. A total eclipse of the moon a few hours ago has left lunacy in its wake: I remember to bring my gloves but only don a single layer of clothes. So the early morning wind is chilly, especially during the first lap around the office parking lot. Though I don't notice it much during the run, afterwards I realize that I should have worn a double pair of shorts. <em>(Say no more!)</em> At least I got rid of the Holey Socks that I've been using for far too long. Descending pace for the ~1.5 mile circuits: ~9.6 &rArr; ~8.1 &rArr; ~7.6 min/mi.</p><p><em><strong>^z</strong></em> - 2010-12-27</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Every step I take crunches on the sidewalk &amp;mdash; not from snowmelt refrozen into ridges, but due to excess salt crystals applied by the grounds crew. A total eclipse of the moon a few hours ago has left lunacy in its wake: I remember to bring my gloves <strong class="changes">this time</strong> but only <strong class="changes">have on</strong> a single layer of clothes. So the early morning wind is chilly, especially during the first lap around the office parking lot. Though I don't notice it much during the run, afterwards I realize that I should have worn a double pair of shorts. //(Say no more!)// At least I got rid of the Holey Socks that I've been using for far too long<strong class="changes">! Descencing</strong> pace for the ~1.5 mile circuits: ~9.6 &amp;rArr; ~8.1 &amp;rArr; ~7.6 min/mi.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Every step I take crunches on the sidewalk &amp;mdash; not from snowmelt refrozen into ridges, but due to excess salt crystals applied by the grounds crew. A total eclipse of the moon a few hours ago has left lunacy in its wake: I remember to bring my gloves but only <strong class="changes">don</strong> a single layer of clothes. So the early morning wind is chilly, especially during the first lap around the office parking lot. Though I don't notice it much during the run, afterwards I realize that I should have worn a double pair of shorts. //(Say no more!)// At least I got rid of the Holey Socks that I've been using for far too long<strong class="changes">. Descending</strong> pace for the ~1.5 mile circuits: ~9.6 &amp;rArr; ~8.1 &amp;rArr; ~7.6 min/mi.</p></div>
+ip: 141.156.132.61
+ts: 1293498040
+minor: 1
+host: pool-141-156-132-61.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: typo fix & tweak
+languages: 
+text: === ~4.5 miles @ ~8.5 min/mi
+	
+	Every step I take crunches on the sidewalk &mdash; not from snowmelt refrozen into ridges, but due to excess salt crystals applied by the grounds crew. A total eclipse of the moon a few hours ago has left lunacy in its wake: I remember to bring my gloves but only don a single layer of clothes. So the early morning wind is chilly, especially during the first lap around the office parking lot. Though I don't notice it much during the run, afterwards I realize that I should have worn a double pair of shorts. //(Say no more!)// At least I got rid of the Holey Socks that I've been using for far too long. Descending pace for the ~1.5 mile circuits: ~9.6 &rArr; ~8.1 &rArr; ~7.6 min/mi.
+	
+	//**^z**// - 2010-12-27
+	
+lastmajor: 1
+keep-ts: 1293498040

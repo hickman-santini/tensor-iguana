@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~3.9 mi @ ~12.2 min/mi</h3><p>"At the State Championship the score was tied in regulation, and again in overtime. With 2 seconds to go they went in for a shot - and they made it!" K2 reports on a thrilling Langley HS girls basketball game. Alas, the "They" who scored was the <strong>other</strong> team, not "We". K-Rex groans in sympathy.</p><p>On a frosty morn the Dawn Patrol dashes in DST darkness, a shortened trek due to early meetings. The finish is just short of 4.00 GPS miles, slightly slower than 12 min/mi pace. No cosmetic final additions &rarr; self-restraint improving!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1132138673">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-04-06</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.9 mi @ ~12.2 min/mi<br />&gt; "At the State Championship the score was tied in regulation, and again in overtime. With 2 seconds to go they went in for a shot - and they made it!" K2 reports on a thrilling Langley HS girls basketball game. Alas, the "They" who scored was the **other** team, not "We". K-Rex groans in sympathy.<br />&gt; On a frosty morn the Dawn Patrol dashes in DST darkness, a shortened trek due to early meetings. The finish is just short of 4.00 GPS miles, slightly slower than 12 min/mi pace. No cosmetic final additions &amp;rarr; self-restraint improving!<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1132138673|trackfile]])// - //**^z**// - 2018-04-06</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057709
+minor: 0
+host: 166.137.240.115
+username: z
+revision: 4
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.9 mi @ ~12.2 min/mi
+	
+	"At the State Championship the score was tied in regulation, and again in overtime. With 2 seconds to go they went in for a shot - and they made it!" K2 reports on a thrilling Langley HS girls basketball game. Alas, the "They" who scored was the **other** team, not "We". K-Rex groans in sympathy.
+	
+	On a frosty morn the Dawn Patrol dashes in DST darkness, a shortened trek due to early meetings. The finish is just short of 4.00 GPS miles, slightly slower than 12 min/mi pace. No cosmetic final additions &rarr; self-restraint improving!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1132138673|trackfile]])// - //**^z**// - 2018-04-06
+	
+languages: 
+lastmajor: 4
+keep-ts: 1528057709

@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~4.5 miles @ ~9 min/mi</h3></p><p>Comrade Caryn rolls down her window and wolf-whistles at me as she drives past. A jackhammer busts up the sidewalk, preparatory to replacing old concrete slabs. At 0730 I trot out to circle the office complex this warm and humid summer morning. The ~1.5 mile loops are at approximate paces 9.7 + 8.8 + 7.7 min/mi.</p><p><em><strong>^z</strong></em> - 2010-08-26</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; A jackhammer <strong class="changes">is busting</strong> up the <strong class="changes">concrete</strong> sidewalk, preparatory to replacing <strong class="changes">some</strong> slabs<strong class="changes">, as</strong> I trot out to circle the office complex this warm and humid summer morning. <strong class="changes">Comrade Caryn rolls down her window and wolf-whistles at me as she drives past.</strong> The ~1.5 mile loops are at approximate paces 9.7 + 8.8 + 7.7 min/mi.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Comrade Caryn rolls down her window and wolf-whistles at me as she drives past.</strong> A jackhammer <strong class="changes">busts</strong> up the sidewalk, preparatory to replacing <strong class="changes">old concrete</strong> slabs<strong class="changes">. At 0730</strong> I trot out to circle the office complex this warm and humid summer morning. The ~1.5 mile loops are at approximate paces 9.7 + 8.8 + 7.7 min/mi.</p></div>
+ip: 138.88.172.9
+ts: 1282812310
+minor: 1
+host: pool-138-88-172-9.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: === ~4.5 miles @ ~9 min/mi
+	
+	Comrade Caryn rolls down her window and wolf-whistles at me as she drives past. A jackhammer busts up the sidewalk, preparatory to replacing old concrete slabs. At 0730 I trot out to circle the office complex this warm and humid summer morning. The ~1.5 mile loops are at approximate paces 9.7 + 8.8 + 7.7 min/mi.
+	
+	//**^z**// - 2010-08-26
+	
+lastmajor: 1
+keep-ts: 1282812310

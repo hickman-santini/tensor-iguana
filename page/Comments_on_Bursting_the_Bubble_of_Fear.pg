@@ -1,0 +1,23 @@
+blocks: <h3>1 Comment.</h3><p>apparently the Mark Train quote is apocryphal? - "My life has been full of terrible misfortunes most of which never happened." is by <a class="url http outside" href="https://en.wikiquote.org/wiki/Michel_de_Montaigne">Michel de Montaigne</a></p><p>-- <a class="url http outside" href="http://zhurnaly.com">zzz</a> 2016-03-21 13:46 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	apparently the Mark Train quote is apocryphal? - "My life has been full of terrible misfortunes most of which never happened." is by [[https://en.wikiquote.org/wiki/Michel_de_Montaigne|Michel de Montaigne]]
+	
+	-- [http://zhurnaly.com zzz] 2016-03-21 13:46 UTC
+	
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; apparently the Mark Train quote is apocryphal? - "My life has been full of terrible misfortunes most of which never happened." is by [[https://en.wikiquote.org/wiki/Michel_de_Montaigne|Michel de Montaigne]]<br />&gt; -- [http://zhurnaly.com zzz] 2016-03-21 13:46 UTC</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

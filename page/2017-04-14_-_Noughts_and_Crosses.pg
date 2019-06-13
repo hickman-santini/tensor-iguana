@@ -1,0 +1,27 @@
+blocks: <h3>~7.1 miles @ ~11.5 min/mi</h3><p>"Like a giant tic-tac-toe board! See, there's an X, the first move!" Kristin points to pink contrails that crisscross the sky as the sun prepares to rise and a gibbous moon sinks in the west. Today's Dawn Patrol is only two strong, one of us puny with a head cold and poison ivy. The other pulls him along at a brisk pace. The fountain on the W&amp;OD Trail at Route 7 leaks a puddle across the path; the Hot Yoga Studio appears to be closed for Good Friday.</p><p>"Which way now? Usually we go left here." - "Uh, you do know that whenever I hear the word 'Usually', I have to pick the opposite!" So then, obviously, we head the other way. A fire engine and an ambulance, lights flashing, pull into the Safeway gas station as we sprint past on the final stretch. Rabbit Count = 1, big but scruffy.</p><p>"This is so nice - thank you!"</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/964694925">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-05-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.212
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.1 miles @ ~11.5 min/mi
+	
+	"Like a giant tic-tac-toe board! See, there's an X, the first move!" Kristin points to pink contrails that crisscross the sky as the sun prepares to rise and a gibbous moon sinks in the west. Today's Dawn Patrol is only two strong, one of us puny with a head cold and poison ivy. The other pulls him along at a brisk pace. The fountain on the W&OD Trail at Route 7 leaks a puddle across the path; the Hot Yoga Studio appears to be closed for Good Friday.
+	
+	"Which way now? Usually we go left here." - "Uh, you do know that whenever I hear the word 'Usually', I have to pick the opposite!" So then, obviously, we head the other way. A fire engine and an ambulance, lights flashing, pull into the Safeway gas station as we sprint past on the final stretch. Rabbit Count = 1, big but scruffy.
+	
+	"This is so nice - thank you!"
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/964694925|trackfile]])// - //**^z**// - 2017-05-08
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.1 miles @ ~11.5 min/mi<br />&gt; "Like a giant tic-tac-toe board! See, there's an X, the first move!" Kristin points to pink contrails that crisscross the sky as the sun prepares to rise and a gibbous moon sinks in the west. Today's Dawn Patrol is only two strong, one of us puny with a head cold and poison ivy. The other pulls him along at a brisk pace. The fountain on the W&amp;OD Trail at Route 7 leaks a puddle across the path; the Hot Yoga Studio appears to be closed for Good Friday.<br />&gt; "Which way now? Usually we go left here." - "Uh, you do know that whenever I hear the word 'Usually', I have to pick the opposite!" So then, obviously, we head the other way. A fire engine and an ambulance, lights flashing, pull into the Safeway gas station as we sprint past on the final stretch. Rabbit Count = 1, big but scruffy.<br />&gt; "This is so nice - thank you!"<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/964694925|trackfile]])// - //**^z**// - 2017-05-08</strong></p></div>
+flags: 0
+ts: 1528057676
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057676

@@ -1,0 +1,23 @@
+blocks: <h3>~5.7 miles @ ~12.5 min/mi</h3><p>"Red Fox!" Kristin spies a huge furry Vulpes vulpes dashing into the woods by Lewinsville Park. "Maybe that explains why we only saw two rabbits this morning?" Thus far the McLean unicorn count is zero, but we remain hopeful that if we keep looking we will catch one soon. Light drizzle keeps Kerry and Kristin and me cool as we meander through Southridge neighborhood streets, catching up on gossip and discussing Mother's Day plans. Perhaps a new puppy is in somebody's future - but it's being raised "raw" and there are tests to pass before the adoption will be approved. Fingers crossed!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/782442839">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-05-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.7 miles @ ~12.5 min/mi
+	
+	"Red Fox!" Kristin spies a huge furry Vulpes vulpes dashing into the woods by Lewinsville Park. "Maybe that explains why we only saw two rabbits this morning?" Thus far the McLean unicorn count is zero, but we remain hopeful that if we keep looking we will catch one soon. Light drizzle keeps Kerry and Kristin and me cool as we meander through Southridge neighborhood streets, catching up on gossip and discussing Mother's Day plans. Perhaps a new puppy is in somebody's future - but it's being raised "raw" and there are tests to pass before the adoption will be approved. Fingers crossed!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/782442839|trackfile]])// - //**^z**// - 2016-05-21
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.7 miles @ ~12.5 min/mi<br />&gt; "Red Fox!" Kristin spies a huge furry Vulpes vulpes dashing into the woods by Lewinsville Park. "Maybe that explains why we only saw two rabbits this morning?" Thus far the McLean unicorn count is zero, but we remain hopeful that if we keep looking we will catch one soon. Light drizzle keeps Kerry and Kristin and me cool as we meander through Southridge neighborhood streets, catching up on gossip and discussing Mother's Day plans. Perhaps a new puppy is in somebody's future - but it's being raised "raw" and there are tests to pass before the adoption will be approved. Fingers crossed!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/782442839|trackfile]])// - //**^z**// - 2016-05-21</strong></p></div>
+flags: 0
+ts: 1528057698
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057698

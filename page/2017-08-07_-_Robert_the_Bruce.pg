@@ -1,0 +1,25 @@
+blocks: <h3>~8.0 miles @ ~13.0 min/mi</h3><p>"Stuck in traffic &mdash; don't wait for me!" Kristin texts on a gloomy morning between storms. But she finds a good detour and meets the rump Dawn Patrol as we loop back after a mile. Cut-through pathways are slippery-slick with wet leaves; thankfully, nobody falls. Kerry reports on weekend celebrations including a birthday cake featuring a major typographical error in her son's name. A high-energy puppy wearing the Cone of Shame greets us near a new high-rise condo, where exercise equipment stands idle in the fancy glass-fronted gym.</p><p>"Robert the Bruce &mdash; wasn't he an early king of Scotland?" We meet a Langley neighbor, Robert, out walking his dog, Bruce. "But what good is a mnemonic that's harder to remember than the data itself?" We pause for iced coffee at mile 6, then sprint back before a deluge of Monday work begins.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1031950510">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-09-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.95
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.0 miles @ ~13.0 min/mi
+	
+	"Stuck in traffic &mdash; don't wait for me!" Kristin texts on a gloomy morning between storms. But she finds a good detour and meets the rump Dawn Patrol as we loop back after a mile. Cut-through pathways are slippery-slick with wet leaves; thankfully, nobody falls. Kerry reports on weekend celebrations including a birthday cake featuring a major typographical error in her son's name. A high-energy puppy wearing the Cone of Shame greets us near a new high-rise condo, where exercise equipment stands idle in the fancy glass-fronted gym.
+	
+	"Robert the Bruce &mdash; wasn't he an early king of Scotland?" We meet a Langley neighbor, Robert, out walking his dog, Bruce. "But what good is a mnemonic that's harder to remember than the data itself?" We pause for iced coffee at mile 6, then sprint back before a deluge of Monday work begins.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1031950510|trackfile]])// - //**^z**// - 2017-09-07
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.0 miles @ ~13.0 min/mi<br />&gt; "Stuck in traffic &amp;mdash; don't wait for me!" Kristin texts on a gloomy morning between storms. But she finds a good detour and meets the rump Dawn Patrol as we loop back after a mile. Cut-through pathways are slippery-slick with wet leaves; thankfully, nobody falls. Kerry reports on weekend celebrations including a birthday cake featuring a major typographical error in her son's name. A high-energy puppy wearing the Cone of Shame greets us near a new high-rise condo, where exercise equipment stands idle in the fancy glass-fronted gym.<br />&gt; "Robert the Bruce &amp;mdash; wasn't he an early king of Scotland?" We meet a Langley neighbor, Robert, out walking his dog, Bruce. "But what good is a mnemonic that's harder to remember than the data itself?" We pause for iced coffee at mile 6, then sprint back before a deluge of Monday work begins.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1031950510|trackfile]])// - //**^z**// - 2017-09-07</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057712

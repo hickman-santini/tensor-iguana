@@ -1,0 +1,23 @@
+blocks: <h3>~6.5 miles @ ~11.7 min/mi</h3><p>"You carried those shoes across the Atlantic Ocean just to run with us? Thank you!" As rain begins to patter down the Dawn Patrol welcomes Dr Amber, in town for work and up early on the last day before her return flight. Kerry reports on a long night of high school graduation parties. Cait's raccoon trap caught <em><strong>two</strong></em> critters yesterday. We meander through Langley Forest and assess the local mansion construction boom. Snaky roots threaten to snag ankles on dirt cut-throughs between neighborhoods; pathways are narrowed by flourishing bushes. We pause at the Heather Brook Court statue of mermaids to send a group selfie to Dr Kristin, who can't join us today.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1001878461">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-07-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.1
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.5 miles @ ~11.7 min/mi
+	
+	"You carried those shoes across the Atlantic Ocean just to run with us? Thank you!" As rain begins to patter down the Dawn Patrol welcomes Dr Amber, in town for work and up early on the last day before her return flight. Kerry reports on a long night of high school graduation parties. Cait's raccoon trap caught //**two**// critters yesterday. We meander through Langley Forest and assess the local mansion construction boom. Snaky roots threaten to snag ankles on dirt cut-throughs between neighborhoods; pathways are narrowed by flourishing bushes. We pause at the Heather Brook Court statue of mermaids to send a group selfie to Dr Kristin, who can't join us today.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1001878461|trackfile]])// - //**^z**// - 2017-07-06
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.5 miles @ ~11.7 min/mi<br />&gt; "You carried those shoes across the Atlantic Ocean just to run with us? Thank you!" As rain begins to patter down the Dawn Patrol welcomes Dr Amber, in town for work and up early on the last day before her return flight. Kerry reports on a long night of high school graduation parties. Cait's raccoon trap caught //**two**// critters yesterday. We meander through Langley Forest and assess the local mansion construction boom. Snaky roots threaten to snag ankles on dirt cut-throughs between neighborhoods; pathways are narrowed by flourishing bushes. We pause at the Heather Brook Court statue of mermaids to send a group selfie to Dr Kristin, who can't join us today.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1001878461|trackfile]])// - //**^z**// - 2017-07-06</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

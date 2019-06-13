@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~20 miles @ ~17 min/mi</h3><p>"They don't have biometrics for your bum!" We speculate that answering an emergency Call of Nature near a security camera might be anonymous, at least for now. Slow Twitch and J-Bird lead the way down the Bethesda Trolley Trail, detouring to serenade Tassie who can't join us today. At McDonalds we pause for coffee. Today is Roadkill's birthday, and we ramble without plan. Five miles? Ten? Union Station? Rock Creek? <em>Whatever!</em></p><p>"A fox!" K2 points out the creature eyeing us from a ridge above the Capital Crescent Trail. Polite cyclists warn before they pass. The Potomac River is high, flooding the Georgetown waterfront, as trees and debris float in the current. At the National Zoo volunteers lead miniature donkeys through crowds of tourists; a gorilla lolls in the sun on a high platform. At mile ~20 we stop at Starbucks, share Pink Drinks and Dragon Drinks, and declare victory. An &Uuml;ber returns us to the start. GPS glitches in tunnels and restrooms add ~1.8 bonus miles.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1236261525">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-10-17</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "They don't have biometrics for your bum!" We speculate that answering an emergency Call of Nature near a security camera might be anonymous, at least for now. Slow Twitch and <strong class="changes">Court Jester</strong> lead the way down the Bethesda Trolley Trail, detouring to serenade Tassie who can't join us today. At McDonalds we pause for coffee. Today is Roadkill's birthday, and we ramble without plan. Five miles? Ten? Union Station? Rock Creek? //Whatever!//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "They don't have biometrics for your bum!" We speculate that answering an emergency Call of Nature near a security camera might be anonymous, at least for now. Slow Twitch and <strong class="changes">J-Bird</strong> lead the way down the Bethesda Trolley Trail, detouring to serenade Tassie who can't join us today. At McDonalds we pause for coffee. Today is Roadkill's birthday, and we ramble without plan. Five miles? Ten? Union Station? Rock Creek? //Whatever!//</p></div>
+lastmajorsummary: jj -> J-Bird
+ts: 1540933789
+minor: 
+host: 166.137.244.78
+username: z
+revision: 2
+diff-major: 1
+summary: jj -> J-Bird
+languages: 
+text: === ~20 miles @ ~17 min/mi
+	
+	"They don't have biometrics for your bum!" We speculate that answering an emergency Call of Nature near a security camera might be anonymous, at least for now. Slow Twitch and J-Bird lead the way down the Bethesda Trolley Trail, detouring to serenade Tassie who can't join us today. At McDonalds we pause for coffee. Today is Roadkill's birthday, and we ramble without plan. Five miles? Ten? Union Station? Rock Creek? //Whatever!//
+	
+	"A fox!" K2 points out the creature eyeing us from a ridge above the Capital Crescent Trail. Polite cyclists warn before they pass. The Potomac River is high, flooding the Georgetown waterfront, as trees and debris float in the current. At the National Zoo volunteers lead miniature donkeys through crowds of tourists; a gorilla lolls in the sun on a high platform. At mile ~20 we stop at Starbucks, share Pink Drinks and Dragon Drinks, and declare victory. An &Uuml;ber returns us to the start. GPS glitches in tunnels and restrooms add ~1.8 bonus miles.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1236261525|trackfile]])// - //**^z**// - 2018-10-17
+	
+lastmajor: 2
+keep-ts: 1540933789

@@ -1,0 +1,23 @@
+blocks: <h3>~6 miles @ ~9.3 min/mi</h3><p>Meander around the Rosemary Hills neighborhood &mdash; with emphasis on the word "Hills" &mdash; pushing hard on a warm Saturday afternoon to earn croutons and 1000 Island dressing on a salad afterwards. Sunlight reflects in polychromatic rainbows off road signs. Kids haul sleds up hillsides in hopes of eking out one more slither-down before all the snow melts. Surplus salt makes the roadside feel like a beach underfoot. Cars hesitate and yield right-of-way to a cyclist and me as we cross the one-lane Grace Church Rd wooden bridge over the train tracks. <em><a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/523617998">Trackfile</a></em></p><p><em><strong>^z</strong></em> - 2015-03-30</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6 miles @ ~9.3 min/mi
+	
+	Meander around the Rosemary Hills neighborhood &mdash; with emphasis on the word "Hills" &mdash; pushing hard on a warm Saturday afternoon to earn croutons and 1000 Island dressing on a salad afterwards. Sunlight reflects in polychromatic rainbows off road signs. Kids haul sleds up hillsides in hopes of eking out one more slither-down before all the snow melts. Surplus salt makes the roadside feel like a beach underfoot. Cars hesitate and yield right-of-way to a cyclist and me as we cross the one-lane Grace Church Rd wooden bridge over the train tracks. //[[http://runkeeper.com/user/zhurnaly/activity/523617998|Trackfile]]//
+	
+	//**^z**// - 2015-03-30
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6 miles @ ~9.3 min/mi<br />&gt; Meander around the Rosemary Hills neighborhood &amp;mdash; with emphasis on the word "Hills" &amp;mdash; pushing hard on a warm Saturday afternoon to earn croutons and 1000 Island dressing on a salad afterwards. Sunlight reflects in polychromatic rainbows off road signs. Kids haul sleds up hillsides in hopes of eking out one more slither-down before all the snow melts. Surplus salt makes the roadside feel like a beach underfoot. Cars hesitate and yield right-of-way to a cyclist and me as we cross the one-lane Grace Church Rd wooden bridge over the train tracks. //[[http://runkeeper.com/user/zhurnaly/activity/523617998|Trackfile]]//<br />&gt; //**^z**// - 2015-03-30</strong></p></div>
+flags: 0
+ts: 1528057680
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057680

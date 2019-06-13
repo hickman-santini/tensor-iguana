@@ -1,0 +1,25 @@
+blocks: <h3>~6.5 miles @ ~14.5 min/mi</h3><p>"They're marshmallows!" Dr Kerry is describing her cuddly-friends, cat Phoebe and dog Sid, each other's BFFs &mdash; not anything floating on the iced coffee that she's sipping. The Dawn Patrol pauses at Starbucks in downtown McLean, then meanders cross-country through Bryn Mawr Park while enjoying quiet conversation and a pink-lavender dawn, interspersed with shared laughter. Kristin's puppy Black&amp;White is doing well, as is Cait's 3-year-old niece Riley, who recently requested a practice Easter Egg Hunt in preparation for the actual event.</p><p>"Mono was the best thing that happened to me!" Discussion turns to quick weight loss via illness. Norovirus <em>(or something like it)</em> hit me this week. Alas, it didn't do enough: I'm still in the high-140s, crossing into the low 150s, a dozen or so pounds above optimum. <em>Sad!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/952747145">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-04-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.5 miles @ ~14.5 min/mi
+	
+	"They're marshmallows!" Dr Kerry is describing her cuddly-friends, cat Phoebe and dog Sid, each other's BFFs &mdash; not anything floating on the iced coffee that she's sipping. The Dawn Patrol pauses at Starbucks in downtown McLean, then meanders cross-country through Bryn Mawr Park while enjoying quiet conversation and a pink-lavender dawn, interspersed with shared laughter. Kristin's puppy Black&White is doing well, as is Cait's 3-year-old niece Riley, who recently requested a practice Easter Egg Hunt in preparation for the actual event.
+	
+	"Mono was the best thing that happened to me!" Discussion turns to quick weight loss via illness. Norovirus //(or something like it)// hit me this week. Alas, it didn't do enough: I'm still in the high-140s, crossing into the low 150s, a dozen or so pounds above optimum. //Sad!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/952747145|trackfile]])// - //**^z**// - 2017-04-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.5 miles @ ~14.5 min/mi<br />&gt; "They're marshmallows!" Dr Kerry is describing her cuddly-friends, cat Phoebe and dog Sid, each other's BFFs &amp;mdash; not anything floating on the iced coffee that she's sipping. The Dawn Patrol pauses at Starbucks in downtown McLean, then meanders cross-country through Bryn Mawr Park while enjoying quiet conversation and a pink-lavender dawn, interspersed with shared laughter. Kristin's puppy Black&amp;White is doing well, as is Cait's 3-year-old niece Riley, who recently requested a practice Easter Egg Hunt in preparation for the actual event.<br />&gt; "Mono was the best thing that happened to me!" Discussion turns to quick weight loss via illness. Norovirus //(or something like it)// hit me this week. Alas, it didn't do enough: I'm still in the high-140s, crossing into the low 150s, a dozen or so pounds above optimum. //Sad!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/952747145|trackfile]])// - //**^z**// - 2017-04-13</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

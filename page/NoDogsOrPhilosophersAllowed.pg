@@ -1,0 +1,16 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">**//"And remember, I'm a philosopher, and that means that I'm ignorant. But it also means that I'm trying to do something about it."//**<br />&lt; So says Ken Knisley, host of **</strong>No Dogs <strong class="changes">Or</strong> Philosophers Allowed<strong class="changes">**, a delightful TV "talk show" that will never be popular and that is infinitely more important than just about anything else on the air. //(Game 7 of a Yankees-Bosox series? Don't ask; some things are simply incommensurable!)//<br />&lt; A Philosophy Breakfast comrade (GdM) recommended **No Dogs** to me several years ago, after he saw it by chance on a local cable system. Recently I rediscovered its web site: http://www.nodogs.org . It offers a variety of entertaining materials including streaming videos of past episodes and MP3 audio clips of John Cleese waxing philosophical chariots of thought. //(Don't blame me for that Pythonesque groaner; my free will called in sick today and I'm not responsible.)//<br />&lt; A **No Dogs** show tends to feature several guests //(aka "symposers"?!)// who chat with Knisley about a chosen topic: animal rights, terrorism, beauty, tolerance, love, whatever. Ken tosses questions, juggles issues, and frames the conversation with thoughtful comments. Near the end of "Got Rights?", for instance, he summarizes some of the issues raised by observing:<br />&lt; :"... It reminds you that you're an ongoing project. How should one ongoing project, like me or like you, think of and deeply regard this panoply of other ongoing projects, peculiar living creatures that they are? The old answers don't appear to be as good as I thought they were. The new answers appear to be a little bit odd and frighteningly expensive. The decision's up to you ..."<br />&lt; ----<br />&lt; [[TopicPhilosophy]] - [[TopicThinking</strong>]] <strong class="changes">- Datetag20031013<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[StupidityAndConspiracy]], [[MarginAlia]], [[AchieveNewBalance]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[</strong>No Dogs <strong class="changes">or</strong> Philosophers Allowed]]</p></div>
+ip: 129.2.175.67
+ts: 1223236649
+minor: 1
+host: 129-2-175-67.wireless.umd.edu
+username: MarkZimmermann
+revision: 6
+diff-major: 
+summary: redirect
+languages: 
+text: #REDIRECT [[No Dogs or Philosophers Allowed]]
+	
+lastmajor: 3
+keep-ts: 1223236649

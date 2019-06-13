@@ -1,0 +1,23 @@
+blocks: <h3>~4.9 miles @ ~17.5 min/mi</h3><p>"This feels great!" Mary observes as we experiment with speed-walking backwards up the hills along the Western Ridge Trail in northern Rock Creek Park. Her left knee has been troublesome since a New Year's Eve race. Today we test a velcro band and compare natural-surface with paved road. "Cute-sicle" dogs cavort on- and off-leash. Cyclists zoom along Beach Drive. Temps are in the upper 50s and morning drizzle has left scattered puddles and muddy patches. Our post-trek reward: egg fu yung and broccoli-eggplant in garlic sauce at the nearby Chinese restaurant!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/717170553">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-01-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.254
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 miles @ ~17.5 min/mi
+	
+	"This feels great!" Mary observes as we experiment with speed-walking backwards up the hills along the Western Ridge Trail in northern Rock Creek Park. Her left knee has been troublesome since a New Year's Eve race. Today we test a velcro band and compare natural-surface with paved road. "Cute-sicle" dogs cavort on- and off-leash. Cyclists zoom along Beach Drive. Temps are in the upper 50s and morning drizzle has left scattered puddles and muddy patches. Our post-trek reward: egg fu yung and broccoli-eggplant in garlic sauce at the nearby Chinese restaurant!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/717170553|trackfile]])// - //**^z**// - 2016-01-27
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 miles @ ~17.5 min/mi<br />&gt; "This feels great!" Mary observes as we experiment with speed-walking backwards up the hills along the Western Ridge Trail in northern Rock Creek Park. Her left knee has been troublesome since a New Year's Eve race. Today we test a velcro band and compare natural-surface with paved road. "Cute-sicle" dogs cavort on- and off-leash. Cyclists zoom along Beach Drive. Temps are in the upper 50s and morning drizzle has left scattered puddles and muddy patches. Our post-trek reward: egg fu yung and broccoli-eggplant in garlic sauce at the nearby Chinese restaurant!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/717170553|trackfile]])// - //**^z**// - 2016-01-27</strong></p></div>
+flags: 0
+ts: 1528057705
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057705

@@ -1,0 +1,53 @@
+flags: 0
+blocks: <p>In the buddhist-meditative-philosophy section of the local library more than a month ago I picked up an odd-looking book by Thomas Moore titled <strong>Original Self: Living with Paradox and Uncertainty</strong>. The woodcut illustrations by Joan Hanley were crude and mostly unappealing; the text was sparse and large-print. Fifty short chapters&mdash;I glanced at a few that seemed nonsensical, and set the book aside. At intervals I've picked it up again and tried to "read" it without much success. A couple of times I almost returned it.</p><p>And yet ... and yet. Once in a while when I open it, a phrase or a paragraph or a section of <strong>Original Self</strong> echoes. Occasionally it's a chapter title:<br /></p><ul><li>Live Simply, But Be Complicated.</li><li>The Project of Being a Self Is the Surest Way Never to Feel Like a Person.</li><li>The Basic Contribution One Can Make to One's Community Is Not to Add to the General Unconsciousness of the Time.</li></ul><p>Sometimes it's a quote that opens a segment, like Ralph Waldo Emerson's "Under every deep a lower deep opens." or Dietrich Bonhoeffer's "The beyond is not what is infinitely remote, but what is nearest at hand."</p><p>In other mini-essays it's a thought, like in "Our Spiritual Fire Needs a Base in the Muddy Earth.":<br /></p><blockquote><p>I once read that a renowned spiritual teacher, responding to a question about the difficulty of remaining celibate, said that all you have to do is think about what sex is and it's easy to resist. I was disappointed to read that statement coming from a person whom one would expect to be earthy and grounded. Sex is slimy from a certain point of view, but only a spirit delighting in disembodiment would not appreciate the mushy, wet, sensuous body we are and the muddy, naturally decaying world we inhabit.<br /></p></blockquote><p>Or similarly in "The Way Out of the Dehumanizing Effects of Modern Capitalism and Industrialism Is Not to Change the System But to Read Good Books.":<br /></p><blockquote><p>The images that form the raw material of our imagination are the most precious substance we have because from them we develop an attitude toward events and eventually a way of life. Education of the soul is largely a matter of creating a treasury of images and skills for dealing with them. It is as important for engineers and MBAs to read Shakespeare, a master image-maker, for this purpose as it is for the physician, the therapist, or the parent. A great deal depends on whether the books we read and the movies we see hone the imagination or make it blunt.<br /></p></blockquote><p>Finally, belatedly, I read the Preface. Moore's attempt to explain <strong>Original Self</strong> also explains why it's so nonlinear and erratic and frustrating:<br /></p><blockquote><p>The small pieces in this book together offer a comprehensive portrait of an alternative kind of person, one who lives from the burning core of the heart, with the creativity that comes from allowing the soul to blossom in its own colors and shapes. The book is like a kaleidoscope. Turning a page is like tilting the colored glass into yet another pattern. And each idea and image reflects yet another way we become an individual by following the lead of the soul.<br /></p></blockquote><p>Well, maybe and maybe not. There's much mushy mysticism in <strong>Original Self</strong>. On the other hand, the final words in the Preface offer a good summary of the mission:<br /></p><blockquote><p>... A book is a virtual space that invites contemplation and perusal. In this space one tarries and looks around, absorbing the atmosphere, and then leaves, the author hopes, happy to have visited.<br /></p></blockquote><p>Like some collections of poems, like a tarot card randomly drawn from a deck: the chapters of <strong>Original Self</strong> often fail, sometimes succeed. I should get a copy to open once in a while.</p><p><em><strong>^z</strong></em> - 2010-10-25</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; In <strong class="changes">a buddhism</strong>-meditative-<strong class="changes">philosophical</strong> section of <strong class="changes">a</strong> local library more than a month ago I picked up an odd-looking book by Thomas Moore<strong class="changes">:</strong> **Original Self: Living with Paradox and Uncertainty**. The woodcut illustrations by Joan Hanley were crude and mostly unappealing; the text was sparse and large-print. Fifty short chapters<strong class="changes">:</strong> I glanced at a few that seemed nonsensical, and set the book aside. At intervals I've picked it up again and tried to "read" it<strong class="changes">,</strong> without much success. A couple of times I almost returned it.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; In <strong class="changes">the buddhist</strong>-meditative-<strong class="changes">philosophy</strong> section of <strong class="changes">the</strong> local library more than a month ago I picked up an odd-looking book by Thomas Moore <strong class="changes">titled</strong> **Original Self: Living with Paradox and Uncertainty**. The woodcut illustrations by Joan Hanley were crude and mostly unappealing; the text was sparse and large-print. Fifty short chapters<strong class="changes">&amp;mdash;</strong>I glanced at a few that seemed nonsensical, and set the book aside. At intervals I've picked it up again and tried to "read" it without much success. A couple of times I almost returned it.</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Finally, belatedly, I read the Preface <strong class="changes">with</strong> Moore's attempt to explain **Original Self<strong class="changes">**&amp;mdash;which</strong> also explains why it's so nonlinear and erratic:</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Finally, belatedly, I read the Preface<strong class="changes">.</strong> Moore's attempt to explain **Original Self<strong class="changes">**</strong> also explains why it's so nonlinear and erratic <strong class="changes">and frustrating</strong>:</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Like some collections of poems, like a tarot card randomly drawn from a deck<strong class="changes">,</strong> the chapters of **Original Self** often fail, sometimes succeed. I should get a copy to open once in a while.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Like some collections of poems, like a tarot card randomly drawn from a deck<strong class="changes">:</strong> the chapters of **Original Self** often fail, sometimes succeed. I should get a copy to open once in a while.</p></div>
+ip: 138.88.29.148
+ts: 1287996365
+minor: 1
+host: pool-138-88-29-148.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: In the buddhist-meditative-philosophy section of the local library more than a month ago I picked up an odd-looking book by Thomas Moore titled **Original Self: Living with Paradox and Uncertainty**. The woodcut illustrations by Joan Hanley were crude and mostly unappealing; the text was sparse and large-print. Fifty short chapters&mdash;I glanced at a few that seemed nonsensical, and set the book aside. At intervals I've picked it up again and tried to "read" it without much success. A couple of times I almost returned it.
+	
+	And yet ... and yet. Once in a while when I open it, a phrase or a paragraph or a section of **Original Self** echoes. Occasionally it's a chapter title:
+	* Live Simply, But Be Complicated.
+	* The Project of Being a Self Is the Surest Way Never to Feel Like a Person.
+	* The Basic Contribution One Can Make to One's Community Is Not to Add to the General Unconsciousness of the Time.
+	
+	Sometimes it's a quote that opens a segment, like Ralph Waldo Emerson's "Under every deep a lower deep opens." or Dietrich Bonhoeffer's "The beyond is not what is infinitely remote, but what is nearest at hand."
+	
+	In other mini-essays it's a thought, like in "Our Spiritual Fire Needs a Base in the Muddy Earth.":
+	"""
+	I once read that a renowned spiritual teacher, responding to a question about the difficulty of remaining celibate, said that all you have to do is think about what sex is and it's easy to resist. I was disappointed to read that statement coming from a person whom one would expect to be earthy and grounded. Sex is slimy from a certain point of view, but only a spirit delighting in disembodiment would not appreciate the mushy, wet, sensuous body we are and the muddy, naturally decaying world we inhabit.
+	"""
+	
+	Or similarly in "The Way Out of the Dehumanizing Effects of Modern Capitalism and Industrialism Is Not to Change the System But to Read Good Books.":
+	"""
+	The images that form the raw material of our imagination are the most precious substance we have because from them we develop an attitude toward events and eventually a way of life. Education of the soul is largely a matter of creating a treasury of images and skills for dealing with them. It is as important for engineers and MBAs to read Shakespeare, a master image-maker, for this purpose as it is for the physician, the therapist, or the parent. A great deal depends on whether the books we read and the movies we see hone the imagination or make it blunt.
+	"""
+	
+	Finally, belatedly, I read the Preface. Moore's attempt to explain **Original Self** also explains why it's so nonlinear and erratic and frustrating:
+	"""
+	The small pieces in this book together offer a comprehensive portrait of an alternative kind of person, one who lives from the burning core of the heart, with the creativity that comes from allowing the soul to blossom in its own colors and shapes. The book is like a kaleidoscope. Turning a page is like tilting the colored glass into yet another pattern. And each idea and image reflects yet another way we become an individual by following the lead of the soul.
+	"""
+	
+	Well, maybe and maybe not. There's much mushy mysticism in **Original Self**. On the other hand, the final words in the Preface offer a good summary of the mission:
+	"""
+	... A book is a virtual space that invites contemplation and perusal. In this space one tarries and looks around, absorbing the atmosphere, and then leaves, the author hopes, happy to have visited.
+	"""
+	
+	Like some collections of poems, like a tarot card randomly drawn from a deck: the chapters of **Original Self** often fail, sometimes succeed. I should get a copy to open once in a while.
+	
+	//**^z**// - 2010-10-25
+	
+lastmajor: 1
+keep-ts: 1287996365

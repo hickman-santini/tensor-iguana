@@ -1,0 +1,26 @@
+flags: 0
+blocks: <p>"Be with myself and center," goes the Fergie song lyric. Nowadays everyone's into <em>centering</em>, cultivating a focused present-moment awareness, a form of meditation.</p><p>But how about <em><strong>sintering</strong></em> &mdash; heating a powder below its melting point until the particles stick together? It's what happens when ceramic pottery is fired. The technique is also used to make complex ultra-high-purity objects.</p><p>And <em><strong>sintering</strong></em> is just like what goes on when a person goes into a stressful situation and comes out stronger. Fragmented thoughts and emotions get sorted out and combine. Weak bits fuse into a coherent whole.</p><p>I want to be with myself and sinter!</p><p><em><strong>^z</strong></em> - 2010-05-08</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Be with myself and center," goes the Fergie song lyric. <strong class="changes">Everybody</strong>'s into centering<strong class="changes">,</strong> a focused present-moment awareness. But how about //**sintering**// &amp;mdash; heating a powder below its melting point until the particles stick together? It's what happens when ceramic pottery is fired.<br />&lt; <strong class="changes">That's exactly</strong> what goes on when a person goes into a stressful situation and comes out stronger. Fragmented thoughts and emotions get sorted out and combine. Weak bits <strong class="changes">join together</strong> into a coherent whole.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "Be with myself and center," goes the Fergie song lyric. <strong class="changes">Nowadays everyone</strong>'s into <strong class="changes">//</strong>centering<strong class="changes">//, cultivating</strong> a focused present-moment awareness<strong class="changes">, a form of meditation</strong>.<br />&gt; But how about //**sintering**// &amp;mdash; heating a powder below its melting point until the particles stick together? It's what happens when ceramic pottery is fired. <strong class="changes">The technique is also used to make complex ultra-high-purity objects.<br />&gt; And //**sintering**// is just like</strong> what goes on when a person goes into a stressful situation and comes out stronger. Fragmented thoughts and emotions get sorted out and combine. Weak bits <strong class="changes">fuse</strong> into a coherent whole.</p></div>
+ip: 138.88.114.105
+ts: 1273326236
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: "Be with myself and center," goes the Fergie song lyric. Nowadays everyone's into //centering//, cultivating a focused present-moment awareness, a form of meditation.
+	
+	But how about //**sintering**// &mdash; heating a powder below its melting point until the particles stick together? It's what happens when ceramic pottery is fired. The technique is also used to make complex ultra-high-purity objects.
+	
+	And //**sintering**// is just like what goes on when a person goes into a stressful situation and comes out stronger. Fragmented thoughts and emotions get sorted out and combine. Weak bits fuse into a coherent whole.
+	
+	I want to be with myself and sinter!
+	
+	//**^z**// - 2010-05-08
+	
+lastmajor: 1
+keep-ts: 1273326236

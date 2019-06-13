@@ -1,0 +1,23 @@
+blocks: <h3>~3.5 miles @ ~7.8 min/mi</h3><p>The MITRE Corporation "5k" fun-run this year has a new course, hilly and ~15% long &mdash; but the day is cool and traffic at road crossings politely waits for runners to pass. Dr Kerry &amp; Dr Kristin stick together, finish happy, and maintain a solid ~10 min/mi average pace. In spite of sidewalk cracks and ripples, nobody falls &mdash; <em>yay!</em> Perhaps I even win my age group &mdash; or, age-adjusted, the entire race? ... but results don't include ages so that hypothesis is hard to verify.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/574407250">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-06-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.184
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.5 miles @ ~7.8 min/mi
+	
+	The MITRE Corporation "5k" fun-run this year has a new course, hilly and ~15% long &mdash; but the day is cool and traffic at road crossings politely waits for runners to pass. Dr Kerry & Dr Kristin stick together, finish happy, and maintain a solid ~10 min/mi average pace. In spite of sidewalk cracks and ripples, nobody falls &mdash; //yay!// Perhaps I even win my age group &mdash; or, age-adjusted, the entire race? ... but results don't include ages so that hypothesis is hard to verify.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/574407250|trackfile]])// - //**^z**// - 2015-06-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.5 miles @ ~7.8 min/mi<br />&gt; The MITRE Corporation "5k" fun-run this year has a new course, hilly and ~15% long &amp;mdash; but the day is cool and traffic at road crossings politely waits for runners to pass. Dr Kerry &amp; Dr Kristin stick together, finish happy, and maintain a solid ~10 min/mi average pace. In spite of sidewalk cracks and ripples, nobody falls &amp;mdash; //yay!// Perhaps I even win my age group &amp;mdash; or, age-adjusted, the entire race? ... but results don't include ages so that hypothesis is hard to verify.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/574407250|trackfile]])// - //**^z**// - 2015-06-13</strong></p></div>
+flags: 0
+ts: 1528057694
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057694

@@ -1,0 +1,23 @@
+blocks: <h3>~4.9 miles @ ~20.2 min/mi</h3><p>Squirrel, snake, pigeon, rabbit, frog, fox &mdash; small angular bronze statues by local artist Raya Bodnarchuk decorate the pedestrian pathway that arches over busy on/off-ramps and dives below the Capital Beltway beside Georgia Avenue. It's all part of a Sunday afternoon trek with DD Gray, beginning with a meander through woods and by a local swimming pool, across parks, past street parties.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/664561981">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 miles @ ~20.2 min/mi
+	
+	Squirrel, snake, pigeon, rabbit, frog, fox &mdash; small angular bronze statues by local artist Raya Bodnarchuk decorate the pedestrian pathway that arches over busy on/off-ramps and dives below the Capital Beltway beside Georgia Avenue. It's all part of a Sunday afternoon trek with DD Gray, beginning with a meander through woods and by a local swimming pool, across parks, past street parties.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/664561981|trackfile]])// - //**^z**// - 2015-10-21
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 miles @ ~20.2 min/mi<br />&gt; Squirrel, snake, pigeon, rabbit, frog, fox &amp;mdash; small angular bronze statues by local artist Raya Bodnarchuk decorate the pedestrian pathway that arches over busy on/off-ramps and dives below the Capital Beltway beside Georgia Avenue. It's all part of a Sunday afternoon trek with DD Gray, beginning with a meander through woods and by a local swimming pool, across parks, past street parties.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/664561981|trackfile]])// - //**^z**// - 2015-10-21</strong></p></div>
+flags: 0
+ts: 1528057710
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057710

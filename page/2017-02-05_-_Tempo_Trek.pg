@@ -1,0 +1,25 @@
+blocks: <h3>~11.2 miles @ ~9.7 min/mi</h3><p>"Technically, it's afternoon!" Mr Quibbler is on a solo tempo run today, and feels the need to correct a cyclist who says, "Good morning." A few miles later, when a walker greets him with "Great to see you back!", he replies, "Thank you, but I haven't been away." OK, loosen up, dude!</p><p>With "La donna &egrave; mobile" stuck on heavy mental rotation, the miles flow by briskly. A young lady training for the Cherry Blossom 10 miler zooms ahead on the Capital Crescent Trail, then stops to rest on a park bench. One mini Heath Bar provides fuel for the final mile. A family of cyclists says "Hi!" on Rock Creek Trail and again half a dozen miles later on the CCT. Splits according to GPS: 10.8 + 10.1 + 9.6 + 9.4 + 10.5 <em>(climbing the hills of Cedar Lane)</em> + 9.6 + 9.8 + 8.9 <em>(perhaps due to track gitches in the tunnel under Wisconsin Ave? or to the girl who zips past there?)</em> + 9.0 + 9.3 + 10.0 min/mi.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/929673989">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.151
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~11.2 miles @ ~9.7 min/mi
+	
+	"Technically, it's afternoon!" Mr Quibbler is on a solo tempo run today, and feels the need to correct a cyclist who says, "Good morning." A few miles later, when a walker greets him with "Great to see you back!", he replies, "Thank you, but I haven't been away." OK, loosen up, dude!
+	
+	With "La donna &egrave; mobile" stuck on heavy mental rotation, the miles flow by briskly. A young lady training for the Cherry Blossom 10 miler zooms ahead on the Capital Crescent Trail, then stops to rest on a park bench. One mini Heath Bar provides fuel for the final mile. A family of cyclists says "Hi!" on Rock Creek Trail and again half a dozen miles later on the CCT. Splits according to GPS: 10.8 + 10.1 + 9.6 + 9.4 + 10.5 //(climbing the hills of Cedar Lane)// + 9.6 + 9.8 + 8.9 //(perhaps due to track gitches in the tunnel under Wisconsin Ave? or to the girl who zips past there?)// + 9.0 + 9.3 + 10.0 min/mi.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/929673989|trackfile]])// - //**^z**// - 2017-03-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~11.2 miles @ ~9.7 min/mi<br />&gt; "Technically, it's afternoon!" Mr Quibbler is on a solo tempo run today, and feels the need to correct a cyclist who says, "Good morning." A few miles later, when a walker greets him with "Great to see you back!", he replies, "Thank you, but I haven't been away." OK, loosen up, dude!<br />&gt; With "La donna &amp;egrave; mobile" stuck on heavy mental rotation, the miles flow by briskly. A young lady training for the Cherry Blossom 10 miler zooms ahead on the Capital Crescent Trail, then stops to rest on a park bench. One mini Heath Bar provides fuel for the final mile. A family of cyclists says "Hi!" on Rock Creek Trail and again half a dozen miles later on the CCT. Splits according to GPS: 10.8 + 10.1 + 9.6 + 9.4 + 10.5 //(climbing the hills of Cedar Lane)// + 9.6 + 9.8 + 8.9 //(perhaps due to track gitches in the tunnel under Wisconsin Ave? or to the girl who zips past there?)// + 9.0 + 9.3 + 10.0 min/mi.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/929673989|trackfile]])// - //**^z**// - 2017-03-05</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

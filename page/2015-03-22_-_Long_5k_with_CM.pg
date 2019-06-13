@@ -1,0 +1,23 @@
+blocks: <h3>~4.1 miles @ ~12.0 min/mi</h3><p>"5k, eh?" says Cara Marie Manlandro, when the GPS announces that we've just passed mile 4. "I've gotta turn off that speech feature," I reply. "It spoils my sandbagging!" We're out on an impromptu Sunday afternoon trot around the 'hood, when CM finds herself with an hour free between appointments and decides to make the most of it. Her pace is already a minute/mile faster than last week. Watch out!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/533449428">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-04-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.218
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.1 miles @ ~12.0 min/mi
+	
+	"5k, eh?" says Cara Marie Manlandro, when the GPS announces that we've just passed mile 4. "I've gotta turn off that speech feature," I reply. "It spoils my sandbagging!" We're out on an impromptu Sunday afternoon trot around the 'hood, when CM finds herself with an hour free between appointments and decides to make the most of it. Her pace is already a minute/mile faster than last week. Watch out!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/533449428|trackfile]])// - //**^z**// - 2015-04-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.1 miles @ ~12.0 min/mi<br />&gt; "5k, eh?" says Cara Marie Manlandro, when the GPS announces that we've just passed mile 4. "I've gotta turn off that speech feature," I reply. "It spoils my sandbagging!" We're out on an impromptu Sunday afternoon trot around the 'hood, when CM finds herself with an hour free between appointments and decides to make the most of it. Her pace is already a minute/mile faster than last week. Watch out!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/533449428|trackfile]])// - //**^z**// - 2015-04-17</strong></p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057713

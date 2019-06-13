@@ -1,0 +1,25 @@
+blocks: <h3>~9.3 miles @ ~13.1 min/mi</h3><p>"Have a banana, Sir!" Volunteers at the end of the Navy-Air Force Half Marathon distribute box lunches and fruit. Drs K&amp;K join me in a cooldown walkabout for a few minutes after the race, then head for home. So do I, reversing the route taken six hours earlier. Now, however, temps are higher, traffic is heavier, crosswalk lights are slower to change, terrain is net uphill, and legs have logged 20+ miles. Much walking ensues, therefore, and the temptation to stop for a Slurpee at 7-11 is harder to resist.</p><p>But in compensation there are sidewalk vendors, cute little kids in their Sunday best, church doors wide open revealing stained glass, picnic luncheons set up on lawns, lovely marble statuary, and fellow runners sharing the sidewalk. I wave one by who notices my backpack and sweat-soaked shirt. "You look like you're going a lot farther than I am!" he says.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/865905810">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-10-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.90
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.3 miles @ ~13.1 min/mi
+	
+	"Have a banana, Sir!" Volunteers at the end of the Navy-Air Force Half Marathon distribute box lunches and fruit. Drs K&K join me in a cooldown walkabout for a few minutes after the race, then head for home. So do I, reversing the route taken six hours earlier. Now, however, temps are higher, traffic is heavier, crosswalk lights are slower to change, terrain is net uphill, and legs have logged 20+ miles. Much walking ensues, therefore, and the temptation to stop for a Slurpee at 7-11 is harder to resist.
+	
+	But in compensation there are sidewalk vendors, cute little kids in their Sunday best, church doors wide open revealing stained glass, picnic luncheons set up on lawns, lovely marble statuary, and fellow runners sharing the sidewalk. I wave one by who notices my backpack and sweat-soaked shirt. "You look like you're going a lot farther than I am!" he says.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/865905810|trackfile]])// - //**^z**// - 2016-10-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.3 miles @ ~13.1 min/mi<br />&gt; "Have a banana, Sir!" Volunteers at the end of the Navy-Air Force Half Marathon distribute box lunches and fruit. Drs K&amp;K join me in a cooldown walkabout for a few minutes after the race, then head for home. So do I, reversing the route taken six hours earlier. Now, however, temps are higher, traffic is heavier, crosswalk lights are slower to change, terrain is net uphill, and legs have logged 20+ miles. Much walking ensues, therefore, and the temptation to stop for a Slurpee at 7-11 is harder to resist.<br />&gt; But in compensation there are sidewalk vendors, cute little kids in their Sunday best, church doors wide open revealing stained glass, picnic luncheons set up on lawns, lovely marble statuary, and fellow runners sharing the sidewalk. I wave one by who notices my backpack and sweat-soaked shirt. "You look like you're going a lot farther than I am!" he says.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/865905810|trackfile]])// - //**^z**// - 2016-10-17</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

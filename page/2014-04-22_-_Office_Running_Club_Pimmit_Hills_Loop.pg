@@ -1,0 +1,23 @@
+blocks: <h3>~3.3 miles @ ~11.2 min/mi</h3><p>It's the first morning run of the year for the office crew <em>(Dr David, Dr Ed, Dr Kerry, Dr Kristin)</em> and the weather is superb. Ed lectures on medical issues via a stream of acronyms <em>(TIA, A-fib, MRI, CAT scan, etc.)</em>, Kristin spies a coney, and cars swerve to let runners pass through on narrow stretches of road. David and Kerry trot ahead, and I carry a scarlet tulip flower found on the sidewalk. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/339959432">Runkeeper</a> records pace and path.</p><p><em><strong>^z</strong></em> - 2014-05-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.3 miles @ ~11.2 min/mi
+	
+	It's the first morning run of the year for the office crew //(Dr David, Dr Ed, Dr Kerry, Dr Kristin)// and the weather is superb. Ed lectures on medical issues via a stream of acronyms //(TIA, A-fib, MRI, CAT scan, etc.)//, Kristin spies a coney, and cars swerve to let runners pass through on narrow stretches of road. David and Kerry trot ahead, and I carry a scarlet tulip flower found on the sidewalk. [[http://runkeeper.com/user/zhurnaly/activity/339959432|Runkeeper]] records pace and path.
+	
+	//**^z**// - 2014-05-29
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.3 miles @ ~11.2 min/mi<br />&gt; It's the first morning run of the year for the office crew //(Dr David, Dr Ed, Dr Kerry, Dr Kristin)// and the weather is superb. Ed lectures on medical issues via a stream of acronyms //(TIA, A-fib, MRI, CAT scan, etc.)//, Kristin spies a coney, and cars swerve to let runners pass through on narrow stretches of road. David and Kerry trot ahead, and I carry a scarlet tulip flower found on the sidewalk. [[http://runkeeper.com/user/zhurnaly/activity/339959432|Runkeeper]] records pace and path.<br />&gt; //**^z**// - 2014-05-29</strong></p></div>
+flags: 0
+ts: 1528057677
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057677

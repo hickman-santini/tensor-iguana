@@ -1,0 +1,27 @@
+blocks: <h3>~12 miles @ ~10.5 min/mi</h3><table class="user"><tr><td align="right">A classic Chrysler convertable with the top down passes during one of ten LDS Temple hill ascents. The driver smiles and waves.</td></tr></table><p>Starting off on this ridiculous warm winter solstice Saturday, with temperatures in the 60's F, it's unclear how many repeats will actually happen. After the first few, however, the old legs settle into a rhythm. Tap a foot on Beach Dr. Climb the slope along Stoneybrook Dr. At Kent St put a hand on the street/stop sign pole and swing around it. Glide back down the hill. Repeat. | <img class="url http" src="http://zhurnaly.com/images/running/Garmin_GPS_barometric_elevation_chart_2013-12-21.jpg" alt="http://zhurnaly.com/images/running/Garmin_GPS_barometric_elevation_chart_2013-12-21.jpg" /> |</p><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Runtastic_GPS_map_elevation_chart_2013-12-21.jpg" alt="http://zhurnaly.com/images/running/Runtastic_GPS_map_elevation_chart_2013-12-21.jpg" /></td><td align="right"><a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/153691690">Runtastic</a> iPhone app and <a class="url http outside" href="http://connect.garmin.com/activity/418046079">Garmin</a> wrist GPS are in good accord for distance and pace, though the barometric altitude correction for the Garmin provides much more accurate elevation data, as the graphs make evident.</td></tr></table><p><em><strong>^z</strong></em> - 2014-01-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.214.62
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12 miles @ ~10.5 min/mi
+	
+	| A classic Chrysler convertable with the top down passes during one of ten LDS Temple hill ascents. The driver smiles and waves.
+	
+	Starting off on this ridiculous warm winter solstice Saturday, with temperatures in the 60's F, it's unclear how many repeats will actually happen. After the first few, however, the old legs settle into a rhythm. Tap a foot on Beach Dr. Climb the slope along Stoneybrook Dr. At Kent St put a hand on the street/stop sign pole and swing around it. Glide back down the hill. Repeat. | http://zhurnaly.com/images/running/Garmin_GPS_barometric_elevation_chart_2013-12-21.jpg |
+	
+	| http://zhurnaly.com/images/running/Runtastic_GPS_map_elevation_chart_2013-12-21.jpg | [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/153691690|Runtastic]] iPhone app and [[http://connect.garmin.com/activity/418046079|Garmin]] wrist GPS are in good accord for distance and pace, though the barometric altitude correction for the Garmin provides much more accurate elevation data, as the graphs make evident. |
+	
+	//**^z**// - 2014-01-08
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12 miles @ ~10.5 min/mi<br />&gt; | A classic Chrysler convertable with the top down passes during one of ten LDS Temple hill ascents. The driver smiles and waves.<br />&gt; Starting off on this ridiculous warm winter solstice Saturday, with temperatures in the 60's F, it's unclear how many repeats will actually happen. After the first few, however, the old legs settle into a rhythm. Tap a foot on Beach Dr. Climb the slope along Stoneybrook Dr. At Kent St put a hand on the street/stop sign pole and swing around it. Glide back down the hill. Repeat. | http://zhurnaly.com/images/running/Garmin_GPS_barometric_elevation_chart_2013-12-21.jpg |<br />&gt; | http://zhurnaly.com/images/running/Runtastic_GPS_map_elevation_chart_2013-12-21.jpg | [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/153691690|Runtastic]] iPhone app and [[http://connect.garmin.com/activity/418046079|Garmin]] wrist GPS are in good accord for distance and pace, though the barometric altitude correction for the Garmin provides much more accurate elevation data, as the graphs make evident. |<br />&gt; //**^z**// - 2014-01-08</strong></p></div>
+flags: 0
+ts: 1528057686
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057686

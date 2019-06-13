@@ -1,0 +1,23 @@
+blocks: <h3>~7.2 miles @ ~13.5 min/mi</h3><p>"Sorry, man &mdash; didn't mean to invade your space!" apologizes the pitcher after an inadvertent brushback ball. Barry leads a Sunday afternoon ramble along Sligo Creek and around Wheaton Regional Park. Old men take the field for Ponce de Leon League baseball games. Barry drinks from the water fountain nearby, but youth remains elusive. Brilliant-hued autumn leaves and garish Halloween decorations provide ample pretexts for photo pauses.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/885048250">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-11-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 70.117.115.132
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.2 miles @ ~13.5 min/mi
+	
+	"Sorry, man &mdash; didn't mean to invade your space!" apologizes the pitcher after an inadvertent brushback ball. Barry leads a Sunday afternoon ramble along Sligo Creek and around Wheaton Regional Park. Old men take the field for Ponce de Leon League baseball games. Barry drinks from the water fountain nearby, but youth remains elusive. Brilliant-hued autumn leaves and garish Halloween decorations provide ample pretexts for photo pauses.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/885048250|trackfile]])// - //**^z**// - 2016-11-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.2 miles @ ~13.5 min/mi<br />&gt; "Sorry, man &amp;mdash; didn't mean to invade your space!" apologizes the pitcher after an inadvertent brushback ball. Barry leads a Sunday afternoon ramble along Sligo Creek and around Wheaton Regional Park. Old men take the field for Ponce de Leon League baseball games. Barry drinks from the water fountain nearby, but youth remains elusive. Brilliant-hued autumn leaves and garish Halloween decorations provide ample pretexts for photo pauses.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/885048250|trackfile]])// - //**^z**// - 2016-11-20</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

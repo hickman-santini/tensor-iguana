@@ -1,0 +1,34 @@
+blocks: <p>Recent Chinese fortune cookies here have been relentlessly positive:</p><ul><li>You are never selfish with your advice or your help.</li><li>Your present plans are going to succeed.</li><li>The one you love is closer than you think.</li><li>You are broad minded and socially active.</li><li>You are a bundle of energy, always on the go.</li><li>You are talented in many ways.</li><li>You always bring others happiness.</li></ul><p>and the latest:<br /></p><ul><li>You look happy and proud.</li></ul><p>Sweet!</p><p><em><strong>^z</strong></em> - 2013-04-28</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.1
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Recent Chinese fortune cookies here have been relentlessly positive:
+	
+	* You are never selfish with your advice or your help.
+	* Your present plans are going to succeed.
+	* The one you love is closer than you think.
+	* You are broad minded and socially active.
+	* You are a bundle of energy, always on the go.
+	* You are talented in many ways.
+	* You always bring others happiness.
+	
+	and the latest:
+	* You look happy and proud.
+	
+	Sweet!
+	
+	//**^z**// - 2013-04-28
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Recent Chinese fortune cookies here have been relentlessly positive:<br />&gt; * You are never selfish with your advice or your help.<br />&gt; * Your present plans are going to succeed.<br />&gt; * The one you love is closer than you think.<br />&gt; * You are broad minded and socially active.<br />&gt; * You are a bundle of energy, always on the go.<br />&gt; * You are talented in many ways.<br />&gt; * You always bring others happiness.<br />&gt; and the latest:<br />&gt; * You look happy and proud.<br />&gt; Sweet!<br />&gt; //**^z**// - 2013-04-28</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057701

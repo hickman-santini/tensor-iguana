@@ -1,0 +1,25 @@
+blocks: <h3>~10.6 miles @ ~15.9 min/mi</h3><p>"Whoa &mdash; we're twins!" Six miles into the run I belatedly note that fresh-out-of-the-box Brooks "Cascadia" trail shoes, on my feet for the first time this morning, are a perfect match for John Hord's shiny new kicks. Likewise both of us are fans of the Boston Red Sox, share a common circle of ultra-nice ultrarunning friends, have enjoyed the FORTH programming language and Tolkien's <strong>Lord of the Rings</strong>, and suffer from a similar self-deprecating style of humor. <em>(Ignore the fact that one of the dynamic duo is younger, faster, handsomer, stronger, has finished multiple 100 milers, and plays lead guitar for </em>Sparklebot<em>!)</em></p><p>This morning's trek begins in gloom just after 6am. One stumble, on a stone near mile 3, scrapes a knee. High waters of Rock Creek rumble far below as we climb the hills of the Valley Trail. It's John's home turf, a loop he knows by heart and has run many times in total darkness. We step aside for fast young runners, pause for selfies at a sign, and return via the Western Ridge Trail. Conversation covers training tactics, blisters, long-term race plans, punk and grunge music, love and friendship, nutrition, and philosophy. A dapple gray mare watches us from an equitation ring.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/847992425">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-09-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.91.144
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.6 miles @ ~15.9 min/mi
+	
+	"Whoa &mdash; we're twins!" Six miles into the run I belatedly note that fresh-out-of-the-box Brooks "Cascadia" trail shoes, on my feet for the first time this morning, are a perfect match for John Hord's shiny new kicks. Likewise both of us are fans of the Boston Red Sox, share a common circle of ultra-nice ultrarunning friends, have enjoyed the FORTH programming language and Tolkien's **Lord of the Rings**, and suffer from a similar self-deprecating style of humor. //(Ignore the fact that one of the dynamic duo is younger, faster, handsomer, stronger, has finished multiple 100 milers, and plays lead guitar for //Sparklebot//!)//
+	
+	This morning's trek begins in gloom just after 6am. One stumble, on a stone near mile 3, scrapes a knee. High waters of Rock Creek rumble far below as we climb the hills of the Valley Trail. It's John's home turf, a loop he knows by heart and has run many times in total darkness. We step aside for fast young runners, pause for selfies at a sign, and return via the Western Ridge Trail. Conversation covers training tactics, blisters, long-term race plans, punk and grunge music, love and friendship, nutrition, and philosophy. A dapple gray mare watches us from an equitation ring.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/847992425|trackfile]])// - //**^z**// - 2016-09-14
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.6 miles @ ~15.9 min/mi<br />&gt; "Whoa &amp;mdash; we're twins!" Six miles into the run I belatedly note that fresh-out-of-the-box Brooks "Cascadia" trail shoes, on my feet for the first time this morning, are a perfect match for John Hord's shiny new kicks. Likewise both of us are fans of the Boston Red Sox, share a common circle of ultra-nice ultrarunning friends, have enjoyed the FORTH programming language and Tolkien's **Lord of the Rings**, and suffer from a similar self-deprecating style of humor. //(Ignore the fact that one of the dynamic duo is younger, faster, handsomer, stronger, has finished multiple 100 milers, and plays lead guitar for //Sparklebot//!)//<br />&gt; This morning's trek begins in gloom just after 6am. One stumble, on a stone near mile 3, scrapes a knee. High waters of Rock Creek rumble far below as we climb the hills of the Valley Trail. It's John's home turf, a loop he knows by heart and has run many times in total darkness. We step aside for fast young runners, pause for selfies at a sign, and return via the Western Ridge Trail. Conversation covers training tactics, blisters, long-term race plans, punk and grunge music, love and friendship, nutrition, and philosophy. A dapple gray mare watches us from an equitation ring.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/847992425|trackfile]])// - //**^z**// - 2016-09-14</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

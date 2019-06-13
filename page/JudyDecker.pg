@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Judy Decker <strong class="changes">is a teacher and an author who lives in Pennsylvania, USA. You can reach her via: jdecker(at)velocity.net.   Some recent writings:<br />&lt; * [[WomenSpeak]]<br />&lt; * [[PolioSummer]]<br />&lt; * [[TolkienInspiration]]<br />&lt; * [[SonnetForMyDaughterInLaw]]<br />&lt; * [[FirstGradeLongAgo]]<br />&lt; * [[MowingLawn]]<br />&lt; * [[JudyFemininePolitics]]<br />&lt; * [[JudyOldPictures]]<br />&lt; * [[JudyNursingRant]]<br />&lt; * [[JudyDoctorRant]]<br />&lt; * [[JudyReCommunication]]<br />&lt; * [[JudyReGettysburg</strong>]]<br />&lt; <strong class="changes">* [[JudyReJonAndJen]]<br />&lt; * [[JudyReWilderness]]<br />&lt; * [[JudyReParenting]]<br />&lt; * [[JudyReMemes]]<br />&lt; * [[JudyReMemories]]<br />&lt; * [[JudyReCollege1]]<br />&lt; * [[JudyReKarenin]]<br />&lt; * [[JudyReEnglishdept]]<br />&lt; * [[JudyReSonnetsfromthePortuguese]]<br />&lt; ----<br />&lt; See also "[[GuestBook]]" for comments from fans of [[JudyDecker]] ...<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[SubtopicTolkien]], [[ClubScience]], [[GuestBook]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[</strong>Judy Decker]]</p></div>
+ip: 70.21.102.87
+ts: 1222732704
+minor: 1
+host: pool-70-21-102-87.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>correlates: [[SubtopicTolkien]], [[ClubScience]], [[GuestBook]], <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>correlates: [[SubtopicTolkien]], [[ClubScience]], [[GuestBook]], <strong class="changes">...)//</strong></p></div>
+summary: redirect
+languages: 
+text: #REDIRECT [[Judy Decker]]
+	
+lastmajor: 2
+keep-ts: 1222732704

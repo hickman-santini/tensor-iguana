@@ -1,0 +1,36 @@
+blocks: <p>Meandering, weedy, without clear destination &mdash; <strong>The Path: What Chinese Philosophers Can Teach Us About the Good Life</strong> is a loosely written and generally unimpressive survey. Co-authors Michael Puett <em>(Harvard professor of Chinese History)</em> and Christine Gross-Loh <em>(journalist, author of <strong>The Diaper-Free Baby</strong>, Harvard PhD in East Asian History)</em> set up straw men and knock them down. Occasional graceful notes are almost lost in the noise of grandiose claims and vague, irrefutable platitudes. The book lacks an index. Its "before the Big Bang" faux-physics cosmology is silly-muddled. <em>&lt;sigh&gt;</em></p><p>Worth pondering, however, is the end of Chapter 3 <em>("On Relationships: Confucius and As-If Rituals")</em>:<br /></p><blockquote><p>We tend to believe that to change the world, we have to think big. Confucius wouldn't dispute this, but he would likely also say, Don't ignore the small. Don't forget the "pleases" and "thank yous." Change doesn't happen until people alter their behavior, and they don't alter their behavior until they start with the small.</p><p>Confucius taught that we can cultivate goodness only through rituals. Yet it is only once we conduct our lives with goodness that we gain a sense of when to employ rituals and how to alter them. This may sound circular, and it is. This very circularity is part of the profundity of his thought. There is no ethical or moral framework that transcends context and the complexity of human life. All we have is the messy world within which to work and better ourselves. These ordinary as-if rituals are the means by which we imagine new realities and over time construct new worlds. Our lives begin in the everyday and stay in the everyday. Only in the everyday can we begin to create truly great worlds.<br /></p></blockquote><p>That has power and might merit memorizing:<br /></p><table class="user"><tr><td align="right"><em><strong> All we have<br />is the messy world<br />within which to work<br />and better ourselves. </strong></em></td></tr></table><p>And perhaps there are Category Theory tricks implicit in the better sentiments sketched along <strong>The Path</strong>? Daoism = arrows, Zen = dots; zoom and transcend; invert and return. Or maybe that's just tea-leaf reading, pattern-spotting in the mess?</p><p><em><strong>^z</strong></em> - 2017-09-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.91.21
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Meandering, weedy, without clear destination &mdash; **The Path: What Chinese Philosophers Can Teach Us About the Good Life** is a loosely written and generally unimpressive survey. Co-authors Michael Puett //(Harvard professor of Chinese History)// and Christine Gross-Loh //(journalist, author of **The Diaper-Free Baby**, Harvard PhD in East Asian History)// set up straw men and knock them down. Occasional graceful notes are almost lost in the noise of grandiose claims and vague, irrefutable platitudes. The book lacks an index. Its "before the Big Bang" faux-physics cosmology is silly-muddled. //<sigh>//
+	
+	Worth pondering, however, is the end of Chapter 3 //("On Relationships: Confucius and As-If Rituals")//:
+	"""
+	We tend to believe that to change the world, we have to think big. Confucius wouldn't dispute this, but he would likely also say, Don't ignore the small. Don't forget the "pleases" and "thank yous." Change doesn't happen until people alter their behavior, and they don't alter their behavior until they start with the small.
+	
+	Confucius taught that we can cultivate goodness only through rituals. Yet it is only once we conduct our lives with goodness that we gain a sense of when to employ rituals and how to alter them. This may sound circular, and it is. This very circularity is part of the profundity of his thought. There is no ethical or moral framework that transcends context and the complexity of human life. All we have is the messy world within which to work and better ourselves. These ordinary as-if rituals are the means by which we imagine new realities and over time construct new worlds. Our lives begin in the everyday and stay in the everyday. Only in the everyday can we begin to create truly great worlds.
+	"""
+	
+	That has power and might merit memorizing:
+	| //** All we have
+	is the messy world
+	within which to work
+	and better ourselves. **// |
+	
+	And perhaps there are Category Theory tricks implicit in the better sentiments sketched along **The Path**? Daoism = arrows, Zen = dots; zoom and transcend; invert and return. Or maybe that's just tea-leaf reading, pattern-spotting in the mess?
+	
+	//**^z**// - 2017-09-04
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Meandering, weedy, without clear destination &amp;mdash; **The Path: What Chinese Philosophers Can Teach Us About the Good Life** is a loosely written and generally unimpressive survey. Co-authors Michael Puett //(Harvard professor of Chinese History)// and Christine Gross-Loh //(journalist, author of **The Diaper-Free Baby**, Harvard PhD in East Asian History)// set up straw men and knock them down. Occasional graceful notes are almost lost in the noise of grandiose claims and vague, irrefutable platitudes. The book lacks an index. Its "before the Big Bang" faux-physics cosmology is silly-muddled. //&lt;sigh&gt;//<br />&gt; Worth pondering, however, is the end of Chapter 3 //("On Relationships: Confucius and As-If Rituals")//:<br />&gt; """<br />&gt; We tend to believe that to change the world, we have to think big. Confucius wouldn't dispute this, but he would likely also say, Don't ignore the small. Don't forget the "pleases" and "thank yous." Change doesn't happen until people alter their behavior, and they don't alter their behavior until they start with the small.<br />&gt; Confucius taught that we can cultivate goodness only through rituals. Yet it is only once we conduct our lives with goodness that we gain a sense of when to employ rituals and how to alter them. This may sound circular, and it is. This very circularity is part of the profundity of his thought. There is no ethical or moral framework that transcends context and the complexity of human life. All we have is the messy world within which to work and better ourselves. These ordinary as-if rituals are the means by which we imagine new realities and over time construct new worlds. Our lives begin in the everyday and stay in the everyday. Only in the everyday can we begin to create truly great worlds.<br />&gt; """<br />&gt; That has power and might merit memorizing:<br />&gt; | //** All we have<br />&gt; is the messy world<br />&gt; within which to work<br />&gt; and better ourselves. **// |<br />&gt; And perhaps there are Category Theory tricks implicit in the better sentiments sketched along **The Path**? Daoism = arrows, Zen = dots; zoom and transcend; invert and return. Or maybe that's just tea-leaf reading, pattern-spotting in the mess?<br />&gt; //**^z**// - 2017-09-04</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057693

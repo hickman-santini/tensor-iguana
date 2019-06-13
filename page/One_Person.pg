@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p>If, as per Genesis 2:24 etc, a married couple is "one person", then are intimate marital relations, uh, ...?!?</p><p><em><strong>^z</strong></em> - 2010-09-07</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; If, as per Genesis 2:24 etc, a married couple <strong class="changes">become</strong> "one person", then are intimate marital relations, uh, ...?!?</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; If, as per Genesis 2:24 etc, a married couple <strong class="changes">is</strong> "one person", then are intimate marital relations, uh, ...?!?</p></div>
+ip: 198.81.129.194
+ts: 1284030840
+minor: 1
+host: relay2.cia.gov
+username: zzz
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: If, as per Genesis 2:24 etc, a married couple is "one person", then are intimate marital relations, uh, ...?!?
+	
+	//**^z**// - 2010-09-07
+	
+lastmajor: 1
+keep-ts: 1284030840

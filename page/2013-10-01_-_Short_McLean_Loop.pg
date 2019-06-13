@@ -1,0 +1,23 @@
+blocks: <h3>~2 miles @ ~12.5 min/mi</h3><p>Glowing clouds at dawn let Jupiter peek through but not much more. Colleagues David, Kerry, and Kristin gather at the loading dock and set off at 0630 in a neighborhood circuit, but Kristin is still recovering from injury &mdash; so after ~1.5 miles she and I let the rest run onward while we walk back. I insist on leaving my GPS on until it shows 2.0 miles, as per <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/250306887">Runkeeper</a>; <a class="url http outside" href="http://connect.garmin.com/activity/386868246">Garmin</a> concurs.</p><p><em><strong>^z</strong></em> - 2013-10-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2 miles @ ~12.5 min/mi
+	
+	Glowing clouds at dawn let Jupiter peek through but not much more. Colleagues David, Kerry, and Kristin gather at the loading dock and set off at 0630 in a neighborhood circuit, but Kristin is still recovering from injury &mdash; so after ~1.5 miles she and I let the rest run onward while we walk back. I insist on leaving my GPS on until it shows 2.0 miles, as per [[http://runkeeper.com/user/zhurnaly/activity/250306887|Runkeeper]]; [[http://connect.garmin.com/activity/386868246|Garmin]] concurs.
+	
+	//**^z**// - 2013-10-21
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2 miles @ ~12.5 min/mi<br />&gt; Glowing clouds at dawn let Jupiter peek through but not much more. Colleagues David, Kerry, and Kristin gather at the loading dock and set off at 0630 in a neighborhood circuit, but Kristin is still recovering from injury &amp;mdash; so after ~1.5 miles she and I let the rest run onward while we walk back. I insist on leaving my GPS on until it shows 2.0 miles, as per [[http://runkeeper.com/user/zhurnaly/activity/250306887|Runkeeper]]; [[http://connect.garmin.com/activity/386868246|Garmin]] concurs.<br />&gt; //**^z**// - 2013-10-21</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

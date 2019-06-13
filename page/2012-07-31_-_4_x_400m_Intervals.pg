@@ -1,0 +1,23 @@
+blocks: <h3>~1.5 mi @ ~8.1 min/mi</h3><p>Shamefully short speedwork: 4*400m repeats (98-95-96-97 seconds, respectively), dodging toddlers in Lane 1 around the ancient track at the Silver Spring International Middle School. Was Taco Bell for lunch &amp; dinner suboptimal prep? The <a class="url http outside" href="http://connect.garmin.com/activity/206620028">Garmin GPS trackfile</a> thinks the laps are 0.28-0.29 miles each.</p><p><em><strong>^z</strong></em> - 2012-08-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.30.123
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~1.5 mi @ ~8.1 min/mi
+	
+	Shamefully short speedwork: 4*400m repeats (98-95-96-97 seconds, respectively), dodging toddlers in Lane 1 around the ancient track at the Silver Spring International Middle School. Was Taco Bell for lunch & dinner suboptimal prep? The [[http://connect.garmin.com/activity/206620028|Garmin GPS trackfile]] thinks the laps are 0.28-0.29 miles each.
+	
+	//**^z**// - 2012-08-21
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~1.5 mi @ ~8.1 min/mi<br />&gt; Shamefully short speedwork: 4*400m repeats (98-95-96-97 seconds, respectively), dodging toddlers in Lane 1 around the ancient track at the Silver Spring International Middle School. Was Taco Bell for lunch &amp; dinner suboptimal prep? The [[http://connect.garmin.com/activity/206620028|Garmin GPS trackfile]] thinks the laps are 0.28-0.29 miles each.<br />&gt; //**^z**// - 2012-08-21</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057703

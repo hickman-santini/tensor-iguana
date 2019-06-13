@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~12.5 miles @ ~24 min/mi</h3></p><p>It's still dark at 0600 when Gayatri Datta and I arrive at the Hamburg Rd parking lot and find, as expected, Caren Jew there awaiting us. We visit for 15 minutes, then set out northward on the Catoctin Trail. Uneventful progress ensures until we arrive at Delauter Rd ~3 miles later. I help reset Gayatri's GPS, which seems to have filled its lap memory, and we turn back. At the cars after a bit over 2 hours Caren heads for home and Gayatri and I refill bottles before proceeding southward. We go ~3 miles, mostly walking, meet some friendly mountain bikers, advise them on local trails, and return. To finish up we take a mountain-bike trail north from the Hamburg Rd parking lot. It generally parallels the Catoctin Trail, which is a few hundred feet to the east of it. We chat with some hikers using trekking poles and then retrace our path.</p><p><em><strong>^z</strong></em> - 2010-09-19</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; It's still dark at 0600 when Gayatri Datta and I arrive at the Hamburg Rd parking lot and find, as expected, Caren Jew there awaiting us. We visit for 15 minutes, then set out northward on the Catoctin Trail. Uneventful progress ensures until we arrive at Delauter Rd ~3 miles later. I help reset Gayatri's GPS, which seems to have filled its lap memory, and we <strong class="changes">head</strong> back. At the cars after a bit over 2 hours Caren heads for home and Gayatri and I refill bottles before proceeding southward. We go ~3 miles, mostly walking, meet some friendly mountain bikers, advise them on local trails, and return. To finish up we take a mountain-bike trail north from the Hamburg Rd parking lot. It generally parallels the Catoctin Trail, which is a few hundred feet to the east of it. We chat with some hikers using trekking poles and then retrace our path.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; It's still dark at 0600 when Gayatri Datta and I arrive at the Hamburg Rd parking lot and find, as expected, Caren Jew there awaiting us. We visit for 15 minutes, then set out northward on the Catoctin Trail. Uneventful progress ensures until we arrive at Delauter Rd ~3 miles later. I help reset Gayatri's GPS, which seems to have filled its lap memory, and we <strong class="changes">turn</strong> back. At the cars after a bit over 2 hours Caren heads for home and Gayatri and I refill bottles before proceeding southward. We go ~3 miles, mostly walking, meet some friendly mountain bikers, advise them on local trails, and return. To finish up we take a mountain-bike trail north from the Hamburg Rd parking lot. It generally parallels the Catoctin Trail, which is a few hundred feet to the east of it. We chat with some hikers using trekking poles and then retrace our path.</p></div>
+ip: 141.156.130.123
+ts: 1284883726
+minor: 1
+host: pool-141-156-130-123.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: === ~12.5 miles @ ~24 min/mi
+	
+	It's still dark at 0600 when Gayatri Datta and I arrive at the Hamburg Rd parking lot and find, as expected, Caren Jew there awaiting us. We visit for 15 minutes, then set out northward on the Catoctin Trail. Uneventful progress ensures until we arrive at Delauter Rd ~3 miles later. I help reset Gayatri's GPS, which seems to have filled its lap memory, and we turn back. At the cars after a bit over 2 hours Caren heads for home and Gayatri and I refill bottles before proceeding southward. We go ~3 miles, mostly walking, meet some friendly mountain bikers, advise them on local trails, and return. To finish up we take a mountain-bike trail north from the Hamburg Rd parking lot. It generally parallels the Catoctin Trail, which is a few hundred feet to the east of it. We chat with some hikers using trekking poles and then retrace our path.
+	
+	//**^z**// - 2010-09-19
+	
+lastmajor: 1
+keep-ts: 1284883726

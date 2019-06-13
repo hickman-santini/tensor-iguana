@@ -1,0 +1,24 @@
+flags: 0
+blocks: <p><h3>~4 miles @ ~9 min/mi</h3></p><p>After avoiding the locker room at the office gymnasium for a couple of decades I venture downstairs to the basement facility. If the sight of my godlike naked body makes mere mortals quail in embarrassment and/or envy, so what? Comrade Kate taunts me mercilessly about my lack of training during the week, and I've finally brought shoes, socks, shorts, and shirt in. My employer's policy encourages a few hours of fitness training weekly, and as a good worker bee I'm duty-bound to comply, eh?!</p><p>Almost all the treadmills and fancy exercise machines are occupied, but when I venture outside I have the hilly asphalt path entirely to myself. It's hard to understand why: temperatures are in the upper 30's and brisk northerly winds make for near-perfect running weather. My mile splits on three orbits are 8:49, 8:42, and 8:39, far faster than I expect. The setting sun blinds me whenever the course turns southwest. The woods are brown and dry, and no critters are out. My knees glow red from the chill as I return to the building.</p><p><em><strong>^z</strong></em> - 2009-03-01</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Almost all the treadmills and fancy exercise machines are occupied, but when I venture outside I have the hilly asphalt path entirely to myself. It's hard to understand why: temperatures are in the upper 30's and brisk northerly winds make for near-perfect running weather. My <strong class="changes">miles</strong> on three orbits <strong class="changes">of the marked mile</strong> are 8:49, 8:42, and 8:39, far faster than I expect. The setting sun blinds me whenever the course turns southwest. The woods are brown and dry, and no critters are out. My knees glow red from the chill as I return to the building.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Almost all the treadmills and fancy exercise machines are occupied, but when I venture outside I have the hilly asphalt path entirely to myself. It's hard to understand why: temperatures are in the upper 30's and brisk northerly winds make for near-perfect running weather. My <strong class="changes">mile splits</strong> on three orbits are 8:49, 8:42, and 8:39, far faster than I expect. The setting sun blinds me whenever the course turns southwest. The woods are brown and dry, and no critters are out. My knees glow red from the chill as I return to the building.</p></div>
+ip: 141.156.150.174
+ts: 1235901249
+minor: 
+host: pool-141-156-150-174.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: 1
+summary: After avoiding the locker room at the office gymnasium for a couple of decades I venture downstairs to the basement facility. If the sight of my godlike naked body makes mere mortals quail in embarrassment and/or envy, so what? Comrade Kate taunts me mercilessly ...
+languages: 
+text: === ~4 miles @ ~9 min/mi
+	
+	After avoiding the locker room at the office gymnasium for a couple of decades I venture downstairs to the basement facility. If the sight of my godlike naked body makes mere mortals quail in embarrassment and/or envy, so what? Comrade Kate taunts me mercilessly about my lack of training during the week, and I've finally brought shoes, socks, shorts, and shirt in. My employer's policy encourages a few hours of fitness training weekly, and as a good worker bee I'm duty-bound to comply, eh?!
+	
+	Almost all the treadmills and fancy exercise machines are occupied, but when I venture outside I have the hilly asphalt path entirely to myself. It's hard to understand why: temperatures are in the upper 30's and brisk northerly winds make for near-perfect running weather. My mile splits on three orbits are 8:49, 8:42, and 8:39, far faster than I expect. The setting sun blinds me whenever the course turns southwest. The woods are brown and dry, and no critters are out. My knees glow red from the chill as I return to the building.
+	
+	//**^z**// - 2009-03-01
+	
+lastmajor: 3
+keep-ts: 1235901249

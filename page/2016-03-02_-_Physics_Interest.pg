@@ -1,0 +1,25 @@
+blocks: <h3>~5.8 miles @ ~12.0 min/mi</h3><p>"Give me two days, and I can get interested in <strong>anything</strong>!" Dr Beth says. "That's a physicist talking!" I reply, applauding intellectual curiosity. Conversation random-walks into metaphors and category theory, calculus of variations and path-integral methods, wave-particle duality, and how some folks are more open than others to new ideas. It's a brisk morning, with gusts up to 30+ mi/hour. With the wind in our faces Beth notes, "We really are running downhill now!" though it feels otherwise.</p><p>Kristin leads a dawn loop when my headlamp fails. She shares some expertise on rap music and suggests a list of gentler, more easy-listening and less-edgy artists for the novice in that genre. Social Distortion's 1990 song "Story of My Life" plays on the antique mental eight-track. Birds chirp, the sunrise glows, and the scent of donuts cooking drifts across the street from Safeway.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/743259014">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-03-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.164
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.8 miles @ ~12.0 min/mi
+	
+	"Give me two days, and I can get interested in **anything**!" Dr Beth says. "That's a physicist talking!" I reply, applauding intellectual curiosity. Conversation random-walks into metaphors and category theory, calculus of variations and path-integral methods, wave-particle duality, and how some folks are more open than others to new ideas. It's a brisk morning, with gusts up to 30+ mi/hour. With the wind in our faces Beth notes, "We really are running downhill now!" though it feels otherwise.
+	
+	Kristin leads a dawn loop when my headlamp fails. She shares some expertise on rap music and suggests a list of gentler, more easy-listening and less-edgy artists for the novice in that genre. Social Distortion's 1990 song "Story of My Life" plays on the antique mental eight-track. Birds chirp, the sunrise glows, and the scent of donuts cooking drifts across the street from Safeway.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/743259014|trackfile]])// - //**^z**// - 2016-03-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.8 miles @ ~12.0 min/mi<br />&gt; "Give me two days, and I can get interested in **anything**!" Dr Beth says. "That's a physicist talking!" I reply, applauding intellectual curiosity. Conversation random-walks into metaphors and category theory, calculus of variations and path-integral methods, wave-particle duality, and how some folks are more open than others to new ideas. It's a brisk morning, with gusts up to 30+ mi/hour. With the wind in our faces Beth notes, "We really are running downhill now!" though it feels otherwise.<br />&gt; Kristin leads a dawn loop when my headlamp fails. She shares some expertise on rap music and suggests a list of gentler, more easy-listening and less-edgy artists for the novice in that genre. Social Distortion's 1990 song "Story of My Life" plays on the antique mental eight-track. Birds chirp, the sunrise glows, and the scent of donuts cooking drifts across the street from Safeway.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/743259014|trackfile]])// - //**^z**// - 2016-03-17</strong></p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057678

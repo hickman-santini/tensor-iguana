@@ -1,0 +1,19 @@
+flags: 0
+blocks: <p>Yesterday's sunrise portends a scorcher: the stars are all gone and only Venus remains, glittering like a diamond in a sapphire sky above a baby-blanket pink band that, in turn, nestles in turn on top of a dusky-blue layer that swaddles the horizon.</p><p>In spite of common usage, "Failsafe" doesn't mean something is foolproof and can't fail&mdash;it means that when it does fail, it goes into a (relatively) non-damaging state. A satellite, for instance, can be programmed to go into a safe mode when the unexpected happens; it orients itself to keep batteries charged and antennas pointed until further instructions arrive. Likewise when a train's braking system loses air pressure, the brakes are applied; it fails so that the train comes quickly to a stop.</p><p>But failing safe is harder to achieve when broken sensors give the wrong information&mdash;as comes to mind during my morning commute, traveling along the same section of track where a major accident occurred a month ago, looking at the dawn through the Metro train window ...</p><p><em><strong>^z</strong></em> - 2009-08-05</p>
+ip: 138.88.173.28
+ts: 1249462130
+minor: 
+host: pool-138-88-173-28.res.east.verizon.net
+username: zz
+revision: 1
+summary: Yesterday's sunrise portends a scorcher: the stars are all gone and only Venus remains, glittering like a diamond in a sapphire sky above a . . .
+languages: 
+text: Yesterday's sunrise portends a scorcher: the stars are all gone and only Venus remains, glittering like a diamond in a sapphire sky above a baby-blanket pink band that, in turn, nestles in turn on top of a dusky-blue layer that swaddles the horizon.
+	
+	In spite of common usage, "Failsafe" doesn't mean something is foolproof and can't fail&mdash;it means that when it does fail, it goes into a (relatively) non-damaging state. A satellite, for instance, can be programmed to go into a safe mode when the unexpected happens; it orients itself to keep batteries charged and antennas pointed until further instructions arrive. Likewise when a train's braking system loses air pressure, the brakes are applied; it fails so that the train comes quickly to a stop.
+	
+	But failing safe is harder to achieve when broken sensors give the wrong information&mdash;as comes to mind during my morning commute, traveling along the same section of track where a major accident occurred a month ago, looking at the dawn through the Metro train window ...
+	
+	//**^z**// - 2009-08-05
+	
+lastmajor: 1

@@ -1,0 +1,25 @@
+blocks: <h3>~5.9 miles @ ~12.7 min/mi</h3><p><em>"Best. Anniversary. Gift. Ever!"</em> Dr Kerry thanks her husband for his kind present after 22 years of marriage: three coats of polyurethane on the front door! And a bonus: "He and my daughter cleaned out my closet!"</p><p>The Dawn Patrol discovers a spiffy new sidewalk on Idlywood Road, making that segment far safer running in the early morning gloom. Kristin tells of her son's loose tooth removal this weekend, via a string tied to his radio-controlled model truck. Caitlin ran fast yesterday along Rock Creek Trail; her graduate work starts tonight at the University of Maryland. Kerry reports on the Laguna Beach "Pageant of the Masters" living-statue art recreation festival, and the "Tiki Beach 10k" that she did on the Pacific shore. Back after a multi-hop red-eye flight, she's somehow cheerful in spite of jet-lag, no caffeine, and just a few hours of sleep. "Welcome home, Dr K &mdash; we're so glad you're here!".</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/853424812">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-09-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.96
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.9 miles @ ~12.7 min/mi
+	
+	//"Best. Anniversary. Gift. Ever!"// Dr Kerry thanks her husband for his kind present after 22 years of marriage: three coats of polyurethane on the front door! And a bonus: "He and my daughter cleaned out my closet!"
+	
+	The Dawn Patrol discovers a spiffy new sidewalk on Idlywood Road, making that segment far safer running in the early morning gloom. Kristin tells of her son's loose tooth removal this weekend, via a string tied to his radio-controlled model truck. Caitlin ran fast yesterday along Rock Creek Trail; her graduate work starts tonight at the University of Maryland. Kerry reports on the Laguna Beach "Pageant of the Masters" living-statue art recreation festival, and the "Tiki Beach 10k" that she did on the Pacific shore. Back after a multi-hop red-eye flight, she's somehow cheerful in spite of jet-lag, no caffeine, and just a few hours of sleep. "Welcome home, Dr K &mdash; we're so glad you're here!".
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/853424812|trackfile]])// - //**^z**// - 2016-09-26
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.9 miles @ ~12.7 min/mi<br />&gt; //"Best. Anniversary. Gift. Ever!"// Dr Kerry thanks her husband for his kind present after 22 years of marriage: three coats of polyurethane on the front door! And a bonus: "He and my daughter cleaned out my closet!"<br />&gt; The Dawn Patrol discovers a spiffy new sidewalk on Idlywood Road, making that segment far safer running in the early morning gloom. Kristin tells of her son's loose tooth removal this weekend, via a string tied to his radio-controlled model truck. Caitlin ran fast yesterday along Rock Creek Trail; her graduate work starts tonight at the University of Maryland. Kerry reports on the Laguna Beach "Pageant of the Masters" living-statue art recreation festival, and the "Tiki Beach 10k" that she did on the Pacific shore. Back after a multi-hop red-eye flight, she's somehow cheerful in spite of jet-lag, no caffeine, and just a few hours of sleep. "Welcome home, Dr K &amp;mdash; we're so glad you're here!".<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/853424812|trackfile]])// - //**^z**// - 2016-09-26</strong></p></div>
+flags: 0
+ts: 1528057692
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057692

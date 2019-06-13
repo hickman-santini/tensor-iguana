@@ -1,0 +1,26 @@
+flags: 0
+blocks: <p><h3>~6 miles @ ~12 min/mi</h3></p><p>How to get my weight and blood pressure down a bit for this afternoon's doctor's appointment? How to make sure my aching right knee and left metatarsals are at full throb, in case that helps the diagnosis? Obviously, go out for a run an hour or two before! And where else to test the new GPS than on the classic "Purple Line", the little violet-blazed trail that runs down one side of Rock Creek and back up the other not far from my home.</p><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Purple_Line_Trail.jpg" alt="http://zhurnaly.com/images/running/Purple_Line_Trail.jpg" /></td><td align="center">So at 12:15 off I go. Of course, I mess up the GPS measurement experiment at first, pausing the unit instead of taking a lap/split when I leave Ireland Dr and enter the woods. Muddy bogs and fallen logs decorate the trail. Officials have painted over most of the lavender markings on the trees, but enough remain that I manage to follow the trail. After about 2.5 miles I start a "clean" GPS file at the upstream bridge over Rock Creek. It indicates that the Purple Line is 2.16 miles long, and I feel bushed after covering it at an average pace of 13.2 min/mi.</td></tr></table><p>The trip home is faster, 1.4 miles at 10.6 min/mi, since it's on path and sidewalk. And the doctor's appointment? It turns out OK. My pulse is elevated, in the 90's two hours after the run finishes; the blood pressure is all right. She performs various indignities on me and declares me fit for another six months. We discuss drug patents and monopoly profits. She speculates that sitting in Lotus Position might have provoked my knee woes.</p><p><em>(Garmin trackfile mapping via <a class="url http" href="http://gpsvisualizer.com">http://gpsvisualizer.com</a> - background map via Google)</em> - <em><strong>^z</strong></em> - 2010-03-24</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //(Garmin trackfile mapping via http://gpsvisualizer.com - background map <strong class="changes">vig</strong> Google)// - //**^z**// - 2010-03-24</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; //(Garmin trackfile mapping via http://gpsvisualizer.com - background map <strong class="changes">via</strong> Google)// - //**^z**// - 2010-03-24</p></div>
+ip: 138.88.114.105
+ts: 1269427356
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: typo fix
+languages: 
+text: === ~6 miles @ ~12 min/mi
+	
+	How to get my weight and blood pressure down a bit for this afternoon's doctor's appointment? How to make sure my aching right knee and left metatarsals are at full throb, in case that helps the diagnosis? Obviously, go out for a run an hour or two before! And where else to test the new GPS than on the classic "Purple Line", the little violet-blazed trail that runs down one side of Rock Creek and back up the other not far from my home.
+	
+	| http://zhurnaly.com/images/running/Purple_Line_Trail.jpg | So at 12:15 off I go. Of course, I mess up the GPS measurement experiment at first, pausing the unit instead of taking a lap/split when I leave Ireland Dr and enter the woods. Muddy bogs and fallen logs decorate the trail. Officials have painted over most of the lavender markings on the trees, but enough remain that I manage to follow the trail. After about 2.5 miles I start a "clean" GPS file at the upstream bridge over Rock Creek. It indicates that the Purple Line is 2.16 miles long, and I feel bushed after covering it at an average pace of 13.2 min/mi. |
+	
+	The trip home is faster, 1.4 miles at 10.6 min/mi, since it's on path and sidewalk. And the doctor's appointment? It turns out OK. My pulse is elevated, in the 90's two hours after the run finishes; the blood pressure is all right. She performs various indignities on me and declares me fit for another six months. We discuss drug patents and monopoly profits. She speculates that sitting in Lotus Position might have provoked my knee woes.
+	
+	//(Garmin trackfile mapping via http://gpsvisualizer.com - background map via Google)// - //**^z**// - 2010-03-24
+	
+lastmajor: 1
+keep-ts: 1269427356

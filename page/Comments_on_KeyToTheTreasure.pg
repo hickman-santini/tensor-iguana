@@ -1,0 +1,23 @@
+blocks: <h3>1 Comment.</h3><p>for SICP see <a class="url http" href="https://mitpress.mit.edu/sicp/full-text/book/book.html">https://mitpress.mit.edu/sicp/full-text/book/book.html</a> - and see <a class="url http" href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/">http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/</a> for video lectures, fun and worth watching - transcripts at <a class="url http" href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/1a-overview-and-introduction-to-lisp/lec1a_512kb.pdf">http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/1a-overview-and-introduction-to-lisp/lec1a_512kb.pdf</a> etc.</p><p>-- <a class="url http outside" href="http://zhurnaly.com">z</a> 2015-05-28 01:25 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.94.16
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	for SICP see https://mitpress.mit.edu/sicp/full-text/book/book.html - and see http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/ for video lectures, fun and worth watching - transcripts at http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/1a-overview-and-introduction-to-lisp/lec1a_512kb.pdf etc.
+	
+	-- [http://zhurnaly.com z] 2015-05-28 01:25 UTC
+	
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; for SICP see https://mitpress.mit.edu/sicp/full-text/book/book.html - and see http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/ for video lectures, fun and worth watching - transcripts at http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/1a-overview-and-introduction-to-lisp/lec1a_512kb.pdf etc.<br />&gt; -- [http://zhurnaly.com z] 2015-05-28 01:25 UTC</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

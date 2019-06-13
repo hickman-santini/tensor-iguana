@@ -1,0 +1,25 @@
+blocks: <h3>~6.3 miles @ ~16.6 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Mary_Riverbend_2013-09-02.jpg" alt="http://zhurnaly.com/images/running/Mary_Riverbend_2013-09-02.jpg" /></td><td align="right">"Do NOT let me stop running!" Mary Ewell sternly instructs me as we prepare for the final segment of our hyper-humid Labor Day afternoon run-walk along the Potomac near Riverbend Park. A tiny lizard scampers across our path as we begin the upstream trek; a couple of hikers point out an even tinier snake on our way back. Raindrops sprinkle the fern leaves all-too-briefly midway. The park snack bar provides sugary-soda rehydration. We each carry two water bottles and debate who is more totally sweat-soaked when we stop.</td></tr></table><p><a class="url http outside" href="http://connect.garmin.com/activity/369665765">Garmin GPS</a> and <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/235532442">Runkeeper iPhone</a> concur on our distance and pace. | <img class="url http" src="http://zhurnaly.com/images/running/Mary_after_run_Riverbend_2013-09-02.jpg" alt="http://zhurnaly.com/images/running/Mary_after_run_Riverbend_2013-09-02.jpg" /> |</p><p><em><strong>^z</strong></em> - 2013-09-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.215.14
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.3 miles @ ~16.6 min/mi
+	
+	| http://zhurnaly.com/images/running/Mary_Riverbend_2013-09-02.jpg | "Do NOT let me stop running!" Mary Ewell sternly instructs me as we prepare for the final segment of our hyper-humid Labor Day afternoon run-walk along the Potomac near Riverbend Park. A tiny lizard scampers across our path as we begin the upstream trek; a couple of hikers point out an even tinier snake on our way back. Raindrops sprinkle the fern leaves all-too-briefly midway. The park snack bar provides sugary-soda rehydration. We each carry two water bottles and debate who is more totally sweat-soaked when we stop.
+	
+	[[http://connect.garmin.com/activity/369665765|Garmin GPS]] and [[http://runkeeper.com/user/zhurnaly/activity/235532442|Runkeeper iPhone]] concur on our distance and pace. | http://zhurnaly.com/images/running/Mary_after_run_Riverbend_2013-09-02.jpg |
+	
+	//**^z**// - 2013-09-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.3 miles @ ~16.6 min/mi<br />&gt; | http://zhurnaly.com/images/running/Mary_Riverbend_2013-09-02.jpg | "Do NOT let me stop running!" Mary Ewell sternly instructs me as we prepare for the final segment of our hyper-humid Labor Day afternoon run-walk along the Potomac near Riverbend Park. A tiny lizard scampers across our path as we begin the upstream trek; a couple of hikers point out an even tinier snake on our way back. Raindrops sprinkle the fern leaves all-too-briefly midway. The park snack bar provides sugary-soda rehydration. We each carry two water bottles and debate who is more totally sweat-soaked when we stop.<br />&gt; [[http://connect.garmin.com/activity/369665765|Garmin GPS]] and [[http://runkeeper.com/user/zhurnaly/activity/235532442|Runkeeper iPhone]] concur on our distance and pace. | http://zhurnaly.com/images/running/Mary_after_run_Riverbend_2013-09-02.jpg |<br />&gt; //**^z**// - 2013-09-23</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057712

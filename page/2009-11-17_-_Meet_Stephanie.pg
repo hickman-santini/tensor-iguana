@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~3 miles @ ~11.7 min/mi</h3></p><p>"I'll be wearing lime green," Stephanie writes, "you can't miss me!" And indeed, there she is at 2:15pm. Stephanie is young and new to running, eager to get some experience. We jog to the paved path through the woods and run two loops at a nice, steady pace of a bit under 3 minutes per quarter mile marker. I chatter away about family and running issues&mdash;training, racing, winter gear, etc. Hope I haven't scared her off from the sport!</p><p><em><strong>^z</strong></em> - 2009-11-20</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //**^z**// - 2009-11<strong class="changes">-??</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; //**^z**// - 2009-11<strong class="changes">-20</strong></p></div>
+ip: 138.88.106.60
+ts: 1258710192
+minor: 1
+host: pool-138-88-106-60.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: add date at end
+languages: 
+text: === ~3 miles @ ~11.7 min/mi
+	
+	"I'll be wearing lime green," Stephanie writes, "you can't miss me!" And indeed, there she is at 2:15pm. Stephanie is young and new to running, eager to get some experience. We jog to the paved path through the woods and run two loops at a nice, steady pace of a bit under 3 minutes per quarter mile marker. I chatter away about family and running issues&mdash;training, racing, winter gear, etc. Hope I haven't scared her off from the sport!
+	
+	//**^z**// - 2009-11-20
+	
+lastmajor: 1
+keep-ts: 1258710192

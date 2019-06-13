@@ -1,0 +1,28 @@
+blocks: <table class="user"><tr><td align="right">Moon, in an odd corner of the sky<br />&nbsp; Wink, sigh, dissonant chord<br />&nbsp; &nbsp; Crimson flicker, sly allusion<br />&nbsp; &nbsp; &nbsp; Glimpse of flesh, arching curve<br />&nbsp; &nbsp; Breeze-brush, stumble-recovery<br />&nbsp; Bad pun, clock tick<br />Scent of fresh-baked bread ...<br /><br />Thanks be, for all lovely surprises!</td></tr></table><p><em><strong>^z</strong></em> - 2016-11-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: | Moon, in an odd corner of the sky
+	&nbsp; Wink, sigh, dissonant chord
+	&nbsp; &nbsp; Crimson flicker, sly allusion
+	&nbsp; &nbsp; &nbsp;  Glimpse of flesh, arching curve
+	&nbsp; &nbsp; Breeze-brush, stumble-recovery
+	&nbsp;  Bad pun, clock tick
+	Scent of fresh-baked bread ...
+	\\
+	Thanks be, for all lovely surprises! |
+	
+	//**^z**// - 2016-11-17
+	
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; | Moon, in an odd corner of the sky<br />&gt; &amp;nbsp; Wink, sigh, dissonant chord<br />&gt; &amp;nbsp; &amp;nbsp; Crimson flicker, sly allusion<br />&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp;  Glimpse of flesh, arching curve<br />&gt; &amp;nbsp; &amp;nbsp; Breeze-brush, stumble-recovery<br />&gt; &amp;nbsp;  Bad pun, clock tick<br />&gt; Scent of fresh-baked bread ...<br />&gt; \\<br />&gt; Thanks be, for all lovely surprises! |<br />&gt; //**^z**// - 2016-11-17</p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057675

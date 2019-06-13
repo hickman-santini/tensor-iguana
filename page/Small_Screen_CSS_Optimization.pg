@@ -1,0 +1,46 @@
+flags: 0
+blocks: <p>On an iPhone's small screen the <a class="url http outside" href="http://zhurnaly.com">zhurnaly.com</a> main pages, the <em><strong>^zhurnaly</strong></em> archive pages, and many <a class="url http outside" href="http://zhurnaly.com/cgi-bin/wiki">ZhurnalyWiki</a> pages are hard to read and/or un&aelig;esthetic. The architect of the <a class="url http outside" href="http://oddmuse.com">Oddmuse Wiki</a>, Alex Schr&ouml;der, has a <a class="url http outside" href="http://www.emacswiki.org/alex-mob">blog</a> which sometimes comments on mobile device issues, and that recently led me to think about how to improve the zhurnaly.com <a class="url http outside" href="http://zhurnaly.css">Cascading Style Sheet</a> (CSS) which advises browsers how to render a wiki page. The <a class="url http outside" href="http://www.oddmuse.org/cgi-bin/oddmuse/Cascading_Style_Sheet">Oddmuse CSS</a> discussion was extremely helpful. Changes to <a class="url http" href="http://zhurnaly.css">http://zhurnaly.css</a> were guided by three principles:<br /></p><ul><li>improve the usability of as many zhurnaly.com pages as possible on small screens</li><li>don't make the site look worse on larger screens</li><li>don't spend too much time on the project</li></ul><p>Key modifications of <a class="url http" href="http://zhurnaly.css">http://zhurnaly.css</a> were focused on making the font used on most pages a reasonable size on the mobile device screen, keeping embedded quotation blocks readable, and handling tables more gracefully. A CSS file can detect an iPhone browser by the logic "<code>@media only screen and (max-device-width: 480px)</code>". In words, the zhurnaly.com CSS now asks an iPhone to:<br /></p><ul><li>make the "body" font 3 times larger than it would normally appear</li><li>make the font size used in tables small</li><li>shrink the otherwise-obtrusive "goto bar" that appears at top and bottom of ZhurnalyWiki pages</li><li>make the footer section of the page be small</li></ul><p>That iPhone-specific section of the CSS thus looks like:<br /></p><pre class="real">@media only screen and (max-device-width: 480px) {
+	    body { font-size: 300%; }
+	    table.user { font-size: small; }
+	    span.gotobar { font-size: small; }
+	    div.footer { font-size: small; }
+	 }</pre><p>The only other change to the Zhurnaly CSS, which applies to all browsers (not just iPhone's Safari) was to tell browsers to make the font used in quotation blocks relatively "smaller" than normal, rather than the absolute "small" size: "<code>blockquote { font-size: smaller; }</code>". These changes seem to improve the presentation of &gt;80% of <em><strong>^zhurnaly</strong></em> pages. Bug reports and suggestions for further improvements are welcome. So are comments on how other small-screen devices render pages. <em>Thank you!</em></p><p><em>(cf. <a class="url http" href="http://www.oddmuse.org/cgi-bin/oddmuse/Small_Screens">http://www.oddmuse.org/cgi-bin/oddmuse/Small_Screens</a> ...)</em> - <em><strong>^z</strong></em> - 2012-04-30</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //**^z**// - 2012-04-30</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(cf. http://www.oddmuse.org/cgi-bin/oddmuse/Small_Screens ...)// -</strong> //**^z**// - 2012-04-30</p></div>
+ip: 128.29.43.3
+ts: 1528057685
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 7
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: On an iPhone's small screen the [[http://zhurnaly.com|zhurnaly.com]] main pages, the //**^zhurnaly**// archive pages, and many [[http://zhurnaly.com/cgi-bin/wiki|ZhurnalyWiki]] pages are hard to read and/or un&aelig;esthetic. The architect of the [[http://oddmuse.com|Oddmuse Wiki]], Alex Schr&ouml;der, has a [[http://www.emacswiki.org/alex-mob|blog]] which sometimes comments on mobile device issues, and that recently led me to think about how to improve the zhurnaly.com [[http://zhurnaly.css|Cascading Style Sheet]] (CSS) which advises browsers how to render a wiki page. The [[http://www.oddmuse.org/cgi-bin/oddmuse/Cascading_Style_Sheet|Oddmuse CSS]] discussion was extremely helpful. Changes to http://zhurnaly.css were guided by three principles:
+	* improve the usability of as many zhurnaly.com pages as possible on small screens
+	* don't make the site look worse on larger screens
+	* don't spend too much time on the project
+	
+	Key modifications of http://zhurnaly.css were focused on making the font used on most pages a reasonable size on the mobile device screen, keeping embedded quotation blocks readable, and handling tables more gracefully. A CSS file can detect an iPhone browser by the logic "{{{@media only screen and (max-device-width: 480px)}}}". In words, the zhurnaly.com CSS now asks an iPhone to:
+	* make the "body" font 3 times larger than it would normally appear
+	* make the font size used in tables small
+	* shrink the otherwise-obtrusive "goto bar" that appears at top and bottom of ZhurnalyWiki pages
+	* make the footer section of the page be small
+	
+	That iPhone-specific section of the CSS thus looks like:
+	{{{
+	@media only screen and (max-device-width: 480px) {
+	    body { font-size: 300%; }
+	    table.user { font-size: small; }
+	    span.gotobar { font-size: small; }
+	    div.footer { font-size: small; }
+	 }
+	}}}
+	
+	The only other change to the Zhurnaly CSS, which applies to all browsers (not just iPhone's Safari) was to tell browsers to make the font used in quotation blocks relatively "smaller" than normal, rather than the absolute "small" size: "{{{blockquote { font-size: smaller; }}}}". These changes seem to improve the presentation of >80% of //**^zhurnaly**// pages. Bug reports and suggestions for further improvements are welcome. So are comments on how other small-screen devices render pages. //Thank you!//
+	
+	//(cf. http://www.oddmuse.org/cgi-bin/oddmuse/Small_Screens ...)// - //**^z**// - 2012-04-30
+	
+languages: 
+lastmajor: 4
+keep-ts: 1528057685

@@ -1,0 +1,25 @@
+blocks: <h3>~3.9 miles @ ~13.1 min/mi</h3><p>"John Malkovich often seems so &mdash; swarmy!" We analyze meta-movies and some of the actors involved. After comms confusion and successful re-sync the Dawn Partrol starts late and finishes early, to get back in time for Friday morning meetings. North winds gust and puddles freeze with temps in the upper 20's. The glowing mound in a Pimmit Hills front yard is an inflated holiday-decoration polar bear with cubs riding on her back. Kerry kindly shares handwarmers; Kristin discusses her children's recent dinner table conversation, which involves underwear.</p><p>"That is beginning to sound not totally impossible!" is a comment re the Disney Dopey Challenge currently underway in Florida. It's four days of running in a row, building 5k &rarr; 10k &rarr; half-marathon &rarr; marathon. Drs K&amp;K are starting to slide down the slippery slope to marathon mania ...</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/915837531">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-02-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.147
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.9 miles @ ~13.1 min/mi
+	
+	"John Malkovich often seems so &mdash; swarmy!" We analyze meta-movies and some of the actors involved. After comms confusion and successful re-sync the Dawn Partrol starts late and finishes early, to get back in time for Friday morning meetings. North winds gust and puddles freeze with temps in the upper 20's. The glowing mound in a Pimmit Hills front yard is an inflated holiday-decoration polar bear with cubs riding on her back. Kerry kindly shares handwarmers; Kristin discusses her children's recent dinner table conversation, which involves underwear.
+	
+	"That is beginning to sound not totally impossible!" is a comment re the Disney Dopey Challenge currently underway in Florida. It's four days of running in a row, building 5k &rarr; 10k &rarr; half-marathon &rarr; marathon. Drs K&K are starting to slide down the slippery slope to marathon mania ...
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/915837531|trackfile]])// - //**^z**// - 2017-02-01
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.9 miles @ ~13.1 min/mi<br />&gt; "John Malkovich often seems so &amp;mdash; swarmy!" We analyze meta-movies and some of the actors involved. After comms confusion and successful re-sync the Dawn Partrol starts late and finishes early, to get back in time for Friday morning meetings. North winds gust and puddles freeze with temps in the upper 20's. The glowing mound in a Pimmit Hills front yard is an inflated holiday-decoration polar bear with cubs riding on her back. Kerry kindly shares handwarmers; Kristin discusses her children's recent dinner table conversation, which involves underwear.<br />&gt; "That is beginning to sound not totally impossible!" is a comment re the Disney Dopey Challenge currently underway in Florida. It's four days of running in a row, building 5k &amp;rarr; 10k &amp;rarr; half-marathon &amp;rarr; marathon. Drs K&amp;K are starting to slide down the slippery slope to marathon mania ...<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/915837531|trackfile]])// - //**^z**// - 2017-02-01</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

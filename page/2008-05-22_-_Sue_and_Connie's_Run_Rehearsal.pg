@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p><h3>4 miles @ ~11 min/mi</h3></p><p>On Thursday evening son Robin &amp; I arrive about 6:45pm at the starting line of Sue &amp; Connie's Run, an <a class="url http outside" href="http://mcrrc.org/">MCRRC</a> 4-miler on Memorial Day Monday. We scout the area using a downloaded course map. Soon Christina Caravoulias arrives and <em>(as is becoming a tradition with us)</em> we commence running the course together --- a preview of the race that will take place in four days. Robin pauses at mid-course for us to do an out-and-back and rejoin him. Chris and I trot along, stop a the Aspen Hill Park water fountain as a simulated "aid station", and enjoy ourselves this cool spring evening. We push hard on the final hill and are rather amazed to finish in less than 45 minutes. Apparently the Speed Development Program that Christina did has paid dividends!</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; On Thursday evening son Robin &amp; I arrive about 6:45pm at the starting line of Sue &amp; Connie's Run, an [[http://mcrrc.org/|MCRRC]] 4-miler on Memorial Day Monday. We scout the area using a downloaded course map. Soon Christina Caravoulias arrives and //(as is becoming a tradition with us)// we commence running the course together<strong class="changes">&amp;amp;mdash;</strong>a preview of the race that will take place in four days. Robin pauses at mid-course for us to do an out-and-back and rejoin him. Chris and I trot along, stop a the Aspen Hill Park water fountain as a simulated "aid station", and enjoy ourselves this cool spring evening. We push hard on the final hill and are rather amazed to finish in less than 45 minutes. Apparently the Speed Development Program that Christina did has paid dividends!</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; On Thursday evening son Robin &amp; I arrive about 6:45pm at the starting line of Sue &amp; Connie's Run, an [[http://mcrrc.org/|MCRRC]] 4-miler on Memorial Day Monday. We scout the area using a downloaded course map. Soon Christina Caravoulias arrives and //(as is becoming a tradition with us)// we commence running the course together <strong class="changes">---</strong> a preview of the race that will take place in four days. Robin pauses at mid-course for us to do an out-and-back and rejoin him. Chris and I trot along, stop a the Aspen Hill Park water fountain as a simulated "aid station", and enjoy ourselves this cool spring evening. We push hard on the final hill and are rather amazed to finish in less than 45 minutes. Apparently the Speed Development Program that Christina did has paid dividends!</p></div>
+ip: 141.156.150.174
+ts: 1234432740
+minor: 1
+host: pool-141-156-150-174.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: 
+summary: \&amp;mdash\; ->  --- 
+languages: 
+text: === 4 miles @ ~11 min/mi
+	
+	On Thursday evening son Robin & I arrive about 6:45pm at the starting line of Sue & Connie's Run, an [[http://mcrrc.org/|MCRRC]] 4-miler on Memorial Day Monday. We scout the area using a downloaded course map. Soon Christina Caravoulias arrives and //(as is becoming a tradition with us)// we commence running the course together --- a preview of the race that will take place in four days. Robin pauses at mid-course for us to do an out-and-back and rejoin him. Chris and I trot along, stop a the Aspen Hill Park water fountain as a simulated "aid station", and enjoy ourselves this cool spring evening. We push hard on the final hill and are rather amazed to finish in less than 45 minutes. Apparently the Speed Development Program that Christina did has paid dividends!
+	
+	
+keep-ts: 1234432740

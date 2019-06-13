@@ -1,0 +1,25 @@
+blocks: <h3>~5.7 miles @ ~12.6 min/mi</h3><p>"Javelin, discus, shot put, long jump, high jump, pole vault, 110m hurdles, 100m, 400m, 1500m &mdash; doesn't sound impossible!" Dr Kristin patiently listens to havering about the decathlon, triggered by the recent discovery that the local Potomac Valley Track Club is holding one 11-12 June 2016. When Jim Thorpe won the first decathlon at the 1912 Olympic games, legend says that King Gustav V of Sweden told him, "You, sir, are the greatest athlete in the world!" Thorpe's reply: "Thanks, King."</p><p>We meander through Pimmit Hills as intermittent light drizzle falls. Vertical stripe lights flicker blue-green/grue-bleen on the 7777 Route 7 office building. A gang of young men run around the library parking lot, then drop to the ground for sit-ups. Two tiny dogs yip and tug on their leashes; a cat crouches in the long grass and monitors our passage. Dr Kerry texts from the airport where she's awaiting a dawn flight. We transmit back our GPS coordinates.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/776789334">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-05-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.225
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.7 miles @ ~12.6 min/mi
+	
+	"Javelin, discus, shot put, long jump, high jump, pole vault, 110m hurdles, 100m, 400m, 1500m &mdash; doesn't sound impossible!" Dr Kristin patiently listens to havering about the decathlon, triggered by the recent discovery that the local Potomac Valley Track Club is holding one 11-12 June 2016. When Jim Thorpe won the first decathlon at the 1912 Olympic games, legend says that King Gustav V of Sweden told him, "You, sir, are the greatest athlete in the world!" Thorpe's reply: "Thanks, King."
+	
+	We meander through Pimmit Hills as intermittent light drizzle falls. Vertical stripe lights flicker blue-green/grue-bleen on the 7777 Route 7 office building. A gang of young men run around the library parking lot, then drop to the ground for sit-ups. Two tiny dogs yip and tug on their leashes; a cat crouches in the long grass and monitors our passage. Dr Kerry texts from the airport where she's awaiting a dawn flight. We transmit back our GPS coordinates.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/776789334|trackfile]])// - //**^z**// - 2016-05-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.7 miles @ ~12.6 min/mi<br />&gt; "Javelin, discus, shot put, long jump, high jump, pole vault, 110m hurdles, 100m, 400m, 1500m &amp;mdash; doesn't sound impossible!" Dr Kristin patiently listens to havering about the decathlon, triggered by the recent discovery that the local Potomac Valley Track Club is holding one 11-12 June 2016. When Jim Thorpe won the first decathlon at the 1912 Olympic games, legend says that King Gustav V of Sweden told him, "You, sir, are the greatest athlete in the world!" Thorpe's reply: "Thanks, King."<br />&gt; We meander through Pimmit Hills as intermittent light drizzle falls. Vertical stripe lights flicker blue-green/grue-bleen on the 7777 Route 7 office building. A gang of young men run around the library parking lot, then drop to the ground for sit-ups. Two tiny dogs yip and tug on their leashes; a cat crouches in the long grass and monitors our passage. Dr Kerry texts from the airport where she's awaiting a dawn flight. We transmit back our GPS coordinates.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/776789334|trackfile]])// - //**^z**// - 2016-05-17</strong></p></div>
+flags: 0
+ts: 1528057680
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057680

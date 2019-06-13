@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>7 miles @ ~20 min/mi</h3></p><p>Snow on Saturday turns to ice overnight and helps CM Manlandro sensibly to decide not to run with me at sunrise on Sunday morning. So Caren Jew, recovering from calf muscle strain, introduces me to the <a class="url http outside" href="http://sugarloafmd.com/sl_trails.html">trails of Sugarloaf Mountain</a>. The main parking lot is full; Caren drives down Mount Ephraim Rd until we find a pull-off at the Yellow Trail crossing. We trek clockwise along that trail, hiking not running, and soon meet a VHTRC crew finishing their ramble: Joe Clapper, Michele Harmon, and Nathan Soules. Greetings, a couple of quick photos, then the discovery that Joe's foot is mysteriously bleeding. Onward: across small streams that wet our feet, over hills that offer lovely vistas, and down rutted fire roads. After a couple of hours of excellent conversation&mdash;dream descriptions, family gossip, future races to do together, etc.&mdash; we spy Caren's car ahead. Caren insists on running the final stretch.</p><p><em><strong>^z</strong></em> - 2009-12-07</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Snow on Saturday turns to ice overnight and helps CM Manlandro sensibly to decide not to run with me at sunrise on Sunday morning. So Caren Jew, recovering from calf muscle strain, introduces me to the [[http://sugarloafmd.com/sl_trails.html|trails of Sugarloaf Mountain]]. The main parking lot is full; Caren drives down Mount Ephraim Rd until we find a pull-off at the Yellow Trail crossing. We trek clockwise along that trail, hiking not running, and soon meet a VHTRC crew finishing their ramble: Joe Clapper, <strong class="changes">Michelle</strong> Harmon, and Nathan Soules. Greetings, a couple of quick photos, then the discovery that Joe's foot is mysteriously bleeding. Onward: across small streams that wet our feet, over hills that offer lovely vistas, and down rutted fire roads. After a couple of hours of excellent conversation&amp;mdash;dream descriptions, family gossip, future races to do together, etc.&amp;mdash; we spy Caren's car ahead. Caren insists on running the final stretch.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Snow on Saturday turns to ice overnight and helps CM Manlandro sensibly to decide not to run with me at sunrise on Sunday morning. So Caren Jew, recovering from calf muscle strain, introduces me to the [[http://sugarloafmd.com/sl_trails.html|trails of Sugarloaf Mountain]]. The main parking lot is full; Caren drives down Mount Ephraim Rd until we find a pull-off at the Yellow Trail crossing. We trek clockwise along that trail, hiking not running, and soon meet a VHTRC crew finishing their ramble: Joe Clapper, <strong class="changes">Michele</strong> Harmon, and Nathan Soules. Greetings, a couple of quick photos, then the discovery that Joe's foot is mysteriously bleeding. Onward: across small streams that wet our feet, over hills that offer lovely vistas, and down rutted fire roads. After a couple of hours of excellent conversation&amp;mdash;dream descriptions, family gossip, future races to do together, etc.&amp;mdash; we spy Caren's car ahead. Caren insists on running the final stretch.</p></div>
+ip: 141.156.197.245
+ts: 1286708767
+minor: 1
+host: pool-141-156-197-245.res.east.verizon.net
+username: Mark Zimmermann
+revision: 3
+diff-major: 
+summary: typo fix
+languages: 
+text: === 7 miles @ ~20 min/mi
+	
+	Snow on Saturday turns to ice overnight and helps CM Manlandro sensibly to decide not to run with me at sunrise on Sunday morning. So Caren Jew, recovering from calf muscle strain, introduces me to the [[http://sugarloafmd.com/sl_trails.html|trails of Sugarloaf Mountain]]. The main parking lot is full; Caren drives down Mount Ephraim Rd until we find a pull-off at the Yellow Trail crossing. We trek clockwise along that trail, hiking not running, and soon meet a VHTRC crew finishing their ramble: Joe Clapper, Michele Harmon, and Nathan Soules. Greetings, a couple of quick photos, then the discovery that Joe's foot is mysteriously bleeding. Onward: across small streams that wet our feet, over hills that offer lovely vistas, and down rutted fire roads. After a couple of hours of excellent conversation&mdash;dream descriptions, family gossip, future races to do together, etc.&mdash; we spy Caren's car ahead. Caren insists on running the final stretch.
+	
+	//**^z**// - 2009-12-07
+	
+lastmajor: 1
+keep-ts: 1286708767

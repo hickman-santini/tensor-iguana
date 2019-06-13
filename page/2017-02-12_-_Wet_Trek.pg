@@ -1,0 +1,23 @@
+blocks: <h3>~10.3 miles @ ~13.1 min/mi</h3><p>"Raindrops Keep Falling on My Head" &mdash; "Pennies from Heaven" &mdash; "Who'll Stop the Rain?" &mdash; "Purple Rain" &mdash; "Macarthur Park" <em>("Someone left the cake out ...")</em> &mdash; "Red Rain" &mdash; Rebecca and Barry free-associate a medley of precipitation-themed songs as we ramble along Rock Creek through intermittent light drizzle. We review recent movies, compare notes on donut shops, run a few hills, and reminisce about races. On a side trail near Ft Detrick's Forest Glen Annex speculation includes what superpowers one might acquire by drinking from the contaminated streams there, or perhaps just taking a dip as Achilles did in the River Styx. Who knows?</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/932746349">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 70.117.106.239
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.3 miles @ ~13.1 min/mi
+	
+	"Raindrops Keep Falling on My Head" &mdash; "Pennies from Heaven" &mdash; "Who'll Stop the Rain?" &mdash; "Purple Rain" &mdash; "Macarthur Park" //("Someone left the cake out ...")// &mdash; "Red Rain" &mdash; Rebecca and Barry free-associate a medley of precipitation-themed songs as we ramble along Rock Creek through intermittent light drizzle. We review recent movies, compare notes on donut shops, run a few hills, and reminisce about races. On a side trail near Ft Detrick's Forest Glen Annex speculation includes what superpowers one might acquire by drinking from the contaminated streams there, or perhaps just taking a dip as Achilles did in the River Styx. Who knows?
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/932746349|trackfile]])// - //**^z**// - 2017-03-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.3 miles @ ~13.1 min/mi<br />&gt; "Raindrops Keep Falling on My Head" &amp;mdash; "Pennies from Heaven" &amp;mdash; "Who'll Stop the Rain?" &amp;mdash; "Purple Rain" &amp;mdash; "Macarthur Park" //("Someone left the cake out ...")// &amp;mdash; "Red Rain" &amp;mdash; Rebecca and Barry free-associate a medley of precipitation-themed songs as we ramble along Rock Creek through intermittent light drizzle. We review recent movies, compare notes on donut shops, run a few hills, and reminisce about races. On a side trail near Ft Detrick's Forest Glen Annex speculation includes what superpowers one might acquire by drinking from the contaminated streams there, or perhaps just taking a dip as Achilles did in the River Styx. Who knows?<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/932746349|trackfile]])// - //**^z**// - 2017-03-16</strong></p></div>
+flags: 0
+ts: 1528057691
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057691

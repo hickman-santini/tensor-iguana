@@ -1,0 +1,22 @@
+blocks: <h3>1 Comment.</h3><p>see <a class="url http outside" href="http://www.phannierambles.com/2013/11/fire-on-mountain.html">Stephanie Fonda</a>'s report on FotM, esp. including how I "... suggested oh-so-helpfully and reasonably that [she] 'hug the thorn bushes' in order to facilitate safe crossing through a particularly muddy patch ..." (^_^)</p><p>-- <a class="url http outside" href="http://zhurnaly.com">Zimm</a> 2013-11-08 13:28 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.117
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	see [[http://www.phannierambles.com/2013/11/fire-on-mountain.html|Stephanie Fonda]]'s report on FotM, esp. including how I "... suggested oh-so-helpfully and reasonably that [she] 'hug the thorn bushes' in order to facilitate safe crossing through a particularly muddy patch ..." (^_^)
+	
+	-- [http://zhurnaly.com Zimm] 2013-11-08 13:28 UTC
+	
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; see [[http://www.phannierambles.com/2013/11/fire-on-mountain.html|Stephanie Fonda]]'s report on FotM, esp. including how I "... suggested oh-so-helpfully and reasonably that [she] 'hug the thorn bushes' in order to facilitate safe crossing through a particularly muddy patch ..." (^_^)<br />&gt; -- [http://zhurnaly.com Zimm] 2013-11-08 13:28 UTC</p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057678

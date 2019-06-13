@@ -1,0 +1,27 @@
+flags: 0
+blocks: <p>Another eye-catching word, from W. H. Gardner's introduction to <strong>Poems and Prose of Gerard Manley Hopkins</strong>: <em>tmesis</em>. It's from the Greek "to cut" and describes a figure of speech in which something is injected in the middle of a word or phrase. Examples range from "Any-old-how" or "La-dee-freakin-da" to classical Latin as cited in <a class="url http outside" href="http://en.wikipedia.org/wiki/Tmesis">Wikipedia</a>:<br /></p><blockquote><p>... Words such as <em>circumdare</em>, to surround, are split apart with other words of the sentence in between, e.g. <em>circum virum dant</em>: "they surround the man". This device is used in this way to create a visual image of surrounding the man by means of the words on the line. ...<br /></p></blockquote><p>Hopkins uses tmesis in stanza 34 of "The Wreck of the Deutschland":<br /></p><blockquote><p>The heaven-flung, heart-fleshed, maiden-furled<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Miracle-in-Mary-of-flame,<br />Mid-number&egrave;d He in three of the thunder-throne!<br /></p></blockquote><p>As editor Gardner explains it, "The second line contains a tmesis: 'Miracle-of-flame <em>in Mary</em>' is rearranged so that the position of 'in-Mary' suggests the furling of the child in the mother and also suggests that Mary herself is an intrinsic part of the miracle." What a lovely-rich image!</p><p><em><strong>^z</strong></em> - 2010-02-09</p>
+ip: 138.88.166.207
+ts: 1265717451
+minor: 
+host: pool-138-88-166-207.res.east.verizon.net
+username:  zz
+revision: 1
+summary: Another eye-catching word, from W. H. Gardner's introduction to **Poems and Prose of Gerard Manley Hopkins**: //tmesis//. It's from the Greek "to . . .
+languages: 
+text: Another eye-catching word, from W. H. Gardner's introduction to **Poems and Prose of Gerard Manley Hopkins**: //tmesis//. It's from the Greek "to cut" and describes a figure of speech in which something is injected in the middle of a word or phrase. Examples range from "Any-old-how" or "La-dee-freakin-da" to classical Latin as cited in [[http://en.wikipedia.org/wiki/Tmesis|Wikipedia]]:
+	"""
+	... Words such as //circumdare//, to surround, are split apart with other words of the sentence in between, e.g. //circum virum dant//: "they surround the man". This device is used in this way to create a visual image of surrounding the man by means of the words on the line. ...
+	"""
+	
+	Hopkins uses tmesis in stanza 34 of "The Wreck of the Deutschland":
+	"""
+	The heaven-flung, heart-fleshed, maiden-furled
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Miracle-in-Mary-of-flame,
+	Mid-number&egrave;d He in three of the thunder-throne!
+	"""
+	
+	As editor Gardner explains it, "The second line contains a tmesis: 'Miracle-of-flame //in Mary//' is rearranged so that the position of 'in-Mary' suggests the furling of the child in the mother and also suggests that Mary herself is an intrinsic part of the miracle." What a lovely-rich image!
+	
+	//**^z**// - 2010-02-09
+	
+lastmajor: 1

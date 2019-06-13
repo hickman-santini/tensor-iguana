@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~11.2 miles @ ~9.4 min/mi</h3></p><p>As I run down Old Georgetown Rd I look toward the church on my left and suddenly discover that I'm within a few feet of an open-air wedding in progress. Today's cool and breezy afternoon sends me out along the usual circuit, fast except where downtown Bethesda clogs streets and sidewalks with an art fair. Fuel is snack-size Halloween candy: two Butterfingers and a Snickers. Big toenails are purply and pressure-sensitive from the Andiamo last week. A pebble gets into my left shoe during the final few miles and migrates from side to heel to arch to toe until it stops bothering me. At the Stone Ridge School on Cedar Lane a tiny pony is being led across the grass with a tiny child on its back.</p><p><em><strong>^z</strong></em> - 2010-10-24</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; As <strong class="changes">a</strong> run down Old Georgetown Rd I look toward the church on my left and suddenly discover that I'm within a few feet of an open-air wedding in progress. Today's cool and breezy afternoon sends me out <strong class="changes">to trot</strong> along the usual circuit, <strong class="changes">though</strong> downtown Bethesda <strong class="changes">again delays me with an art fair that</strong> clogs <strong class="changes">the</strong> streets and sidewalks. <strong class="changes">I'm fueled by</strong> snack-size Halloween candy: two Butterfingers and a Snickers. Big toenails are purply and pressure-sensitive from the Andiamo last week. A pebble gets into my left shoe during the final few miles and migrates from side to heel to arch to toe until it stops bothering me. At the Stone Ridge School on Cedar Lane a tiny pony is being led across the grass with a tiny child on its back.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; As <strong class="changes">I</strong> run down Old Georgetown Rd I look toward the church on my left and suddenly discover that I'm within a few feet of an open-air wedding in progress. Today's cool and breezy afternoon sends me out along the usual circuit, <strong class="changes">fast except where</strong> downtown Bethesda clogs streets and sidewalks <strong class="changes">with an art fair</strong>. <strong class="changes">Fuel is</strong> snack-size Halloween candy: two Butterfingers and a Snickers. Big toenails are purply and pressure-sensitive from the Andiamo last week. A pebble gets into my left shoe during the final few miles and migrates from side to heel to arch to toe until it stops bothering me. At the Stone Ridge School on Cedar Lane a tiny pony is being led across the grass with a tiny child on its back.</p></div>
+ip: 138.88.29.148
+ts: 1287952568
+minor: 1
+host: pool-138-88-29-148.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: === ~11.2 miles @ ~9.4 min/mi
+	
+	As I run down Old Georgetown Rd I look toward the church on my left and suddenly discover that I'm within a few feet of an open-air wedding in progress. Today's cool and breezy afternoon sends me out along the usual circuit, fast except where downtown Bethesda clogs streets and sidewalks with an art fair. Fuel is snack-size Halloween candy: two Butterfingers and a Snickers. Big toenails are purply and pressure-sensitive from the Andiamo last week. A pebble gets into my left shoe during the final few miles and migrates from side to heel to arch to toe until it stops bothering me. At the Stone Ridge School on Cedar Lane a tiny pony is being led across the grass with a tiny child on its back.
+	
+	//**^z**// - 2010-10-24
+	
+lastmajor: 1
+keep-ts: 1287952568

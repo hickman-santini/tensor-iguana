@@ -1,0 +1,27 @@
+blocks: <h3>~6.2 mi @ ~8.7 min/mi</h3><p>"How does the 10k course compare to the 5k course?"</p><p>"Uh, it's 5k longer?"</p><p>Remnants of yesterday's ice storms coat cars and paths for this morning's <a class="url http outside" href="http://mcrrc.org">MCRRC</a> "Kemp Mill (C)hill" race, but streets are 99% clear. Snowy lumps plop down from trees and power lines. Hills are long and gentle. A black bear disguised as a giant furry dog is out for a walk. Official results show total time 54:01, 1st of 3 finishers in the 65-69 year old male cohort; Barry comes in 2nd. And nobody falls down!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1123014123">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-03-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.65
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.2 mi @ ~8.7 min/mi
+	
+	"How does the 10k course compare to the 5k course?"
+	
+	"Uh, it's 5k longer?"
+	
+	Remnants of yesterday's ice storms coat cars and paths for this morning's [[http://mcrrc.org|MCRRC]] "Kemp Mill (C)hill" race, but streets are 99% clear. Snowy lumps plop down from trees and power lines. Hills are long and gentle. A black bear disguised as a giant furry dog is out for a walk. Official results show total time 54:01, 1st of 3 finishers in the 65-69 year old male cohort; Barry comes in 2nd. And nobody falls down!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1123014123|trackfile]])// - //**^z**// - 2018-03-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.2 mi @ ~8.7 min/mi<br />&gt; "How does the 10k course compare to the 5k course?"<br />&gt; "Uh, it's 5k longer?"<br />&gt; Remnants of yesterday's ice storms coat cars and paths for this morning's [[http://mcrrc.org|MCRRC]] "Kemp Mill (C)hill" race, but streets are 99% clear. Snowy lumps plop down from trees and power lines. Hills are long and gentle. A black bear disguised as a giant furry dog is out for a walk. Official results show total time 54:01, 1st of 3 finishers in the 65-69 year old male cohort; Barry comes in 2nd. And nobody falls down!<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1123014123|trackfile]])// - //**^z**// - 2018-03-19</strong></p></div>
+flags: 0
+ts: 1528057694
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057694

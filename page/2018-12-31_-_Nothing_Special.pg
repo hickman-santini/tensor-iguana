@@ -1,0 +1,26 @@
+flags: 0
+blocks: <h3>~7.2 mi @ ~12.5 min/mi</h3><p>"<em><strong>Nothing Special</strong></em>" &mdash; the title of Charlotte Joko Beck's book of Zen commentary, and Dawn Patrol's motto. "Nothing has ever existed except this moment. That's all there is. That's all we are." Hot coffee and quiet conversation on a chill, damp morning. New Year's Eve, a time to look ahead and behind.</p><p>"In 2019 maybe we should take up vaping?" If only one could enjoy the aromas without the nicotine or the lung damage! Langley High School's track blows dust out of Roadkill's old pipes via a brisk 1:43 quarter-mile lap in lane 2. McLean mansion owners haven't yet discovered the concept of curtains. Interiors are naked-exposed.</p><p>"And where does that lead?" K2 spies a narrow gravel pathway between a weathered brick wall and a fenced back yard. We follow it around a multi-million-dollar condo complex and find ourselves ... back where we began. <em>"Wonderful! We've learned something!"</em></p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1272107809">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2019-01-27</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "In 2019 maybe we should take up vaping?" If only one could enjoy the aromas without the nicotine or the lung damage! Langley High School's track blows dust out of <strong class="changes">the</strong> old pipes via a brisk 1:43 quarter-mile lap in lane 2. <strong class="changes">Mansion</strong> owners haven't yet discovered the concept of curtains<strong class="changes">, leaving interiors</strong> exposed.<br />&lt; "<strong class="changes">Where</strong> does that lead?" K2 spies a narrow gravel pathway between a weathered brick wall and a fenced back yard. We follow it around a multi-million-dollar condo complex and find ourselves back where we began. //"Wonderful! We've learned something!"//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "In 2019 maybe we should take up vaping?" If only one could enjoy the aromas without the nicotine or the lung damage! Langley High School's track blows dust out of <strong class="changes">Roadkill's</strong> old pipes via a brisk 1:43 quarter-mile lap in lane 2. <strong class="changes">McLean mansion</strong> owners haven't yet discovered the concept of curtains<strong class="changes">. Interiors are naked-</strong>exposed.<br />&gt; "<strong class="changes">And where</strong> does that lead?" K2 spies a narrow gravel pathway between a weathered brick wall and a fenced back yard. We follow it around a multi-million-dollar condo complex and find ourselves <strong class="changes">...</strong> back where we began. //"Wonderful! We've learned something!"//</p></div>
+lastmajorsummary: tweaks
+ts: 1548583272
+minor: 
+host: 71.178.84.76
+username: z
+revision: 2
+diff-major: 1
+summary: tweaks
+languages: 
+text: === ~7.2 mi @ ~12.5 min/mi
+	
+	"//**Nothing Special**//" &mdash; the title of Charlotte Joko Beck's book of Zen commentary, and Dawn Patrol's motto. "Nothing has ever existed except this moment. That's all there is. That's all we are." Hot coffee and quiet conversation on a chill, damp morning. New Year's Eve, a time to look ahead and behind.
+	
+	"In 2019 maybe we should take up vaping?" If only one could enjoy the aromas without the nicotine or the lung damage! Langley High School's track blows dust out of Roadkill's old pipes via a brisk 1:43 quarter-mile lap in lane 2. McLean mansion owners haven't yet discovered the concept of curtains. Interiors are naked-exposed.
+	
+	"And where does that lead?" K2 spies a narrow gravel pathway between a weathered brick wall and a fenced back yard. We follow it around a multi-million-dollar condo complex and find ourselves ... back where we began. //"Wonderful! We've learned something!"//
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1272107809|trackfile]])// - //**^z**// - 2019-01-27
+	
+lastmajor: 2
+keep-ts: 1548583272

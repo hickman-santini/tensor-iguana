@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p>A new <em><strong>^z</strong></em> record in late awakening: yesterday I figured out that the name of the football stadium "<a class="url http outside" href="http://en.wikipedia.org/wiki/Cotton_Bowl_%28stadium%29">Cotton Bowl</a>" in Dallas is a play on the words "cotton boll". This realization finally struck me 50 years after growing up in Texas, land of football, and picking cotton on my Grandfather's farm. <em><strong>Duh!</strong></em></p><p><em><strong>^z</strong></em> - 2010-10-17</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; A new //**^z**// record in late awakening: <strong class="changes">finally,</strong> yesterday<strong class="changes">,</strong> I figured out that the name of the football stadium "[[http://en.wikipedia.org/wiki/Cotton_Bowl_%28stadium%29|Cotton Bowl]]" in Dallas is a play on the words "cotton boll". <strong class="changes">Duh!</strong> This after growing up in Texas, land of football, and picking cotton on my Grandfather's farm.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; A new //**^z**// record in late awakening: yesterday I figured out that the name of the football stadium "[[http://en.wikipedia.org/wiki/Cotton_Bowl_%28stadium%29|Cotton Bowl]]" in Dallas is a play on the words "cotton boll". This <strong class="changes">realization finally struck me 50 years</strong> after growing up in Texas, land of football, and picking cotton on my Grandfather's farm. <strong class="changes">//**Duh!**//</strong></p></div>
+ip: 141.156.197.245
+ts: 1287306013
+minor: 1
+host: pool-141-156-197-245.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: A new //**^z**// record in late awakening: yesterday I figured out that the name of the football stadium "[[http://en.wikipedia.org/wiki/Cotton_Bowl_%28stadium%29|Cotton Bowl]]" in Dallas is a play on the words "cotton boll". This realization finally struck me 50 years after growing up in Texas, land of football, and picking cotton on my Grandfather's farm. //**Duh!**//
+	
+	//**^z**// - 2010-10-17
+	
+lastmajor: 1
+keep-ts: 1287306013

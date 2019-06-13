@@ -1,0 +1,25 @@
+blocks: <h3>~6.3 miles @ ~12.3 min/mi</h3><p>"<strong>CHILL</strong>" reads a bent street sign, appropriately, on Churchill Road: temps are in the upper 30's, and as the sun rises a few raindrops begin to fall. Kerry and I enjoy iced coffee at a McLean Starbucks. Last night she and her daughter celebrated a Langley High School basketball victory with ice cream &mdash; mint chocolate chip!</p><p>A rabbit dashes away as we begin our run; a fox races down the lane as we finish. Sorrel Street dead-ends in a gravel driveway with no obvious cut-through. A motion-sensor light turns on as we retreat. Dawn is quiet, peaceful.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/921978692">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-02-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.236
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.3 miles @ ~12.3 min/mi
+	
+	"**CHILL**" reads a bent street sign, appropriately, on Churchill Road: temps are in the upper 30's, and as the sun rises a few raindrops begin to fall. Kerry and I enjoy iced coffee at a McLean Starbucks. Last night she and her daughter celebrated a Langley High School basketball victory with ice cream &mdash; mint chocolate chip!
+	
+	A rabbit dashes away as we begin our run; a fox races down the lane as we finish. Sorrel Street dead-ends in a gravel driveway with no obvious cut-through. A motion-sensor light turns on as we retreat. Dawn is quiet, peaceful.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/921978692|trackfile]])// - //**^z**// - 2017-02-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.3 miles @ ~12.3 min/mi<br />&gt; "**CHILL**" reads a bent street sign, appropriately, on Churchill Road: temps are in the upper 30's, and as the sun rises a few raindrops begin to fall. Kerry and I enjoy iced coffee at a McLean Starbucks. Last night she and her daughter celebrated a Langley High School basketball victory with ice cream &amp;mdash; mint chocolate chip!<br />&gt; A rabbit dashes away as we begin our run; a fox races down the lane as we finish. Sorrel Street dead-ends in a gravel driveway with no obvious cut-through. A motion-sensor light turns on as we retreat. Dawn is quiet, peaceful.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/921978692|trackfile]])// - //**^z**// - 2017-02-19</strong></p></div>
+flags: 0
+ts: 1528057702
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057702

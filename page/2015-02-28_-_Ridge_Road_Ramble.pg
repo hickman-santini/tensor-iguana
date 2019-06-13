@@ -1,0 +1,25 @@
+blocks: <h3>~7 miles @ ~10.7 min/mi</h3><p>"They were called Indian Shutters!" Kerry tells me. We're observing the new hyper-insulated windows in various houses being remodeled on Benjamin St, as we ramble 'round the 'hood late on an icy Saturday morning. I recollect old single-pane casement windows on which ice formed &mdash; on the <em>inside</em> &mdash; during cold spells. Kerry recalls a 19th Century New England home with interior slide-into-place shutters, supposedly for protection against flying arrows. (The Internet says that's a myth, but then so is everything on the Internet.)</p><p>We run the Ridge Rd loop, spy the narrow connector path into the woods, walk icy patches, point out mailboxes decorated to look like sharks and pandas, and end up going rather faster than planned for the first few miles. (My left quad aches afterwards.) Kerry scores bonus points when we meet her neighbor Jenna. Another local resident witnessed me trekking in last Saturday's blizzard, Kerry says. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/519763618">Runkeeper</a> records route.</p><p><em><strong>^z</strong></em> - 2015-03-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.98.108
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7 miles @ ~10.7 min/mi
+	
+	"They were called Indian Shutters!" Kerry tells me. We're observing the new hyper-insulated windows in various houses being remodeled on Benjamin St, as we ramble 'round the 'hood late on an icy Saturday morning. I recollect old single-pane casement windows on which ice formed &mdash; on the //inside// &mdash; during cold spells. Kerry recalls a 19th Century New England home with interior slide-into-place shutters, supposedly for protection against flying arrows. (The Internet says that's a myth, but then so is everything on the Internet.)
+	
+	We run the Ridge Rd loop, spy the narrow connector path into the woods, walk icy patches, point out mailboxes decorated to look like sharks and pandas, and end up going rather faster than planned for the first few miles. (My left quad aches afterwards.) Kerry scores bonus points when we meet her neighbor Jenna. Another local resident witnessed me trekking in last Saturday's blizzard, Kerry says. [[http://runkeeper.com/user/zhurnaly/activity/519763618|Runkeeper]] records route.
+	
+	//**^z**// - 2015-03-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7 miles @ ~10.7 min/mi<br />&gt; "They were called Indian Shutters!" Kerry tells me. We're observing the new hyper-insulated windows in various houses being remodeled on Benjamin St, as we ramble 'round the 'hood late on an icy Saturday morning. I recollect old single-pane casement windows on which ice formed &amp;mdash; on the //inside// &amp;mdash; during cold spells. Kerry recalls a 19th Century New England home with interior slide-into-place shutters, supposedly for protection against flying arrows. (The Internet says that's a myth, but then so is everything on the Internet.)<br />&gt; We run the Ridge Rd loop, spy the narrow connector path into the woods, walk icy patches, point out mailboxes decorated to look like sharks and pandas, and end up going rather faster than planned for the first few miles. (My left quad aches afterwards.) Kerry scores bonus points when we meet her neighbor Jenna. Another local resident witnessed me trekking in last Saturday's blizzard, Kerry says. [[http://runkeeper.com/user/zhurnaly/activity/519763618|Runkeeper]] records route.<br />&gt; //**^z**// - 2015-03-20</strong></p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057678

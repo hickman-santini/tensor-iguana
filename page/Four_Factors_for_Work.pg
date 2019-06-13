@@ -1,0 +1,26 @@
+flags: 0
+blocks: <p>An expert in interviewing job applicants said the other day that there are four key elements that help identify successful candidates out of all those seeking employment:<br /></p><ul><li><strong>Job Motivation</strong> &mdash; the driving forces that make people enjoy their careers</li><li><strong>Individual Expertise</strong> &mdash; the specialized know-how in a field</li><li><strong>Teamwork/Interpersonal Skills</strong> &mdash; the ability to collaborate productively</li><li><strong>Initiative</strong> &mdash; leadership, energy, drive, etc.</li></ul><p>I like those four factors since it's easy to see how much trouble a person could get into if s/he lacked any one of them. My personal weakness: lack of initiative. Fortunately, I'm surrounded by overly ambitious colleagues who make up for that!</p><p><em><strong>^z</strong></em> - 2010-02-22</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; I like those four factors since it's easy to see how much trouble a person could get into if s/he lacked any one of them<strong class="changes">./</strong><br />&lt; My personal weakness: lack of initiative. Fortunately, I'm surrounded by overly ambitious colleagues who make up for that!</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; I like those four factors since it's easy to see how much trouble a person could get into if s/he lacked any one of them<strong class="changes">.</strong> My personal weakness: lack of initiative. Fortunately, I'm surrounded by overly ambitious colleagues who make up for that!</p></div>
+ip: 141.156.142.29
+ts: 1266832208
+minor: 1
+host: pool-141-156-142-29.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: An expert in interviewing job applicants said the other day that there are four key elements that help identify successful candidates out of all those seeking employment:
+	* **Job Motivation** &mdash; the driving forces that make people enjoy their careers
+	* **Individual Expertise** &mdash; the specialized know-how in a field
+	* **Teamwork/Interpersonal Skills** &mdash; the ability to collaborate productively
+	* **Initiative** &mdash; leadership, energy, drive, etc.
+	
+	I like those four factors since it's easy to see how much trouble a person could get into if s/he lacked any one of them. My personal weakness: lack of initiative. Fortunately, I'm surrounded by overly ambitious colleagues who make up for that!
+	
+	//**^z**// - 2010-02-22
+	
+lastmajor: 1
+keep-ts: 1266832208

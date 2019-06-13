@@ -1,0 +1,25 @@
+blocks: <h3>~5.0 miles @ ~13.5 min/mi</h3><p>"You don't have to run marathons to be healthy," Barry's doctor tells him on Friday. So yesterday he only does a half-marathon! We laugh as we run along Rock Creek Trail, comparing notes on our various old-guy ailments &mdash; vertigo, double vision, joint and tendon twinges, and less-mentionable issues &mdash; hypothesizing that if we only upped our mileage a bit we would be cured. <em>Ha!</em></p><p>"Tat-tat-tat-tat-tat-tat!" echo footfalls from my new shoes within the tunnel under KenGar's railroad tracks. Pok&eacute;mon abound in the woods, and Barry is tolerant of my attempts to catch them. Rebecca zooms ahead with fast friends. The air is refreshingly cool and low-humidity, in contrast to past (and future) summer mornings.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/840062469">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-08-30</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.184
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.0 miles @ ~13.5 min/mi
+	
+	"You don't have to run marathons to be healthy," Barry's doctor tells him on Friday. So yesterday he only does a half-marathon! We laugh as we run along Rock Creek Trail, comparing notes on our various old-guy ailments &mdash; vertigo, double vision, joint and tendon twinges, and less-mentionable issues &mdash; hypothesizing that if we only upped our mileage a bit we would be cured. //Ha!//
+	
+	"Tat-tat-tat-tat-tat-tat!" echo footfalls from my new shoes within the tunnel under KenGar's railroad tracks. Pok&eacute;mon abound in the woods, and Barry is tolerant of my attempts to catch them. Rebecca zooms ahead with fast friends. The air is refreshingly cool and low-humidity, in contrast to past (and future) summer mornings.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/840062469|trackfile]])// - //**^z**// - 2016-08-30
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.0 miles @ ~13.5 min/mi<br />&gt; "You don't have to run marathons to be healthy," Barry's doctor tells him on Friday. So yesterday he only does a half-marathon! We laugh as we run along Rock Creek Trail, comparing notes on our various old-guy ailments &amp;mdash; vertigo, double vision, joint and tendon twinges, and less-mentionable issues &amp;mdash; hypothesizing that if we only upped our mileage a bit we would be cured. //Ha!//<br />&gt; "Tat-tat-tat-tat-tat-tat!" echo footfalls from my new shoes within the tunnel under KenGar's railroad tracks. Pok&amp;eacute;mon abound in the woods, and Barry is tolerant of my attempts to catch them. Rebecca zooms ahead with fast friends. The air is refreshingly cool and low-humidity, in contrast to past (and future) summer mornings.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/840062469|trackfile]])// - //**^z**// - 2016-08-30</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057690

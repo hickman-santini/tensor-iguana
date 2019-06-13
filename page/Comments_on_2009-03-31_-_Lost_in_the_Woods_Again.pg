@@ -1,0 +1,25 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3>Additional memories of the day:</p><ul><li>running fast on the soccer fields to impress the dog walkers</li><li>finding my hat and gloves after we thought someone took them</li><li>my utter joy at my new found ability to eat cheese doodles while running...</li></ul><p> - Kate Abbott -</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Let's see if this works...adding to</strong> the <strong class="changes">report</strong>:<br />&lt; running fast on the soccer fields to impress the dog walkers<br />&lt; finding my hat and gloves after we thought someone took them<br />&lt; my utter joy at my new found ability to eat cheese doodles while running...<br />&lt; <strong class="changes">-- Anonymous 2009</strong>-<strong class="changes">04</strong>-<strong class="changes">11 23:27 UTC</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Additional memories of</strong> the <strong class="changes">day</strong>:<br />&gt; <strong class="changes">*</strong> running fast on the soccer fields to impress the dog walkers<br />&gt; <strong class="changes">*</strong> finding my hat and gloves after we thought someone took them<br />&gt; <strong class="changes">*</strong> my utter joy at my new found ability to eat cheese doodles while running...<br />&gt;  - <strong class="changes">Kate Abbott</strong> -</p></div>
+ip: 141.156.198.173
+ts: 1239504942
+minor: 1
+host: pool-141-156-198-173.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: update/tweaks
+languages: 
+text: === 1 Comment. ===
+	Additional memories of the day:
+	
+	* running fast on the soccer fields to impress the dog walkers
+	* finding my hat and gloves after we thought someone took them
+	* my utter joy at my new found ability to eat cheese doodles while running...
+	
+	 - Kate Abbott -
+	
+lastmajor: 1
+keep-ts: 1239504942

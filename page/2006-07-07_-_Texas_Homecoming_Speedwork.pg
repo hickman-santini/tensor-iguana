@@ -1,0 +1,25 @@
+flags: 0
+blocks: <p><h3>7+ miles @ ~12 min/mi</h3></p><p>The sign at the entrance to Lyndon Baines Johnson High School reads:</p><table class="user"><tr><td align="center">Whether you're licensed to carry or not!<br /><strong>NO WEAPONS ON SCHOOL PROPERTY</strong></td></tr></table><p>That admonition is followed by a long list of forbidden objects. I'm in Austin Texas, visiting family, and this warm and humid morning I arrive at the LBJ Jaguar ballfields  after a 1+ mile jog. There's a nice springy-surface track here, which I have to myself until a couple of young se&ntilde;oritas appear to walk some laps and chat together. Half an hour later three se&ntilde;oras pile out of a minivan, walk a mile, and then return to their car and drive away. Large passenger jets cruise overhead as they depart the local airport.</p><p>My "speedwork" consists of eight 800 meter trots, average ~4:27, with half-lap (~2 min) recovery walks in between. My long shadow on the dew-coated grass displays a retroreflected halo aroung the head. Crows feed on the infield and a black dragonfly buzzes past. I take a Succeed! electrolyte capsule after the first few miles, and that plus sugar candies keep me moving. My Red Sox mesh shirt is sweat-soaked and I take it off for several laps, then don it again for the jog back to my Mother's home, where I lived from 1964 into the 70's.</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; | Whether you're licensed to carry or not<strong class="changes">!<br />&lt;     **</strong>NO WEAPONS ON SCHOOL PROPERTY**  |</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; | Whether you're licensed to carry or not<strong class="changes">!\\**</strong>NO WEAPONS ON SCHOOL PROPERTY**  |</p></div>
+ip: 141.156.141.51
+ts: 1248642903
+minor: 1
+host: pool-141-156-141-51.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: fmt fix
+languages: 
+text: === 7+ miles @ ~12 min/mi
+	
+	The sign at the entrance to Lyndon Baines Johnson High School reads:
+	
+	| Whether you're licensed to carry or not!\\**NO WEAPONS ON SCHOOL PROPERTY**  |
+	
+	That admonition is followed by a long list of forbidden objects. I'm in Austin Texas, visiting family, and this warm and humid morning I arrive at the LBJ Jaguar ballfields  after a 1+ mile jog. There's a nice springy-surface track here, which I have to myself until a couple of young se&ntilde;oritas appear to walk some laps and chat together. Half an hour later three se&ntilde;oras pile out of a minivan, walk a mile, and then return to their car and drive away. Large passenger jets cruise overhead as they depart the local airport.
+	
+	My "speedwork" consists of eight 800 meter trots, average ~4:27, with half-lap (~2 min) recovery walks in between. My long shadow on the dew-coated grass displays a retroreflected halo aroung the head. Crows feed on the infield and a black dragonfly buzzes past. I take a Succeed! electrolyte capsule after the first few miles, and that plus sugar candies keep me moving. My Red Sox mesh shirt is sweat-soaked and I take it off for several laps, then don it again for the jog back to my Mother's home, where I lived from 1964 into the 70's.
+	
+keep-ts: 1248642903

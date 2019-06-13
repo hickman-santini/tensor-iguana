@@ -1,0 +1,23 @@
+blocks: <h3>~6.6 miles @ ~12.3 min/mi</h3><p>"The song is 'Lean Back' - it's by <strong>Fat Joe</strong>!" Kristin tells me at the end of our trek. On busy Balls Hill Road sidewalks are scant; we have to stand against the guard rail and lean way back at mile 2 this morning, as cars speed by in the dark. Our dawn meander is in search of new cut-through paths. No luck, alas. But Kristin does see one rabbit flee at our approach, and a low layer of fog over the McLean High School football field is awesome as the sun rises and we silently circle the track.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/658348081">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.6 miles @ ~12.3 min/mi
+	
+	"The song is 'Lean Back' - it's by **Fat Joe**!" Kristin tells me at the end of our trek. On busy Balls Hill Road sidewalks are scant; we have to stand against the guard rail and lean way back at mile 2 this morning, as cars speed by in the dark. Our dawn meander is in search of new cut-through paths. No luck, alas. But Kristin does see one rabbit flee at our approach, and a low layer of fog over the McLean High School football field is awesome as the sun rises and we silently circle the track.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/658348081|trackfile]])// - //**^z**// - 2015-10-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.6 miles @ ~12.3 min/mi<br />&gt; "The song is 'Lean Back' - it's by **Fat Joe**!" Kristin tells me at the end of our trek. On busy Balls Hill Road sidewalks are scant; we have to stand against the guard rail and lean way back at mile 2 this morning, as cars speed by in the dark. Our dawn meander is in search of new cut-through paths. No luck, alas. But Kristin does see one rabbit flee at our approach, and a low layer of fog over the McLean High School football field is awesome as the sun rises and we silently circle the track.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/658348081|trackfile]])// - //**^z**// - 2015-10-11</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

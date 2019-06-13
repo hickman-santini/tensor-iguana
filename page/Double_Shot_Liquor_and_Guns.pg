@@ -1,0 +1,22 @@
+flags: 0
+blocks: <table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/Double_Shot_Liquor_Guns.jpg" alt="http://zhurnaly.com/images/Double_Shot_Liquor_Guns.jpg" /></td><td align="right">"Double Shot Liquor &amp; Guns" is a business in Schulenburg, a small town in central Texas near where my Father grew up. He gave my son Robin and me a tour of the area when we visited recently. Double Shot, according to its web site, also sells cigars. If it offers fireworks then it touches all the <a class="url http outside" href="http://www.atf.gov/">ATF</a> bases!</td></tr></table><p>And on the other side of the sign the caption says, "<strong>SHOOT EM UP - SLAM EM DOWN</strong>". |</p><p><em><strong>^z</strong></em> - 2010-07-20</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; | http://zhurnaly.com/images/Double_Shot_Liquor_Guns.jpg | <strong class="changes">"[[http://doubleshotliquorandguns.com/|</strong>Double Shot Liquor &amp; Guns<strong class="changes">]]"</strong> is a business in Schulenburg, a small town in central Texas near where my Father grew up. He gave my son Robin and me a tour of the area when we visited recently. <strong class="changes">If</strong> Double Shot <strong class="changes">expanded</strong> to <strong class="changes">sell</strong> cigars <strong class="changes">and</strong> fireworks then it <strong class="changes">would touch</strong> all the [[http://www.atf.gov/|ATF]] bases! |</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; | http://zhurnaly.com/images/Double_Shot_Liquor_Guns.jpg | <strong class="changes">"</strong>Double Shot Liquor &amp; Guns<strong class="changes">"</strong> is a business in Schulenburg, a small town in central Texas near where my Father grew up. He gave my son Robin and me a tour of the area when we visited recently. Double Shot<strong class="changes">, according</strong> to <strong class="changes">its web site, also sells</strong> cigars<strong class="changes">. If it offers</strong> fireworks then it <strong class="changes">touches</strong> all the [[http://www.atf.gov/|ATF]] bases! <br />&gt; <strong class="changes">And on the other side of the sign the caption says, "**SHOOT EM UP - SLAM EM DOWN**".</strong> |</p></div>
+ip: 66.90.165.157
+ts: 1528057695
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 8
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | http://zhurnaly.com/images/Double_Shot_Liquor_Guns.jpg | "Double Shot Liquor & Guns" is a business in Schulenburg, a small town in central Texas near where my Father grew up. He gave my son Robin and me a tour of the area when we visited recently. Double Shot, according to its web site, also sells cigars. If it offers fireworks then it touches all the [[http://www.atf.gov/|ATF]] bases! 
+	
+	And on the other side of the sign the caption says, "**SHOOT EM UP - SLAM EM DOWN**". |
+	
+	//**^z**// - 2010-07-20
+	
+languages: 
+lastmajor: 1
+keep-ts: 1528057695

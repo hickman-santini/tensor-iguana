@@ -1,0 +1,25 @@
+blocks: <h3>~8 miles @ ~15 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Caren_Jew_NWBT_log_bridge.jpg" alt="http://zhurnaly.com/images/running/Caren_Jew_NWBT_log_bridge.jpg" /></td><td align="right">At 6:15am I meet Caren Jew near the Wheaton Regional Park stables off Kemp Mill Rd. Down the right bank of NWBT we go, and then back up the more rugged and overgrown left bank. We count at least five log bridges over the water, each with ropes strung above them for hand-holding, but only cross one over a small tributary. Besides dog-walkers and hikers, there's a solo fast trail trekker and a band of four runners on the opposite bank. They meet us again on on our side. Caren spies a deer with two-point antlers and a big rabbit.</td></tr></table><p>Runens on the iPhone reports 8.29 miles; the <a class="url http outside" href="http://connect.garmin.com/activity/189977174">Garmin GPS</a> says 8.00 miles. |</p><p><em><strong>^z</strong></em> - 2012-07-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.129.41
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8 miles @ ~15 min/mi
+	
+	| http://zhurnaly.com/images/running/Caren_Jew_NWBT_log_bridge.jpg | At 6:15am I meet Caren Jew near the Wheaton Regional Park stables off Kemp Mill Rd. Down the right bank of NWBT we go, and then back up the more rugged and overgrown left bank. We count at least five log bridges over the water, each with ropes strung above them for hand-holding, but only cross one over a small tributary. Besides dog-walkers and hikers, there's a solo fast trail trekker and a band of four runners on the opposite bank. They meet us again on on our side. Caren spies a deer with two-point antlers and a big rabbit.
+	
+	Runens on the iPhone reports 8.29 miles; the [[http://connect.garmin.com/activity/189977174|Garmin GPS]] says 8.00 miles. |
+	
+	//**^z**// - 2012-07-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8 miles @ ~15 min/mi<br />&gt; | http://zhurnaly.com/images/running/Caren_Jew_NWBT_log_bridge.jpg | At 6:15am I meet Caren Jew near the Wheaton Regional Park stables off Kemp Mill Rd. Down the right bank of NWBT we go, and then back up the more rugged and overgrown left bank. We count at least five log bridges over the water, each with ropes strung above them for hand-holding, but only cross one over a small tributary. Besides dog-walkers and hikers, there's a solo fast trail trekker and a band of four runners on the opposite bank. They meet us again on on our side. Caren spies a deer with two-point antlers and a big rabbit.<br />&gt; Runens on the iPhone reports 8.29 miles; the [[http://connect.garmin.com/activity/189977174|Garmin GPS]] says 8.00 miles. |<br />&gt; //**^z**// - 2012-07-15</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

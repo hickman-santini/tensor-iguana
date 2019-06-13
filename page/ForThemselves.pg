@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Why does everything have to involve so much **money**? Foot races have turned into fund-raising events for various causes, noble or otherwise. Web sites try to support themselves by spattering "sponsored links" before, beside, beneath, and between bits of content. TV and radio commercials expand to occupy an ever-larger fraction of the broadcast hour. Advertisements squeeze out the articles in newspapers and magazines. Ostensibly-noncommercial networks frame their shows with quack-like-a-duck acknowledgments of contributions, and every year devote weeks or months of airtime to beg for more audience support. Movies take payments for product placements; books are starting to do likewise. And don't even mention the so-called "music industry", or professional sports, or modern politics!<br />&lt; So the line between honesty and I-was-paid-to-say-this becomes increasingly blurred. Things get prostituted that are of infinite value in and for themselves: creative new ideas ... the sheer animal joy of physical activity ... the &amp;aelig;sthetic pleasure that beauty brings ... the sense of wonder and awe and reverence at the universe ... and simple love.<br />&lt; Thank goodness, there are still exceptions: worthwhile acts done **//for their own sake//** ...<br />&lt; //(see also</strong> [[<strong class="changes">MindMe</strong>]] <strong class="changes">(24 Jun 1999), [[OurOneRing]] (18 Dec 2001), [[SomethingToSell]] (14 Apr 2002), [[MyOb]] (18 Aug 2002), [[MakeMoneyWhisper]] (9 Nov 2002), [[ThisSpaceFor]] (17 Feb 2003), ...)//<br />&lt; ----<br />&lt; [[TopicLife]] - [[TopicSociety]] - Datetag20030608<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[BeTheChange]], [[SecondLargestInvestment]], [[ChallengeGrantFiction]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">For Themselves</strong>]]</p></div>
+ip: 70.21.38.24
+ts: 1224722050
+minor: 1
+host: pool-70-21-38-24.res.east.verizon.net
+username: MarkZimmermann
+revision: 4
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Thank goodness, there are still exceptions: worthwhile acts done **//for their own sake<strong class="changes">**//</strong> ...</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Thank goodness, there are still exceptions: worthwhile acts done **//for their own sake<strong class="changes">//**</strong> ...</p></div>
+summary: redirect
+languages: 
+text: #REDIRECT [[For Themselves]]
+	
+lastmajor: 3
+keep-ts: 1224722050

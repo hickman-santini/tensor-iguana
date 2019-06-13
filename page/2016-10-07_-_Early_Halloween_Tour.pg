@@ -1,0 +1,25 @@
+blocks: <h3>~7.6 miles @ ~12.6 min/mi</h3><p>"What is <em>that</em>?" Two glowing eyes stare down at us from atop a bushy knoll beside the road. "<strong>Big!</strong>" answers Kristin. The first few miles are a fast-paced celebration of cool temperatures. We roam before dawn through the Chesterbrook neighborhood, joy the only goal. We pause at a corner to study a map, then ignore it. "Plans are worthless!" Kristin applies General Eisenhower's maxim to run route selection.</p><p>Witches, giant spiders, skeletons, and ghosts rise from a front-yard Halloween cemetery to attack a house on Chesterfield Avenue. Bunny count = 1, spied by Kristin, who also clears most of today's cobwebs for the Team.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/876564653">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-11-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.191
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.6 miles @ ~12.6 min/mi
+	
+	"What is //that//?" Two glowing eyes stare down at us from atop a bushy knoll beside the road. "**Big!**" answers Kristin. The first few miles are a fast-paced celebration of cool temperatures. We roam before dawn through the Chesterbrook neighborhood, joy the only goal. We pause at a corner to study a map, then ignore it. "Plans are worthless!" Kristin applies General Eisenhower's maxim to run route selection.
+	
+	Witches, giant spiders, skeletons, and ghosts rise from a front-yard Halloween cemetery to attack a house on Chesterfield Avenue. Bunny count = 1, spied by Kristin, who also clears most of today's cobwebs for the Team.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/876564653|trackfile]])// - //**^z**// - 2016-11-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.6 miles @ ~12.6 min/mi<br />&gt; "What is //that//?" Two glowing eyes stare down at us from atop a bushy knoll beside the road. "**Big!**" answers Kristin. The first few miles are a fast-paced celebration of cool temperatures. We roam before dawn through the Chesterbrook neighborhood, joy the only goal. We pause at a corner to study a map, then ignore it. "Plans are worthless!" Kristin applies General Eisenhower's maxim to run route selection.<br />&gt; Witches, giant spiders, skeletons, and ghosts rise from a front-yard Halloween cemetery to attack a house on Chesterfield Avenue. Bunny count = 1, spied by Kristin, who also clears most of today's cobwebs for the Team.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/876564653|trackfile]])// - //**^z**// - 2016-11-02</strong></p></div>
+flags: 0
+ts: 1528057694
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057694

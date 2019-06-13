@@ -1,0 +1,23 @@
+blocks: <p>Heirloom is so hard to spell. Or maybe they're referring to a kind of woven wig?</p><p><img class="url http" src="http://zhurnaly.com/images/Hair_Loom_Tomatoes.jpg" alt="http://zhurnaly.com/images/Hair_Loom_Tomatoes.jpg" /></p><p><em>(seen on the board outside a local yuppie-ish restaurant)</em> - <em><strong>^z</strong></em> - 2012-09-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.170.21
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Heirloom is so hard to spell. Or maybe they're referring to a kind of woven wig?
+	
+	http://zhurnaly.com/images/Hair_Loom_Tomatoes.jpg
+	
+	//(seen on the board outside a local yuppie-ish restaurant)// - //**^z**// - 2012-09-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Heirloom is so hard to spell. Or maybe they're referring to a kind of woven wig?<br />&gt; http://zhurnaly.com/images/Hair_Loom_Tomatoes.jpg<br />&gt; //(seen on the board outside a local yuppie-ish restaurant)// - //**^z**// - 2012-09-24</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

@@ -1,0 +1,23 @@
+blocks: <h3>~2 miles @ ~22.5 min/mi</h3><p>Friend LaNedra meets me at the elementary school near Paint Branch Trail. We follow the path down to Lake Artemesia and walk a lap, chatting about life, money, friends, and the threatened Federal Government shutdown. The Reward: a Marathon Deli dinner! Alas, I miscalculate the duration and parking tickets ensue &mdash; my fault, my responsibility. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/249035835">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/383465692">Garmin</a> record distance and pace.</p><p><em><strong>^z</strong></em> - 2013-10-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2 miles @ ~22.5 min/mi
+	
+	Friend LaNedra meets me at the elementary school near Paint Branch Trail. We follow the path down to Lake Artemesia and walk a lap, chatting about life, money, friends, and the threatened Federal Government shutdown. The Reward: a Marathon Deli dinner! Alas, I miscalculate the duration and parking tickets ensue &mdash; my fault, my responsibility. [[http://runkeeper.com/user/zhurnaly/activity/249035835|Runkeeper]] and [[http://connect.garmin.com/activity/383465692|Garmin]] record distance and pace.
+	
+	//**^z**// - 2013-10-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2 miles @ ~22.5 min/mi<br />&gt; Friend LaNedra meets me at the elementary school near Paint Branch Trail. We follow the path down to Lake Artemesia and walk a lap, chatting about life, money, friends, and the threatened Federal Government shutdown. The Reward: a Marathon Deli dinner! Alas, I miscalculate the duration and parking tickets ensue &amp;mdash; my fault, my responsibility. [[http://runkeeper.com/user/zhurnaly/activity/249035835|Runkeeper]] and [[http://connect.garmin.com/activity/383465692|Garmin]] record distance and pace.<br />&gt; //**^z**// - 2013-10-16</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

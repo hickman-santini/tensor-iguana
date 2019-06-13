@@ -1,0 +1,25 @@
+blocks: <h3>~ 5.1 miles @ ~12.2 min/mi</h3><p>"... and Lewis &amp; Clark found a spring bubbling out of the ground at the Continental Divide!" says Barry. He flew back this morning from his nephew's wedding in Wisconsin, and needs a few miles to atone for fancy celebratory dinners "and for eating a Devil's Spit Burger at Famous Dave's!"</p><p>We meander around the neighborhood, follow Tenbrook Street north until a dead end, find a dirt trail leading onward, and return downstream via Sligo Creek Trail. A weak cold front brings gusty winds and significantly lower humidity than earlier today. Kids fly tinydrones in their front yard while ladies walk tiny furry dogs. Barry mentions glacial moraines and how the hill we're climbing feels like one. "Yes, and our pace is glacial too!"</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/806394793">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-07-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.91
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~ 5.1 miles @ ~12.2 min/mi
+	
+	"... and Lewis & Clark found a spring bubbling out of the ground at the Continental Divide!" says Barry. He flew back this morning from his nephew's wedding in Wisconsin, and needs a few miles to atone for fancy celebratory dinners "and for eating a Devil's Spit Burger at Famous Dave's!"
+	
+	We meander around the neighborhood, follow Tenbrook Street north until a dead end, find a dirt trail leading onward, and return downstream via Sligo Creek Trail. A weak cold front brings gusty winds and significantly lower humidity than earlier today. Kids fly tinydrones in their front yard while ladies walk tiny furry dogs. Barry mentions glacial moraines and how the hill we're climbing feels like one. "Yes, and our pace is glacial too!"
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/806394793|trackfile]])// - //**^z**// - 2016-07-08
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~ 5.1 miles @ ~12.2 min/mi<br />&gt; "... and Lewis &amp; Clark found a spring bubbling out of the ground at the Continental Divide!" says Barry. He flew back this morning from his nephew's wedding in Wisconsin, and needs a few miles to atone for fancy celebratory dinners "and for eating a Devil's Spit Burger at Famous Dave's!"<br />&gt; We meander around the neighborhood, follow Tenbrook Street north until a dead end, find a dirt trail leading onward, and return downstream via Sligo Creek Trail. A weak cold front brings gusty winds and significantly lower humidity than earlier today. Kids fly tinydrones in their front yard while ladies walk tiny furry dogs. Barry mentions glacial moraines and how the hill we're climbing feels like one. "Yes, and our pace is glacial too!"<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/806394793|trackfile]])// - //**^z**// - 2016-07-08</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057688

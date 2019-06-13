@@ -1,0 +1,23 @@
+blocks: <p>Copper pipes develop tiny leaks after decades of use, and to replace them plumbers have to knock holes through a lath-and-plaster ceiling and wall. These are the new pipes post-repair.</p><p><img class="url http" src="http://zhurnaly.com/images/Pipes_in_the_Plaster.jpg" alt="http://zhurnaly.com/images/Pipes_in_the_Plaster.jpg" /></p><p><em><strong>^z</strong></em> - 2012-10-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.17.10
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Copper pipes develop tiny leaks after decades of use, and to replace them plumbers have to knock holes through a lath-and-plaster ceiling and wall. These are the new pipes post-repair.
+	
+	http://zhurnaly.com/images/Pipes_in_the_Plaster.jpg
+	
+	//**^z**// - 2012-10-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Copper pipes develop tiny leaks after decades of use, and to replace them plumbers have to knock holes through a lath-and-plaster ceiling and wall. These are the new pipes post-repair.<br />&gt; http://zhurnaly.com/images/Pipes_in_the_Plaster.jpg<br />&gt; //**^z**// - 2012-10-23</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

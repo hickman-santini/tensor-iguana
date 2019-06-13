@@ -1,0 +1,27 @@
+blocks: <h3>~7.5 miles @ ~13.6 min/mi</h3><p>"The Dawn Patrol needs a Mission &mdash; let's go see the house that burned down last week!" Drs K&amp;K lead a meandering adventure through a couple of cut-throughs to Turkey Run Road, where the site of the conflagration is protected by <strong>DO NOT CROSS</strong> tape. On the way somebody is shooting baskets to a rebound-return machine in an annex behind a mansion. Another stately home features bright chalk art on the driveway. A thin crescent moon rises shortly before the sun. Temps are ridiculously warm for February.</p><p>"Why can't he bark like a big dog?" Kerry and Kristin compare notes on their puppies' vocalizations. Or, as Shakespeare described Theseus' hounds, "... Slow in pursuit, but match'd in mouth like bells, / Each under each. A cry more tuneable / Was never holla'd to, nor cheer'd with horn, ... " <em>(Midsummer Night's Dream, IV.1)</em>.</p><p>And post-run, more adventure: drive off, then slow to let two cats cross the street, accelerate, and there's a <em><strong>thump</strong></em>. Something fell off the car roof &mdash; the phone forgotten there. <em>Oops!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/938635175">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-25</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.52
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.5 miles @ ~13.6 min/mi
+	
+	"The Dawn Patrol needs a Mission &mdash; let's go see the house that burned down last week!" Drs K&K lead a meandering adventure through a couple of cut-throughs to Turkey Run Road, where the site of the conflagration is protected by **DO NOT CROSS** tape. On the way somebody is shooting baskets to a rebound-return machine in an annex behind a mansion. Another stately home features bright chalk art on the driveway. A thin crescent moon rises shortly before the sun. Temps are ridiculously warm for February.
+	
+	"Why can't he bark like a big dog?" Kerry and Kristin compare notes on their puppies' vocalizations. Or, as Shakespeare described Theseus' hounds, "... Slow in pursuit, but match'd in mouth like bells, / Each under each. A cry more tuneable / Was never holla'd to, nor cheer'd with horn, ... " //(Midsummer Night's Dream, IV.1)//.
+	
+	And post-run, more adventure: drive off, then slow to let two cats cross the street, accelerate, and there's a //**thump**//. Something fell off the car roof &mdash; the phone forgotten there. //Oops!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/938635175|trackfile]])// - //**^z**// - 2017-03-25
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.5 miles @ ~13.6 min/mi<br />&gt; "The Dawn Patrol needs a Mission &amp;mdash; let's go see the house that burned down last week!" Drs K&amp;K lead a meandering adventure through a couple of cut-throughs to Turkey Run Road, where the site of the conflagration is protected by **DO NOT CROSS** tape. On the way somebody is shooting baskets to a rebound-return machine in an annex behind a mansion. Another stately home features bright chalk art on the driveway. A thin crescent moon rises shortly before the sun. Temps are ridiculously warm for February.<br />&gt; "Why can't he bark like a big dog?" Kerry and Kristin compare notes on their puppies' vocalizations. Or, as Shakespeare described Theseus' hounds, "... Slow in pursuit, but match'd in mouth like bells, / Each under each. A cry more tuneable / Was never holla'd to, nor cheer'd with horn, ... " //(Midsummer Night's Dream, IV.1)//.<br />&gt; And post-run, more adventure: drive off, then slow to let two cats cross the street, accelerate, and there's a //**thump**//. Something fell off the car roof &amp;mdash; the phone forgotten there. //Oops!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/938635175|trackfile]])// - //**^z**// - 2017-03-25</strong></p></div>
+flags: 0
+ts: 1528057691
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057691

@@ -1,0 +1,46 @@
+blocks: <table class="user"><tr><td align="right">Driving around the Beltway to work<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heavy traffic, 6:28am<br />Metro train arches above the road<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Satellite radio glitches under the bridge<br />How would someone from 200 years ago<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand the cascade of miracles?<br /><br />"The signal processor lost lock<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the bit error rate got too high ..."<br />"There's a transmitter in a highly elliptical orbit ..."<br />"It's a tiny moon, launched by rockets ..."<br />"Radio is like sound, only it's more like light ..."<br /><br />But what am I actually <em><strong>doing</strong>?</em><br />"I just had breakfast, told my wife I loved her,<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And now I'm going to work ..."<br />"I studied in school for many years ..."<br />"My job is mainly listening to people,<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understanding their problems, and<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helping them find solutions ..."<br />"I spend most of my time<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Putting words together<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To organize and explain stuff ..."<br /><br />No change, in other words, for centuries </td></tr></table><p><em><strong>^z</strong></em> - 2012-09-26</p>
+lastmajorsummary: fmt fix
+ip: 138.88.170.21
+summary: fmt fix
+diff-major: 1
+languages: 
+text: | Driving around the Beltway to work
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heavy traffic, 6:28am
+	Metro train arches above the road
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Satellite radio glitches under the bridge
+	How would someone from 200 years ago
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand the cascade of miracles?
+	\\
+	"The signal processor lost lock
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the bit error rate got too high ..."
+	"There's a transmitter in a highly elliptical orbit ..."
+	"It's a tiny moon, launched by rockets ..."
+	"Radio is like sound, only it's more like light ..."
+	\\
+	But what am I actually //**doing**?//
+	"I just had breakfast, told my wife I loved her,
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And now I'm going to work ..."
+	"I studied in school for many years ..."
+	"My job is mainly listening to people,
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understanding their problems, and
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helping them find solutions ..."
+	"I spend most of my time
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Putting words together
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To organize and explain stuff ..."
+	\\
+	No change, in other words, for centuries |
+	
+	//**^z**// - 2012-09-26
+	
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div>
+flags: 0
+ts: 1548500859
+minor: 
+host: 71.178.81.79
+username: z
+revision: 5
+keep-ts: 1548500859

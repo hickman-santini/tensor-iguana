@@ -1,0 +1,25 @@
+blocks: <h3>~10 miles @ ~12.3 min/mi</h3><p>"This is why we run!" Kristin says, as wind-chimes ring, sunlight turns clouds orange and treetops yellow-green, dogs bark, hamstrings twinge, and icy sidewalks send us down the middle of neighborhood streets. "All the senses!" We meander through Pimmit Hills, share sad news of a neighborhood 6-year-old in the hospital after a tragic sledding accident, and cheer for the Langley High School basketball team's recent winning streak.</p><p>"Are you actually going to <em><strong>eat</strong></em> that?" Kerry and Kristin ask in mock-horror, when I pick up a silver packet from the pavement. "Hmmmm ... it feels like a granola bar," I say, "and it seems like it's still sealed." <em>(And yes, it turns out later that is what it is &mdash; and it tastes great!)</em> Kerry branches off at 6+ miles, and "a couple more" for Kristin and me turns into just over 10 total. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/504723077">Runkeeper</a> records route, with a trackfile map that looks like a child's drawing of a doggie or a horsie.</p><p><em><strong>^z</strong></em> - 2015-02-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10 miles @ ~12.3 min/mi
+	
+	"This is why we run!" Kristin says, as wind-chimes ring, sunlight turns clouds orange and treetops yellow-green, dogs bark, hamstrings twinge, and icy sidewalks send us down the middle of neighborhood streets. "All the senses!" We meander through Pimmit Hills, share sad news of a neighborhood 6-year-old in the hospital after a tragic sledding accident, and cheer for the Langley High School basketball team's recent winning streak.
+	
+	"Are you actually going to //**eat**// that?" Kerry and Kristin ask in mock-horror, when I pick up a silver packet from the pavement. "Hmmmm ... it feels like a granola bar," I say, "and it seems like it's still sealed." //(And yes, it turns out later that is what it is &mdash; and it tastes great!)// Kerry branches off at 6+ miles, and "a couple more" for Kristin and me turns into just over 10 total. [[http://runkeeper.com/user/zhurnaly/activity/504723077|Runkeeper]] records route, with a trackfile map that looks like a child's drawing of a doggie or a horsie.
+	
+	//**^z**// - 2015-02-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10 miles @ ~12.3 min/mi<br />&gt; "This is why we run!" Kristin says, as wind-chimes ring, sunlight turns clouds orange and treetops yellow-green, dogs bark, hamstrings twinge, and icy sidewalks send us down the middle of neighborhood streets. "All the senses!" We meander through Pimmit Hills, share sad news of a neighborhood 6-year-old in the hospital after a tragic sledding accident, and cheer for the Langley High School basketball team's recent winning streak.<br />&gt; "Are you actually going to //**eat**// that?" Kerry and Kristin ask in mock-horror, when I pick up a silver packet from the pavement. "Hmmmm ... it feels like a granola bar," I say, "and it seems like it's still sealed." //(And yes, it turns out later that is what it is &amp;mdash; and it tastes great!)// Kerry branches off at 6+ miles, and "a couple more" for Kristin and me turns into just over 10 total. [[http://runkeeper.com/user/zhurnaly/activity/504723077|Runkeeper]] records route, with a trackfile map that looks like a child's drawing of a doggie or a horsie.<br />&gt; //**^z**// - 2015-02-20</strong></p></div>
+flags: 0
+ts: 1528057707
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057707

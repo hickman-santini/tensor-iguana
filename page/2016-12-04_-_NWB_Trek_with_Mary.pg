@@ -1,0 +1,27 @@
+blocks: <h3>~9.2 miles @ ~20.0 min/mi</h3><p>"Some were better!" Dr Mary acknowledges Framer George Mason's great gifts to the early USA, but notes that others did more &mdash; and didn't own slaves. We ramble upstream along Northwest Branch Trail, enjoying the crisp morning and greeting cute dogs out walking their masters. Conversation covers psychology and plumbing, politics and sinusitis, whaling and mindfulness.</p><p>"Three sugar cubes?" At Wheaton Park Stables a kind equestrian instructor gives us something to boost blood sugar. A girl rides slowly around the indoor dressage arena. The octagonal sign on the road outside says "WHOA" instead of "STOP". We meander past the Brookside Nature Center and return via the left bank of the stream, a much hillier route with more tributary rills to cross, some via stepping-stones and others over small logs.</p><p>Finisher rewards: lunch at California Tortilla and grocery shopping at Trader Joe's!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/903725543">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-01-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.97
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.2 miles @ ~20.0 min/mi
+	
+	"Some were better!" Dr Mary acknowledges Framer George Mason's great gifts to the early USA, but notes that others did more &mdash; and didn't own slaves. We ramble upstream along Northwest Branch Trail, enjoying the crisp morning and greeting cute dogs out walking their masters. Conversation covers psychology and plumbing, politics and sinusitis, whaling and mindfulness.
+	
+	"Three sugar cubes?" At Wheaton Park Stables a kind equestrian instructor gives us something to boost blood sugar. A girl rides slowly around the indoor dressage arena. The octagonal sign on the road outside says "WHOA" instead of "STOP". We meander past the Brookside Nature Center and return via the left bank of the stream, a much hillier route with more tributary rills to cross, some via stepping-stones and others over small logs.
+	
+	Finisher rewards: lunch at California Tortilla and grocery shopping at Trader Joe's!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/903725543|trackfile]])// - //**^z**// - 2017-01-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.2 miles @ ~20.0 min/mi<br />&gt; "Some were better!" Dr Mary acknowledges Framer George Mason's great gifts to the early USA, but notes that others did more &amp;mdash; and didn't own slaves. We ramble upstream along Northwest Branch Trail, enjoying the crisp morning and greeting cute dogs out walking their masters. Conversation covers psychology and plumbing, politics and sinusitis, whaling and mindfulness.<br />&gt; "Three sugar cubes?" At Wheaton Park Stables a kind equestrian instructor gives us something to boost blood sugar. A girl rides slowly around the indoor dressage arena. The octagonal sign on the road outside says "WHOA" instead of "STOP". We meander past the Brookside Nature Center and return via the left bank of the stream, a much hillier route with more tributary rills to cross, some via stepping-stones and others over small logs.<br />&gt; Finisher rewards: lunch at California Tortilla and grocery shopping at Trader Joe's!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/903725543|trackfile]])// - //**^z**// - 2017-01-02</strong></p></div>
+flags: 0
+ts: 1528057704
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057704

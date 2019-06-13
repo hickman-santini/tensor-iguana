@@ -1,0 +1,95 @@
+flags: 0
+blocks: <p>/* ZhurnalyWiki CSS - ^z - 20070709 */<br />/* adapted/simplified from zhurnalwiki.css of 20050810 etc. */<br />/* some elements from <a class="url http" href="http://www.emacswiki.org/oddmuse/wiki.css">http://www.emacswiki.org/oddmuse/wiki.css</a> - 20070714 */<br />/* make blockquote be small - 20080110 */<br />/* make gotobar be bold - 20080113 */<br />/* give gotobar background-color: #ddddff; - 2008-01-14 */<br />/* center H1 - ^z - 2008-08-10 */<br />/* delete " background-color: #e6e6e6;" from img and delete " background-color:#fff; " from img.logo - ^z - 2008-08-17 */</p><p>/* my preferred font for body text */<br />body {<br /> font-family: "times roman", serif;<br /> }</p><p>/* my preferred header style */<br />/* center H1 */<br />h1 {<br /> text-align: center;<br /> background-color: #ccccff;<br /> color: #000066;<br /> }<br />/* left-justify other headers */<br />h2, h3, h4, h5, h6 {<br /> background-color: #ccccff;<br /> color: #000066;<br /> }</p><p>/* my preferred link coloring schema */<br />a:link { color: #000099; }<br />a:visited { color: #330066; }<br />a:hover { text-decoration: none ;<br /> color: #660000; background-color: #ddddff; }</p><p>/* tables the way I like them */<br />table.user { border-style:outset; border-width:thick; }<br />table.user tr td { border-style:inset; border-width:thin; padding:5px; text-align: left; }</p><p>/* some excerpts from <a class="url http" href="http://www.emacswiki.org/oddmuse/wiki.css">http://www.emacswiki.org/oddmuse/wiki.css</a> */</p><p>img.logo {<br /> float: right;<br /> clear: right;<br /> border-style:none;<br />}</p><p>img {<br /> border: #777777 1px solid;<br /> padding: 0.5em;<br /> margin: 0 1em;<br /> color: black;<br />}</p><p>div.image span.caption {<br /> margin: 0 1em;<br />}</p><p>div.header img, div.footer img { border:0; padding:0; margin:0; }</p><p>div.footer hr { height:4px; }</p><p>pre {<br /> border: #777777 1px solid;<br /> padding: 0.5em;<br /> margin-left: 1em;<br /> margin-right: 2em;<br /> white-space: pre;<br /> background-color: #e6e6e6;<br /> color: black;<br /> overflow:hidden;<br /> font-size: smaller;<br />}</p><p>blockquote { font-size:small; }</p><p>span.gotobar { font-weight:bold; background-color: #ddddff; }</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; /* delete "   background-color: #e6e6e6;" from img and delete "    background-color:#fff; " from img.logo - ^z - 2008-08-17 */</p></div>
+ip: 70.21.97.63
+ts: 1219014439
+minor: 1
+host: pool-70-21-97-63.res.east.verizon.net
+username: MarkZimmermann
+revision: 12
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; /* give gotobar background-color: #<strong class="changes">eeeeff</strong>; - 2008-01-14 */</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; /* give gotobar background-color: #<strong class="changes">ddddff</strong>; - 2008-01-14 */</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; span.gotobar { font-weight:bold;  background-color: #<strong class="changes">eeeeff</strong>; }</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; span.gotobar { font-weight:bold;  background-color: #<strong class="changes">ddddff</strong>; }</p></div>
+summary: comment on changes
+languages: 
+text: /* ZhurnalyWiki CSS - ^z - 20070709 */
+	/* adapted/simplified from zhurnalwiki.css of 20050810 etc. */
+	/* some elements from http://www.emacswiki.org/oddmuse/wiki.css - 20070714 */
+	/* make blockquote be small - 20080110 */
+	/* make gotobar be bold - 20080113 */
+	/* give gotobar background-color: #ddddff; - 2008-01-14 */
+	/* center H1 - ^z - 2008-08-10 */
+	/* delete "   background-color: #e6e6e6;" from img and delete "    background-color:#fff; " from img.logo - ^z - 2008-08-17 */
+	
+	/* my preferred font for body text */
+	body { 
+	 font-family: "times roman", serif;
+	 }
+	
+	/* my preferred header style */
+	/* center H1 */
+	h1 {
+	 text-align: center;
+	 background-color: #ccccff;
+	 color: #000066;
+	 }
+	/* left-justify other headers */
+	h2, h3, h4, h5, h6 {
+	 background-color: #ccccff;
+	 color: #000066;
+	 }
+	
+	/* my preferred link coloring schema */
+	a:link { color: #000099; }
+	a:visited { color: #330066; }
+	a:hover { text-decoration: none ;
+	  color: #660000; background-color: #ddddff; }
+	
+	/* tables the way I like them */
+	table.user { border-style:outset; border-width:thick; }
+	table.user tr td { border-style:inset; border-width:thin; padding:5px; text-align: left; }
+	
+	/* some excerpts from http://www.emacswiki.org/oddmuse/wiki.css */
+	
+	img.logo {
+	    float: right;
+	    clear: right;
+	    border-style:none;
+	}
+	
+	img {
+	    border: #777777 1px solid;
+	    padding: 0.5em;
+	    margin: 0 1em;
+	    color: black;
+	}
+	
+	div.image span.caption {
+	    margin: 0 1em;
+	}
+	
+	div.header img, div.footer img { border:0; padding:0; margin:0; }
+	
+	div.footer hr { height:4px; }
+	
+	pre {
+	    border: #777777 1px solid;
+	    padding: 0.5em;
+	    margin-left: 1em;
+	    margin-right: 2em;
+	    white-space: pre;
+	    background-color: #e6e6e6;
+	    color: black;
+	    overflow:hidden;
+	    font-size: smaller;
+	}
+	
+	blockquote { font-size:small; }
+	
+	span.gotobar { font-weight:bold;  background-color: #ddddff; }
+	
+lastmajor: 7
+keep-ts: 1219014439

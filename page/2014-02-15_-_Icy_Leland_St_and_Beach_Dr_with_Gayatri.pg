@@ -1,0 +1,23 @@
+blocks: <h3>~12 miles @ ~12.3 min/mi</h3><p>Slouching to Bethesda on Saturday morning for a meet-up; rainbow oil slicks show the safer spots between icy patches on the pavement as chilly drizzle shifts to sleet and then eye-stinging snow showers. Gayatri Datta jogs with me for the middle ~5 miles as Barry Smith, Don Libes, Ken Swab, and Rebecca Rosenberg trek ahead on Leland St and Beach Dr into DC. A peloton of salt trucks lines up in preparation for duty. On Brookville Rd at the party store parking lot, a prize lies in a puddle: a pair of soggy houndstooth gloves. <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/175201442">Runtastic</a> and <a class="url http outside" href="http://connect.garmin.com/activity/446536802">Garmin</a> GPS concur on course and pace.</p><p><em><strong>^z</strong></em> - 2014-04-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.31
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12 miles @ ~12.3 min/mi
+	
+	Slouching to Bethesda on Saturday morning for a meet-up; rainbow oil slicks show the safer spots between icy patches on the pavement as chilly drizzle shifts to sleet and then eye-stinging snow showers. Gayatri Datta jogs with me for the middle ~5 miles as Barry Smith, Don Libes, Ken Swab, and Rebecca Rosenberg trek ahead on Leland St and Beach Dr into DC. A peloton of salt trucks lines up in preparation for duty. On Brookville Rd at the party store parking lot, a prize lies in a puddle: a pair of soggy houndstooth gloves. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/175201442|Runtastic]] and [[http://connect.garmin.com/activity/446536802|Garmin]] GPS concur on course and pace.
+	
+	//**^z**// - 2014-04-06
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12 miles @ ~12.3 min/mi<br />&gt; Slouching to Bethesda on Saturday morning for a meet-up; rainbow oil slicks show the safer spots between icy patches on the pavement as chilly drizzle shifts to sleet and then eye-stinging snow showers. Gayatri Datta jogs with me for the middle ~5 miles as Barry Smith, Don Libes, Ken Swab, and Rebecca Rosenberg trek ahead on Leland St and Beach Dr into DC. A peloton of salt trucks lines up in preparation for duty. On Brookville Rd at the party store parking lot, a prize lies in a puddle: a pair of soggy houndstooth gloves. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/175201442|Runtastic]] and [[http://connect.garmin.com/activity/446536802|Garmin]] GPS concur on course and pace.<br />&gt; //**^z**// - 2014-04-06</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057697

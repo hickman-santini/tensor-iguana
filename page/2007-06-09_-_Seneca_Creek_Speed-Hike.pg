@@ -1,0 +1,19 @@
+flags: 0
+blocks: <p><h3>~6 miles @ ~18 min/mi</h3></p><p>At 7:05am Caren Jew and I meet at the Darnestown Road (Rt. 28) parking lot and proceed upstream on the Seneca Creek Trail, mostly walking as Caren evaluates how her left foot, suffering from plantar fasciitis, is doing. Dew on the grass soon penetrates my trail shoes and soaks my socks. I experiment with running up the hills and taking my pulse at each crest. We go a quarter mile or so past Germantown Road (Rt. 118) to admire a view of the creek. Emaad Burki, outbound, meets us during the return trip. The trail is a bit overgrown with brush in places, and both Caren and I find some uninvited fellow-travelers when we get back to our respective homes &mdash; tiny ticks which we hope aren't going to give us Lyme Disease.</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; At 7:05am Caren and I meet at the Darnestown Road (Rt. 28) parking lot and proceed upstream on the Seneca Creek Trail, mostly walking as Caren evaluates how her left foot, suffering from plantar fasciitis, is doing. Dew on the grass soon penetrates my trail shoes and soaks my socks. I experiment with running up the hills and taking my pulse at each crest. We go a quarter mile or so past Germantown Road (Rt. 118) to admire a view of the creek. Emaad, outbound, meets us during the return trip. The trail is a bit overgrown with brush in places, and both Caren and I find some uninvited fellow-travelers when we get back to our respective homes &amp;mdash; tiny ticks which we hope aren't going to give us Lyme Disease.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; At 7:05am Caren <strong class="changes">Jew</strong> and I meet at the Darnestown Road (Rt. 28) parking lot and proceed upstream on the Seneca Creek Trail, mostly walking as Caren evaluates how her left foot, suffering from plantar fasciitis, is doing. Dew on the grass soon penetrates my trail shoes and soaks my socks. I experiment with running up the hills and taking my pulse at each crest. We go a quarter mile or so past Germantown Road (Rt. 118) to admire a view of the creek. Emaad <strong class="changes">Burki</strong>, outbound, meets us during the return trip. The trail is a bit overgrown with brush in places, and both Caren and I find some uninvited fellow-travelers when we get back to our respective homes &amp;mdash; tiny ticks which we hope aren't going to give us Lyme Disease.</p></div>
+ip: 138.88.169.233
+ts: 1292754492
+minor: 1
+host: pool-138-88-169-233.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: add Caren's last name
+languages: 
+text: === ~6 miles @ ~18 min/mi
+	
+	At 7:05am Caren Jew and I meet at the Darnestown Road (Rt. 28) parking lot and proceed upstream on the Seneca Creek Trail, mostly walking as Caren evaluates how her left foot, suffering from plantar fasciitis, is doing. Dew on the grass soon penetrates my trail shoes and soaks my socks. I experiment with running up the hills and taking my pulse at each crest. We go a quarter mile or so past Germantown Road (Rt. 118) to admire a view of the creek. Emaad Burki, outbound, meets us during the return trip. The trail is a bit overgrown with brush in places, and both Caren and I find some uninvited fellow-travelers when we get back to our respective homes &mdash; tiny ticks which we hope aren't going to give us Lyme Disease.
+	
+keep-ts: 1292754492

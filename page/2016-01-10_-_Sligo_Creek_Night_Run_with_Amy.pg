@@ -1,0 +1,27 @@
+blocks: <h3>~12.4 miles @ ~12.9 min/mi</h3><p>"Is the green fur his hair, or a hat?" I ask Amy as we pass a young fellow in Wheaton Regional Park. "You may be a bit too old for that look," she suggests gently. As the sun sets we ready our flashlights. A cold front has just passed through the area, bringing ten minutes of torrential rain that delays our start. <em>(Amy saw a double rainbow earlier as the squall line came by her home.)</em> Winds gust and temps drop from the upper 50s into mid 40s.</p><p>We proceed upstream along Sligo Creek Trail from near Colesville Road. Conversation is thoughtful and inspirational. I learn a new word, "<strong>spectrumy</strong>". <em>(Yes, it reminds me of Category Theory - but so does everything nowadays!)</em> And we muse: "Why do people give so much praise to somebody just for doing what any really good friend should do?" - "Well, maybe not so many people are really good friends nowadays?"</p><p>DS Merle greets us at mile 5 and offers a can of "Surge" brand soda water for rehydration <em>(accepted)</em> and a Rubik's Cube for entertainment <em>(declined, with thanks)</em>. The carbonated drink leads to a result Amy anticipated, and she counts my belches. Total at journey's end: twenty-one!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/717266221">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-01-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.254
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~12.4 miles @ ~12.9 min/mi
+	
+	"Is the green fur his hair, or a hat?" I ask Amy as we pass a young fellow in Wheaton Regional Park. "You may be a bit too old for that look," she suggests gently. As the sun sets we ready our flashlights. A cold front has just passed through the area, bringing ten minutes of torrential rain that delays our start. //(Amy saw a double rainbow earlier as the squall line came by her home.)// Winds gust and temps drop from the upper 50s into mid 40s.
+	
+	We proceed upstream along Sligo Creek Trail from near Colesville Road. Conversation is thoughtful and inspirational. I learn a new word, "**spectrumy**". //(Yes, it reminds me of Category Theory - but so does everything nowadays!)// And we muse: "Why do people give so much praise to somebody just for doing what any really good friend should do?" - "Well, maybe not so many people are really good friends nowadays?"
+	
+	DS Merle greets us at mile 5 and offers a can of "Surge" brand soda water for rehydration //(accepted)// and a Rubik's Cube for entertainment //(declined, with thanks)//. The carbonated drink leads to a result Amy anticipated, and she counts my belches. Total at journey's end: twenty-one!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/717266221|trackfile]])// - //**^z**// - 2016-01-27
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12.4 miles @ ~12.9 min/mi<br />&gt; "Is the green fur his hair, or a hat?" I ask Amy as we pass a young fellow in Wheaton Regional Park. "You may be a bit too old for that look," she suggests gently. As the sun sets we ready our flashlights. A cold front has just passed through the area, bringing ten minutes of torrential rain that delays our start. //(Amy saw a double rainbow earlier as the squall line came by her home.)// Winds gust and temps drop from the upper 50s into mid 40s.<br />&gt; We proceed upstream along Sligo Creek Trail from near Colesville Road. Conversation is thoughtful and inspirational. I learn a new word, "**spectrumy**". //(Yes, it reminds me of Category Theory - but so does everything nowadays!)// And we muse: "Why do people give so much praise to somebody just for doing what any really good friend should do?" - "Well, maybe not so many people are really good friends nowadays?"<br />&gt; DS Merle greets us at mile 5 and offers a can of "Surge" brand soda water for rehydration //(accepted)// and a Rubik's Cube for entertainment //(declined, with thanks)//. The carbonated drink leads to a result Amy anticipated, and she counts my belches. Total at journey's end: twenty-one!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/717266221|trackfile]])// - //**^z**// - 2016-01-27</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

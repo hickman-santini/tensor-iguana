@@ -1,0 +1,23 @@
+flags: 0
+blocks: <p>This note is mostly for myself <em>(but then, so is everything else here!)</em> to help me remember. There are several ways to make a backup, but one of the simplest and fastest at the moment:<br /></p><ol><li>Open a terminal window <em>(alt-F2 on the HP Mini netbook running Linux)</em></li><li><code>lftp -u userid,password zhurnaly.com</code> to connect to zhurnaly.com as  userid using password "password"</li><li>create a local directory "page" (or whatever) to hold the backup of the wiki pages, if one doesn't already exist</li><li><code>lcd</code> to the local directory for backup</li><li><code>cd httpdocs/oddmuse/page/</code> to the Oddmuse page directory on the server</li><li><code>mirror</code> to back up all pages</li></ol><p>One can also use <code>lftp</code> to update a prior backup and save considerable time if not much has changed. To do that, navigate with <code>lcd</code> to the local archive directory, navigate with <code>cd</code> to the Oddmuse page directory, and use <code>mirror -ev</code> to download new files and delete files which no longer exist on the server (v = verbosely). Backing up other files can be done similarly ...</p><p><em><strong>^z</strong></em> - 2009-06-13</p>
+ip: 138.88.169.235
+ts: 1244877676
+minor: 
+host: pool-138-88-169-235.res.east.verizon.net
+username: zzz
+revision: 1
+summary: This note is mostly for myself //(but then, so is everything else here!)// to help me remember. There are several ways to make a backup, but one of . . .
+languages: 
+text: This note is mostly for myself //(but then, so is everything else here!)// to help me remember. There are several ways to make a backup, but one of the simplest and fastest at the moment:
+	# Open a terminal window //(alt-F2 on the HP Mini netbook running Linux)//
+	# ##lftp -u userid,password zhurnaly.com## to connect to zhurnaly.com as  userid using password "password"
+	# create a local directory "page" (or whatever) to hold the backup of the wiki pages, if one doesn't already exist
+	# ##lcd## to the local directory for backup
+	# ##cd httpdocs/oddmuse/page/## to the Oddmuse page directory on the server
+	# ##mirror## to back up all pages
+	
+	One can also use ##lftp## to update a prior backup and save considerable time if not much has changed. To do that, navigate with ##lcd## to the local archive directory, navigate with ##cd## to the Oddmuse page directory, and use ##mirror -ev## to download new files and delete files which no longer exist on the server (v = verbosely). Backing up other files can be done similarly ...
+	
+	//**^z**// - 2009-06-13
+	
+lastmajor: 1

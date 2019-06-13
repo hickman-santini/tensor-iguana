@@ -1,0 +1,25 @@
+blocks: <p>A rhapsodic reminisce by Nico Alary in <strong><a class="url http outside" href="http://www.kinfolk.com/the-perfect-cup-mark-free/">Kinfolk</a></strong> magazine (issue #6) a few years ago, describing how Australian coffee maven Mark Free makes a cuppa joe using an Aerobie AeroPress device:<br /></p><blockquote><p>He tells me that coffee tastes better when you make it yourself, or when it is made by someone you know. The perfect cup is not only about how you make it, or which bean you use, but also (and just as importantly) who has made it for you. The first couple of cups are ready and the room fills with the aroma of freshly brewed coffee. My cup is perfectly extracted, sweet and clean with complexity. Peach, apricot and shortbread biscuit flavors come to mind. It looks like it's going to rain. I put the camera down for a few minutes and we all quietly sip the warm beverage, looking out at the unsure weather. I'm thinking that this could be it, the perfect cup. A comfy couch, some single-origin beans and a carefully prepared cup of coffee, made by a friend.<br /></p></blockquote><p>Yes, silly mysticism, exaggeration for effect ... and lovely, lyrical language plus mindfulness.</p><p><em><strong>^z</strong></em> - 2015-10-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: A rhapsodic reminisce by Nico Alary in **[[http://www.kinfolk.com/the-perfect-cup-mark-free/|Kinfolk]]** magazine (issue #6) a few years ago, describing how Australian coffee maven Mark Free makes a cuppa joe using an Aerobie AeroPress device:
+	"""
+	He tells me that coffee tastes better when you make it yourself, or when it is made by someone you know. The perfect cup is not only about how you make it, or which bean you use, but also (and just as importantly) who has made it for you. The first couple of cups are ready and the room fills with the aroma of freshly brewed coffee. My cup is perfectly extracted, sweet and clean with complexity. Peach, apricot and shortbread biscuit flavors come to mind. It looks like it's going to rain. I put the camera down for a few minutes and we all quietly sip the warm beverage, looking out at the unsure weather. I'm thinking that this could be it, the perfect cup. A comfy couch, some single-origin beans and a carefully prepared cup of coffee, made by a friend.
+	"""
+	
+	Yes, silly mysticism, exaggeration for effect ... and lovely, lyrical language plus mindfulness.
+	
+	//**^z**// - 2015-10-22
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; A rhapsodic reminisce by Nico Alary in **[[http://www.kinfolk.com/the-perfect-cup-mark-free/|Kinfolk]]** magazine (issue #6) a few years ago, describing how Australian coffee maven Mark Free makes a cuppa joe using an Aerobie AeroPress device:<br />&gt; """<br />&gt; He tells me that coffee tastes better when you make it yourself, or when it is made by someone you know. The perfect cup is not only about how you make it, or which bean you use, but also (and just as importantly) who has made it for you. The first couple of cups are ready and the room fills with the aroma of freshly brewed coffee. My cup is perfectly extracted, sweet and clean with complexity. Peach, apricot and shortbread biscuit flavors come to mind. It looks like it's going to rain. I put the camera down for a few minutes and we all quietly sip the warm beverage, looking out at the unsure weather. I'm thinking that this could be it, the perfect cup. A comfy couch, some single-origin beans and a carefully prepared cup of coffee, made by a friend.<br />&gt; """<br />&gt; Yes, silly mysticism, exaggeration for effect ... and lovely, lyrical language plus mindfulness.<br />&gt; //**^z**// - 2015-10-22</p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057696

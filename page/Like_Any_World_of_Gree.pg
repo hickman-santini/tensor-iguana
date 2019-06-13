@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p>Stuck in my mind for a few dozen years: the story "Like Any World of Gree" by C. C. MacApp, a transparent pseudonym for Carroll M. Capps (1917-1971). It was a novelette that appeared in the March 1966 issue of the science fiction magazine <em>Worlds of Tomorrow</em>. The subtitle said, "Except that it was Earth!". The plot, half-remembered now, revolved around a protagonist who struggled against the Gree, a race of overlords that controlled the planet and could read minds. To fight against them, Our Hero (whose name was Steve something-or-other, maybe?) could flip from one mental state (obedient slave) to another (rebel saboteur). Was the yarn as good as it seems in retrospect through the mists of time? Or did it just lodge itself in my cranium for some random now-forgotten reason? Maybe I need to find a copy of that issue and see ...</p><p><em><strong>^z</strong></em> - 2010-07-23</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Stuck in my mind for a few dozen years: the story "Like Any World of Gree" by C. C. MacApp, a transparent pseudonym for Carroll M. Capps (1917-1971). It was a novelette that appeared in the March 1966 issue of the science fiction magazine //Worlds of Tomorrow//. The subtitle said, "Except that it was Earth!". The plot, half-remembered now, revolved around a protagonist who struggled against the Gree, a race of overlords that controlled the planet and could read minds. To fight against them, Our Hero (whose name was Steve something-or-other, maybe?) could flip from one mental state (<strong class="changes">obiedient</strong> slave) to another (rebel saboteur). Was the <strong class="changes">story</strong> as good as it seems in retrospect through the mists of time? Or did it just lodge itself in my cranium for some random<strong class="changes">,</strong> now-forgotten reason? Maybe I need to find a copy of that issue and see ...</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Stuck in my mind for a few dozen years: the story "Like Any World of Gree" by C. C. MacApp, a transparent pseudonym for Carroll M. Capps (1917-1971). It was a novelette that appeared in the March 1966 issue of the science fiction magazine //Worlds of Tomorrow//. The subtitle said, "Except that it was Earth!". The plot, half-remembered now, revolved around a protagonist who struggled against the Gree, a race of overlords that controlled the planet and could read minds. To fight against them, Our Hero (whose name was Steve something-or-other, maybe?) could flip from one mental state (<strong class="changes">obedient</strong> slave) to another (rebel saboteur). Was the <strong class="changes">yarn</strong> as good as it seems in retrospect through the mists of time? Or did it just lodge itself in my cranium for some random now-forgotten reason? Maybe I need to find a copy of that issue and see ...</p></div>
+ip: 141.156.138.140
+ts: 1279875728
+minor: 1
+host: pool-141-156-138-140.res.east.verizon.net
+username: zz
+revision: 4
+diff-major: 
+summary: tweaks 3
+languages: 
+text: Stuck in my mind for a few dozen years: the story "Like Any World of Gree" by C. C. MacApp, a transparent pseudonym for Carroll M. Capps (1917-1971). It was a novelette that appeared in the March 1966 issue of the science fiction magazine //Worlds of Tomorrow//. The subtitle said, "Except that it was Earth!". The plot, half-remembered now, revolved around a protagonist who struggled against the Gree, a race of overlords that controlled the planet and could read minds. To fight against them, Our Hero (whose name was Steve something-or-other, maybe?) could flip from one mental state (obedient slave) to another (rebel saboteur). Was the yarn as good as it seems in retrospect through the mists of time? Or did it just lodge itself in my cranium for some random now-forgotten reason? Maybe I need to find a copy of that issue and see ...
+	
+	//**^z**// - 2010-07-23
+	
+lastmajor: 1
+keep-ts: 1279875728

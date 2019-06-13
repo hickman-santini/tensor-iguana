@@ -1,0 +1,25 @@
+blocks: <h3>~7.6 miles @ ~12.9 min/mi</h3><p>"And with that color arrangement, from a distance it looked <strong>SO WRONG</strong>!" Cait is describing an unfortunate choice of hues for a high school boys swim team, with lower-body garments too close to typical skin tones. We share anecdotes of winter running clothes, chill body parts, unconventional hat or hand-warmer placement, chafing complaints, and other slightly delicate topics. An orange sunrise portends a hot and humid day.</p><p>Kristin leads us to the W&amp;OD Trail, where cyclist-commuters politely swoop by. We experiment with hydraulic pressure coupling between dog-water tap and human-drink dispenser at the Route 7 water fountain. Across the street from Lincoln Park, at the convergence of Great Falls St + Dorchester Rd + Oak Haven Drive, an eye-catching lawn decoration is accompanied by flags honoring Marine Corps, Coast Guard, Army, and perhaps other military services.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/847406703">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-09-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.253
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.6 miles @ ~12.9 min/mi
+	
+	"And with that color arrangement, from a distance it looked **SO WRONG**!" Cait is describing an unfortunate choice of hues for a high school boys swim team, with lower-body garments too close to typical skin tones. We share anecdotes of winter running clothes, chill body parts, unconventional hat or hand-warmer placement, chafing complaints, and other slightly delicate topics. An orange sunrise portends a hot and humid day.
+	
+	Kristin leads us to the W&OD Trail, where cyclist-commuters politely swoop by. We experiment with hydraulic pressure coupling between dog-water tap and human-drink dispenser at the Route 7 water fountain. Across the street from Lincoln Park, at the convergence of Great Falls St + Dorchester Rd + Oak Haven Drive, an eye-catching lawn decoration is accompanied by flags honoring Marine Corps, Coast Guard, Army, and perhaps other military services.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/847406703|trackfile]])// - //**^z**// - 2016-09-12
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.6 miles @ ~12.9 min/mi<br />&gt; "And with that color arrangement, from a distance it looked **SO WRONG**!" Cait is describing an unfortunate choice of hues for a high school boys swim team, with lower-body garments too close to typical skin tones. We share anecdotes of winter running clothes, chill body parts, unconventional hat or hand-warmer placement, chafing complaints, and other slightly delicate topics. An orange sunrise portends a hot and humid day.<br />&gt; Kristin leads us to the W&amp;OD Trail, where cyclist-commuters politely swoop by. We experiment with hydraulic pressure coupling between dog-water tap and human-drink dispenser at the Route 7 water fountain. Across the street from Lincoln Park, at the convergence of Great Falls St + Dorchester Rd + Oak Haven Drive, an eye-catching lawn decoration is accompanied by flags honoring Marine Corps, Coast Guard, Army, and perhaps other military services.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/847406703|trackfile]])// - //**^z**// - 2016-09-12</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

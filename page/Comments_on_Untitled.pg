@@ -1,0 +1,28 @@
+blocks: <h3>1 Comment.</h3><p>Say I want to write a recipe for creating a universe. I think the list of ingredients has only one item on it:</p><p> Void </p><p>How much of it do I need? I gather you don't actually have to do anything to it, that void already has all the stuff and processes to do the job. Maybe what I'm really wondering is how do you make a void. Isn't there a quiescent kind, that just sits there and isn't?</p><p>-- reingold 2012-08-14 01:13 UTC</p><h4>1 person liked this</h4>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.89
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	Say I want to write a recipe for creating a universe.  I think the list of ingredients has only one item on it:  
+	
+	     Void 
+	
+	How much of it do I need?  I gather you don't actually have to do anything to it, that void already has all the stuff and processes to do the job.  Maybe what I'm really wondering is how do you make a void.  Isn't there a quiescent kind, that just sits there and isn't?
+	
+	-- reingold 2012-08-14 01:13 UTC
+	
+	
+	====1 person liked this====
+	
+languages: 
+lastmajor: 6
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ====1 person liked this====</p></div>
+flags: 0
+ts: 1528057693
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 6
+keep-ts: 1528057693

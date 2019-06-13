@@ -1,0 +1,25 @@
+blocks: <h3>~5.5 miles @ ~20.3 min/mi</h3><p>"Jefferson? He wasn't anywhere CLOSE to Adams!" says Dr Mary, hiking along the Cabin John Stream Valley Trail. We debate genius versus flaw, success versus circumstance. Society has come a long way, has a long way yet to go. A blue jay flits across the path to hide in a stand of bamboo. Above the creek a Frank Lloyd Wright house tempts someone into bushwhacking for a photo op. Polite cyclists and off-leash dogs scoot past.</p><p>"Don't pulverize your femur!", wisdom re accident avoidance on the steep hills, rocky and rooty. A two-point buck poses for the camera. Post-trek lunch at nearby Attman's Deli more than cancels out calories burned, alas.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/887855831">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-11-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.186
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.5 miles @ ~20.3 min/mi
+	
+	"Jefferson? He wasn't anywhere CLOSE to Adams!" says Dr Mary, hiking along the Cabin John Stream Valley Trail. We debate genius versus flaw, success versus circumstance. Society has come a long way, has a long way yet to go. A blue jay flits across the path to hide in a stand of bamboo. Above the creek a Frank Lloyd Wright house tempts someone into bushwhacking for a photo op. Polite cyclists and off-leash dogs scoot past.
+	
+	"Don't pulverize your femur!", wisdom re accident avoidance on the steep hills, rocky and rooty. A two-point buck poses for the camera. Post-trek lunch at nearby Attman's Deli more than cancels out calories burned, alas.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/887855831|trackfile]])// - //**^z**// - 2016-11-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.5 miles @ ~20.3 min/mi<br />&gt; "Jefferson? He wasn't anywhere CLOSE to Adams!" says Dr Mary, hiking along the Cabin John Stream Valley Trail. We debate genius versus flaw, success versus circumstance. Society has come a long way, has a long way yet to go. A blue jay flits across the path to hide in a stand of bamboo. Above the creek a Frank Lloyd Wright house tempts someone into bushwhacking for a photo op. Polite cyclists and off-leash dogs scoot past.<br />&gt; "Don't pulverize your femur!", wisdom re accident avoidance on the steep hills, rocky and rooty. A two-point buck poses for the camera. Post-trek lunch at nearby Attman's Deli more than cancels out calories burned, alas.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/887855831|trackfile]])// - //**^z**// - 2016-11-24</strong></p></div>
+flags: 0
+ts: 1528057691
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057691

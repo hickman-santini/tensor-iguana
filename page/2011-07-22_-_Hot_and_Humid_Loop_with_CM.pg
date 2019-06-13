@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~4 miles @ ~11.9 min/mi</h3></p><p>The rising sun looks like an angry red supergiant; even in the early morning, heat and humidity are extreme. Cara Marie Manlandro looks sharp, as she violates her own rule about never running without a shirt over her top. After an initial too-fast mile I'm forced to apologize and take my shirt off too. There's no water fountain at the Dunkin Donuts shop where we pause. Our pace slows as we circle back through CM's 'hood and chat.</p><p><em>(<a class="url http outside" href="http://connect.garmin.com/activity/100877408">GPS trackfile</a>)</em> - <em><strong>^z</strong></em> - 2011-08-06</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; The rising sun looks like an angry red supergiant; even in the early morning, heat and humidity are extreme. Cara Marie Manlandro looks sharp, as she violates her own rule about never running without a shirt over her top. After an initial too-fast mile I'm forced to apologize and take my shirt off too. There's no water fountain at the Dunkin Donuts shop we pause <strong class="changes">at</strong>. Our pace <strong class="changes">continues to slow</strong> as we circle back through CM's <strong class="changes">neighborhood</strong> and chat.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; The rising sun looks like an angry red supergiant; even in the early morning, heat and humidity are extreme. Cara Marie Manlandro looks sharp, as she violates her own rule about never running without a shirt over her top. After an initial too-fast mile I'm forced to apologize and take my shirt off too. There's no water fountain at the Dunkin Donuts shop <strong class="changes">where</strong> we pause. Our pace <strong class="changes">slows</strong> as we circle back through CM's <strong class="changes">'hood</strong> and chat.</p></div>
+ip: 138.88.113.83
+ts: 1312665425
+minor: 1
+host: pool-138-88-113-83.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: === ~4 miles @ ~11.9 min/mi
+	
+	The rising sun looks like an angry red supergiant; even in the early morning, heat and humidity are extreme. Cara Marie Manlandro looks sharp, as she violates her own rule about never running without a shirt over her top. After an initial too-fast mile I'm forced to apologize and take my shirt off too. There's no water fountain at the Dunkin Donuts shop where we pause. Our pace slows as we circle back through CM's 'hood and chat.
+	
+	//([[http://connect.garmin.com/activity/100877408|GPS trackfile]])// - //**^z**// - 2011-08-06
+	
+lastmajor: 1
+keep-ts: 1312665425

@@ -1,0 +1,23 @@
+blocks: <h3>~7.1 miles @ ~13.9 min/mi</h3><p>"Six male deer just up the street!" warns the lady walking her dog. Stags crowd a front yard near the corner of Churchill and Dead Run, lift heads heavy with antlers to stare at Kristin and me, then flee. We're on a soggy-humid summer loop exploring connections between neighborhoods. From the median of VA-123 the sunrise looks like an impressionist painting with feathery-cloud brushstrokes. A road worker holds up a stop sign to a car that wants to blast through a one-lane construction zone and asks rhetorically, "Whatcha doing, playing Chicken?" Kristin tells of seeing an &uuml;ber-cool hoverboard rider with shades and a cigarette dangling from his mouth. We greet a friendly woman with blue-streaked hair, and tally 1 rabbit plus 1 chipmunk.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/833237861">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-08-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.1 miles @ ~13.9 min/mi
+	
+	"Six male deer just up the street!" warns the lady walking her dog. Stags crowd a front yard near the corner of Churchill and Dead Run, lift heads heavy with antlers to stare at Kristin and me, then flee. We're on a soggy-humid summer loop exploring connections between neighborhoods. From the median of VA-123 the sunrise looks like an impressionist painting with feathery-cloud brushstrokes. A road worker holds up a stop sign to a car that wants to blast through a one-lane construction zone and asks rhetorically, "Whatcha doing, playing Chicken?" Kristin tells of seeing an &uuml;ber-cool hoverboard rider with shades and a cigarette dangling from his mouth. We greet a friendly woman with blue-streaked hair, and tally 1 rabbit plus 1 chipmunk.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/833237861|trackfile]])// - //**^z**// - 2016-08-18
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.1 miles @ ~13.9 min/mi<br />&gt; "Six male deer just up the street!" warns the lady walking her dog. Stags crowd a front yard near the corner of Churchill and Dead Run, lift heads heavy with antlers to stare at Kristin and me, then flee. We're on a soggy-humid summer loop exploring connections between neighborhoods. From the median of VA-123 the sunrise looks like an impressionist painting with feathery-cloud brushstrokes. A road worker holds up a stop sign to a car that wants to blast through a one-lane construction zone and asks rhetorically, "Whatcha doing, playing Chicken?" Kristin tells of seeing an &amp;uuml;ber-cool hoverboard rider with shades and a cigarette dangling from his mouth. We greet a friendly woman with blue-streaked hair, and tally 1 rabbit plus 1 chipmunk.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/833237861|trackfile]])// - //**^z**// - 2016-08-18</strong></p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057678

@@ -1,0 +1,23 @@
+blocks: <h3>~4.6 miles @ ~13.6 min/mi</h3><p>"You saved my life &mdash; <strong>again</strong>!" This morning even though the Walk Signal is in our favor a car blasts straight through the red light at Chain Bridge Rd and Great Falls St. Thank goodness Kristin saw it coming and held me back! The moon is only 4% illuminated, skinny yellow crescent hugging the eastern horizon. An airplane takes off from National Airport and crosses in front of Venus. Rabbit count = 1, when sharp-eyed Dr K glimpses a cottontail on Opalacka Dr. We concur that in spite of the fun factor, overhead in time and money is high for "short" races like yesterday's half marathon.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1055778589">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-10-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.54
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.6 miles @ ~13.6 min/mi
+	
+	"You saved my life &mdash; **again**!" This morning even though the Walk Signal is in our favor a car blasts straight through the red light at Chain Bridge Rd and Great Falls St. Thank goodness Kristin saw it coming and held me back! The moon is only 4% illuminated, skinny yellow crescent hugging the eastern horizon. An airplane takes off from National Airport and crosses in front of Venus. Rabbit count = 1, when sharp-eyed Dr K glimpses a cottontail on Opalacka Dr. We concur that in spite of the fun factor, overhead in time and money is high for "short" races like yesterday's half marathon.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1055778589|trackfile]])// - //**^z**// - 2017-10-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.6 miles @ ~13.6 min/mi<br />&gt; "You saved my life &amp;mdash; **again**!" This morning even though the Walk Signal is in our favor a car blasts straight through the red light at Chain Bridge Rd and Great Falls St. Thank goodness Kristin saw it coming and held me back! The moon is only 4% illuminated, skinny yellow crescent hugging the eastern horizon. An airplane takes off from National Airport and crosses in front of Venus. Rabbit count = 1, when sharp-eyed Dr K glimpses a cottontail on Opalacka Dr. We concur that in spite of the fun factor, overhead in time and money is high for "short" races like yesterday's half marathon.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1055778589|trackfile]])// - //**^z**// - 2017-10-17</strong></p></div>
+flags: 0
+ts: 1528057686
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057686

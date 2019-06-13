@@ -1,0 +1,23 @@
+blocks: <p><em><strong>^z</strong></em> was valedictorian of the Class of 1970, John H. Reagan High School, Austin Texas; the numbers record years of State Football Championships</p><p><img class="url http" src="http://zhurnaly.com/images/Not_Without_Honor_Reagan_z.jpg" alt="http://zhurnaly.com/images/Not_Without_Honor_Reagan_z.jpg" /></p><p><em>(photo taken 9 June 2013 at mile ~4 of a hot summer jog around the neighborhood ...)</em> - <em><strong>^z</strong></em> - 2013-07-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.91.56
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: //**^z**// was valedictorian of the Class of 1970, John H. Reagan High School, Austin Texas; the numbers record years of State Football Championships
+	
+	http://zhurnaly.com/images/Not_Without_Honor_Reagan_z.jpg
+	
+	//(photo taken 9 June 2013 at mile ~4 of a hot summer jog around the neighborhood ...)// - //**^z**// - 2013-07-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//**^z**// was valedictorian of the Class of 1970, John H. Reagan High School, Austin Texas; the numbers record years of State Football Championships<br />&gt; http://zhurnaly.com/images/Not_Without_Honor_Reagan_z.jpg<br />&gt; //(photo taken 9 June 2013 at mile ~4 of a hot summer jog around the neighborhood ...)// - //**^z**// - 2013-07-03</strong></p></div>
+flags: 0
+ts: 1528057707
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057707

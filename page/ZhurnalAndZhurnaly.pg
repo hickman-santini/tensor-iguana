@@ -1,0 +1,16 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">What's this all about? A few clues for the curious:<br />&lt; * **Content**<br />&lt; ** see</strong> [[<strong class="changes">MarkZimmermann]] for some background on the author of //(some of)// these scribblings<br />&lt; ** see [[TreasureKnowledge]] //(26 Oct 2002)// for pronunciation of// **zhurnal** //and some metaphorical interpretations of the enterprise<br />&lt; ** see [[DiffuseConsciousness]] //(21 May 2003)//, [[WhyThis]] //(22 Jun 2001)//, and [[GoodMistakes]] //(6 Sep 1999)// for some goals I sometimes pursue here<br />&lt; ** see [[My Religion]] //(6 Oct 2000)// for something I believe<br />&lt; * **Design**<br />&lt; ** see http://zhurnaly.com/cgi-bin/wiki/ for the "living" pages of the [[ZhurnalyWiki]], almost all wide open for comments</strong> and <strong class="changes">edits //(within the elusive bounds of good taste, please)//<br />&lt; ** see http://zhurnaly.com/ for the "frozen" pages of the //**^zhurnal**// archive<br />&lt; * **Linguistics**<br />&lt; ** &amp;#1078;&amp;#1091;&amp;#1088;&amp;#1085;&amp;#1072;&amp;#1083; &amp;#1080; &amp;#1078;&amp;#1091;&amp;#1088;&amp;#1085;&amp;#1072;&amp;#1083;&amp;#1099; = zhurnal i zhurnaly = journal &amp; journals<br />&lt; ** see [[VoicedPostalveolarFricative]] //(27 Sep 2003)// for some words about sounds of words<br />&lt; Or just click the //**Random**// link at the top of every page here to view some samples ...<br />&lt; ----<br />&lt; [[TopicZhurnal</strong>]] <strong class="changes">- [[TopicProgramming]] - [[TopicLanguage]] - [[TopicPersonalHistory]] - Datetag20041208<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[VoicedPostalveolarFricative]], [[StartingPoints]], [[DestinationMind]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">Zhurnal</strong> and <strong class="changes">Zhurnaly</strong>]]</p></div>
+ip: 70.21.102.87
+ts: 1221348909
+minor: 1
+host: pool-70-21-102-87.res.east.verizon.net
+username: MarkZimmermann
+revision: 6
+diff-major: 
+summary: make redirect
+languages: 
+text: #REDIRECT [[Zhurnal and Zhurnaly]]
+	
+lastmajor: 3
+keep-ts: 1221348909

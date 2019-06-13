@@ -1,0 +1,17 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[Yes, and...]]</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.28
+ts: 1528057711
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: #REDIRECT [[Yes, and...]]
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057711

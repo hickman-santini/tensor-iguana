@@ -1,0 +1,26 @@
+blocks: <p>An aphorism for infinitely patient mothers everywhere, invented independently during one early morning commute a fortnight ago:</p><table class="user"><tr><td align="right"><em><strong> You can't spell<br /> &nbsp; &nbsp; &nbsp; "Mom"<br /> &nbsp; &nbsp; without<br /> &nbsp; &nbsp; &nbsp; "Om"! </strong></em></td></tr></table><p><em><strong>^z</strong></em> - 2016-05-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: An aphorism for infinitely patient mothers everywhere, invented independently during one early morning commute a fortnight ago:
+	
+	| //** You can't spell
+	 &nbsp; &nbsp; &nbsp;  "Mom"
+	 &nbsp; &nbsp; without
+	 &nbsp; &nbsp; &nbsp; "Om"! **// |
+	
+	//**^z**// - 2016-05-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">An aphorism for infinitely patient mothers everywhere, invented independently during one early morning commute a fortnight ago:<br />&gt; | //** You can't spell<br />&gt;  &amp;nbsp; &amp;nbsp; &amp;nbsp;  "Mom"<br />&gt;  &amp;nbsp; &amp;nbsp; without<br />&gt;  &amp;nbsp; &amp;nbsp; &amp;nbsp; "Om"! **// |<br />&gt; //**^z**// - 2016-05-20</strong></p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057713

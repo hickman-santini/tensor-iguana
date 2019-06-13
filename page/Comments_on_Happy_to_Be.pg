@@ -1,0 +1,36 @@
+blocks: <h3>3 Comments.</h3><p>Excellent advice Mark...or non-advice?</p><p>-- Caren Jew 2010-10-04 21:12 UTC</p><hr /><p>Ha! --- you caught me, Caren --- yep, I can't even refrain from giving advice while swearing off advice-giving, eh?! (^_^)</p><p>-- <a class="url http outside" href="http://zhurnaly.com">Mark Zimmermann</a> 2010-10-04 23:59 UTC</p><hr /><p>in my case, I will say both "0" and "1"</p><p>-- <a class="url http outside" href="http://zhurnaly.com">Zzzzz_iPhone</a> 2013-11-19 20:46 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 198.228.228.27
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 3 Comments. ===
+	Excellent advice Mark...or non-advice?
+	
+	-- Caren Jew 2010-10-04 21:12 UTC
+	
+	
+	----
+	
+	Ha! --- you caught me, Caren --- yep, I can't even refrain from giving advice while swearing off advice-giving, eh?!  (^_^)
+	
+	-- [http://zhurnaly.com Mark Zimmermann] 2010-10-04 23:59 UTC
+	
+	
+	----
+	
+	in my case, I will say both "0" and "1"
+	
+	-- [http://zhurnaly.com Zzzzz_iPhone] 2013-11-19 20:46 UTC
+	
+	
+languages: 
+lastmajor: 9
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 3 Comments. ===<br />&gt; Excellent advice Mark...or non-advice?<br />&gt; -- Caren Jew 2010-10-04 21:12 UTC<br />&gt; ----<br />&gt; Ha! --- you caught me, Caren --- yep, I can't even refrain from giving advice while swearing off advice-giving, eh?!  (^_^)<br />&gt; -- [http://zhurnaly.com Mark Zimmermann] 2010-10-04 23:59 UTC<br />&gt; ----<br />&gt; in my case, I will say both "0" and "1"<br />&gt; -- [http://zhurnaly.com Zzzzz_iPhone] 2013-11-19 20:46 UTC</p></div>
+flags: 0
+ts: 1528057710
+minor: 
+username: z
+host: 166.137.240.115
+revision: 9
+keep-ts: 1528057710

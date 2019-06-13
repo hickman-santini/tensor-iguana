@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~20.5 miles @ ~ 12.5 min/mi</h3></p><p>A two-foot-long snake slithers across the path and into the brush. At ~7am the temps are in the upper-60's but during the next four hours rise to the upper 80's. My phone rings multiple times, so walk breaks come early and often. Two Luna bars and a few hard candies provide energy. Water from <a class="url http outside" href="http://www.runtex.com/">RunTex</a> coolers is a blessing. I contemplate stopping after one 10-mile lap around Lady Bird Lake, but realize how bad that will look in this report.</p><p><em>(<a class="url http outside" href="http://connect.garmin.com/activity/88321496">GPS trackfile</a>, ...)</em> - <em><strong>^z</strong></em> - 2011-06-06</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; A two-foot-long snake slithers across the path and into the brush. At ~7am the temps are in the upper-60's but during the next four hours rise to the upper 80's. My phone rings multiple times, so walk breaks come early and often. Two Luna bars and a few hard candies provide energy. Water from [[http://www.runtex.com/|RunTex]] coolers is a blessing. I contemplate stopping after one 10-mile lap but realize how bad that will look in this report.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; A two-foot-long snake slithers across the path and into the brush. At ~7am the temps are in the upper-60's but during the next four hours rise to the upper 80's. My phone rings multiple times, so walk breaks come early and often. Two Luna bars and a few hard candies provide energy. Water from [[http://www.runtex.com/|RunTex]] coolers is a blessing. I contemplate stopping after one 10-mile lap <strong class="changes">around Lady Bird Lake,</strong> but realize how bad that will look in this report.</p></div>
+ip: 141.156.143.26
+ts: 1307349627
+minor: 1
+host: pool-141-156-143-26.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: 
+summary: tweak
+languages: 
+text: === ~20.5 miles @ ~ 12.5 min/mi
+	
+	A two-foot-long snake slithers across the path and into the brush. At ~7am the temps are in the upper-60's but during the next four hours rise to the upper 80's. My phone rings multiple times, so walk breaks come early and often. Two Luna bars and a few hard candies provide energy. Water from [[http://www.runtex.com/|RunTex]] coolers is a blessing. I contemplate stopping after one 10-mile lap around Lady Bird Lake, but realize how bad that will look in this report.
+	
+	//([[http://connect.garmin.com/activity/88321496|GPS trackfile]], ...)// - //**^z**// - 2011-06-06
+	
+lastmajor: 1
+keep-ts: 1307349627

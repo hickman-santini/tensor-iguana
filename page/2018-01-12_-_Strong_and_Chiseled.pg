@@ -1,0 +1,25 @@
+blocks: <h3>~5.6 mi @ ~13.9 min/mi</h3><p>"Sculpt or Strength?" Kristin asks. "Both!" is the immediate answer. Dr K prescribes many reps of light weights versus few of heavy weights, depending on the goal. Drizzle pauses and restarts as the Dawn Patrol trots to Starbucks. Despite the season, "Tall iced coffee!" = the beverage of choice. Temps are in the low 60s; fog reflects headlamps along the woodsy trail by Dead Run.</p><p>"Executive comfort animals?" We speculate about the benefits of bringing cuddly creatures to senior Board of Directors meetings. Could they improve decision making by reducing stress? Kerry reports that one of her kids at college pets puppies during breaks between classes. <em>Not a bad idea!</em></p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1107360152">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-02-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.151
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.6 mi @ ~13.9 min/mi
+	
+	"Sculpt or Strength?" Kristin asks. "Both!" is the immediate answer. Dr K prescribes many reps of light weights versus few of heavy weights, depending on the goal. Drizzle pauses and restarts as the Dawn Patrol trots to Starbucks. Despite the season, "Tall iced coffee!" = the beverage of choice. Temps are in the low 60s; fog reflects headlamps along the woodsy trail by Dead Run.
+	
+	"Executive comfort animals?" We speculate about the benefits of bringing cuddly creatures to senior Board of Directors meetings. Could they improve decision making by reducing stress? Kerry reports that one of her kids at college pets puppies during breaks between classes. //Not a bad idea!//
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1107360152|trackfile]])// - //**^z**// - 2018-02-09
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.6 mi @ ~13.9 min/mi<br />&gt; "Sculpt or Strength?" Kristin asks. "Both!" is the immediate answer. Dr K prescribes many reps of light weights versus few of heavy weights, depending on the goal. Drizzle pauses and restarts as the Dawn Patrol trots to Starbucks. Despite the season, "Tall iced coffee!" = the beverage of choice. Temps are in the low 60s; fog reflects headlamps along the woodsy trail by Dead Run.<br />&gt; "Executive comfort animals?" We speculate about the benefits of bringing cuddly creatures to senior Board of Directors meetings. Could they improve decision making by reducing stress? Kerry reports that one of her kids at college pets puppies during breaks between classes. //Not a bad idea!//<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1107360152|trackfile]])// - //**^z**// - 2018-02-09</strong></p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057687

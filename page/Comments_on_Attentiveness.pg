@@ -1,0 +1,26 @@
+blocks: <h3>1 Comment.</h3><p>I'm reminded of a bit in Michael Lewis's <em>The Big Short</em>, when he was describing the way one of his subjects - Steve Eisman - would listen to people:<br /></p><blockquote><p>Eisman had a curious way of listening; he didn't so much listen to what you were saying as subcontract to some remote region of his brain the task of deciding whether whatever you were saying was worth listening to, while his mind went off to play on its own. As a result, he never actually heard what you said the first time you said it. If his mental subcontractor detected a level of interest in what you had just said, it radioed a signal to the mother ship, which then wheeled around with the most intense focus. "Say that again," he'd say. And you would! Because now Eisman was so obviously listening to you, and, as he listened so selectively, you felt flattered.<br /></p></blockquote><p>Kinda different from what Jobs was doing, but the similarity in the impression formed in the guy talking seems interesting.</p><p>-- <a class="url http outside" href="http://packbat.dreamwidth.org/">RobinZ</a> 2010-11-28 15:15 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 198.228.201.144
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	I'm reminded of a bit in Michael Lewis's //The Big Short//, when he was describing the way one of his subjects - Steve Eisman - would listen to people:
+	"""
+	Eisman had a curious way of listening; he didn't so much listen to what you were saying as subcontract to some remote region of his brain the task of deciding whether whatever you were saying was worth listening to, while his mind went off to play on its own. As a result, he never actually heard what you said the first time you said it. If his mental subcontractor detected a level of interest in what you had just said, it radioed a signal to the mother ship, which then wheeled around with the most intense focus. "Say that again," he'd say. And you would! Because now Eisman was so obviously listening to you, and, as he listened so selectively, you felt flattered.
+	"""
+	Kinda different from what Jobs was doing, but the similarity in the impression formed in the guy talking seems interesting.
+	
+	-- [http://packbat.dreamwidth.org/ RobinZ] 2010-11-28 15:15 UTC
+	
+	
+languages: 
+lastmajor: 9
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; I'm reminded of a bit in Michael Lewis's //The Big Short//, when he was describing the way one of his subjects - Steve Eisman - would listen to people:<br />&gt; """<br />&gt; Eisman had a curious way of listening; he didn't so much listen to what you were saying as subcontract to some remote region of his brain the task of deciding whether whatever you were saying was worth listening to, while his mind went off to play on its own. As a result, he never actually heard what you said the first time you said it. If his mental subcontractor detected a level of interest in what you had just said, it radioed a signal to the mother ship, which then wheeled around with the most intense focus. "Say that again," he'd say. And you would! Because now Eisman was so obviously listening to you, and, as he listened so selectively, you felt flattered.<br />&gt; """<br />&gt; Kinda different from what Jobs was doing, but the similarity in the impression formed in the guy talking seems interesting.<br />&gt; -- [http://packbat.dreamwidth.org/ RobinZ] 2010-11-28 15:15 UTC</p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 9
+keep-ts: 1528057683

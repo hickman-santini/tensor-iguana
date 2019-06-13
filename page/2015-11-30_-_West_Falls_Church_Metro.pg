@@ -1,0 +1,23 @@
+blocks: <h3>~6.3 miles @ ~11.9 min/mi</h3><p>"So what sweet indulgences did YOU commit at Thanksgiving dinner?" Kristin and Kerry and I confess our sins to each other as we follow a new path in the pre-dawn darkness between Route 7 and Great Falls St, past the West Falls Church Metro where we startle not-yet-fully-awake commuters with our bright headlamps and speedy broken-field running. The moon glows faintly through thick clouds. Brake lights flare on Interstate 66 as the morning traffic jam begins. Students await their bus at the street corner. "Let's knock them down like bowling pins!"</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/698982228">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-12-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.32
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.3 miles @ ~11.9 min/mi
+	
+	"So what sweet indulgences did YOU commit at Thanksgiving dinner?" Kristin and Kerry and I confess our sins to each other as we follow a new path in the pre-dawn darkness between Route 7 and Great Falls St, past the West Falls Church Metro where we startle not-yet-fully-awake commuters with our bright headlamps and speedy broken-field running. The moon glows faintly through thick clouds. Brake lights flare on Interstate 66 as the morning traffic jam begins. Students await their bus at the street corner. "Let's knock them down like bowling pins!"
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/698982228|trackfile]])// - //**^z**// - 2015-12-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.3 miles @ ~11.9 min/mi<br />&gt; "So what sweet indulgences did YOU commit at Thanksgiving dinner?" Kristin and Kerry and I confess our sins to each other as we follow a new path in the pre-dawn darkness between Route 7 and Great Falls St, past the West Falls Church Metro where we startle not-yet-fully-awake commuters with our bright headlamps and speedy broken-field running. The moon glows faintly through thick clouds. Brake lights flare on Interstate 66 as the morning traffic jam begins. Students await their bus at the street corner. "Let's knock them down like bowling pins!"<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/698982228|trackfile]])// - //**^z**// - 2015-12-17</strong></p></div>
+flags: 0
+ts: 1528057692
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057692

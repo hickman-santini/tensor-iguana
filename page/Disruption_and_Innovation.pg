@@ -1,0 +1,30 @@
+blocks: <table class="user"><tr><td align="right">Governments want security and stability<br />So to maintain the status quo<br />Governments are not receptive to<br />Revolutions against themselves<br />Any more than companies.<br />Companies use innovation<br />To disrupt their competition<br />But they hate disrupting themselves.</td></tr></table><p>... a "notion" by Edward Covannon ...</p><p><em><strong>^z</strong></em> - 2012-07-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.27.40
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Governments want security and stability
+	So to maintain the status quo
+	Governments are not receptive to
+	Revolutions against themselves
+	Any more than companies.
+	Companies use innovation
+	To disrupt their competition
+	But they hate disrupting themselves. |
+	
+	... a "notion" by Edward Covannon ...
+	
+	//**^z**// - 2012-07-26
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Governments want security and stability<br />&gt; So to maintain the status quo<br />&gt; Governments are not receptive to<br />&gt; Revolutions against themselves<br />&gt; Any more than companies.<br />&gt; Companies use innovation<br />&gt; To disrupt their competition<br />&gt; But they hate disrupting themselves. |<br />&gt; ... a "notion" by Edward Covannon ...<br />&gt; //**^z**// - 2012-07-26</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

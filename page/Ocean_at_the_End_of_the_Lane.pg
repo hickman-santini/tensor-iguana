@@ -1,0 +1,20 @@
+blocks: <p>Neil Gaiman paints nightmares, brilliantly. His short novel <strong>The Ocean at the End of the Lane</strong> (2013) brings beautiful language and terrifying situations, but like a dream lacks coherence. One thing happens after another, the plot advances, creatures and characters glide out of the mist, new rules appear with arbitrary regularity, and ultimately nothing much matters. As in a dream, there are powerful echoes of myths and fables from the past, poetic voices, memories and mirrors. All nicely done, scary but ... discouragingly empty.</p><p><em><strong>^z</strong></em> - 2017-07-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.70
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Neil Gaiman paints nightmares, brilliantly. His short novel **The Ocean at the End of the Lane** (2013) brings beautiful language and terrifying situations, but like a dream lacks coherence. One thing happens after another, the plot advances, creatures and characters glide out of the mist, new rules appear with arbitrary regularity, and ultimately nothing much matters. As in a dream, there are powerful echoes of myths and fables from the past, poetic voices, memories and mirrors. All nicely done, scary but ... discouragingly empty.
+	
+	//**^z**// - 2017-07-26
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Neil Gaiman paints nightmares, brilliantly. His short novel **The Ocean at the End of the Lane** (2013) brings beautiful language and terrifying situations, but like a dream lacks coherence. One thing happens after another, the plot advances, creatures and characters glide out of the mist, new rules appear with arbitrary regularity, and ultimately nothing much matters. As in a dream, there are powerful echoes of myths and fables from the past, poetic voices, memories and mirrors. All nicely done, scary but ... discouragingly empty.<br />&gt; //**^z**// - 2017-07-26</p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057706

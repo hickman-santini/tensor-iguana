@@ -1,0 +1,22 @@
+blocks: <h3>~6.1 miles @ ~12.9 min/mi</h3><p>"... and I couldn't taste a thing!" Kristin says. After a week of suffering in silence she finally admits to having such a bad cold that cooking delicacies for her family is only a vicarious pleasure. We ramble eastward, enjoying the sunrise and pastel faux-Victorian architecture in the Rosemont and Broyhill neighborhoods. Six front-yard rabbits, singly and in small groups, monitor our passage. Kerry spots an indoor lap pool and jacuzzi in the Travis Price-designed zig-zag-slanty house at 6522 Old Chesterbrook. "Let's buy it and go for a swim!" <em>(Alas, it sold a few months ago for $1.1 million.)</em> At the McLean High School track a powerfully-muscled athlete hefts a yellow sphere and tucks it under his chin, preparing to twirl and heave it through the air. "I <strong>must</strong> learn to shot put!" somebody says.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/804841127">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-07-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.17
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.1 miles @ ~12.9 min/mi
+	
+	"... and I couldn't taste a thing!" Kristin says. After a week of suffering in silence she finally admits to having such a bad cold that cooking delicacies for her family is only a vicarious pleasure. We ramble eastward, enjoying the sunrise and pastel faux-Victorian architecture in the Rosemont and Broyhill neighborhoods. Six front-yard rabbits, singly and in small groups, monitor our passage. Kerry spots an indoor lap pool and jacuzzi in the Travis Price-designed zig-zag-slanty house at 6522 Old Chesterbrook. "Let's buy it and go for a swim!" //(Alas, it sold a few months ago for $1.1 million.)// At the McLean High School track a powerfully-muscled athlete hefts a yellow sphere and tucks it under his chin, preparing to twirl and heave it through the air. "I **must** learn to shot put!" somebody says.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/804841127|trackfile]])// - //**^z**// - 2016-07-02
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~6.1 miles @ ~12.9 min/mi<br />&gt; "... and I couldn't taste a thing!" Kristin says. After a week of suffering in silence she finally admits to having such a bad cold that cooking delicacies for her family is only a vicarious pleasure. We ramble eastward, enjoying the sunrise and pastel faux-Victorian architecture in the Rosemont and Broyhill neighborhoods. Six front-yard rabbits, singly and in small groups, monitor our passage. Kerry spots an indoor lap pool and jacuzzi in the Travis Price-designed zig-zag-slanty house at 6522 Old Chesterbrook. "Let's buy it and go for a swim!" //(Alas, it sold a few months ago for $1.1 million.)// At the McLean High School track a powerfully-muscled athlete hefts a yellow sphere and tucks it under his chin, preparing to twirl and heave it through the air. "I **must** learn to shot put!" somebody says.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/804841127|trackfile]])// - //**^z**// - 2016-07-02</p></div>
+flags: 0
+ts: 1528057694
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057694

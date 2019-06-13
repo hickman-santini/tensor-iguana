@@ -1,0 +1,23 @@
+blocks: <h3>~12.4 miles @ ~10.4 min/mi</h3><p>A big amber caution-light of a full moon rises next to Jupiter at mile 10 of a Wednesday evening run around the Rockville Millennium Trail. DW is at a Library Board meeting. Skaters cruise around the rink at town center where the trek begins. Temps are in the 30's. Pick up the pace in anticipation of a Taco Bell dinner, make the crosswalks safely at the traffic lights, and then ~20 minutes after the run ends: <em>Brrrrrrrrrr!</em> Uncontrollable shivering suddenly starts, as I climb out of the car at the fast food joint. Don a thick parka in a feeble effort to get warm. <a class="url http outside" href="http://connect.garmin.com/activity/418045906">Garmin</a> and <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/281820907">Runkeeper</a> record the route. Splits from Runkeeper: 10:10-10:30-10:26-10:48-11:09-11:22-10:25-9:42-10:00-10:03-9:53-9:45 and 9:43 min/mi on the final fragment.</p><p><em><strong>^z</strong></em> - 2014-01-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.214.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12.4 miles @ ~10.4 min/mi
+	
+	A big amber caution-light of a full moon rises next to Jupiter at mile 10 of a Wednesday evening run around the Rockville Millennium Trail. DW is at a Library Board meeting. Skaters cruise around the rink at town center where the trek begins. Temps are in the 30's. Pick up the pace in anticipation of a Taco Bell dinner, make the crosswalks safely at the traffic lights, and then ~20 minutes after the run ends: //Brrrrrrrrrr!// Uncontrollable shivering suddenly starts, as I climb out of the car at the fast food joint. Don a thick parka in a feeble effort to get warm. [[http://connect.garmin.com/activity/418045906|Garmin]] and [[http://runkeeper.com/user/zhurnaly/activity/281820907|Runkeeper]] record the route. Splits from Runkeeper: 10:10-10:30-10:26-10:48-11:09-11:22-10:25-9:42-10:00-10:03-9:53-9:45 and 9:43 min/mi on the final fragment.
+	
+	//**^z**// - 2014-01-04
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12.4 miles @ ~10.4 min/mi<br />&gt; A big amber caution-light of a full moon rises next to Jupiter at mile 10 of a Wednesday evening run around the Rockville Millennium Trail. DW is at a Library Board meeting. Skaters cruise around the rink at town center where the trek begins. Temps are in the 30's. Pick up the pace in anticipation of a Taco Bell dinner, make the crosswalks safely at the traffic lights, and then ~20 minutes after the run ends: //Brrrrrrrrrr!// Uncontrollable shivering suddenly starts, as I climb out of the car at the fast food joint. Don a thick parka in a feeble effort to get warm. [[http://connect.garmin.com/activity/418045906|Garmin]] and [[http://runkeeper.com/user/zhurnaly/activity/281820907|Runkeeper]] record the route. Splits from Runkeeper: 10:10-10:30-10:26-10:48-11:09-11:22-10:25-9:42-10:00-10:03-9:53-9:45 and 9:43 min/mi on the final fragment.<br />&gt; //**^z**// - 2014-01-04</strong></p></div>
+flags: 0
+ts: 1528057695
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057695

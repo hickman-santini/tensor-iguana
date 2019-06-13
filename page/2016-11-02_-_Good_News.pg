@@ -1,0 +1,25 @@
+blocks: <h3>~4.9 miles @ ~14.4 min/mi</h3><p>"That's WONDERFUL!" The Dawn Patrol shares awesome-happy news (still embargoed) &mdash; and since engineers are involved discussions inevitably include system process diagrams, critical path methods, the simplex algorithm, decision criteria, optimal scheduling, and rearrangement of virtual sticky-notes ... all accompanied by Halloween jack-o-lantern-sized smiles. Kristin and I shake out twinges after Sunday's Marine Corps Marathon. Cait stretches the legs before a Rock 'n' Roll Las Vegas half marathon 11 days in her future. <em>What a fine morning!</em></p><p>"You look like ninjas!" Apparently it's Black Pajama Day for the exercise group at the library parking lot. We ramble through Tysons Pimmit Park cautiously, since one of us forgot his flashlight. Pause to peer northward at 0625 but spy no Iridium satellite flare through thick clouds. Rabbit count = 1.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/889784525">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-11-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.174
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 miles @ ~14.4 min/mi
+	
+	"That's WONDERFUL!" The Dawn Patrol shares awesome-happy news (still embargoed) &mdash; and since engineers are involved discussions inevitably include system process diagrams, critical path methods, the simplex algorithm, decision criteria, optimal scheduling, and rearrangement of virtual sticky-notes ... all accompanied by Halloween jack-o-lantern-sized smiles. Kristin and I shake out twinges after Sunday's Marine Corps Marathon. Cait stretches the legs before a Rock 'n' Roll Las Vegas half marathon 11 days in her future. //What a fine morning!//
+	
+	"You look like ninjas!" Apparently it's Black Pajama Day for the exercise group at the library parking lot. We ramble through Tysons Pimmit Park cautiously, since one of us forgot his flashlight. Pause to peer northward at 0625 but spy no Iridium satellite flare through thick clouds. Rabbit count = 1.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/889784525|trackfile]])// - //**^z**// - 2016-11-29
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 miles @ ~14.4 min/mi<br />&gt; "That's WONDERFUL!" The Dawn Patrol shares awesome-happy news (still embargoed) &amp;mdash; and since engineers are involved discussions inevitably include system process diagrams, critical path methods, the simplex algorithm, decision criteria, optimal scheduling, and rearrangement of virtual sticky-notes ... all accompanied by Halloween jack-o-lantern-sized smiles. Kristin and I shake out twinges after Sunday's Marine Corps Marathon. Cait stretches the legs before a Rock 'n' Roll Las Vegas half marathon 11 days in her future. //What a fine morning!//<br />&gt; "You look like ninjas!" Apparently it's Black Pajama Day for the exercise group at the library parking lot. We ramble through Tysons Pimmit Park cautiously, since one of us forgot his flashlight. Pause to peer northward at 0625 but spy no Iridium satellite flare through thick clouds. Rabbit count = 1.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/889784525|trackfile]])// - //**^z**// - 2016-11-29</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

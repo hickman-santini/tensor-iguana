@@ -1,0 +1,25 @@
+blocks: <h3>~6.0 miles @ ~11.2 min/mi</h3><p>"I got a bib! I got a bib!" Cait recounts her mother's happy shout at 10:30pm one recent night. Looks like the Dawn Patrol will be out in force at the Marine Corps Marathon this year!</p><p>"Welcome home!" A small front yard is densely decorated with American flags, inflated red-white-blue stars, and a sign greeting a returning family member &mdash; a US Marine, Cait deduces from the "Semper Fi" logo. Two happy rabbits eye us as we meander along neighborhood streets on a cool spring morning. We run Dr B's 1.000 mile loop, then add an orbit through Pimmit View Park where Cait treads carefully across the shallow stream. Drs K&amp;K are away on travel; we push the pace on their behalf.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/979917905">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-06-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.138
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.0 miles @ ~11.2 min/mi
+	
+	"I got a bib! I got a bib!" Cait recounts her mother's happy shout at 10:30pm one recent night. Looks like the Dawn Patrol will be out in force at the Marine Corps Marathon this year!
+	
+	"Welcome home!" A small front yard is densely decorated with American flags, inflated red-white-blue stars, and a sign greeting a returning family member &mdash; a US Marine, Cait deduces from the "Semper Fi" logo. Two happy rabbits eye us as we meander along neighborhood streets on a cool spring morning. We run Dr B's 1.000 mile loop, then add an orbit through Pimmit View Park where Cait treads carefully across the shallow stream. Drs K&K are away on travel; we push the pace on their behalf.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/979917905|trackfile]])// - //**^z**// - 2017-06-06
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.0 miles @ ~11.2 min/mi<br />&gt; "I got a bib! I got a bib!" Cait recounts her mother's happy shout at 10:30pm one recent night. Looks like the Dawn Patrol will be out in force at the Marine Corps Marathon this year!<br />&gt; "Welcome home!" A small front yard is densely decorated with American flags, inflated red-white-blue stars, and a sign greeting a returning family member &amp;mdash; a US Marine, Cait deduces from the "Semper Fi" logo. Two happy rabbits eye us as we meander along neighborhood streets on a cool spring morning. We run Dr B's 1.000 mile loop, then add an orbit through Pimmit View Park where Cait treads carefully across the shallow stream. Drs K&amp;K are away on travel; we push the pace on their behalf.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/979917905|trackfile]])// - //**^z**// - 2017-06-06</strong></p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057687

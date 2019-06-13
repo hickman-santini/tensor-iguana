@@ -1,0 +1,23 @@
+blocks: <h3>~6.8 miles @ ~11.6 min/mi</h3><p>"SOL? Pardon my French," I say. "Doesn't that stand for <em>"$#*% Out of Luck?"</em> Kerry uses the acronym as we pass Langley High School. In this case it means "Standards of Learning", the statewide test &mdash; though some students might lean toward the classical definition. We loop down Ridge Dr and through the woods to Turkey Run Rd. The forest path seems steeper and longer than in the past. A friendly neighborhood dog-walker helps us find the best way across the stream and up the muddy slope. After an hour of warm and humid trekking I start to offer Dr K a drink, then realize that I've forgotten my water in the car. <em>Oops!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/579184508">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-06-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 67.198.77.136
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.8 miles @ ~11.6 min/mi
+	
+	"SOL? Pardon my French," I say. "Doesn't that stand for //"$#*% Out of Luck?"// Kerry uses the acronym as we pass Langley High School. In this case it means "Standards of Learning", the statewide test &mdash; though some students might lean toward the classical definition. We loop down Ridge Dr and through the woods to Turkey Run Rd. The forest path seems steeper and longer than in the past. A friendly neighborhood dog-walker helps us find the best way across the stream and up the muddy slope. After an hour of warm and humid trekking I start to offer Dr K a drink, then realize that I've forgotten my water in the car. //Oops!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/579184508|trackfile]])// - //**^z**// - 2015-06-22
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.8 miles @ ~11.6 min/mi<br />&gt; "SOL? Pardon my French," I say. "Doesn't that stand for //"$#*% Out of Luck?"// Kerry uses the acronym as we pass Langley High School. In this case it means "Standards of Learning", the statewide test &amp;mdash; though some students might lean toward the classical definition. We loop down Ridge Dr and through the woods to Turkey Run Rd. The forest path seems steeper and longer than in the past. A friendly neighborhood dog-walker helps us find the best way across the stream and up the muddy slope. After an hour of warm and humid trekking I start to offer Dr K a drink, then realize that I've forgotten my water in the car. //Oops!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/579184508|trackfile]])// - //**^z**// - 2015-06-22</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

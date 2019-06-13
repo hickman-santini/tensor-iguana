@@ -1,0 +1,23 @@
+blocks: <h3>~3 miles @ ~13.5 min/mi</h3><p>More a hike than a run: Wednesday evening walk and jog along the Paint Branch Trail in rapidly deepening darkness, chatting on the phone with friend Rayna Matsuno and trying to avoid speedy cyclists near the University of Maryland campus. Turn back before entering Lake Artemesia to avoid being locked in if the fence is closed while inside. In the other direction, turn back at the dog park near Metzerott Rd and dash the last half mile back to the parking lot near the Route 1 underpass. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/247700588">Runkeeper</a> shows splits as 14.5 + 16 + 10.1 minutes each; <a class="url http outside" href="http://connect.garmin.com/activity/383465609">Garmin GPS</a> generally agrees.</p><p><em><strong>^z</strong></em> - 2013-10-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.93.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3 miles @ ~13.5 min/mi
+	
+	More a hike than a run: Wednesday evening walk and jog along the Paint Branch Trail in rapidly deepening darkness, chatting on the phone with friend Rayna Matsuno and trying to avoid speedy cyclists near the University of Maryland campus. Turn back before entering Lake Artemesia to avoid being locked in if the fence is closed while inside. In the other direction, turn back at the dog park near Metzerott Rd and dash the last half mile back to the parking lot near the Route 1 underpass. [[http://runkeeper.com/user/zhurnaly/activity/247700588|Runkeeper]] shows splits as 14.5 + 16 + 10.1 minutes each; [[http://connect.garmin.com/activity/383465609|Garmin GPS]] generally agrees.
+	
+	//**^z**// - 2013-10-09
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3 miles @ ~13.5 min/mi<br />&gt; More a hike than a run: Wednesday evening walk and jog along the Paint Branch Trail in rapidly deepening darkness, chatting on the phone with friend Rayna Matsuno and trying to avoid speedy cyclists near the University of Maryland campus. Turn back before entering Lake Artemesia to avoid being locked in if the fence is closed while inside. In the other direction, turn back at the dog park near Metzerott Rd and dash the last half mile back to the parking lot near the Route 1 underpass. [[http://runkeeper.com/user/zhurnaly/activity/247700588|Runkeeper]] shows splits as 14.5 + 16 + 10.1 minutes each; [[http://connect.garmin.com/activity/383465609|Garmin GPS]] generally agrees.<br />&gt; //**^z**// - 2013-10-09</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057688

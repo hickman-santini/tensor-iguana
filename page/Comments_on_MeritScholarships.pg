@@ -1,0 +1,28 @@
+blocks: <h3>2 Comments.</h3><p>"... an alien invasion ... that goes horribly wrong. The invaders have highly advanced technology. They quickly knock down the ... military, destroy governmental facilities, and eliminate all centrally organized resistance. But then disorganized resistance emerges: sabotage by creative, crafty [invadees] that disrupts the [invading] forces and threatens to drive them away."</p><p>Imagine what direction _I_ thought you were going to run with this ... 8-)</p><hr /><blockquote><p><em>Hi Barry! To show you how na&iuml;ve I am, the allegory to current politics never crossed my mind until your comment hinted at it ... duh! (^_^) At least, that's what I <strong>think</strong> you're alluding to?! - <strong>^z</strong> </em><br /></p></blockquote>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	
+	"... an alien invasion ... that goes horribly wrong. The invaders have highly advanced technology. They quickly knock down the ... military, destroy governmental facilities, and eliminate all centrally organized resistance. But then disorganized resistance emerges: sabotage by creative, crafty [invadees] that disrupts the [invading] forces and threatens to drive them away."
+	
+	Imagine what direction _I_ thought you were going to run with this ...    8-)
+	
+	----
+	
+	"""
+	//Hi Barry! To show you how na&iuml;ve I am, the allegory to current politics never crossed my mind until your comment hinted at it ... duh! (^_^) At least, that's what I **think** you're alluding to?! - **^z** //
+	"""
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; "... an alien invasion ... that goes horribly wrong. The invaders have highly advanced technology. They quickly knock down the ... military, destroy governmental facilities, and eliminate all centrally organized resistance. But then disorganized resistance emerges: sabotage by creative, crafty [invadees] that disrupts the [invading] forces and threatens to drive them away."<br />&gt; Imagine what direction _I_ thought you were going to run with this ...    8-)<br />&gt; ----<br />&gt; """<br />&gt; //Hi Barry! To show you how na&amp;iuml;ve I am, the allegory to current politics never crossed my mind until your comment hinted at it ... duh! (^_^) At least, that's what I **think** you're alluding to?! - **^z** //<br />&gt; """</p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057693

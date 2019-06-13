@@ -1,0 +1,36 @@
+blocks: <p><em><strong>10% Happier</strong></em> is 90% Dan Harris.</p><p>The book is subtitled "How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works &mdash; a True Story". It's a semi-autobiography by a semi-celebrity TV news guy, Dan Harris, and revolves around the author's experiences in mindfulness meditation. <em><strong>10% Happier</strong></em> is awesomely egotistical and blatantly disingenuous. But it also includes some excellent bits &mdash; e.g., the figurative phrase:</p><table class="user"><tr><td align="center">"... nostalgia for the present ..."</td></tr></table><p>The words appear in Chapter 9, with fuller context:<br /></p><blockquote><p>... I could actually feel this happening with me. I noticed myself cultivating a sort of nostalgia for the present, developing the reflex to squelch pointless self-talk and simply notice whatever was going on around me: a blast of hot halitosis from a subway vent as I walked to work, the carpet of suburban lights seen from a landing airplane, rippling water reflecting sine waves of light onto the side of a boat while I was shooting a story in Virginia Beach. In moments where I was temporarily able to suspend my monkey mind and simply experience whatever was going on, I got just the smallest taste of the happiness I'd achieved while on retreat. ..."<br /></p></blockquote><p>Yep, that density of first-person pronouns is quite typical. <em><strong>10% Happier</strong></em> is, however, a blitzy-fast read, with plenty of confessional bits alongside shameless self-promotion. The advice on how to meditate is useful. Anecdotes from interviews with famous folks in the self-awareness sphere &mdash; Eckhart Tolle, the Dalai Lama, Mark Epstein, Joseph Goldstein, ... &mdash; are often entertaining, though Harris doesn't seem conscious of how much they're using him and vice versa. <em>(He is also somewhat harsh toward Tara Brach; perhaps that implicitly speaks well of her?)</em></p><p>And maybe, at least for some, a utilitarian rationale for mindfulness is persuasive? As Harris says, it's "... being nice for selfish reasons ...", and he has found it helpful for getting ahead in his career, marriage, etc.</p><p>Well, ok ...</p><p><em><strong>^z</strong></em> - 2015-03-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: //**10% Happier**// is 90% Dan Harris.
+	
+	The book is subtitled "How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works &mdash; a True Story". It's a semi-autobiography by a semi-celebrity TV news guy, Dan Harris, and revolves around the author's experiences in mindfulness meditation. //**10% Happier**// is awesomely egotistical and blatantly disingenuous. But it also includes some excellent bits &mdash; e.g., the figurative phrase:
+	
+	| "... nostalgia for the present ..." |
+	
+	The words appear in Chapter 9, with fuller context:
+	"""
+	... I could actually feel this happening with me. I noticed myself cultivating a sort of nostalgia for the present, developing the reflex to squelch pointless self-talk and simply notice whatever was going on around me: a blast of hot halitosis from a subway vent as I walked to work, the carpet of suburban lights seen from a landing airplane, rippling water reflecting sine waves of light onto the side of a boat while I was shooting a story in Virginia Beach. In moments where I was temporarily able to suspend my monkey mind and simply experience whatever was going on, I got just the smallest taste of the happiness I'd achieved while on retreat. ..."
+	"""
+	
+	Yep, that density of first-person pronouns is quite typical. //**10% Happier**// is, however, a blitzy-fast read, with plenty of confessional bits alongside shameless self-promotion. The advice on how to meditate is useful. Anecdotes from interviews with famous folks in the self-awareness sphere &mdash; Eckhart Tolle, the Dalai Lama, Mark Epstein, Joseph Goldstein, ... &mdash; are often entertaining, though Harris doesn't seem conscious of how much they're using him and vice versa. //(He is also somewhat harsh toward Tara Brach; perhaps that implicitly speaks well of her?)//
+	
+	And maybe, at least for some, a utilitarian rationale for mindfulness is persuasive? As Harris says, it's "... being nice for selfish reasons ...", and he has found it helpful for getting ahead in his career, marriage, etc.
+	
+	Well, ok ...
+	
+	//**^z**// - 2015-03-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//**10% Happier**// is 90% Dan Harris.<br />&gt; The book is subtitled "How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works &amp;mdash; a True Story". It's a semi-autobiography by a semi-celebrity TV news guy, Dan Harris, and revolves around the author's experiences in mindfulness meditation. //**10% Happier**// is awesomely egotistical and blatantly disingenuous. But it also includes some excellent bits &amp;mdash; e.g., the figurative phrase:<br />&gt; | "... nostalgia for the present ..." |<br />&gt; The words appear in Chapter 9, with fuller context:<br />&gt; """<br />&gt; ... I could actually feel this happening with me. I noticed myself cultivating a sort of nostalgia for the present, developing the reflex to squelch pointless self-talk and simply notice whatever was going on around me: a blast of hot halitosis from a subway vent as I walked to work, the carpet of suburban lights seen from a landing airplane, rippling water reflecting sine waves of light onto the side of a boat while I was shooting a story in Virginia Beach. In moments where I was temporarily able to suspend my monkey mind and simply experience whatever was going on, I got just the smallest taste of the happiness I'd achieved while on retreat. ..."<br />&gt; """<br />&gt; Yep, that density of first-person pronouns is quite typical. //**10% Happier**// is, however, a blitzy-fast read, with plenty of confessional bits alongside shameless self-promotion. The advice on how to meditate is useful. Anecdotes from interviews with famous folks in the self-awareness sphere &amp;mdash; Eckhart Tolle, the Dalai Lama, Mark Epstein, Joseph Goldstein, ... &amp;mdash; are often entertaining, though Harris doesn't seem conscious of how much they're using him and vice versa. //(He is also somewhat harsh toward Tara Brach; perhaps that implicitly speaks well of her?)//<br />&gt; And maybe, at least for some, a utilitarian rationale for mindfulness is persuasive? As Harris says, it's "... being nice for selfish reasons ...", and he has found it helpful for getting ahead in his career, marriage, etc.<br />&gt; Well, ok ...<br />&gt; //**^z**// - 2015-03-07</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

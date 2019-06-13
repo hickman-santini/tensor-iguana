@@ -1,0 +1,18 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3>It's been remarked that the appreciation of humor (or perhaps more  to the point here: <em>wit</em>) mainly requires the mental juxtaposition of <em>how things are</em> and <em>how things are supposed to be</em>, plus the context of the situation at hand -- it's the preception of a particular kind of contrast that can trigger the guffaw.</p><p>-- <a class="url http outside" href="http://zhurnaly.com">zz</a> 2009-06-14 00:29 UTC</p>
+ip: 141.156.143.26
+ts: 1309102437
+minor: 0
+host: pool-141-156-143-26.res.east.verizon.net
+username: MarkZimmermann
+revision: 5
+summary: Rollback to 2009-06-14 00:29 UTC
+languages: 
+text: === 1 Comment. ===
+	It's been remarked that the appreciation of humor (or perhaps more  to the point here: //wit//) mainly requires the mental juxtaposition of //how things are// and //how things are supposed to be//, plus the context of the situation at hand -- it's the preception of a particular kind of contrast that can trigger the guffaw.
+	
+	-- [http://zhurnaly.com zz] 2009-06-14 00:29 UTC
+	
+	
+lastmajor: 5
+keep-ts: 1309102437

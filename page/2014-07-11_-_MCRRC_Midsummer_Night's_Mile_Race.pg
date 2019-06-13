@@ -1,0 +1,27 @@
+blocks: <h3>1 mile @ 6:35 min/mi</h3><table class="user"><tr><td align="right"><a class="image outside" href="http://zhurnaly.com/images/running/MCRRC_Midsummer_Night_Mile_z_finish.jpg"><img class="upload" title="MCRRC Midsummer Night's Mile finish by Mark Zimmermann" src="http://zhurnaly.com/images/running/MCRRC_Midsummer_Night_Mile_z_finish_t.jpg" alt="MCRRC Midsummer Night's Mile finish by Mark Zimmermann" /></a></td><td align="right"><strong>6:35</strong> (!) for the <a class="url http outside" href="http://mcrrc.org">MCRRC</a> "Midsummer Night's Mile"&mdash; alas, the PB is ~6:32 from a few years ago, though age-adjusted 2014 might be a hair better. <a class="url http outside" href="http://www.mcrrc.org/midsummer-nights-mile-3">Official results</a> put it 4th of 7 in the 60-64 male age/sex group, at 6:34.9, in 88th place of 196 overall. Arch-rival and 8-year-old nemesis Jason Parks is 20 seconds ahead.</td></tr></table><p>Miss a split during the run, but roughly the first lap is 1:34, the middle half mile goes in 3:22, and the last lap takes 1:38. GPS records in <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/391216163">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/541103092">Garmin</a> are relatively useless.</p><p><em>(photo by Dan Reichmann; click for higher-resolution version)</em> |</p><p><em><strong>^z</strong></em> - 2014-07-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.196
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 mile @ 6:35 min/mi
+	
+	| [[image:http://zhurnaly.com/images/running/MCRRC_Midsummer_Night_Mile_z_finish_t.jpg|MCRRC Midsummer Night's Mile finish by Mark Zimmermann|http://zhurnaly.com/images/running/MCRRC_Midsummer_Night_Mile_z_finish.jpg]] | **6:35** (!) for the [[http://mcrrc.org|MCRRC]] "Midsummer Night's Mile"&mdash; alas, the PB is ~6:32 from a few years ago, though age-adjusted 2014 might be a hair better. [[http://www.mcrrc.org/midsummer-nights-mile-3|Official results]] put it 4th of 7 in the 60-64 male age/sex group, at 6:34.9, in 88th place of 196 overall. Arch-rival and 8-year-old nemesis Jason Parks is 20 seconds ahead.
+	
+	Miss a split during the run, but roughly the first lap is 1:34, the middle half mile goes in 3:22, and the last lap takes 1:38. GPS records in [[http://runkeeper.com/user/zhurnaly/activity/391216163|Runkeeper]] and [[http://connect.garmin.com/modern/activity/541103092|Garmin]] are relatively useless.
+	
+	//(photo by Dan Reichmann; click for higher-resolution version)// |
+	
+	//**^z**// - 2014-07-26
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 mile @ 6:35 min/mi<br />&gt; | [[image:http://zhurnaly.com/images/running/MCRRC_Midsummer_Night_Mile_z_finish_t.jpg|MCRRC Midsummer Night's Mile finish by Mark Zimmermann|http://zhurnaly.com/images/running/MCRRC_Midsummer_Night_Mile_z_finish.jpg]] | **6:35** (!) for the [[http://mcrrc.org|MCRRC]] "Midsummer Night's Mile"&amp;mdash; alas, the PB is ~6:32 from a few years ago, though age-adjusted 2014 might be a hair better. [[http://www.mcrrc.org/midsummer-nights-mile-3|Official results]] put it 4th of 7 in the 60-64 male age/sex group, at 6:34.9, in 88th place of 196 overall. Arch-rival and 8-year-old nemesis Jason Parks is 20 seconds ahead.<br />&gt; Miss a split during the run, but roughly the first lap is 1:34, the middle half mile goes in 3:22, and the last lap takes 1:38. GPS records in [[http://runkeeper.com/user/zhurnaly/activity/391216163|Runkeeper]] and [[http://connect.garmin.com/modern/activity/541103092|Garmin]] are relatively useless.<br />&gt; //(photo by Dan Reichmann; click for higher-resolution version)// |<br />&gt; //**^z**// - 2014-07-26</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057711

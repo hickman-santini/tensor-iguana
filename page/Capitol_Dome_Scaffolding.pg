@@ -1,0 +1,23 @@
+blocks: <table class="user"><tr><td align="right">The US Capitol is luminous as work continues to restore the cast iron dome. The dome is about 150 years old; it has many cracks and leaks, and the layers of paint on it are peeling. Most repair work is done at night. The project should be finished by late 2016.</td></tr></table><p><em>(photo taken 2016-02-09, about 11pm, of the east side of the building as seen from 1st St Southeast)</em> | <img class="url http" src="http://zhurnaly.com/images/US_Capitol_dome_scaffolding_2016.jpg" alt="http://zhurnaly.com/images/US_Capitol_dome_scaffolding_2016.jpg" /> |</p><p><em><strong>^z</strong></em> - 2016-03-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.174
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | The US Capitol is luminous as work continues to restore the cast iron dome. The dome is about 150 years old; it has many cracks and leaks, and the layers of paint on it are peeling. Most repair work is done at night. The project should be finished by late 2016.
+	
+	//(photo taken 2016-02-09, about 11pm, of the east side of the building as seen from 1st St Southeast)// | http://zhurnaly.com/images/US_Capitol_dome_scaffolding_2016.jpg |
+	
+	
+	//**^z**// - 2016-03-08
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; | The US Capitol is luminous as work continues to restore the cast iron dome. The dome is about 150 years old; it has many cracks and leaks, and the layers of paint on it are peeling. Most repair work is done at night. The project should be finished by late 2016.<br />&gt; //(photo taken 2016-02-09, about 11pm, of the east side of the building as seen from 1st St Southeast)// | http://zhurnaly.com/images/US_Capitol_dome_scaffolding_2016.jpg |<br />&gt; //**^z**// - 2016-03-08</p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057693

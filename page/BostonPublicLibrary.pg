@@ -1,0 +1,16 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">The inscription on the fa&amp;ccedil;ade of the McKim Building reads:<br />&lt; :**MDCCCLII // FOUNDED THROUGH THE MUNIFICENCE AND PUBLIC SPIRIT OF CITIZENS // THE PUBLIC LIBRARY OF THE CITY OF BOSTON BUILT BY THE PEOPLE AND DEDICATED TO THE ADVANCEMENT OF LEARNING A.D. MDCCCLXXXVIII // THE COMMONWEALTH REQUIRES THE EDUCATION OF THE PEOPLE AS THE SAFEGUARD OF ORDER AND LIBERTY**<br />&lt; And over the entrance, simply the words<br />&lt; :**FREE TO ALL**<br />&lt; //(posted from an Internet terminal in the adjacent Johnson Building of the</strong> Boston Public Library<strong class="changes">)//<br />&lt; ----<br />&lt; [[TopicLibraries]] - [[TopicPersonalHistory</strong>]] <strong class="changes">- Datetag20020620<br />&lt; ----<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[KnowledgeAndPublicHappiness]], [[MaryLandersForMathias]], [[BluffingVersusHumility]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[</strong>Boston Public Library]]</p></div>
+ip: 70.21.87.47
+ts: 1220728793
+minor: 1
+host: pool-70-21-87-47.res.east.verizon.net
+username: MarkZimmermann
+revision: 5
+diff-major: 
+summary: make redirect
+languages: 
+text: #REDIRECT [[Boston Public Library]]
+	
+lastmajor: 3
+keep-ts: 1220728793

@@ -1,0 +1,26 @@
+flags: 0
+blocks: <p><h3>10 miles @ ~11 min/mi</h3></p><p>A big deer crosses the road in front of me as I drive down Beach Dr near the Audubon Society estate. I slow, and another deer scampers out of the woods, then another, and another, and finally a fifth little one. They stand on the lawn and stare at me as I cruise cautiously by. In downtown Bethesda I visit the grocery store, then park and meet Emaad Burki, Ken Swab, and Cara Marie Manlandro who all want to run along the Capital Crescent Trail this morning.</p><p>Banter ensues. Emaad is planning to do the National Marathon next Saturday; CM is registered but dithering. She just passed her preliminary Ph.D. oral exams and is still on the rebound. We trek along at a steady ~11 min/mi pace past Fletcher's Boathouse to turn around at milepost 8.5. <em>En route</em> flocks of fellow runners greet us. Jim Rich runs by, and later we see his wife Patti with Julie Trapp at the Dalecarlia water fountain. They ask me the name of the trees now blooming with pink blossoms&mdash;cherry, perhaps? I'm clueless.</p><p>In the final stretch I speculate that with a sprint we could do the last mile in under 10 minutes. "Show us your heels, Emaad!" I challenge, and he obliges. His kick is incredible; we run together for 100 meters or so and he glides ahead of me with apparent ease. We finish with a 9:57 mile by my watch.</p><p><em><strong>^z</strong></em> - 2009-03-21</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; In the final stretch I <strong class="changes">think</strong> that with a sprint we do the last mile in under 10 minutes. "Show us your heels, Emaad!" I challenge, and he obliges. His kick is incredible; we run together for 100 meters or so and he glides ahead of me with apparent ease. We finish with a 9:57 mile by my watch.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; In the final stretch I <strong class="changes">speculate</strong> that with a sprint we <strong class="changes">could</strong> do the last mile in under 10 minutes. "Show us your heels, Emaad!" I challenge, and he obliges. His kick is incredible; we run together for 100 meters or so and he glides ahead of me with apparent ease. We finish with a 9:57 mile by my watch.</p></div>
+ip: 138.88.176.69
+ts: 1237628651
+minor: 1
+host: pool-138-88-176-69.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: === 10 miles @ ~11 min/mi
+	
+	A big deer crosses the road in front of me as I drive down Beach Dr near the Audubon Society estate. I slow, and another deer scampers out of the woods, then another, and another, and finally a fifth little one. They stand on the lawn and stare at me as I cruise cautiously by. In downtown Bethesda I visit the grocery store, then park and meet Emaad Burki, Ken Swab, and Cara Marie Manlandro who all want to run along the Capital Crescent Trail this morning.
+	
+	Banter ensues. Emaad is planning to do the National Marathon next Saturday; CM is registered but dithering. She just passed her preliminary Ph.D. oral exams and is still on the rebound. We trek along at a steady ~11 min/mi pace past Fletcher's Boathouse to turn around at milepost 8.5. //En route// flocks of fellow runners greet us. Jim Rich runs by, and later we see his wife Patti with Julie Trapp at the Dalecarlia water fountain. They ask me the name of the trees now blooming with pink blossoms&mdash;cherry, perhaps? I'm clueless.
+	
+	In the final stretch I speculate that with a sprint we could do the last mile in under 10 minutes. "Show us your heels, Emaad!" I challenge, and he obliges. His kick is incredible; we run together for 100 meters or so and he glides ahead of me with apparent ease. We finish with a 9:57 mile by my watch.
+	
+	//**^z**// - 2009-03-21
+	
+lastmajor: 1
+keep-ts: 1237628651

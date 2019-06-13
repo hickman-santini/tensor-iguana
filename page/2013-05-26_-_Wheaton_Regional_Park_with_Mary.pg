@@ -1,0 +1,23 @@
+blocks: <h3>~4.3 miles @ ~14.2 min/mi</h3><p>Dear comrade Mary Ewell visits my family at the Old Homestead, and then we ride together to New Place and take a rambling tour together of Wheaton Regional Park byways, both paved and natural-surface. Wonderful "trail talk" ensues, extraordinarily therapeutic, concerning our silly lives. <em>(Thank you, Mary &mdash; I am truly blessed to have such lovely friends!)</em> We also discuss training plans, triathlon strategy, modern medical fallacies, and nutrition. As we return to Henderson Avenue a speedy buff young fellow passes us and incentivizes Mary to give chase for the last quarter mile. I concur in her admiration of his chiseled calves and upper-body musculature. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/186011777">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/321258934">Garmin</a> concur to within ~2%.</p><p><em><strong>^z</strong></em> - 2013-06-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~4.3 miles @ ~14.2 min/mi
+	
+	Dear comrade Mary Ewell visits my family at the Old Homestead, and then we ride together to New Place and take a rambling tour together of Wheaton Regional Park byways, both paved and natural-surface. Wonderful "trail talk" ensues, extraordinarily therapeutic, concerning our silly lives. //(Thank you, Mary &mdash; I am truly blessed to have such lovely friends!)// We also discuss training plans, triathlon strategy, modern medical fallacies, and nutrition. As we return to Henderson Avenue a speedy buff young fellow passes us and incentivizes Mary to give chase for the last quarter mile. I concur in her admiration of his chiseled calves and upper-body musculature.  [[http://runkeeper.com/user/zhurnaly/activity/186011777|Runkeeper]] and [[http://connect.garmin.com/activity/321258934 |Garmin]] concur to within ~2%.
+	
+	//**^z**// - 2013-06-13
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.3 miles @ ~14.2 min/mi<br />&gt; Dear comrade Mary Ewell visits my family at the Old Homestead, and then we ride together to New Place and take a rambling tour together of Wheaton Regional Park byways, both paved and natural-surface. Wonderful "trail talk" ensues, extraordinarily therapeutic, concerning our silly lives. //(Thank you, Mary &amp;mdash; I am truly blessed to have such lovely friends!)// We also discuss training plans, triathlon strategy, modern medical fallacies, and nutrition. As we return to Henderson Avenue a speedy buff young fellow passes us and incentivizes Mary to give chase for the last quarter mile. I concur in her admiration of his chiseled calves and upper-body musculature.  [[http://runkeeper.com/user/zhurnaly/activity/186011777|Runkeeper]] and [[http://connect.garmin.com/activity/321258934 |Garmin]] concur to within ~2%.<br />&gt; //**^z**// - 2013-06-13</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

@@ -1,0 +1,22 @@
+blocks: <h3>~3.1 miles @ ~10.7 min/mi</h3><p>Pre-dawn with Kristin around the MITRE/McLean neighborhood: Orion, Sirius, and Jupiter glimmer through the gaps between streetlights. We chat about family, friends, training, soreness, and life. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/243678094">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/379867939">Garmin</a> concur on the distance and pace.</p><p><em><strong>^z</strong></em> - 2013-10-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.53
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.1 miles @ ~10.7 min/mi
+	
+	Pre-dawn with Kristin around the MITRE/McLean neighborhood: Orion, Sirius, and Jupiter glimmer through the gaps between streetlights. We chat about family, friends, training, soreness, and life. [[http://runkeeper.com/user/zhurnaly/activity/243678094|Runkeeper]] and [[http://connect.garmin.com/activity/379867939|Garmin]] concur on the distance and pace.
+	
+	//**^z**// - 2013-10-04
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~3.1 miles @ ~10.7 min/mi<br />&gt; Pre-dawn with Kristin around the MITRE/McLean neighborhood: Orion, Sirius, and Jupiter glimmer through the gaps between streetlights. We chat about family, friends, training, soreness, and life. [[http://runkeeper.com/user/zhurnaly/activity/243678094|Runkeeper]] and [[http://connect.garmin.com/activity/379867939|Garmin]] concur on the distance and pace.<br />&gt; //**^z**// - 2013-10-04</p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057689

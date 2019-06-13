@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p>Jon Kabat-Zinn and other writers hit the bulls-eye when, discussing Buddhist-style mindfulness meditation, they stress the importance of practice <strong>before</strong> crisis. I've been trying to deliberately and nonjudgmentally self-observe in odd moments, when walking or waiting or otherwise unoccupied. Although I sometimes think about doing it, I rarely set aside an explicit time for conscious self-awareness.</p><p>But if I really <em>need</em> help&mdash;when pain from a broken arm keeps me awake through the night, when an argument looms and I can't bite my tongue in time to prevent it, when running a tough race moves past discomfort into the "Why am I doing this?" zone, when one of my well-known personal weaknesses emerges and I lose my cool&mdash;my attempts to apply mindfulness techniques are only partially successful ... just successful enough to hint that it could be done <em>much</em> better, given more practice.</p><p><em><strong>^z</strong></em> - 2010-03-13</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Jon Kabat-Zinn and other writers hit the bulls-eye when, discussing Buddhist-style mindfulness meditation, they stress the importance of practice **before** crisis. I've been trying to deliberately and nonjudgmentally self-observe in odd moments, when walking or waiting or otherwise unoccupied. Although I think about doing it, I rarely set aside an explicit time for conscious self-awareness.<br />&lt; But if I really //need// help&amp;mdash;<strong class="changes">like</strong> when pain from a broken arm keeps me awake through the night, <strong class="changes">or if</strong> running a tough race moves past discomfort into the "Why am I doing this?" zone&amp;mdash;my attempts to apply mindfulness techniques are only partially successful ... just successful enough to hint that it could be done //much// better, given more practice.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Jon Kabat-Zinn and other writers hit the bulls-eye when, discussing Buddhist-style mindfulness meditation, they stress the importance of practice **before** crisis. I've been trying to deliberately and nonjudgmentally self-observe in odd moments, when walking or waiting or otherwise unoccupied. Although I <strong class="changes">sometimes</strong> think about doing it, I rarely set aside an explicit time for conscious self-awareness.<br />&gt; But if I really //need// help&amp;mdash;when pain from a broken arm keeps me awake through the night, <strong class="changes">when an argument looms and I can't bite my tongue in time to prevent it, when</strong> running a tough race moves past discomfort into the "Why am I doing this?" zone<strong class="changes">, when one of my well-known personal weaknesses emerges and I lose my cool</strong>&amp;mdash;my attempts to apply mindfulness techniques are only partially successful ... just successful enough to hint that it could be done //much// better, given more practice.</p></div>
+ip: 138.88.114.105
+ts: 1268512866
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 6
+diff-major: 
+summary: tweak 5
+languages: 
+text: Jon Kabat-Zinn and other writers hit the bulls-eye when, discussing Buddhist-style mindfulness meditation, they stress the importance of practice **before** crisis. I've been trying to deliberately and nonjudgmentally self-observe in odd moments, when walking or waiting or otherwise unoccupied. Although I sometimes think about doing it, I rarely set aside an explicit time for conscious self-awareness.
+	
+	But if I really //need// help&mdash;when pain from a broken arm keeps me awake through the night, when an argument looms and I can't bite my tongue in time to prevent it, when running a tough race moves past discomfort into the "Why am I doing this?" zone, when one of my well-known personal weaknesses emerges and I lose my cool&mdash;my attempts to apply mindfulness techniques are only partially successful ... just successful enough to hint that it could be done //much// better, given more practice.
+	
+	//**^z**// - 2010-03-13
+	
+lastmajor: 1
+keep-ts: 1268512866

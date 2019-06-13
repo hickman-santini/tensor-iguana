@@ -1,0 +1,31 @@
+blocks: <table class="user"><tr><td align="right">Down the street from <em>Che^z</em> near the US Army's Ft Detreck Walter Reed Annex is the <a class="url http outside" href="http://www.medicalmuseum.mil">National Museum of Health and Medicine</a>. The building itself is fascinating architecturally ...</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/National_Museum_Health_Medicine_bldg.jpg" alt="http://zhurnaly.com/images/National_Museum_Health_Medicine_bldg.jpg" /></td></tr></table><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/NMHM_skeleton_1.jpg" alt="http://zhurnaly.com/images/NMHM_skeleton_1.jpg" /></td><td align="center">... as are some of the materials in glass cases inside, such as these tiny fetal skeletons ...</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/NMHM_skeleton_2.jpg" alt="http://zhurnaly.com/images/NMHM_skeleton_2.jpg" /></td></tr></table><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/NMHM_brain_vat_0.jpg" alt="http://zhurnaly.com/images/NMHM_brain_vat_0.jpg" /></td><td align="center">... and various other exhibits involving mostly military-related medical themes. Among the most interesting neuroscience-related items at the NMHM is a genuine "brain in a vat" (with spinal cord) ...</td></tr></table><table class="user"><tr><td align="center">... but if a visitor gets too close, an undocumented feature of this display apparently may be triggered ...</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/NMHM_brain_vat_1.jpg" alt="http://zhurnaly.com/images/NMHM_brain_vat_1.jpg" /></td></tr></table><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/NMHM_brain_vat_2.jpg" alt="http://zhurnaly.com/images/NMHM_brain_vat_2.jpg" /></td><td align="center">... and pull that person's consciousness into the pickled cerebral mass, leaving behind a vacant stare and an empty-headed ...</td></tr></table><table class="user"><tr><td align="center">... zombie. Strangely but fortunately, however, in the case of this victim of the system absolutely no differences could be observed after the mind was removed!</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/NMHM_brain_vat_3.jpg" alt="http://zhurnaly.com/images/NMHM_brain_vat_3.jpg" /></td></tr></table><p><em><strong>^z</strong></em> - 2014-10-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.209.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Down the street from //Che^z// near the US Army's Ft Detreck Walter Reed Annex is the [[http://www.medicalmuseum.mil|National Museum of Health and Medicine]]. The building itself is fascinating architecturally ... | http://zhurnaly.com/images/National_Museum_Health_Medicine_bldg.jpg |
+	
+	| http://zhurnaly.com/images/NMHM_skeleton_1.jpg | ... as are some of the materials in glass cases inside, such as these tiny fetal skeletons ... | http://zhurnaly.com/images/NMHM_skeleton_2.jpg |
+	
+	| http://zhurnaly.com/images/NMHM_brain_vat_0.jpg | ... and various other exhibits involving mostly military-related medical themes. Among the most interesting neuroscience-related items at the NMHM is a genuine "brain in a vat" (with spinal cord) ... |
+	
+	| ... but if a visitor gets too close, an undocumented feature of this display apparently may be triggered ... | http://zhurnaly.com/images/NMHM_brain_vat_1.jpg |
+	
+	| http://zhurnaly.com/images/NMHM_brain_vat_2.jpg | ... and pull that person's consciousness into the pickled cerebral mass, leaving behind a vacant stare and an empty-headed ... |
+	
+	| ... zombie. Strangely but fortunately, however, in the case of this victim of the system absolutely no differences could be observed after the mind was removed! | http://zhurnaly.com/images/NMHM_brain_vat_3.jpg |
+	
+	//**^z**// - 2014-10-18
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Down the street from //Che^z// near the US Army's Ft Detreck Walter Reed Annex is the [[http://www.medicalmuseum.mil|National Museum of Health and Medicine]]. The building itself is fascinating architecturally ... | http://zhurnaly.com/images/National_Museum_Health_Medicine_bldg.jpg |<br />&gt; | http://zhurnaly.com/images/NMHM_skeleton_1.jpg | ... as are some of the materials in glass cases inside, such as these tiny fetal skeletons ... | http://zhurnaly.com/images/NMHM_skeleton_2.jpg |<br />&gt; | http://zhurnaly.com/images/NMHM_brain_vat_0.jpg | ... and various other exhibits involving mostly military-related medical themes. Among the most interesting neuroscience-related items at the NMHM is a genuine "brain in a vat" (with spinal cord) ... |<br />&gt; | ... but if a visitor gets too close, an undocumented feature of this display apparently may be triggered ... | http://zhurnaly.com/images/NMHM_brain_vat_1.jpg |<br />&gt; | http://zhurnaly.com/images/NMHM_brain_vat_2.jpg | ... and pull that person's consciousness into the pickled cerebral mass, leaving behind a vacant stare and an empty-headed ... |<br />&gt; | ... zombie. Strangely but fortunately, however, in the case of this victim of the system absolutely no differences could be observed after the mind was removed! | http://zhurnaly.com/images/NMHM_brain_vat_3.jpg |<br />&gt; //**^z**// - 2014-10-18</strong></p></div>
+flags: 0
+ts: 1528057702
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057702

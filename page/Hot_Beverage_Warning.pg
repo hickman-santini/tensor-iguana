@@ -1,0 +1,25 @@
+blocks: <p>Seen on a shopping cart at the neighborhood grocery store:</p><p><img class="url http" src="http://zhurnaly.com/images/Hot_Beverage_Warning.jpg" alt="http://zhurnaly.com/images/Hot_Beverage_Warning.jpg" /></p><p>"Warning! Do not place hot beverage in holder when child is in seat!"</p><p><em><strong>^z</strong></em> - 2012-09-30</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.170.21
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: Seen on a shopping cart at the neighborhood grocery store:
+	
+	http://zhurnaly.com/images/Hot_Beverage_Warning.jpg
+	
+	"Warning! Do not place hot beverage in holder when child is in seat!"
+	
+	//**^z**// - 2012-09-30
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Seen on a shopping cart at the neighborhood grocery store:<br />&gt; http://zhurnaly.com/images/Hot_Beverage_Warning.jpg<br />&gt; "Warning! Do not place hot beverage in holder when child is in seat!"<br />&gt; //**^z**// - 2012-09-30</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

@@ -1,0 +1,30 @@
+blocks: <h3>1 Comment.</h3><p>There is also this from "The Walrus and the Carpenter" by Lewis Carroll:<br /></p><blockquote><p> The sea was wet as wet could be,<br /> The sands were dry as dry.<br /> You could not see a cloud, because<br /> No cloud was in the sky:<br /> No birds were flying overhead--<br /> There were no birds to fly.<br /></p></blockquote><p>- Hy</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 198.228.200.152
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	
+	There is also this from "The Walrus and the Carpenter" by Lewis Carroll:
+	"""
+	     The sea was wet as wet could be,
+	     The sands were dry as dry.
+	     You could not see a cloud, because
+	     No cloud was in the sky:
+	     No birds were flying overhead--
+	     There were no birds to fly.
+	"""
+	
+	- Hy
+	
+languages: 
+lastmajor: 7
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; There is also this from "The Walrus and the Carpenter" by Lewis Carroll:<br />&gt; """<br />&gt;      The sea was wet as wet could be,<br />&gt;      The sands were dry as dry.<br />&gt;      You could not see a cloud, because<br />&gt;      No cloud was in the sky:<br />&gt;      No birds were flying overhead--<br />&gt;      There were no birds to fly.<br />&gt; """<br />&gt; - Hy</p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 7
+keep-ts: 1528057701

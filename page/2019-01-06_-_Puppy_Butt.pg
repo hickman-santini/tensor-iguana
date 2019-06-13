@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~8.3 mi @ ~12.3 min/mi</h3><table class="user"><tr><td align="right"><a class="image outside" href="http://zhurnaly.com/images/lawn_ornament_dog_butt_2019-01-06b.jpg"><img class="upload" title="lawn statue puppy" src="http://zhurnaly.com/images/lawn_ornament_dog_butt_2019-01-06b_t.jpg" alt="lawn statue puppy" /></a></td><td align="right">"Great blue heron!" Danger Man &amp; Roadkill stop to watch the magnificent bird launch itself into flight at our approach, wingtips almost touching the water's surface. A flock of ducks occupy the far shore of the pond. We meander north, taking cut-throughs at every opportunity, pausing for slow-motion leaps on playground equipment at an elementary school. Slower-mo running continues when a toy poodle passes us along Sligo Creek Trail. <em>Grrrrrr!</em><br /><br />"Puppy butt!" A new lawn sculpture poses by a driveway, head apparently buried in the earth. The line at the bagel bakery stretches almost out the door, too long to permit a stop for bialys. <em>Another day!</em></td></tr></table><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1274632972">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2019-02-02</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Great blue heron!" Danger Man &amp; Roadkill stop to watch the magnificent bird launch itself into flight at our approach, wingtips almost touching the water's surface. A flock of ducks occupy the far shore of the pond. We meander north, taking cut-throughs at every opportunity, pausing for slow-motion leaps on playground equipment at an elementary school. Slower-mo running continues when a toy poodle passes us along Sligo Creek Trail. //Grrrrrr!//<br />&lt; "Puppy butt!" A new lawn sculpture poses by a driveway, head apparently buried in the earth. The line at the bagel bakery stretches almost out the door, too long to permit a stop for bialys. //Another day!//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| [[image:http://zhurnaly.com/images/lawn_ornament_dog_butt_2019-01-06b_t.jpg|lawn statue puppy|http://zhurnaly.com/images/lawn_ornament_dog_butt_2019-01-06b.jpg]] |</strong> "Great blue heron!" Danger Man &amp; Roadkill stop to watch the magnificent bird launch itself into flight at our approach, wingtips almost touching the water's surface. A flock of ducks occupy the far shore of the pond. We meander north, taking cut-throughs at every opportunity, pausing for slow-motion leaps on playground equipment at an elementary school. Slower-mo running continues when a toy poodle passes us along Sligo Creek Trail. //Grrrrrr!//<br />&gt; <strong class="changes">\\</strong><br />&gt; "Puppy butt!" A new lawn sculpture poses by a driveway, head apparently buried in the earth. The line at the bagel bakery stretches almost out the door, too long to permit a stop for bialys. //Another day!// <strong class="changes">|</strong></p></div>
+lastmajorsummary: add image
+ts: 1549110823
+minor: 
+host: 71.178.84.76
+username: z
+revision: 2
+diff-major: 1
+summary: add image
+languages: 
+text: === ~8.3 mi @ ~12.3 min/mi
+	
+	| [[image:http://zhurnaly.com/images/lawn_ornament_dog_butt_2019-01-06b_t.jpg|lawn statue puppy|http://zhurnaly.com/images/lawn_ornament_dog_butt_2019-01-06b.jpg]] | "Great blue heron!" Danger Man & Roadkill stop to watch the magnificent bird launch itself into flight at our approach, wingtips almost touching the water's surface. A flock of ducks occupy the far shore of the pond. We meander north, taking cut-throughs at every opportunity, pausing for slow-motion leaps on playground equipment at an elementary school. Slower-mo running continues when a toy poodle passes us along Sligo Creek Trail. //Grrrrrr!//
+	\\
+	"Puppy butt!" A new lawn sculpture poses by a driveway, head apparently buried in the earth. The line at the bagel bakery stretches almost out the door, too long to permit a stop for bialys. //Another day!// |
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1274632972|trackfile]])// - //**^z**// - 2019-02-02
+	
+lastmajor: 2
+keep-ts: 1549110823

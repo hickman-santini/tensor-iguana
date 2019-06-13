@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">{{{<br />&lt;  Turbid, turgid, flood-swollen turbulent<br />&lt;    Waters wrestle and shout through graygreen<br />&lt;  Shadow-woods: aspen, willow, maple;<br />&lt;    Ancient oak pregnant with burl-trunk bulge,<br />&lt;  Lightning-scarred; windtorn prickle-brush.<br />&lt;    Drip drizzle rain puddles. Musky mold<br />&lt;  Scent rises from fogmist. Squirrels scuttle.<br />&lt;    Doe and fawns freeze, flinch, flee.<br />&lt;  I am stream and tree, earth and sky, as I<br />&lt;    Splashstep, sideslip on slither-leaves,<br />&lt;  Leap rock, kick root, stride over stone,<br />&lt;    Scan for blazes to signal trail turns,<br />&lt;  Gasp nature-air, soar over ridgetop angle ---<br />&lt;    Then angel-fly downslope again to land.<br />&lt; }}}<br />&lt; ----</strong><br />&lt; [[<strong class="changes">TopicPoetry</strong>]] <strong class="changes">- [[TopicRunning]] - [[TopicPersonalHistory]] - Datetag20040430<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[CapitalJayForJog]], [[HighGlider]], [[RememberRafe]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">Rock Creek Valley Trail</strong>]]</p></div>
+ip: 70.21.97.63
+ts: 1219002933
+minor: 1
+host: pool-70-21-97-63.res.east.verizon.net
+username: MarkZimmermann
+revision: 6
+diff-major: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt;  Turbid, turgid, flood-swollen turbulent</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt;  Turbid, turgid, flood-swollen turbulent</p></div>
+summary: redirect to Rock Creek Valley Trail
+languages: 
+text: #REDIRECT [[Rock Creek Valley Trail]]
+	
+lastmajor: 4
+keep-ts: 1219002933

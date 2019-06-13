@@ -1,0 +1,25 @@
+blocks: <h3>~5.8 miles @ ~14.8 min/mi</h3><p>"So hard to see things from another person's viewpoint!" Mindful conversation today begins with thoughts on empathy and metacognitive modeling of mental states. A Dawn Patrol Duo heads toward a rising sun, climbing hills and taking cut-throughs. Unusual mansion security features provoke Bayesian analysis of possibilities. Kristin carries the other Dr K's newspaper up to her front doorstep as we loop through West Langley and pause to take pictures.</p><p>"We're discovering new ways to escape if the police are in hot pursuit!" A previously-unknown brick walkway leads through a gap in the wall from Enterprise Avenue to Farm Meadow Court. A grassy path starts strong but then fades between Evans Drive and McLean Commons Lane. Bunny count = 4.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1017923893">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-08-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.17
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.8 miles @ ~14.8 min/mi
+	
+	"So hard to see things from another person's viewpoint!" Mindful conversation today begins with thoughts on empathy and metacognitive modeling of mental states. A Dawn Patrol Duo heads toward a rising sun, climbing hills and taking cut-throughs. Unusual mansion security features provoke Bayesian analysis of possibilities. Kristin carries the other Dr K's newspaper up to her front doorstep as we loop through West Langley and pause to take pictures.
+	
+	"We're discovering new ways to escape if the police are in hot pursuit!" A previously-unknown brick walkway leads through a gap in the wall from Enterprise Avenue to Farm Meadow Court. A grassy path starts strong but then fades between Evans Drive and McLean Commons Lane. Bunny count = 4.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1017923893|trackfile]])// - //**^z**// - 2017-08-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.8 miles @ ~14.8 min/mi<br />&gt; "So hard to see things from another person's viewpoint!" Mindful conversation today begins with thoughts on empathy and metacognitive modeling of mental states. A Dawn Patrol Duo heads toward a rising sun, climbing hills and taking cut-throughs. Unusual mansion security features provoke Bayesian analysis of possibilities. Kristin carries the other Dr K's newspaper up to her front doorstep as we loop through West Langley and pause to take pictures.<br />&gt; "We're discovering new ways to escape if the police are in hot pursuit!" A previously-unknown brick walkway leads through a gap in the wall from Enterprise Avenue to Farm Meadow Court. A grassy path starts strong but then fades between Evans Drive and McLean Commons Lane. Bunny count = 4.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1017923893|trackfile]])// - //**^z**// - 2017-08-10</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

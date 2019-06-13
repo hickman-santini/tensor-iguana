@@ -1,0 +1,23 @@
+blocks: <h3>~5 miles @ ~12.0 min/mi</h3><p>"No, that's 'Arrested Development'!" - "No, that's 'The Middle'!" - Cait and Kerry gently disambiguate 'Modern Family' from other TV comedies that hash-table collide in the old mental database. Even with the change to Standard Time morning is dark enough for the Dawn Patrol to need flashlights for the first few miles. A new Petzl ACTIK headlamp is super-bright, beam backscattering in the fog. We share Thanksgiving family traditions <em>("Boston Market creamed spinach")</em> and film recommendations <em>("Pieces of April")</em>.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1081770117">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-12-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5 miles @ ~12.0 min/mi
+	
+	"No, that's 'Arrested Development'!" - "No, that's 'The Middle'!" - Cait and Kerry gently disambiguate 'Modern Family' from other TV comedies that hash-table collide in the old mental database. Even with the change to Standard Time morning is dark enough for the Dawn Patrol to need flashlights for the first few miles. A new Petzl ACTIK headlamp is super-bright, beam backscattering in the fog. We share Thanksgiving family traditions //("Boston Market creamed spinach")// and film recommendations //("Pieces of April")//.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1081770117|trackfile]])// - //**^z**// - 2017-12-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5 miles @ ~12.0 min/mi<br />&gt; "No, that's 'Arrested Development'!" - "No, that's 'The Middle'!" - Cait and Kerry gently disambiguate 'Modern Family' from other TV comedies that hash-table collide in the old mental database. Even with the change to Standard Time morning is dark enough for the Dawn Patrol to need flashlights for the first few miles. A new Petzl ACTIK headlamp is super-bright, beam backscattering in the fog. We share Thanksgiving family traditions //("Boston Market creamed spinach")// and film recommendations //("Pieces of April")//.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1081770117|trackfile]])// - //**^z**// - 2017-12-02</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

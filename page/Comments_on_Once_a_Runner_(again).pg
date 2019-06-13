@@ -1,0 +1,29 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3></p><p>I agree Mark: the beauty of this novel is in its simplicity, for example:<br /></p><blockquote><p>"Quentin Cassidy was a miler".<br /></p></blockquote><p>Simple but a powerful 1 sentence paragrah!</p><p>-- <a class="url http outside" href="http://armchair_architects">elitegazelle</a> 2010-06-10 14:49 UTC</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; I agree Mark: the beauty of this novel is in <strong class="changes">it's</strong> simplicity, for example:<br />&lt; "Quentin Cassidy was a miler". Simple but a powerful 1 sentence paragrah!</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; I agree Mark: the beauty of this novel is in <strong class="changes">its</strong> simplicity, for example:<br />&gt; <strong class="changes">"""</strong><br />&gt; "Quentin Cassidy was a miler".<br />&gt; <strong class="changes">"""</strong><br />&gt; Simple but a powerful 1 sentence paragrah!</p></div>
+ip: 141.156.147.224
+ts: 1276247949
+minor: 1
+host: pool-141-156-147-224.res.east.verizon.net
+username: zz
+revision: 6
+diff-major: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; I agree Mark: the beauty of this novel is in it's simplicity, for example:<br />&gt; "Quentin Cassidy was a miler". Simple but a powerful 1 sentence paragrah!<br />&gt; -- [http://armchair_architects elitegazelle] 2010-06-10 14:49 UTC</p></div>
+summary: format fix
+languages: 
+text: === 1 Comment. ===
+	
+	I agree Mark: the beauty of this novel is in its simplicity, for example:
+	"""
+	"Quentin Cassidy was a miler".
+	"""
+	Simple but a powerful 1 sentence paragrah!
+	
+	-- [http://armchair_architects elitegazelle] 2010-06-10 14:49 UTC
+	
+	
+lastmajor: 4
+keep-ts: 1276247949

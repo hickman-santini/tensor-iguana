@@ -1,0 +1,25 @@
+blocks: <h3>~10.6 miles @ ~11.5 min/mi</h3><p>"Head, Heart, Hands, Health!" The 4-H Club's national conference center's green lawn demands a detour to inspect the grounds. Sharp-dressed young people politely glance past a sweaty runner as they head from dorms toward Sunday breakfast. On hilly Leland Street four brave bunnies nibble clover. A skittish chipmunk dashes under a parked car to escape. "<span style="font-variant: small-caps">Vermin Supreme for President 2016</span>" says a sticker on a Bradley Lane traffic sign. Exfair Road, a short street with an ugly-sounding portmanteau name halfway between Exeter and Fairfax, features an awesomely beautiful glass-fronted home.</p><p>Rebecca beeps and waves as she drives past to park. Barry and Ken soon arrive and we ramble down the Capital Crescent Trail, chatting and dodging bicycle traffic. Pace slows (first four miles solo were a brisk 9:49 + 9:43 + 9:09 + 9:40). It's a cheerful crisp day!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/810272509">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-07-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.27
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.6 miles @ ~11.5 min/mi
+	
+	"Head, Heart, Hands, Health!" The 4-H Club's national conference center's green lawn demands a detour to inspect the grounds. Sharp-dressed young people politely glance past a sweaty runner as they head from dorms toward Sunday breakfast. On hilly Leland Street four brave bunnies nibble clover. A skittish chipmunk dashes under a parked car to escape. "%%Vermin Supreme for President 2016%%" says a sticker on a Bradley Lane traffic sign. Exfair Road, a short street with an ugly-sounding portmanteau name halfway between Exeter and Fairfax, features an awesomely beautiful glass-fronted home.
+	
+	Rebecca beeps and waves as she drives past to park. Barry and Ken soon arrive and we ramble down the Capital Crescent Trail, chatting and dodging bicycle traffic. Pace slows (first four miles solo were a brisk 9:49 + 9:43 + 9:09 + 9:40). It's a cheerful crisp day!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/810272509|trackfile]])// - //**^z**// - 2016-07-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.6 miles @ ~11.5 min/mi<br />&gt; "Head, Heart, Hands, Health!" The 4-H Club's national conference center's green lawn demands a detour to inspect the grounds. Sharp-dressed young people politely glance past a sweaty runner as they head from dorms toward Sunday breakfast. On hilly Leland Street four brave bunnies nibble clover. A skittish chipmunk dashes under a parked car to escape. "%%Vermin Supreme for President 2016%%" says a sticker on a Bradley Lane traffic sign. Exfair Road, a short street with an ugly-sounding portmanteau name halfway between Exeter and Fairfax, features an awesomely beautiful glass-fronted home.<br />&gt; Rebecca beeps and waves as she drives past to park. Barry and Ken soon arrive and we ramble down the Capital Crescent Trail, chatting and dodging bicycle traffic. Pace slows (first four miles solo were a brisk 9:49 + 9:43 + 9:09 + 9:40). It's a cheerful crisp day!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/810272509|trackfile]])// - //**^z**// - 2016-07-13</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

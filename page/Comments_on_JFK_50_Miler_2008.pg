@@ -1,0 +1,29 @@
+blocks: <h3>2 Comments.</h3><p>Congratulations, Kate! --- and congrats to Ken &amp; Emaad &amp; everyone else who ran yesterday (^_^) ... ^z</p><p>-- <a class="url http outside" href="http://zhurnaly.com/">MarkZimmermann</a> 2008-11-23 19:58 UTC</p><hr /><p>Great work, Kate. Sorry I didn't get to see you at the finish. All day I expected you to go charging past me, but I guess your stomach didn't allow for that. Funny about the PB&amp;J. I had one and it didn't bother me, but then again, I generally don't get stomach problems while running. But I did get tired of gatorade and Coke had an oddly bitter or sharp taste to me at JFK.</p><p>-- Ken S. 2008-11-29 03:46 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	Congratulations, Kate! --- and congrats to Ken & Emaad & everyone else who ran yesterday (^_^) ... ^z
+	
+	-- [http://zhurnaly.com/ MarkZimmermann] 2008-11-23 19:58 UTC
+	
+	
+	----
+	
+	Great work, Kate.  Sorry I didn't get to see you at the finish.  All day I expected you to go charging past me, but I guess your stomach didn't allow for that.  Funny about the PB&J.  I had one and it didn't bother me, but then again, I generally don't get stomach problems while running.  But I did get tired of gatorade and Coke had an oddly bitter or sharp taste to me at JFK.
+	
+	-- Ken S. 2008-11-29 03:46 UTC
+	
+	
+languages: 
+lastmajor: 88
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; Congratulations, Kate! --- and congrats to Ken &amp; Emaad &amp; everyone else who ran yesterday (^_^) ... ^z<br />&gt; -- [http://zhurnaly.com/ MarkZimmermann] 2008-11-23 19:58 UTC<br />&gt; ----<br />&gt; Great work, Kate.  Sorry I didn't get to see you at the finish.  All day I expected you to go charging past me, but I guess your stomach didn't allow for that.  Funny about the PB&amp;J.  I had one and it didn't bother me, but then again, I generally don't get stomach problems while running.  But I did get tired of gatorade and Coke had an oddly bitter or sharp taste to me at JFK.<br />&gt; -- Ken S. 2008-11-29 03:46 UTC</p></div>
+flags: 0
+ts: 1528057710
+minor: 
+username: z
+host: 166.137.240.115
+revision: 88
+keep-ts: 1528057710

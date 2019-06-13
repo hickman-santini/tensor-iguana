@@ -1,0 +1,16 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Three years later, what is the **//^zhurnal//**?<br />&lt; * a series of stones skipped over the surface of a pond, as seen from underneath the water...<br />&lt; * a chain of disturbances in a sky-mirror, a row of touch-touch-touch ripples appearing and spreading and crisscrossing and fading away...<br />&lt; * a scribble of dotted lines that are starting to draw a picture...<br />&lt; What will that picture be?<br />&lt; //(see</strong> [[Zhurnal <strong class="changes">Zero]] (4 Apr 1999), [[AnnalsOfJournals]] (4 Apr 2000), [[ZhurnalAnniversary2]] (4 Apr 2001))//<br />&lt; ----<br />&lt; [[TopicZhurnal]] - [[TopicJournalizing]] - [[TopicPoetry]] - [[TopicLife</strong>]] <strong class="changes">- Datetag20020404<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[TreasureKnowledge]], [[ZhurnalThemes]], [[TheBook]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[Zhurnal <strong class="changes">Three</strong>]]</p></div>
+ip: 70.21.102.87
+ts: 1221348713
+minor: 1
+host: pool-70-21-102-87.res.east.verizon.net
+username: MarkZimmermann
+revision: 5
+diff-major: 
+summary: redirect to new page name
+languages: 
+text: #REDIRECT [[Zhurnal Three]]
+	
+lastmajor: 3
+keep-ts: 1221348713

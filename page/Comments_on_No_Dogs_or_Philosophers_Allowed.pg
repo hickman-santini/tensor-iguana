@@ -1,0 +1,18 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3>Sadly, according to <a class="url http outside" href="http://www.npr.org/templates/story/story.php?storyId=4965935">Robert Siegel</a> of NPR, Kenneth Knisley died of a heart attack in September 2005, at the age of 48.</p><p>-- <a class="url http outside" href="http://zhurnaly.com">Mark Zimmermann</a> 2011-02-13 21:28 UTC</p>
+ip: 138.88.175.123
+ts: 1324607917
+minor: 
+host: pool-138-88-175-123.res.east.verizon.net
+username: Zimm
+revision: 3
+summary: Rollback to 2011-12-22 12:23 UTC
+languages: 
+text: === 1 Comment. ===
+	Sadly, according to [[http://www.npr.org/templates/story/story.php?storyId=4965935|Robert Siegel]] of NPR, Kenneth Knisley died of a heart attack in September 2005, at the age of 48.
+	
+	-- [http://zhurnaly.com Mark Zimmermann] 2011-02-13 21:28 UTC
+	
+	
+lastmajor: 3
+keep-ts: 1324607917

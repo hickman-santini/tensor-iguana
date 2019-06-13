@@ -1,0 +1,98 @@
+blocks: <table class="user"><tr><td align="right">why was<br />there a <br />frozen tiger<br />on<br />mt kilimanjaro?<br /><br />i have found<br />many<br />such tigers.<br />Nietzsche <br />and many<br />many<br />others<br /><br />They hungered for<br />the peak<br />of the world<br />the edge<br />of the known<br /><br />Journeying<br />alone<br />until<br />they see<br /> a view<br />only possible<br />from <br />the edge<br />of their <br />life<br /><br />freezing<br />in a dark<br />lit only <br />by the light<br />of countless<br />galaxies </td></tr></table><p><em>(by Edward Covannon)</em> - 2013-11-26</p><hr /><p><em>(earlier version)</em></p><table class="user"><tr><td align="right">why was<br />there a <br />frozen tiger<br />on<br />mt kilimanjaro?<br /><br />i have found<br />many<br />Nietzsche <br />and many<br />many<br />others<br /><br />they hungered for<br />the peak<br />of the world<br />the edge<br />of the known<br /><br />getting there<br />eventually <br />alone<br />for a view<br />only possible<br />from <br />the edge<br />of their <br />life<br /><br />freezing<br />in a dark<br />lit only <br />by the light<br />of countless<br />galaxies </td></tr></table><p><em>(by Edward Covannon)</em> - 2013-11-25</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.1
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | why was
+	there a 
+	frozen tiger
+	on
+	mt kilimanjaro?
+	\\
+	i have found
+	many
+	such tigers.
+	Nietzsche 
+	and many
+	many
+	others
+	\\
+	They hungered for
+	the peak
+	of the world
+	the edge
+	of the known
+	\\
+	Journeying
+	alone
+	until
+	they see
+	 a view
+	only possible
+	from 
+	the edge
+	of their 
+	life
+	\\
+	freezing
+	in a dark
+	lit only 
+	by the light
+	of countless
+	galaxies |
+	
+	//(by Edward Covannon)// - 2013-11-26
+	
+	----
+	
+	//(earlier version)//
+	
+	| why was
+	there a 
+	frozen tiger
+	on
+	mt kilimanjaro?
+	\\
+	i have found
+	many
+	Nietzsche 
+	and many
+	many
+	others
+	\\
+	they hungered for
+	the peak
+	of the world
+	the edge
+	of the known
+	\\
+	getting there
+	eventually 
+	alone
+	for a view
+	only possible
+	from 
+	the edge
+	of their 
+	life
+	\\
+	freezing
+	in a dark
+	lit only 
+	by the light
+	of countless
+	galaxies |
+	
+	//(by Edward Covannon)// - 2013-11-25
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; | why was<br />&gt; there a <br />&gt; frozen tiger<br />&gt; on<br />&gt; mt kilimanjaro?<br />&gt; \\<br />&gt; i have found<br />&gt; many<br />&gt; such tigers.<br />&gt; Nietzsche <br />&gt; and many<br />&gt; many<br />&gt; others<br />&gt; \\<br />&gt; They hungered for<br />&gt; the peak<br />&gt; of the world<br />&gt; the edge<br />&gt; of the known<br />&gt; \\<br />&gt; Journeying<br />&gt; alone<br />&gt; until<br />&gt; they see<br />&gt;  a view<br />&gt; only possible<br />&gt; from <br />&gt; the edge<br />&gt; of their <br />&gt; life<br />&gt; \\<br />&gt; freezing<br />&gt; in a dark<br />&gt; lit only <br />&gt; by the light<br />&gt; of countless<br />&gt; galaxies |<br />&gt; //(by Edward Covannon)// - 2013-11-26<br />&gt; ----<br />&gt; //(earlier version)//<br />&gt; | why was<br />&gt; there a <br />&gt; frozen tiger<br />&gt; on<br />&gt; mt kilimanjaro?<br />&gt; \\<br />&gt; i have found<br />&gt; many<br />&gt; Nietzsche <br />&gt; and many<br />&gt; many<br />&gt; others<br />&gt; \\<br />&gt; they hungered for<br />&gt; the peak<br />&gt; of the world<br />&gt; the edge<br />&gt; of the known<br />&gt; \\<br />&gt; getting there<br />&gt; eventually <br />&gt; alone<br />&gt; for a view<br />&gt; only possible<br />&gt; from <br />&gt; the edge<br />&gt; of their <br />&gt; life<br />&gt; \\<br />&gt; freezing<br />&gt; in a dark<br />&gt; lit only <br />&gt; by the light<br />&gt; of countless<br />&gt; galaxies |<br />&gt; //(by Edward Covannon)// - 2013-11-25</p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057687

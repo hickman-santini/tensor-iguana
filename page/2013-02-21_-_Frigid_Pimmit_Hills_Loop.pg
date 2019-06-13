@@ -1,0 +1,23 @@
+blocks: <h3>~3 miles @ ~10.4 min/mi</h3><p>Which sounds colder, -5&deg;C or 23&deg;F? In either case, Kristin and I set out at 0525 and venture through the hole in the hedge to the ballfield at Scotts Run Community Park, and thence past an idling police car lurking on the driveway. Back on major roads we do our standard counter-clockwise circuit of McGarrity-Griffith-Pimmit-Anderson. The middle mile is fast but then we have to slow down climbing hills. Splits by <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/151031295">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/276091664">Garmin</a> are close, roughly 10.8 + 9.7 + 10.5 min/mi. Back at the locker room, what's missing? My <em><strong>towel</strong>!</em> Drying off after a shower using a windshirt isn't nearly as much fun.</p><p><em><strong>^z</strong></em> - 2013-03-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.56
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3 miles @ ~10.4 min/mi
+	
+	Which sounds colder, -5&deg;C or 23&deg;F? In either case, Kristin and I set out at 0525 and venture through the hole in the hedge to the ballfield at Scotts Run Community Park, and thence past an idling police car lurking on the driveway. Back on major roads we do our standard counter-clockwise circuit of McGarrity-Griffith-Pimmit-Anderson. The middle mile is fast but then we have to slow down climbing hills. Splits by [[http://runkeeper.com/user/zhurnaly/activity/151031295|Runkeeper]] and [[http://connect.garmin.com/activity/276091664|Garmin]] are close, roughly 10.8 + 9.7 + 10.5 min/mi. Back at the locker room, what's missing? My //**towel**!// Drying off after a shower using a windshirt isn't nearly as much fun.
+	
+	//**^z**// - 2013-03-12
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3 miles @ ~10.4 min/mi<br />&gt; Which sounds colder, -5&amp;deg;C or 23&amp;deg;F? In either case, Kristin and I set out at 0525 and venture through the hole in the hedge to the ballfield at Scotts Run Community Park, and thence past an idling police car lurking on the driveway. Back on major roads we do our standard counter-clockwise circuit of McGarrity-Griffith-Pimmit-Anderson. The middle mile is fast but then we have to slow down climbing hills. Splits by [[http://runkeeper.com/user/zhurnaly/activity/151031295|Runkeeper]] and [[http://connect.garmin.com/activity/276091664|Garmin]] are close, roughly 10.8 + 9.7 + 10.5 min/mi. Back at the locker room, what's missing? My //**towel**!// Drying off after a shower using a windshirt isn't nearly as much fun.<br />&gt; //**^z**// - 2013-03-12</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

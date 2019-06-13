@@ -1,0 +1,25 @@
+blocks: <h3>~5.1 miles @ ~12.8 min/mi</h3><p>"Fox?" Hawk-eyed Kristin glimpses the creature trotting along the sidewalk ahead of us in the gloom. It pauses to look back, ambles another block, turns down a driveway, and vanishes. Clouds low in the east begin to thin as dawn brightens. Humidity is high, Dr K is recovering from a bad cold, and we appreciate intermittent breezes on a quiet morning. The path through Tysons Pimmit Park is newly repaved, wide and smooth. A motorcycle starts and cruises loudly away from a confederate-flag-decorated bungalow. Rabbit count = 1. In the parking lot we observe an eclipse &mdash; a sporty Mitsubishi Eclipse automobile, that is.</p><p>"Now I know where we are!" &mdash; "Yes, right here!"</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1041492347">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-09-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.91.35
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.1 miles @ ~12.8 min/mi
+	
+	"Fox?" Hawk-eyed Kristin glimpses the creature trotting along the sidewalk ahead of us in the gloom. It pauses to look back, ambles another block, turns down a driveway, and vanishes. Clouds low in the east begin to thin as dawn brightens. Humidity is high, Dr K is recovering from a bad cold, and we appreciate intermittent breezes on a quiet morning. The path through Tysons Pimmit Park is newly repaved, wide and smooth. A motorcycle starts and cruises loudly away from a confederate-flag-decorated bungalow. Rabbit count = 1. In the parking lot we observe an eclipse &mdash; a sporty Mitsubishi Eclipse automobile, that is.
+	
+	"Now I know where we are!" &mdash; "Yes, right here!"
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1041492347|trackfile]])// - //**^z**// - 2017-09-18
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.1 miles @ ~12.8 min/mi<br />&gt; "Fox?" Hawk-eyed Kristin glimpses the creature trotting along the sidewalk ahead of us in the gloom. It pauses to look back, ambles another block, turns down a driveway, and vanishes. Clouds low in the east begin to thin as dawn brightens. Humidity is high, Dr K is recovering from a bad cold, and we appreciate intermittent breezes on a quiet morning. The path through Tysons Pimmit Park is newly repaved, wide and smooth. A motorcycle starts and cruises loudly away from a confederate-flag-decorated bungalow. Rabbit count = 1. In the parking lot we observe an eclipse &amp;mdash; a sporty Mitsubishi Eclipse automobile, that is.<br />&gt; "Now I know where we are!" &amp;mdash; "Yes, right here!"<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1041492347|trackfile]])// - //**^z**// - 2017-09-18</strong></p></div>
+flags: 0
+ts: 1528057710
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057710

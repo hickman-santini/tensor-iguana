@@ -1,0 +1,25 @@
+blocks: <h3>~9.4 miles @ ~12.5 min/mi</h3><p>"Do you need me to come pick you up?" It's total role-reversal: last night Kerry is at a friend's birthday party; her daughter, with newly-minted driver's license, texts to check. Later when Kerry gets home she discovers DD fallen asleep on the couch, waiting up for the prodigal Mom's return. And so the wheel turns ...</p><p>On Saturday morning, "Anybody feel like a run tomorrow?" Kristin texts. Assuming she's confused about the date I reply with Monday plans &mdash; but no, she really wants to do a Sunday expedition! The W&amp;OD Trail is ice-clad and the Vienna Community Center parking lot is snowed in, so we rendezvous at Whole Foods and random-walk along neighborhood streets, doubling back from culs-de-sac and stepping into driveways to let cars pass. Impressive mansions line the roads, with faux-Victorian turrets, towers, dormers, cornices, and gables.. Afterwards Kristin confesses to running on no sleep and being tempted to eat snow for hydration.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/727437282">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-02-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.46
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.4 miles @ ~12.5 min/mi
+	
+	"Do you need me to come pick you up?" It's total role-reversal: last night Kerry is at a friend's birthday party; her daughter, with newly-minted driver's license, texts to check. Later when Kerry gets home she discovers DD fallen asleep on the couch, waiting up for the prodigal Mom's return. And so the wheel turns ...
+	
+	On Saturday morning, "Anybody feel like a run tomorrow?" Kristin texts. Assuming she's confused about the date I reply with Monday plans &mdash; but no, she really wants to do a Sunday expedition! The W&OD Trail is ice-clad and the Vienna Community Center parking lot is snowed in, so we rendezvous at Whole Foods and random-walk along neighborhood streets, doubling back from culs-de-sac and stepping into driveways to let cars pass. Impressive mansions line the roads, with faux-Victorian turrets, towers, dormers, cornices, and gables.. Afterwards Kristin confesses to running on no sleep and being tempted to eat snow for hydration.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/727437282|trackfile]])// - //**^z**// - 2016-02-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.4 miles @ ~12.5 min/mi<br />&gt; "Do you need me to come pick you up?" It's total role-reversal: last night Kerry is at a friend's birthday party; her daughter, with newly-minted driver's license, texts to check. Later when Kerry gets home she discovers DD fallen asleep on the couch, waiting up for the prodigal Mom's return. And so the wheel turns ...<br />&gt; On Saturday morning, "Anybody feel like a run tomorrow?" Kristin texts. Assuming she's confused about the date I reply with Monday plans &amp;mdash; but no, she really wants to do a Sunday expedition! The W&amp;OD Trail is ice-clad and the Vienna Community Center parking lot is snowed in, so we rendezvous at Whole Foods and random-walk along neighborhood streets, doubling back from culs-de-sac and stepping into driveways to let cars pass. Impressive mansions line the roads, with faux-Victorian turrets, towers, dormers, cornices, and gables.. Afterwards Kristin confesses to running on no sleep and being tempted to eat snow for hydration.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/727437282|trackfile]])// - //**^z**// - 2016-02-11</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

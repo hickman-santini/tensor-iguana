@@ -1,0 +1,23 @@
+blocks: <h3>~7.9 miles @ ~13.2 min/mi</h3><p>"You need a <em><strong>man's</strong></em> pedicure &mdash; with a grindstone or a belt sander, in a machine shop!" Dr Kristin prescribes treatment for my calloused left big toe, troublesome for the past few weeks. Caitlin and I compare notes on memorable tchochkes, including cuddly bunnies on a coffee cup and friendly iguana statuettes in a St Croix souvenir shop. A McLean neighborhood saves money by not salting roads or sidewalks, as we discover when we hit icy-slick patches and must cautiously retrace our steps. Kristin leads us at a brisk pace for the first few miles. We meander in fruitless search for pedestrian cut-throughs in another gated community.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/917977040">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-02-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.215
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~7.9 miles @ ~13.2 min/mi
+	
+	"You need a //**man's**// pedicure &mdash; with a grindstone or a belt sander, in a machine shop!" Dr Kristin prescribes treatment for my calloused left big toe, troublesome for the past few weeks. Caitlin and I compare notes on memorable tchochkes, including cuddly bunnies on a coffee cup and friendly iguana statuettes in a St Croix souvenir shop. A McLean neighborhood saves money by not salting roads or sidewalks, as we discover when we hit icy-slick patches and must cautiously retrace our steps. Kristin leads us at a brisk pace for the first few miles. We meander in fruitless search for pedestrian cut-throughs in another gated community.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/917977040|trackfile]])// - //**^z**// - 2017-02-07
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.9 miles @ ~13.2 min/mi<br />&gt; "You need a //**man's**// pedicure &amp;mdash; with a grindstone or a belt sander, in a machine shop!" Dr Kristin prescribes treatment for my calloused left big toe, troublesome for the past few weeks. Caitlin and I compare notes on memorable tchochkes, including cuddly bunnies on a coffee cup and friendly iguana statuettes in a St Croix souvenir shop. A McLean neighborhood saves money by not salting roads or sidewalks, as we discover when we hit icy-slick patches and must cautiously retrace our steps. Kristin leads us at a brisk pace for the first few miles. We meander in fruitless search for pedestrian cut-throughs in another gated community.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/917977040|trackfile]])// - //**^z**// - 2017-02-07</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

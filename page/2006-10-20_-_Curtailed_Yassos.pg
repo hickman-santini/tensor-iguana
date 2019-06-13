@@ -1,0 +1,20 @@
+flags: 0
+blocks: <p><h3>3+ miles @ ~10 min/mi net pace</h3></p><p>I really plan to do ten repeats --- really! <em>(Well, maybe eight.)</em> But a little more than halfway through my speedwork at the UM soccer stadium track, about 8:30pm, a couple of official-looking guys tell me that they have to close the track. "Can I just finish this lap?" "OK" So my tally is only six * 800m with two minutes of recovery walking between --- times 4:12 + 4:04 + 4:03 + 4:01 + 4:07 + 4:02 --- no cardiac arrest, but some bright glowing blobs in my visual field during the middle segment.</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; I really plan to do ten repeats<strong class="changes">&amp;amp;mdash;</strong>really! //(Well, maybe eight.)// But a little more than halfway through my speedwork at the UM soccer stadium track, about 8:30pm, a couple of official-looking guys tell me that they have to close the track. "Can I just finish this lap?" "OK" So my tally is only six * 800m with two minutes of recovery walking between<strong class="changes">&amp;amp;mdash;</strong>times 4:12 + 4:04 + 4:03 + 4:01 + 4:07 + 4:02<strong class="changes">&amp;amp;mdash;</strong>no cardiac arrest, but some bright glowing blobs in my visual field during the middle segment.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; I really plan to do ten repeats <strong class="changes">---</strong> really! //(Well, maybe eight.)// But a little more than halfway through my speedwork at the UM soccer stadium track, about 8:30pm, a couple of official-looking guys tell me that they have to close the track. "Can I just finish this lap?" "OK" So my tally is only six * 800m with two minutes of recovery walking between <strong class="changes">---</strong> times 4:12 + 4:04 + 4:03 + 4:01 + 4:07 + 4:02 <strong class="changes">---</strong> no cardiac arrest, but some bright glowing blobs in my visual field during the middle segment.</p></div>
+ip: 141.156.150.174
+ts: 1234432740
+minor: 1
+host: pool-141-156-150-174.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: 
+summary: \&amp;mdash\; ->  --- 
+languages: 
+text: === 3+ miles @ ~10 min/mi net pace
+	
+	I really plan to do ten repeats --- really! //(Well, maybe eight.)// But a little more than halfway through my speedwork at the UM soccer stadium track, about 8:30pm, a couple of official-looking guys tell me that they have to close the track. "Can I just finish this lap?" "OK" So my tally is only six * 800m with two minutes of recovery walking between --- times 4:12 + 4:04 + 4:03 + 4:01 + 4:07 + 4:02 --- no cardiac arrest, but some bright glowing blobs in my visual field during the middle segment.
+	
+	
+keep-ts: 1234432740

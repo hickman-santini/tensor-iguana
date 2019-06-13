@@ -1,0 +1,23 @@
+blocks: <h3>~3.6 miles @ ~11.1 min/mi</h3><p>"Hard core!" the fellow in his front yard says as I jog past. "No, just foolish!" I reply. It's a late morning blizzard blitz around McLean neighborhood streets and bikepaths after a few Saturday hours at the office. Snow falls fast, the temperature is in the upper teens, and it feels like I'm running on a beach. Sensible comrade Kerry declines my invitation and stays snug in her PJs, but kindly offers to let me into her home to recover when I'm done. But fortunately I head directly back to my town, making it just in time as roads turn to ice and cars slip-slide on hills and curves. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/516234199">Runkeeper</a> records route.</p><p><em><strong>^z</strong></em> - 2015-03-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.6 miles @ ~11.1 min/mi
+	
+	"Hard core!" the fellow in his front yard says as I jog past. "No, just foolish!" I reply. It's a late morning blizzard blitz around McLean neighborhood streets and bikepaths after a few Saturday hours at the office. Snow falls fast, the temperature is in the upper teens, and it feels like I'm running on a beach. Sensible comrade Kerry declines my invitation and stays snug in her PJs, but kindly offers to let me into her home to recover when I'm done. But fortunately I head directly back to my town, making it just in time as roads turn to ice and cars slip-slide on hills and curves. [[http://runkeeper.com/user/zhurnaly/activity/516234199|Runkeeper]] records route.
+	
+	//**^z**// - 2015-03-12
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.6 miles @ ~11.1 min/mi<br />&gt; "Hard core!" the fellow in his front yard says as I jog past. "No, just foolish!" I reply. It's a late morning blizzard blitz around McLean neighborhood streets and bikepaths after a few Saturday hours at the office. Snow falls fast, the temperature is in the upper teens, and it feels like I'm running on a beach. Sensible comrade Kerry declines my invitation and stays snug in her PJs, but kindly offers to let me into her home to recover when I'm done. But fortunately I head directly back to my town, making it just in time as roads turn to ice and cars slip-slide on hills and curves. [[http://runkeeper.com/user/zhurnaly/activity/516234199|Runkeeper]] records route.<br />&gt; //**^z**// - 2015-03-12</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

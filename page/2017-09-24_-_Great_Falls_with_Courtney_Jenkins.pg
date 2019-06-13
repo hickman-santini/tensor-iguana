@@ -1,0 +1,23 @@
+blocks: <h3>~6.0 miles @ ~23.4 min/mi</h3><p>"We'll come back on the Bootlegger Trail - I just love that name!" Courtney declares. The route she maps out goes upstream from Great Falls National Park along the teal-blazed Potomac Heritage Trail and returns farther inland via a path with red markings. Photo opportunities abound. Brightly colored kayaks bob in the rapids of Mather Gorge. At Riverbend Park we pause at the visitor center. A friendly dog greets us; a giant spiderweb spans the gap between tree limbs. It's a lovely morning for a hike in the woods!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1059371838">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-10-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.116
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.0 miles @ ~23.4 min/mi
+	
+	"We'll come back on the Bootlegger Trail - I just love that name!" Courtney declares. The route she maps out goes upstream from Great Falls National Park along the teal-blazed Potomac Heritage Trail and returns farther inland via a path with red markings. Photo opportunities abound. Brightly colored kayaks bob in the rapids of Mather Gorge. At Riverbend Park we pause at the visitor center. A friendly dog greets us; a giant spiderweb spans the gap between tree limbs. It's a lovely morning for a hike in the woods!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1059371838|trackfile]])// - //**^z**// - 2017-10-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.0 miles @ ~23.4 min/mi<br />&gt; "We'll come back on the Bootlegger Trail - I just love that name!" Courtney declares. The route she maps out goes upstream from Great Falls National Park along the teal-blazed Potomac Heritage Trail and returns farther inland via a path with red markings. Photo opportunities abound. Brightly colored kayaks bob in the rapids of Mather Gorge. At Riverbend Park we pause at the visitor center. A friendly dog greets us; a giant spiderweb spans the gap between tree limbs. It's a lovely morning for a hike in the woods!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1059371838|trackfile]])// - //**^z**// - 2017-10-23</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

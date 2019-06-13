@@ -1,0 +1,22 @@
+blocks: <pre># no edits from these addresses
+	^188\.143\.232
+	^176\.10\.104</pre>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.121
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: # no edits from these addresses
+	^188\.143\.232
+	^176\.10\.104
+	
+languages: 
+lastmajor: 133
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; # no edits from these addresses<br />&gt; ^188\.143\.232<br />&gt; ^176\.10\.104</p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 133
+keep-ts: 1528057701

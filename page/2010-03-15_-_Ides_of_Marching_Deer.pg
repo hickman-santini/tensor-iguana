@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~4 miles @ ~10 min/mi</h3></p><p>Stephanie is ready to run and my 10am meeting finishes early, so we set off just before 11am in a light drizzle that soon fades to nothing. The paved jogging trail is open again, with a backhoe/'dozer crawling along clearing fallen limbs and damaged brush nearby. Marked miles go by at 10:40, 10:14, and 9:05 as a small herd of four deer ambles past.</p><p><em><strong>^z</strong></em> - 2010-03-20</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Stephanie is ready to run and my 10am meeting finishes early, so we set off <strong class="changes">running</strong> just before 11am in a light drizzle that soon fades to nothing. The paved jogging trail is open again, with a backhoe/'dozer crawling along clearing fallen limbs and damaged brush nearby. Marked miles go by at 10:40, 10:14, and 9:05 as a small herd of four deer ambles past.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Stephanie is ready to run and my 10am meeting finishes early, so we set off just before 11am in a light drizzle that soon fades to nothing. The paved jogging trail is open again, with a backhoe/'dozer crawling along clearing fallen limbs and damaged brush nearby. Marked miles go by at 10:40, 10:14, and 9:05 as a small herd of four deer ambles past.</p></div>
+ip: 138.88.114.105
+ts: 1269076534
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: === ~4 miles @ ~10 min/mi
+	
+	Stephanie is ready to run and my 10am meeting finishes early, so we set off just before 11am in a light drizzle that soon fades to nothing. The paved jogging trail is open again, with a backhoe/'dozer crawling along clearing fallen limbs and damaged brush nearby. Marked miles go by at 10:40, 10:14, and 9:05 as a small herd of four deer ambles past.
+	
+	//**^z**// - 2010-03-20
+	
+lastmajor: 1
+keep-ts: 1269076534

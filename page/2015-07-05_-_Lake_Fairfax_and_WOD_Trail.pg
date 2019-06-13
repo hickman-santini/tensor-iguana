@@ -1,0 +1,23 @@
+blocks: <h3>~6.1 miles @ ~16.6 min/mi</h3><p>"They worship money!" Mary explains, when I express puzzlement at the lack of Sunday-go-to-Church traffic on the mansion-lined neighborhood streets. We meet at Michael Faraday Dr and begin our trek along the Lake Fairfax Trail, but find it rather muddy. A scrawny doe eyes us and runs away at an old golf course near Hunter Mill Rd. Our return via the W&amp;OD horse trail and bikepath is uneventful. Recovery brunch at Taco Bell &mdash; yay!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/606260131">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-07-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.24
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.1 miles @ ~16.6 min/mi
+	
+	"They worship money!" Mary explains, when I express puzzlement at the lack of Sunday-go-to-Church traffic on the mansion-lined neighborhood streets. We meet at Michael Faraday Dr and begin our trek along the Lake Fairfax Trail, but find it rather muddy. A scrawny doe eyes us and runs away at an old golf course near Hunter Mill Rd. Our return via the W&OD horse trail and bikepath is uneventful. Recovery brunch at Taco Bell &mdash; yay!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/606260131|trackfile]])// - //**^z**// - 2015-07-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.1 miles @ ~16.6 min/mi<br />&gt; "They worship money!" Mary explains, when I express puzzlement at the lack of Sunday-go-to-Church traffic on the mansion-lined neighborhood streets. We meet at Michael Faraday Dr and begin our trek along the Lake Fairfax Trail, but find it rather muddy. A scrawny doe eyes us and runs away at an old golf course near Hunter Mill Rd. Our return via the W&amp;OD horse trail and bikepath is uneventful. Recovery brunch at Taco Bell &amp;mdash; yay!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/606260131|trackfile]])// - //**^z**// - 2015-07-23</strong></p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057713

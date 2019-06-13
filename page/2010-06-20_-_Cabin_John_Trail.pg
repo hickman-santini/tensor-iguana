@@ -1,0 +1,24 @@
+flags: 0
+blocks: <p><h3>~6 miles @ ~16 min/mi</h3></p><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/CJSVT_Caren_z_2010-06-20.jpg" alt="http://zhurnaly.com/images/running/CJSVT_Caren_z_2010-06-20.jpg" /></td><td align="right">Father's Day morning: at 0420 I learn CM Manlandro can't make it <em>(she's been up late in the lab)</em> &mdash; back to bed for me! Caren Jew's husband, a powerful amateur golfer, has an early-morning tee-time so Caren can't get out until the afternoon. We promise to meet ~1400 at Cabin John Regional Park and each swear to be on time. I show up 15 minutes early, and beat her there by only a minute!<p>The run is fun, along the blue-blazed Cabin John Stream Valley Trail. At Democracy Blvd we try to follow the path we know from past years, but discover the trail has been re-routed&mdash;hence the zig-zags on the downstream (eastern) loop as the GPS map of our track shows. On the way back we follow the newly-sanctioned path. Conversation is wide-ranging trail-talk, a delightful chance to speak frankly about any topic. <em>Thank you, Caren!</em></p></td></tr></table><p><em><strong>^z</strong></em> - 2010-07-04</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; The run is fun, <strong class="changes">down</strong> the blue-blazed Cabin John Stream Valley Trail. At Democracy Blvd we try to follow the path we know from past years, but discover the trail has been re-routed. On the way back we follow the newly-sanctioned path. Conversation is wide-ranging trail-talk. |</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; The run is fun, <strong class="changes">along</strong> the blue-blazed Cabin John Stream Valley Trail. At Democracy Blvd we try to follow the path we know from past years, but discover the trail has been re-routed<strong class="changes">&amp;mdash;hence the zig-zags on the downstream (eastern) loop as the GPS map of our track shows</strong>. On the way back we follow the newly-sanctioned path. Conversation is wide-ranging trail-talk<strong class="changes">, a delightful chance to speak frankly about any topic</strong>. <strong class="changes">//Thank you, Caren!//</strong> |</p></div>
+ip: 141.156.198.157
+ts: 1278239754
+minor: 
+host: pool-141-156-198-157.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 1
+summary: === ~6 miles @ ~16 min/mi ... Father's Day morning: at 0420 I learn CM Manlandro . . .
+languages: 
+text: === ~6 miles @ ~16 min/mi
+	
+	| http://zhurnaly.com/images/running/CJSVT_Caren_z_2010-06-20.jpg | Father's Day morning: at 0420 I learn CM Manlandro can't make it //(she's been up late in the lab)// &mdash; back to bed for me! Caren Jew's husband, a powerful amateur golfer, has an early-morning tee-time so Caren can't get out until the afternoon. We promise to meet ~1400 at Cabin John Regional Park and each swear to be on time. I show up 15 minutes early, and beat her there by only a minute!
+	
+	The run is fun, along the blue-blazed Cabin John Stream Valley Trail. At Democracy Blvd we try to follow the path we know from past years, but discover the trail has been re-routed&mdash;hence the zig-zags on the downstream (eastern) loop as the GPS map of our track shows. On the way back we follow the newly-sanctioned path. Conversation is wide-ranging trail-talk, a delightful chance to speak frankly about any topic. //Thank you, Caren!// |
+	
+	//**^z**// - 2010-07-04
+	
+lastmajor: 2
+keep-ts: 1278239754

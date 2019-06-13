@@ -1,0 +1,32 @@
+flags: 0
+blocks: <p><h3>~3 miles @ ~9 min/mi</h3></p><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Gaithersburg_5k_XC_2011_KT.jpg" alt="http://zhurnaly.com/images/running/Gaithersburg_5k_XC_2011_KT.jpg" /></td><td>"What?" Caren Jew feigns astonishment when she sees me arrive at the club cross country race just before the 7pm Friday evening start. I explain that when I ran this morning I thought that daughter Gray would be playing in a chamber music concert tonight, but it turns out to be next week. Photographer Ken Trombatore declines my invitation to photograph my rashes, but I insist on showing them to all who will look. Ken Swab and Barry Smith are preparing for an ultramarathon next weekend in Wyoming. Jeanne Larrison and Christina Caravoulias cheerfully tell me about Lyme Disease.<p>The race at the Agricultural History Park is around stubbly fields and over rolling hills. Big cumulonimbus clouds loom in the east but provide no relief from ~90&deg;F temperature and high humidity.</p><p>"You're going at too fast a pace!" a runner tells me when he passes at about mile one. I don't realize until an hour later that he's joking about my bright orange "12:00+" singlet that I wear today and as a pacer for the Parks Half Marathon. My GPS is forgotten at home, but in general I trek along at 8-9 min/mi, pushing hard on the downhills and trying to survive the climbs. For the final mile I pursue 66 year old Donald Hensel, but can't manage to catch him.</p><p>Shortly after me Don Libes finishes strong and explains that his foot only hurts when he's <em>not</em> running. Great-with-child Mical Honigfort and Caren come in together, but Caren isn't wearing her chip and Mical slows to run across the line with her two-year-old son Eric, waiting with papa Paul nearby. Peggy Dickison and her son Max greet me at the post-race refreshments. Max and I agree that lime ice-pops are the best flavor.</p></td></tr></table><p><a class="url http outside" href="http://mcrrc.org/racing/2011/Gaithersburg-Cross-Country-5K.html">Official result</a>:</p><p><code> 65 51/84 5/10 666 Mark Zimmermann       M 58 Kensington MD       MCRRC 26:43 8:36 </code></p><p><em>(photo by Ken Trombatore)</em> - <em><strong>^z</strong></em> - 2011-06-22</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; The race at the Agricultural History Park is around <strong class="changes">big</strong> fields and over rolling hills. Big cumulonimbus clouds loom <strong class="changes">high</strong> in the east but provide no relief from ~90&amp;deg;F temperature and high humidity.<br />&lt; "You're going at too fast a pace!" a runner tells me when he passes at about mile one. I don't realize until an hour later<strong class="changes">, on the way home,</strong> that he's joking about my bright orange "12:00+" singlet that I wear today and as a pacer for the Parks Half Marathon. My GPS is forgotten at home, but in general I trek along at 8-9 min/mi, pushing hard on the downhills and trying to survive the climbs. For the final mile I pursue 66 year old Donald Hensel, but can't manage to catch him.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; The race at the Agricultural History Park is around <strong class="changes">stubbly</strong> fields and over rolling hills. Big cumulonimbus clouds loom in the east but provide no relief from ~90&amp;deg;F temperature and high humidity.<br />&gt; "You're going at too fast a pace!" a runner tells me when he passes at about mile one. I don't realize until an hour later that he's joking about my bright orange "12:00+" singlet that I wear today and as a pacer for the Parks Half Marathon. My GPS is forgotten at home, but in general I trek along at 8-9 min/mi, pushing hard on the downhills and trying to survive the climbs. For the final mile I pursue 66 year old Donald Hensel, but can't manage to catch him.</p></div>
+ip: 141.156.143.26
+ts: 1308733026
+minor: 1
+host: pool-141-156-143-26.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: === ~3 miles @ ~9 min/mi
+	
+	| http://zhurnaly.com/images/running/Gaithersburg_5k_XC_2011_KT.jpg |"What?" Caren Jew feigns astonishment when she sees me arrive at the club cross country race just before the 7pm Friday evening start. I explain that when I ran this morning I thought that daughter Gray would be playing in a chamber music concert tonight, but it turns out to be next week. Photographer Ken Trombatore declines my invitation to photograph my rashes, but I insist on showing them to all who will look. Ken Swab and Barry Smith are preparing for an ultramarathon next weekend in Wyoming. Jeanne Larrison and Christina Caravoulias cheerfully tell me about Lyme Disease.
+	
+	The race at the Agricultural History Park is around stubbly fields and over rolling hills. Big cumulonimbus clouds loom in the east but provide no relief from ~90&deg;F temperature and high humidity.
+	
+	"You're going at too fast a pace!" a runner tells me when he passes at about mile one. I don't realize until an hour later that he's joking about my bright orange "12:00+" singlet that I wear today and as a pacer for the Parks Half Marathon. My GPS is forgotten at home, but in general I trek along at 8-9 min/mi, pushing hard on the downhills and trying to survive the climbs. For the final mile I pursue 66 year old Donald Hensel, but can't manage to catch him.
+	
+	Shortly after me Don Libes finishes strong and explains that his foot only hurts when he's //not// running. Great-with-child Mical Honigfort and Caren come in together, but Caren isn't wearing her chip and Mical slows to run across the line with her two-year-old son Eric, waiting with papa Paul nearby. Peggy Dickison and her son Max greet me at the post-race refreshments. Max and I agree that lime ice-pops are the best flavor. |
+	
+	[[http://mcrrc.org/racing/2011/Gaithersburg-Cross-Country-5K.html|Official result]]:
+	
+	##    65  51/84     5/10     666 Mark Zimmermann       M 58 Kensington MD       MCRRC 26:43  8:36 ##
+	
+	//(photo by Ken Trombatore)// - //**^z**// - 2011-06-22
+	
+lastmajor: 1
+keep-ts: 1308733026

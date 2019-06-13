@@ -1,0 +1,25 @@
+blocks: <h3>~7.3 miles @ ~10.7 min/mi</h3><p>"At Hurricane Point I was almost blown into the ocean!" Rebecca describes the Big Sur Marathon she ran two weeks ago, in rougher weather than any of her prior six times there. Conditions for today's trek along Rock Creek are far gentler, except for the ordeal of parking at KenGar given all the training groups that meet here early Sunday morning. I run up and down the steep path by the railroad tracks to Plyers Mill Road a couple of times until Rebecca finds a space for her car and arrives on foot.</p><p>Then downstream we trot, discussing injuries and a half-marathon opportunity next weekend. Big puddles force a detour on a muddy forest track near milepost 6, but the paved trail under the Connecticut Avenue bridge is surprisingly not flooded despite recent rains. In our final mile we meet Peter, a fit 71-year-old who mentions an upcoming 10k race he hopes to compete in. "Why don't you try a Decathlon?" I suggest. "Thank goodness we're in different age groups!".</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/783794381">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-05-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.3 miles @ ~10.7 min/mi
+	
+	"At Hurricane Point I was almost blown into the ocean!" Rebecca describes the Big Sur Marathon she ran two weeks ago, in rougher weather than any of her prior six times there. Conditions for today's trek along Rock Creek are far gentler, except for the ordeal of parking at KenGar given all the training groups that meet here early Sunday morning. I run up and down the steep path by the railroad tracks to Plyers Mill Road a couple of times until Rebecca finds a space for her car and arrives on foot.
+	
+	Then downstream we trot, discussing injuries and a half-marathon opportunity next weekend. Big puddles force a detour on a muddy forest track near milepost 6, but the paved trail under the Connecticut Avenue bridge is surprisingly not flooded despite recent rains. In our final mile we meet Peter, a fit 71-year-old who mentions an upcoming 10k race he hopes to compete in. "Why don't you try a Decathlon?" I suggest. "Thank goodness we're in different age groups!".
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/783794381|trackfile]])// - //**^z**// - 2016-05-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.3 miles @ ~10.7 min/mi<br />&gt; "At Hurricane Point I was almost blown into the ocean!" Rebecca describes the Big Sur Marathon she ran two weeks ago, in rougher weather than any of her prior six times there. Conditions for today's trek along Rock Creek are far gentler, except for the ordeal of parking at KenGar given all the training groups that meet here early Sunday morning. I run up and down the steep path by the railroad tracks to Plyers Mill Road a couple of times until Rebecca finds a space for her car and arrives on foot.<br />&gt; Then downstream we trot, discussing injuries and a half-marathon opportunity next weekend. Big puddles force a detour on a muddy forest track near milepost 6, but the paved trail under the Connecticut Avenue bridge is surprisingly not flooded despite recent rains. In our final mile we meet Peter, a fit 71-year-old who mentions an upcoming 10k race he hopes to compete in. "Why don't you try a Decathlon?" I suggest. "Thank goodness we're in different age groups!".<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/783794381|trackfile]])// - //**^z**// - 2016-05-24</strong></p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057687

@@ -1,0 +1,23 @@
+blocks: <h3>~6.3 miles @ ~11.6 min/mi</h3><p>Coney count = 2 on a cool cloudy circuit around the Pimmit Hills neighborhood with colleagues Amber and Kristin. Discussion topics include kids, high school running records, and the irresistible temptations of free food at department meetings. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/363931372">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/511006522">Garmin</a> GPS agree to within ~1%.</p><p><em><strong>^z</strong></em> - 2014-06-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.213.42
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.3 miles @ ~11.6 min/mi
+	
+	Coney count = 2 on a cool cloudy circuit around the Pimmit Hills neighborhood with colleagues Amber and Kristin. Discussion topics include kids, high school running records, and the irresistible temptations of free food at department meetings. [[http://runkeeper.com/user/zhurnaly/activity/363931372|Runkeeper]] and [[http://connect.garmin.com/modern/activity/511006522|Garmin]] GPS agree to within ~1%.
+	
+	//**^z**// - 2014-06-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.3 miles @ ~11.6 min/mi<br />&gt; Coney count = 2 on a cool cloudy circuit around the Pimmit Hills neighborhood with colleagues Amber and Kristin. Discussion topics include kids, high school running records, and the irresistible temptations of free food at department meetings. [[http://runkeeper.com/user/zhurnaly/activity/363931372|Runkeeper]] and [[http://connect.garmin.com/modern/activity/511006522|Garmin]] GPS agree to within ~1%.<br />&gt; //**^z**// - 2014-06-23</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

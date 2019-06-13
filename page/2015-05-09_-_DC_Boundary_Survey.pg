@@ -1,0 +1,23 @@
+blocks: <h3>~15.7 miles @ ~12.6 min/mi</h3><p>Another DC historical artifact for Dr Sam (Sandra) Yerkes! I lead her to the northernmost point in Washington, a boundary stone set in place in 1792. We pause there for photos. Earlier on this humid morning Sam and Gayatri Datta and I ramble down Rock Creek, head west on Military Rd, then join the Capital Crescent Trail in Bethesda. Jackhammers ear-piercingly punch holes in River Rd, where the top of the radio tower by the CCT vanishes into the fog. A sadly flat rabbit lies in the middle of hilly Leland St. Flowers bloom and cyclists race past.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/566451151">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-06-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 70.117.115.132
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~15.7 miles @ ~12.6 min/mi
+	
+	Another DC historical artifact for Dr Sam (Sandra) Yerkes! I lead her to the northernmost point in Washington, a boundary stone set in place in 1792. We pause there for photos. Earlier on this humid morning Sam and Gayatri Datta and I ramble down Rock Creek, head west on Military Rd, then join the Capital Crescent Trail in Bethesda. Jackhammers ear-piercingly punch holes in River Rd, where the top of the radio tower by the CCT vanishes into the fog. A sadly flat rabbit lies in the middle of hilly Leland St. Flowers bloom and cyclists race past.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/566451151|trackfile]])// - //**^z**// - 2015-06-02
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~15.7 miles @ ~12.6 min/mi<br />&gt; Another DC historical artifact for Dr Sam (Sandra) Yerkes! I lead her to the northernmost point in Washington, a boundary stone set in place in 1792. We pause there for photos. Earlier on this humid morning Sam and Gayatri Datta and I ramble down Rock Creek, head west on Military Rd, then join the Capital Crescent Trail in Bethesda. Jackhammers ear-piercingly punch holes in River Rd, where the top of the radio tower by the CCT vanishes into the fog. A sadly flat rabbit lies in the middle of hilly Leland St. Flowers bloom and cyclists race past.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/566451151|trackfile]])// - //**^z**// - 2015-06-02</strong></p></div>
+flags: 0
+ts: 1528057684
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057684

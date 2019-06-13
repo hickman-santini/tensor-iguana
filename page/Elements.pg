@@ -1,0 +1,25 @@
+blocks: <table class="user"><tr><td align="right">They are the Earth;<br />&nbsp;&nbsp;&nbsp;Water is you.<br />And I? Air!<br />&nbsp;&nbsp;&nbsp;Fire: the love<br />That we all share </td></tr></table><p><em><strong>^z</strong></em> - 2015-06-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 66.90.145.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | They are the Earth;
+	&nbsp;&nbsp;&nbsp;Water is you.
+	And I? Air!
+	&nbsp;&nbsp;&nbsp;Fire: the love
+	That we all share |
+	
+	//**^z**// - 2015-06-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| They are the Earth;<br />&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Water is you.<br />&gt; And I? Air!<br />&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Fire: the love<br />&gt; That we all share |<br />&gt; //**^z**// - 2015-06-02</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

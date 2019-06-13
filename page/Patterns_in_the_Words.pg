@@ -1,0 +1,68 @@
+blocks: <table class="user"><tr><td align="right">Random rattles<br />Flickers of form<br />Glimpses of order<br />Rows and diagonals<br />Take shape in the forest<br />Raindrops patter on rooftops<br />Stars glide into constellations<br />And poetry emerges from the noise </td></tr></table><p><em><strong>^z</strong></em> - 2012-08-18<br /></p><hr /><p><em>Within the mottled images are hints <br />of leitmotifs that span this scene and that.<br />The placements seem so incidental yet <br />the sweetness of the sweet spot in the curve <br />seems just to match what I have learned to see.</em></p><p><em>And man-made <a class="url http outside" href="http://www.livingneighborhoods.org/ht-0/fifteen.htm">places</a> resonate with us <br />when they reveal regard for Nature's touch.</em></p><p>Alternating symmetries, footprints in the grass, mann.<br /></p><hr /><p>And speaking of the patterns in the words,<br />Isn't it remarkable how links <br />between ideas and sounds that populate <br />the English that we speak predate <a class="url http outside" href="https://www.google.com/search?num=10&amp;hl=en&amp;safe=off&amp;site=imghp&amp;tbm=isch&amp;source=hp&amp;biw=1038&amp;bih=526&amp;q=indo-euroean+migrations&amp;oq=indo-euroean+migrations&amp;gs_l=img.3...2497.8747.0.9040.23.10.0.13.0.0.172.753.8j2.10.0...0.0...1ac.-MSq4ChmDQU&amp;qscrl=1">migrations</a><br />of the Indo-European peoples,<br />persisting over multiple millennia.<br />Some ancient sound for "angle" carried a <em>g</em> and <em>n</em>,<br />and when they got to Greece it had become a "gonia",<br />Still there in French genou, the angle of the leg,<br />And though the <em>g</em> slid to a silent <em>k</em>,<br />that ancient sound is there in English still,<br />Even now with all that's come and gone,<br />the <em>k</em> and <em>n</em> in knee tell of the saga,<br />migrations of those peoples, the tapestries <br />of languages we use to formulate <br />our thoughts, woven of threads both old <br />and new: it's fun to see core sounds persist,<br />though morphed in well known ways from entering <br />to exiting the languages these sounds <br />passed through from ancient times to us.</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.88.208
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Random rattles
+	Flickers of form
+	Glimpses of order
+	Rows and diagonals
+	Take shape in the forest
+	Raindrops patter on rooftops
+	Stars glide into constellations
+	And poetry emerges from the noise |
+	
+	//**^z**// - 2012-08-18
+	---- 
+	//Within the mottled images are hints 
+	of leitmotifs that span this scene and that.
+	The placements seem so incidental yet 
+	the sweetness of the sweet spot in the curve 
+	seems just to match what I have learned to see.//
+	
+	//And man-made [http://www.livingneighborhoods.org/ht-0/fifteen.htm places] resonate with us 
+	when they reveal regard for Nature's touch.//
+	
+	Alternating symmetries, footprints in the grass, mann.
+	----
+	And speaking of the patterns in the words, 
+	Isn't it remarkable how links 
+	between ideas and sounds that populate 
+	the English that we speak predate [https://www.google.com/search?num=10&hl=en&safe=off&site=imghp&tbm=isch&source=hp&biw=1038&bih=526&q=indo-euroean+migrations&oq=indo-euroean+migrations&gs_l=img.3...2497.8747.0.9040.23.10.0.13.0.0.172.753.8j2.10.0...0.0...1ac.-MSq4ChmDQU&qscrl=1 migrations] 
+	of the Indo-European peoples, 
+	persisting over multiple millennia. 
+	Some ancient sound for "angle" carried a //g// and //n//, 
+	and when they got to Greece it had become a "gonia", 
+	Still there in French genou, the angle of the leg, 
+	And though the //g// slid to a silent //k//, 
+	that ancient sound is there in English still, 
+	Even now with all that's come and gone, 
+	the //k// and //n// in knee tell of the saga, 
+	migrations of those peoples, the tapestries 
+	of languages we use to formulate 
+	our thoughts, woven of threads both old 
+	and new: it's fun to see core sounds persist, 
+	though morphed in well known ways from entering 
+	to exiting the languages these sounds 
+	passed through from ancient times to us.
+	
+	
+	
+	
+	
+	
+	
+languages: 
+lastmajor: 19
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">|</strong>Within the mottled images are hints </p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//</strong>Within the mottled images are hints </p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; seems just to match what I have learned to see<strong class="changes">.|</strong><br />&lt; And man-made [http://www.livingneighborhoods.org/ht-0/fifteen.htm places] resonate with us <br />&lt; when they reveal regard for <strong class="changes">the deep feel.</strong><br />&lt; Alternating symmetries and <strong class="changes">alternating forms</strong> </p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; seems just to match what I have learned to see<strong class="changes">.//<br />&gt; //</strong>And man-made [http://www.livingneighborhoods.org/ht-0/fifteen.htm places] resonate with us <br />&gt; when they reveal regard for <strong class="changes">Nature's touch.//</strong><br />&gt; Alternating symmetries<strong class="changes">, footprints in the grass, mann.<br />&gt; ----<br />&gt; And speaking of the patterns in the words, <br />&gt; Isn't it remarkable how links <br />&gt; between ideas and sounds that populate <br />&gt; the English that we speak predate [https://www.google.com/search?num=10&amp;hl=en&amp;safe=off&amp;site=imghp&amp;tbm=isch&amp;source=hp&amp;biw=1038&amp;bih=526&amp;q=indo-euroean+migrations&amp;oq=indo-euroean+migrations&amp;gs_l=img.3...2497.8747.0.9040.23.10.0.13.0.0.172.753.8j2.10.0...0.0...1ac.-MSq4ChmDQU&amp;qscrl=1 migrations] <br />&gt; of the Indo-European peoples, <br />&gt; persisting over multiple millennia. <br />&gt; Some ancient sound for "angle" carried a //g//</strong> and <strong class="changes">//n//, <br />&gt; and when they got to Greece it had become a "gonia", <br />&gt; Still there in French genou, the angle of the leg, <br />&gt; And though the //g// slid to a silent //k//, <br />&gt; that ancient sound is there in English still, <br />&gt; Even now with all that's come and gone, <br />&gt; the //k// and //n// in knee tell of the saga, <br />&gt; migrations of those peoples, the tapestries <br />&gt; of languages we use to formulate <br />&gt; our thoughts, woven of threads both old <br />&gt; and new: it's fun to see core sounds persist, <br />&gt; though morphed in well known ways from entering <br />&gt; to exiting the languages these sounds <br />&gt; passed through from ancient times to us.</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 19
+keep-ts: 1528057690

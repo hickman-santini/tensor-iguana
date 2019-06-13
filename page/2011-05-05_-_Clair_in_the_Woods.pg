@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~3 miles @ ~12 min/mi</h3></p><p>Comrade Clair shows me how to power up the digital scale in the gym. <em>Whee!</em> &mdash; it reads a pre-run 150.0 lbs even though I've got shorts, shirt, socks, and trail shoes on. Clair likewise is happy to be back down to her pre-pregnancy weight, with baby Sophie not quite 5 months old. On the hilly path through the woods we do a deliberate first lap with marked mile of 11:29 including some walks and much dialog. Then, pushing Clair beyond her conversational zone, a second comes in at 8:52. This portends well for her achieving her near-term goal of a 5k in under 30 minutes. Pulses after the final mile are in the 170+ zone. Five deer eye us from the meadow. Clair wonders if, as vegetarian beasts, they would prefer to eat a vegetarian (me) rather than a carnivore (her)?</p><p><em><strong>^z</strong></em> - 2011-05-16</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Comrade Clair shows me how to power up the digital scale in the gym. //Whee!// &amp;mdash; it reads a pre-run 150.0 lbs even though I've got shorts, shirt, socks, and trail shoes on. Clair likewise is happy to be back down to her pre-pregnancy weight, with baby Sophie not quite 5 months old. On the hilly path through the woods we do a deliberate first lap with marked mile of 11:29 including some walks and much dialog. Then, pushing Clair beyond her conversational zone, a second comes in at 8:52. This portends well for her <strong class="changes">doing the ~3 mile local "</strong>5k<strong class="changes">"</strong> in under 30 minutes <strong class="changes">in a couple of weeks</strong>. Pulses after the final mile are in the 170+ zone. Five deer eye us from the meadow. Clair wonders if, as vegetarian beasts, they would prefer to eat a vegetarian (me) rather than a carnivore (her)?</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Comrade Clair shows me how to power up the digital scale in the gym. //Whee!// &amp;mdash; it reads a pre-run 150.0 lbs even though I've got shorts, shirt, socks, and trail shoes on. Clair likewise is happy to be back down to her pre-pregnancy weight, with baby Sophie not quite 5 months old. On the hilly path through the woods we do a deliberate first lap with marked mile of 11:29 including some walks and much dialog. Then, pushing Clair beyond her conversational zone, a second comes in at 8:52. This portends well for her <strong class="changes">achieving her near-term goal of a</strong> 5k in under 30 minutes. Pulses after the final mile are in the 170+ zone. Five deer eye us from the meadow. Clair wonders if, as vegetarian beasts, they would prefer to eat a vegetarian (me) rather than a carnivore (her)?</p></div>
+ip: 138.88.179.129
+ts: 1305535074
+minor: 1
+host: pool-138-88-179-129.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: === ~3 miles @ ~12 min/mi
+	
+	Comrade Clair shows me how to power up the digital scale in the gym. //Whee!// &mdash; it reads a pre-run 150.0 lbs even though I've got shorts, shirt, socks, and trail shoes on. Clair likewise is happy to be back down to her pre-pregnancy weight, with baby Sophie not quite 5 months old. On the hilly path through the woods we do a deliberate first lap with marked mile of 11:29 including some walks and much dialog. Then, pushing Clair beyond her conversational zone, a second comes in at 8:52. This portends well for her achieving her near-term goal of a 5k in under 30 minutes. Pulses after the final mile are in the 170+ zone. Five deer eye us from the meadow. Clair wonders if, as vegetarian beasts, they would prefer to eat a vegetarian (me) rather than a carnivore (her)?
+	
+	//**^z**// - 2011-05-16
+	
+lastmajor: 1
+keep-ts: 1305535074

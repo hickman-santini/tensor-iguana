@@ -1,0 +1,52 @@
+blocks: <p>From a popular <strong>New York Times</strong> feature last month, "<a class="url http outside" href="http://www.nytimes.com/interactive/2016/03/23/fashion/weddings/marriage-questions.html">13 Questions to Ask Before Getting Married</a>", a link leads to the 1992 Gary Chapman book <em><strong><a class="url http outside" href="http://www.5lovelanguages.com">The 5 Love Languages</a></strong></em>, which offers a taxonomy:<br /></p><ul><li>words of affirmation</li><li>acts of service</li><li>receiving gifts</li><li>quality time</li><li>physical touch</li></ul><p>... and a found coffee cup defines "the language of flowers" in its illustrations:<br /></p><ul><li>rose = love</li><li>mint = virtue</li><li>freesia = trust</li><li>sweet basil = good wishes</li><li>carnation = joy</li><li>larkspur = levity</li><li>primrose = youth</li><li>jasmine = grace</li><li>ivy = friendship</li><li>snowdrop = hope</li><li>pansy = warm thoughts</li><li>rosemary = remembrance</li></ul><p>... and a 2012 <strong>New Yorker</strong> magazine column "<a class="url http outside" href="http://www.newyorker.com/culture/culture-desk/i-heart-emoji">I Heart Emoji</a>", that includes the more conventional as well as a "lost in translation" subset of emoticon symbology:<br /></p><ul><li>a pyramid of excrement with eyes and a grin</li><li>a stack of dollar bills with wings</li><li>the tip of a fountain pen in front of a padlock</li><li>a pair of hands held up, palms open, beneath a line of blue triangles</li><li>a building with the letters BK on it (not signifying, presumably, Brooklyn)</li><li>the number 18 circled and crossed with a diagonal line</li></ul><p>... and as the author, Hannah Goldfield, also notes:<br /></p><blockquote><p>... Sometimes I send them on their own. I recently texted a friend mired in grad school a tiny green turtle, just to let her know I was thinking of her; she responded with a poodle, and then a yellow face blowing a kiss. Even Vladimir Nabokov, arguably unparallelled in his mastery of the English language, acknowledged that sometimes nothing but an emoticon will quite do: when, in 1969, the New York Times asked him how he ranked himself among other writers, he replied, "I often think there should exist a special typographical sign for a smile&mdash;some sort of concave mark, a supine round bracket, which I would now like to trace in reply to your question." ...<br /></p></blockquote><p><em><strong>^z</strong></em> - 2016-04-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.188
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: From a popular **New York Times** feature last month, "[[http://www.nytimes.com/interactive/2016/03/23/fashion/weddings/marriage-questions.html|13 Questions to Ask Before Getting Married]]", a link leads to the 1992 Gary Chapman book //**[[http://www.5lovelanguages.com|The 5 Love Languages]]**//, which offers a taxonomy:
+	* words of affirmation
+	* acts of service
+	* receiving gifts
+	* quality time
+	* physical touch
+	
+	... and a found coffee cup defines "the language of flowers" in its illustrations:
+	* rose = love
+	* mint = virtue
+	* freesia = trust
+	* sweet basil = good wishes
+	* carnation = joy
+	* larkspur = levity
+	* primrose = youth
+	* jasmine = grace
+	* ivy = friendship
+	* snowdrop = hope
+	* pansy = warm thoughts
+	* rosemary = remembrance
+	
+	... and a 2012 **New Yorker** magazine column "[[http://www.newyorker.com/culture/culture-desk/i-heart-emoji|I Heart Emoji]]", that includes the more conventional as well as a "lost in translation" subset of emoticon symbology:
+	* a pyramid of excrement with eyes and a grin
+	* a stack of dollar bills with wings
+	* the tip of a fountain pen in front of a padlock
+	* a pair of hands held up, palms open, beneath a line of blue triangles
+	* a building with the letters BK on it (not signifying, presumably, Brooklyn)
+	* the number 18 circled and crossed with a diagonal line
+	
+	... and as the author, Hannah Goldfield, also notes:
+	"""
+	... Sometimes I send them on their own. I recently texted a friend mired in grad school a tiny green turtle, just to let her know I was thinking of her; she responded with a poodle, and then a yellow face blowing a kiss. Even Vladimir Nabokov, arguably unparallelled in his mastery of the English language, acknowledged that sometimes nothing but an emoticon will quite do: when, in 1969, the New York Times asked him how he ranked himself among other writers, he replied, "I often think there should exist a special typographical sign for a smile&mdash;some sort of concave mark, a supine round bracket, which I would now like to trace in reply to your question." ...
+	"""
+	
+	//**^z**// - 2016-04-06
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; From a popular **New York Times** feature last month, "[[http://www.nytimes.com/interactive/2016/03/23/fashion/weddings/marriage-questions.html|13 Questions to Ask Before Getting Married]]", a link leads to the 1992 Gary Chapman book //**[[http://www.5lovelanguages.com|The 5 Love Languages]]**//, which offers a taxonomy:<br />&gt; * words of affirmation<br />&gt; * acts of service<br />&gt; * receiving gifts<br />&gt; * quality time<br />&gt; * physical touch<br />&gt; ... and a found coffee cup defines "the language of flowers" in its illustrations:<br />&gt; * rose = love<br />&gt; * mint = virtue<br />&gt; * freesia = trust<br />&gt; * sweet basil = good wishes<br />&gt; * carnation = joy<br />&gt; * larkspur = levity<br />&gt; * primrose = youth<br />&gt; * jasmine = grace<br />&gt; * ivy = friendship<br />&gt; * snowdrop = hope<br />&gt; * pansy = warm thoughts<br />&gt; * rosemary = remembrance<br />&gt; ... and a 2012 **New Yorker** magazine column "[[http://www.newyorker.com/culture/culture-desk/i-heart-emoji|I Heart Emoji]]", that includes the more conventional as well as a "lost in translation" subset of emoticon symbology:<br />&gt; * a pyramid of excrement with eyes and a grin<br />&gt; * a stack of dollar bills with wings<br />&gt; * the tip of a fountain pen in front of a padlock<br />&gt; * a pair of hands held up, palms open, beneath a line of blue triangles<br />&gt; * a building with the letters BK on it (not signifying, presumably, Brooklyn)<br />&gt; * the number 18 circled and crossed with a diagonal line<br />&gt; ... and as the author, Hannah Goldfield, also notes:<br />&gt; """<br />&gt; ... Sometimes I send them on their own. I recently texted a friend mired in grad school a tiny green turtle, just to let her know I was thinking of her; she responded with a poodle, and then a yellow face blowing a kiss. Even Vladimir Nabokov, arguably unparallelled in his mastery of the English language, acknowledged that sometimes nothing but an emoticon will quite do: when, in 1969, the New York Times asked him how he ranked himself among other writers, he replied, "I often think there should exist a special typographical sign for a smile&amp;mdash;some sort of concave mark, a supine round bracket, which I would now like to trace in reply to your question." ...<br />&gt; """<br />&gt; //**^z**// - 2016-04-06</p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057703

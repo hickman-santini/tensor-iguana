@@ -1,0 +1,26 @@
+flags: 0
+blocks: <p><h3>~5 miles @ ~9.6 min/mi</h3></p><p>My shorts are falling down! An old pair, bought half a dozen years ago at the thrift store for a couple of dollars&mdash;perhaps the elastic is dead? Perhaps I've lost weight? Regardless, I have to keep hitching them up. Past time to throw them away!</p><p>Cara Marie Manlandro is returned from travels and getting back into running trim. We meet at Lake Needwood and start down Rock Creek Trail a little after 6pm on a warm and humid evening. Downstream from milepost 14 to ~11.5 we go, guessing the turnaround based on time and pace, crossing the side-trail bridge over the creek there to tag the other bank before heading back. I chatter away about mystery tendon twinges: right knee, left index finger, left big toe.</p><p>From the start CM says "We're going too fast!", but I reply with "We're better than we think we are!" and challenge her to accelerate the pace. During the final mile I spy a young lady jogging ahead of us, and whisper that we can catch her if we try. On the final hill she's walking, so as CM and I approach, pushing hard, I say, "Ma'am, you've gotta run and pull us along!" She takes off in a helpful trot; CM and I manage to almost keep up until the mile marker. We pant out thanks. Our rabbit runs onward, up the gravel path across the dam at the end of the lake. I joke: "She's obviously a sandbagger&mdash;I hate her!" Splits: 10:04 + 9:53 + (4:57 + 4:37) + 9:22 + 9:11 = 48:04.</p><p><em><strong>^z</strong></em> - 2010-05-28</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; From the start CM says "We're going too fast!", but I reply with "We're better than we think we are!" and challenge her to accelerate the pace. During the final mile I spy a young lady jogging ahead of us, and whisper that we can catch her if we try. On the final hill she's walking, so as CM and I approach, pushing hard, I say, "Ma'am, you've gotta run and pull us along!" She takes off in a helpful trot; CM and I manage to almost keep up until the mile marker. Our rabbit runs onward, up the gravel path across the dam at the end of the lake. "She's obviously a sandbagger&amp;mdash;I hate her!" <strong class="changes">I joke. Our splits</strong>: 10:04 + 9:53 + 4:57 + 4:37 + 9:22 + 9:11 = 48:04.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; From the start CM says "We're going too fast!", but I reply with "We're better than we think we are!" and challenge her to accelerate the pace. During the final mile I spy a young lady jogging ahead of us, and whisper that we can catch her if we try. On the final hill she's walking, so as CM and I approach, pushing hard, I say, "Ma'am, you've gotta run and pull us along!" She takes off in a helpful trot; CM and I manage to almost keep up until the mile marker. <strong class="changes">We pant out thanks.</strong> Our rabbit runs onward, up the gravel path across the dam at the end of the lake. <strong class="changes">I joke:</strong> "She's obviously a sandbagger&amp;mdash;I hate her!" <strong class="changes">Splits</strong>: 10:04 + 9:53 + <strong class="changes">(</strong>4:57 + 4:37<strong class="changes">)</strong> + 9:22 + 9:11 = 48:04.</p></div>
+ip: 138.88.180.121
+ts: 1275036538
+minor: 1
+host: pool-138-88-180-121.res.east.verizon.net
+username: ZZ
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: === ~5 miles @ ~9.6 min/mi
+	
+	My shorts are falling down! An old pair, bought half a dozen years ago at the thrift store for a couple of dollars&mdash;perhaps the elastic is dead? Perhaps I've lost weight? Regardless, I have to keep hitching them up. Past time to throw them away!
+	
+	Cara Marie Manlandro is returned from travels and getting back into running trim. We meet at Lake Needwood and start down Rock Creek Trail a little after 6pm on a warm and humid evening. Downstream from milepost 14 to ~11.5 we go, guessing the turnaround based on time and pace, crossing the side-trail bridge over the creek there to tag the other bank before heading back. I chatter away about mystery tendon twinges: right knee, left index finger, left big toe.
+	
+	From the start CM says "We're going too fast!", but I reply with "We're better than we think we are!" and challenge her to accelerate the pace. During the final mile I spy a young lady jogging ahead of us, and whisper that we can catch her if we try. On the final hill she's walking, so as CM and I approach, pushing hard, I say, "Ma'am, you've gotta run and pull us along!" She takes off in a helpful trot; CM and I manage to almost keep up until the mile marker. We pant out thanks. Our rabbit runs onward, up the gravel path across the dam at the end of the lake. I joke: "She's obviously a sandbagger&mdash;I hate her!" Splits: 10:04 + 9:53 + (4:57 + 4:37) + 9:22 + 9:11 = 48:04.
+	
+	//**^z**// - 2010-05-28
+	
+lastmajor: 1
+keep-ts: 1275036538

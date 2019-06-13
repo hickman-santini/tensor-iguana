@@ -1,0 +1,23 @@
+blocks: <h3>~7.5 miles @ ~12.5 min/mi</h3><p>Frost on parked car windshields confirms the bank thermometer's 30 degree reading, as we meander down cup-de-sacs and repeatedly miss turns trying to find our way around the Kent Gardens Park neighborhood on the return trek. Both Kerry and Kristin have morning meetings, and both are kind and forgiving when my map-reading skills are tested and found wanting. Therapeutic trail talk, shared gratitude, and a beautiful pink sunrise compensate for a 20% overshoot in distance. Fire trucks blast down the road, lights blinding, sirens deafening. Kerry spots a clementine lodged in a tree. I restrain myself from plucking it; Kristin chuckles.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/527219605">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-04-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.218
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.5 miles @ ~12.5 min/mi
+	
+	Frost on parked car windshields confirms the bank thermometer's 30 degree reading, as we meander down cup-de-sacs and repeatedly miss turns trying to find our way around the Kent Gardens Park neighborhood on the return trek. Both Kerry and Kristin have morning meetings, and both are kind and forgiving when my map-reading skills are tested and found wanting. Therapeutic trail talk, shared gratitude, and a beautiful pink sunrise compensate for a 20% overshoot in distance. Fire trucks blast down the road, lights blinding, sirens deafening. Kerry spots a clementine lodged in a tree. I restrain myself from plucking it; Kristin chuckles.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/527219605|trackfile]])// - //**^z**// - 2015-04-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.5 miles @ ~12.5 min/mi<br />&gt; Frost on parked car windshields confirms the bank thermometer's 30 degree reading, as we meander down cup-de-sacs and repeatedly miss turns trying to find our way around the Kent Gardens Park neighborhood on the return trek. Both Kerry and Kristin have morning meetings, and both are kind and forgiving when my map-reading skills are tested and found wanting. Therapeutic trail talk, shared gratitude, and a beautiful pink sunrise compensate for a 20% overshoot in distance. Fire trucks blast down the road, lights blinding, sirens deafening. Kerry spots a clementine lodged in a tree. I restrain myself from plucking it; Kristin chuckles.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/527219605|trackfile]])// - //**^z**// - 2015-04-07</strong></p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057687

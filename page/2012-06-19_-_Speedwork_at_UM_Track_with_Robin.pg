@@ -1,0 +1,23 @@
+blocks: <h3>~2 miles @ ~10.2 min/mi</h3><p>On the way to the AT&amp;T Store to get iPhones for Gray and Paulette there's enough time to stop at the Marathon Deli &mdash; and on the way there, enough time for twenty minutes of interval training to counterbalance the long runs I've been doing of late. So at the usual UM track Robin does 400m repeats and I do eight 200's with ~2 minutes of recovery between. The stopwatch says, in seconds: 49 + 46 + 45 + 45 + 44 + 44 + 44 + 44 &mdash; at least I'm consistent this afternoon.</p><p><em><strong>^z</strong></em> - 2012-07-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.129.41
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2 miles @ ~10.2 min/mi
+	
+	On the way to the AT&T Store to get iPhones for Gray and Paulette there's enough time to stop at the Marathon Deli &mdash; and on the way there, enough time for twenty minutes of interval training to counterbalance the long runs I've been doing of late. So at the usual UM track Robin does 400m repeats and I do eight 200's with ~2 minutes of recovery between. The stopwatch says, in seconds: 49 + 46 + 45 + 45 + 44 + 44 + 44 + 44 &mdash; at least I'm consistent this afternoon.
+	
+	//**^z**// - 2012-07-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2 miles @ ~10.2 min/mi<br />&gt; On the way to the AT&amp;T Store to get iPhones for Gray and Paulette there's enough time to stop at the Marathon Deli &amp;mdash; and on the way there, enough time for twenty minutes of interval training to counterbalance the long runs I've been doing of late. So at the usual UM track Robin does 400m repeats and I do eight 200's with ~2 minutes of recovery between. The stopwatch says, in seconds: 49 + 46 + 45 + 45 + 44 + 44 + 44 + 44 &amp;mdash; at least I'm consistent this afternoon.<br />&gt; //**^z**// - 2012-07-15</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057711

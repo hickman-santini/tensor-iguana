@@ -1,0 +1,23 @@
+blocks: <h3>~5.0 miles @ ~11.2 min/mi</h3><p>"I saved his life &mdash; is that a mitzvah, Rebecca?" I ask. It's late on Sunday afternoon, and I've just stopped Barry Smith from stepping in front of a speeding truck on Veirs Mill Rd. <em>(And is it another Good Deed if I refrain from pushing him into traffic?)</em> Rains have stopped but puddles remain along Rock Creek Trail. Rebecca Rosenberg is coming back from knee issues, all of us have raced in recent days, and the pace is nonetheless brisk. Barry introduces us to "strides", something like 20-second surges into sprint-mode.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/698810420">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-12-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.32
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.0 miles @ ~11.2 min/mi
+	
+	"I saved his life &mdash; is that a mitzvah, Rebecca?" I ask. It's late on Sunday afternoon, and I've just stopped Barry Smith from stepping in front of a speeding truck on Veirs Mill Rd. //(And is it another Good Deed if I refrain from pushing him into traffic?)// Rains have stopped but puddles remain along Rock Creek Trail. Rebecca Rosenberg is coming back from knee issues, all of us have raced in recent days, and the pace is nonetheless brisk. Barry introduces us to "strides", something like 20-second surges into sprint-mode.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/698810420|trackfile]])// - //**^z**// - 2015-12-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.0 miles @ ~11.2 min/mi<br />&gt; "I saved his life &amp;mdash; is that a mitzvah, Rebecca?" I ask. It's late on Sunday afternoon, and I've just stopped Barry Smith from stepping in front of a speeding truck on Veirs Mill Rd. //(And is it another Good Deed if I refrain from pushing him into traffic?)// Rains have stopped but puddles remain along Rock Creek Trail. Rebecca Rosenberg is coming back from knee issues, all of us have raced in recent days, and the pace is nonetheless brisk. Barry introduces us to "strides", something like 20-second surges into sprint-mode.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/698810420|trackfile]])// - //**^z**// - 2015-12-15</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

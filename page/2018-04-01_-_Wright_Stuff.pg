@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~4.3 mi @ ~16.6 min/mi</h3><p>"Frank Lloyd Wright designed it for his son!" The Robert Llewellyn Wright House overlooks the Cabin John Stream Valley Trail where Barry, Don, and Rebecca enjoy an Easter afternoon. &Uuml;ber-cute dogs pause to be petted and polite mountain bikers pass carefully. A side path leads into brambles on the wrong side of Seven Locks Road, but eventually the true trail is found. Young folk race ahead while the pair of codgers have a battle of Classic Rock lyrics: "Another Brick in the Wall" vs "Summer of 69" vs "Take the Long Way Home". A flock of vultures nibble on a deer carcass. With banged knees we return early and pick up pizza en route to nap-time.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1141038887">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-04-27</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.3 mi @ ~16.6 min/mi<br />&gt; "Frank Lloyd Wright designed it for his son!" The Robert Llewellyn Wright House overlooks the Cabin John Stream Valley Trail where Barry, Don, and Rebecca enjoy an Easter afternoon. &amp;Uuml;ber-cute dogs pause to be petted and polite mountain bikers pass carefully. A side path leads into brambles on the wrong side of Seven Locks Road, but eventually the true trail is found. Young folk race ahead while the pair of codgers have a battle of Classic Rock lyrics: "Another Brick in the Wall" vs "Summer of 69" vs "Take the Long Way Home". A flock of vultures nibble on a deer carcass. With banged knees we return early and pick up pizza en route to nap-time.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1141038887|trackfile]])// - //**^z**// - 2018-04-27</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057701
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.3 mi @ ~16.6 min/mi
+	
+	"Frank Lloyd Wright designed it for his son!" The Robert Llewellyn Wright House overlooks the Cabin John Stream Valley Trail where Barry, Don, and Rebecca enjoy an Easter afternoon. &Uuml;ber-cute dogs pause to be petted and polite mountain bikers pass carefully. A side path leads into brambles on the wrong side of Seven Locks Road, but eventually the true trail is found. Young folk race ahead while the pair of codgers have a battle of Classic Rock lyrics: "Another Brick in the Wall" vs "Summer of 69" vs "Take the Long Way Home". A flock of vultures nibble on a deer carcass. With banged knees we return early and pick up pizza en route to nap-time.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1141038887|trackfile]])// - //**^z**// - 2018-04-27
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057701

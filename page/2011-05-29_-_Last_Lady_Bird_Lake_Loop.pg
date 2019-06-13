@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~10.2 miles @ ~11.6 min/mi</h3></p><p>Two phone calls permit guilt-free long walk breaks on a warm and humid Sunday morning in Austin Texas. Chain-link fences on the south shore protect portajohns and other preparations for the olympic triathlon to be held tomorrow. By Riverside Dr a limestone cliff looms over the sidewalk, red-budding prickly pear cactus hanging down from above.</p><p><em>(<a class="url http outside" href="http://connect.garmin.com/activity/88741959">GPS trackfile</a>, ...)</em> - <em><strong>^z</strong></em> - 2011-06-08</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Two phone calls permit guilt-free long walk breaks on a warm and humid Sunday morning. Chain-link fences on the south shore protect portajohns and other preparations for the olympic triathlon to be held tomorrow. By Riverside Dr a limestone cliff looms over the sidewalk, red-budding prickly pear cactus hanging down from above.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Two phone calls permit guilt-free long walk breaks on a warm and humid Sunday morning <strong class="changes">in Austin Texas</strong>. Chain-link fences on the south shore protect portajohns and other preparations for the olympic triathlon to be held tomorrow. By Riverside Dr a limestone cliff looms over the sidewalk, red-budding prickly pear cactus hanging down from above.</p></div>
+ip: 141.156.143.26
+ts: 1307544451
+minor: 1
+host: pool-141-156-143-26.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: === ~10.2 miles @ ~11.6 min/mi
+	
+	Two phone calls permit guilt-free long walk breaks on a warm and humid Sunday morning in Austin Texas. Chain-link fences on the south shore protect portajohns and other preparations for the olympic triathlon to be held tomorrow. By Riverside Dr a limestone cliff looms over the sidewalk, red-budding prickly pear cactus hanging down from above.
+	
+	//([[http://connect.garmin.com/activity/88741959|GPS trackfile]], ...)// - //**^z**// - 2011-06-08
+	
+lastmajor: 1
+keep-ts: 1307544451

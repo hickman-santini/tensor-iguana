@@ -1,0 +1,27 @@
+blocks: <h3>~11.0 miles @ ~11.7 min/mi</h3><p>"I was running in the buff," Barry says. <em>(He's referring to a "Buff" brand tubular scarf.)</em></p><p>"You should talk to Kate &mdash; she's a streaker!" <em>(Her series of every-day runs is over 400 again.)</em></p><p>Temps hang a couple of degrees above freezing on a gray afternoon. Rain pauses, then resumes. Puddles dot the pavement. We meet at Candy Cane City and trot along Rock Creek into DC. Barry reports on last weekend's Dopey Challenge that he ran in DisneyWorld: vultures circling over the wastewater treatment plant, race photographers hunkered down in tents to shield themselves from the cold, and fancy-restaurant dinners enjoyed while wearing technical-fiber running shirts since he didn't pack anything else this trip!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/919446662">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-02-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.215
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~11.0 miles @ ~11.7 min/mi
+	
+	"I was running in the buff," Barry says. //(He's referring to a "Buff" brand tubular scarf.)//
+	
+	"You should talk to Kate &mdash; she's a streaker!" //(Her series of every-day runs is over 400 again.)//
+	
+	Temps hang a couple of degrees above freezing on a gray afternoon. Rain pauses, then resumes. Puddles dot the pavement. We meet at Candy Cane City and trot along Rock Creek into DC. Barry reports on last weekend's Dopey Challenge that he ran in DisneyWorld: vultures circling over the wastewater treatment plant, race photographers hunkered down in tents to shield themselves from the cold, and fancy-restaurant dinners enjoyed while wearing technical-fiber running shirts since he didn't pack anything else this trip!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/919446662|trackfile]])// - //**^z**// - 2017-02-09
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~11.0 miles @ ~11.7 min/mi<br />&gt; "I was running in the buff," Barry says. //(He's referring to a "Buff" brand tubular scarf.)//<br />&gt; "You should talk to Kate &amp;mdash; she's a streaker!" //(Her series of every-day runs is over 400 again.)//<br />&gt; Temps hang a couple of degrees above freezing on a gray afternoon. Rain pauses, then resumes. Puddles dot the pavement. We meet at Candy Cane City and trot along Rock Creek into DC. Barry reports on last weekend's Dopey Challenge that he ran in DisneyWorld: vultures circling over the wastewater treatment plant, race photographers hunkered down in tents to shield themselves from the cold, and fancy-restaurant dinners enjoyed while wearing technical-fiber running shirts since he didn't pack anything else this trip!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/919446662|trackfile]])// - //**^z**// - 2017-02-09</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

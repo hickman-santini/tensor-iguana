@@ -1,0 +1,23 @@
+flags: 0
+blocks: <p>Sign seen at a local Whole Foods grocery store, near the tap on a big barrel:</p><table class="user"><tr><td align="right"><strong> Compost Tea<br /> Do Not Drink</strong></td></tr></table><p><em><strong>^z</strong></em> - 2011-07-11</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Sign seen at Whole Foods, near the tap on a big barrel <strong class="changes">outside</strong>:</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Sign seen at <strong class="changes">a local</strong> Whole Foods <strong class="changes">grocery store</strong>, near the tap on a big barrel:</p></div>
+ip: 138.88.113.83
+ts: 1310374284
+minor: 1
+host: pool-138-88-113-83.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: Sign seen at a local Whole Foods grocery store, near the tap on a big barrel:
+	
+	| ** Compost Tea
+	  Do Not Drink** |
+	
+	//**^z**// - 2011-07-11
+	
+lastmajor: 1
+keep-ts: 1310374284

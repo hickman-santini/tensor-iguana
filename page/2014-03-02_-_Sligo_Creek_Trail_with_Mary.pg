@@ -1,0 +1,23 @@
+blocks: <h3>~6 miles @ ~15 min/mi</h3><p>Sandbagger Mary Ewell isn't sure she can go the distance, but then on the way back insists on doing extra laps around the track to make sure we exceed 10k, as we run and walk along Sligo Creek Trail from near the Beltway downstream to Adventist Hospital and back, pursuing splendid conversation, observing lovely dogs, and marveling at beautiful-loud chimes from the playground. Friend Kathy B from an office where I worked years ago says "Hi!" and startles me. <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/181853889">Runtastic</a> and <a class="url http outside" href="http://connect.garmin.com/activity/454311482">Garmin</a> GPS record details.</p><p><em><strong>^z</strong></em> - 2014-03-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.215.91
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6 miles @ ~15 min/mi
+	
+	Sandbagger Mary Ewell isn't sure she can go the distance, but then on the way back insists on doing extra laps around the track to make sure we exceed 10k, as we run and walk along Sligo Creek Trail from near the Beltway downstream to Adventist Hospital and back, pursuing splendid conversation, observing lovely dogs, and marveling at beautiful-loud chimes from the playground. Friend Kathy B from an office where I worked years ago says "Hi!" and startles me. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/181853889|Runtastic]] and [[http://connect.garmin.com/activity/454311482|Garmin]] GPS record details.
+	
+	//**^z**// - 2014-03-21
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6 miles @ ~15 min/mi<br />&gt; Sandbagger Mary Ewell isn't sure she can go the distance, but then on the way back insists on doing extra laps around the track to make sure we exceed 10k, as we run and walk along Sligo Creek Trail from near the Beltway downstream to Adventist Hospital and back, pursuing splendid conversation, observing lovely dogs, and marveling at beautiful-loud chimes from the playground. Friend Kathy B from an office where I worked years ago says "Hi!" and startles me. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/181853889|Runtastic]] and [[http://connect.garmin.com/activity/454311482|Garmin]] GPS record details.<br />&gt; //**^z**// - 2014-03-21</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

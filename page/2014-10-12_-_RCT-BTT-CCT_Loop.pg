@@ -1,0 +1,25 @@
+blocks: <h3>~13 miles @ ~10.7 min/mi</h3><p>In the flashlight beam, eight deer along Rock Creek; at dawn, four rabbits by the Trolley Trail on the NIH campus; as the sun rises, one more of each next to the Capital Crescent/Georgetown Branch. At 7:01am, a minute behind schedule, I meet Sam Yerkes and Gayatri Datta in downtown Bethesda. We walk back to the parking lot, Gayatri drops off extra layers, and Rebecca Rosenberg soon arrives. Near Meadowbrook Stables we see Barry Smith's eye-searing orange shirt as he awaits us. I fist-bump him in the middle of East-West Hwy, hand over escort duty, and head upstream for home.</p><p>Approximate mile splits by GPS: 10.4 + 10.9 + 11.3 + 11.4 + 9.7 + 9.2 + 13.2 <em>(Bethesda meet-up)</em> + 10.6 + 11.5 + 11.2 + 9.9 + 10.4 + 9.0 &mdash; as recorded by <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/451891937">Runkeeper</a>.</p><p><em><strong>^z</strong></em> - 2014-11-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.236
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~13 miles @ ~10.7 min/mi
+	
+	In the flashlight beam, eight deer along Rock Creek; at dawn, four rabbits by the Trolley Trail on the NIH campus; as the sun rises, one more of each next to the Capital Crescent/Georgetown Branch. At 7:01am, a minute behind schedule, I meet Sam Yerkes and Gayatri Datta in downtown Bethesda. We walk back to the parking lot, Gayatri drops off extra layers, and Rebecca Rosenberg soon arrives. Near Meadowbrook Stables we see Barry Smith's eye-searing orange shirt as he awaits us. I fist-bump him in the middle of East-West Hwy, hand over escort duty, and head upstream for home.
+	
+	Approximate mile splits by GPS: 10.4 + 10.9 + 11.3 + 11.4 + 9.7 + 9.2 + 13.2 //(Bethesda meet-up)// + 10.6 + 11.5 + 11.2 + 9.9 + 10.4 + 9.0 &mdash; as recorded by [[http://runkeeper.com/user/zhurnaly/activity/451891937|Runkeeper]].
+	
+	//**^z**// - 2014-11-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~13 miles @ ~10.7 min/mi<br />&gt; In the flashlight beam, eight deer along Rock Creek; at dawn, four rabbits by the Trolley Trail on the NIH campus; as the sun rises, one more of each next to the Capital Crescent/Georgetown Branch. At 7:01am, a minute behind schedule, I meet Sam Yerkes and Gayatri Datta in downtown Bethesda. We walk back to the parking lot, Gayatri drops off extra layers, and Rebecca Rosenberg soon arrives. Near Meadowbrook Stables we see Barry Smith's eye-searing orange shirt as he awaits us. I fist-bump him in the middle of East-West Hwy, hand over escort duty, and head upstream for home.<br />&gt; Approximate mile splits by GPS: 10.4 + 10.9 + 11.3 + 11.4 + 9.7 + 9.2 + 13.2 //(Bethesda meet-up)// + 10.6 + 11.5 + 11.2 + 9.9 + 10.4 + 9.0 &amp;mdash; as recorded by [[http://runkeeper.com/user/zhurnaly/activity/451891937|Runkeeper]].<br />&gt; //**^z**// - 2014-11-02</strong></p></div>
+flags: 0
+ts: 1528057707
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057707

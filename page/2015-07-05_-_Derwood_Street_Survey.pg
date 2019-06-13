@@ -1,0 +1,23 @@
+blocks: <h3>~3.0 miles @ ~15.3 min/mi</h3><p>"We have to enclose some area!" is my only request for the route around Cara Marie's neighborhood. So we walk and jog, divert past a tiny cemetery, and catch up on gossip. The evening is cool as clouds move in from the south. CM is doing well.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/606543401">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-07-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.24
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.0 miles @ ~15.3 min/mi
+	
+	"We have to enclose some area!" is my only request for the route around Cara Marie's neighborhood. So we walk and jog, divert past a tiny cemetery, and catch up on gossip. The evening is cool as clouds move in from the south. CM is doing well.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/606543401|trackfile]])// - //**^z**// - 2015-07-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.0 miles @ ~15.3 min/mi<br />&gt; "We have to enclose some area!" is my only request for the route around Cara Marie's neighborhood. So we walk and jog, divert past a tiny cemetery, and catch up on gossip. The evening is cool as clouds move in from the south. CM is doing well.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/606543401|trackfile]])// - //**^z**// - 2015-07-23</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057712

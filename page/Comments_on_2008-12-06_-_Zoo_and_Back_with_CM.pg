@@ -1,0 +1,38 @@
+blocks: <h3>3 Comments.</h3><p>They aren't magic tights!! But it was an awesome run, especially with the comparison to a few months ago! :)</p><p>-- <a class="url http outside" href="http://caramariesvault.blogspot.com">Cara Marie</a> 2008-12-09 19:28 UTC</p><hr /><p>PS - check out my notes at: <a class="url http" href="http://caramariesvault.blogspot.com/2008/12/saturday-zoo-run-comparison-of-sorts.html">http://caramariesvault.blogspot.com/2008/12/saturday-zoo-run-comparison-of-sorts.html</a> (I love comments!!)</p><p>-- <a class="url http outside" href="http://caramariesvault.blogspot.com">Cara Marie</a> 2008-12-10 01:32 UTC</p><hr /><blockquote><p>I think it's the magic tights --- look at how fast they made you run the mile at the track today! (^_^)<br /></p></blockquote><p>-- <a class="url http outside" href="http://zhurnaly.com/">MarkZimmermann</a> 2008-12-10 02:42 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.186.77
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 3 Comments. ===
+	They aren't magic tights!!   But it was an awesome run, especially with the comparison to a few months ago! :)
+	
+	-- [http://caramariesvault.blogspot.com Cara Marie] 2008-12-09 19:28 UTC
+	
+	
+	----
+	
+	PS - check out my notes at: http://caramariesvault.blogspot.com/2008/12/saturday-zoo-run-comparison-of-sorts.html  (I love comments!!)
+	
+	-- [http://caramariesvault.blogspot.com Cara Marie] 2008-12-10 01:32 UTC
+	
+	
+	----
+	
+	"""
+	I think it's the magic tights --- look at how fast they made you run the mile at the track today! (^_^)
+	"""
+	
+	-- [http://zhurnaly.com/ MarkZimmermann] 2008-12-10 02:42 UTC
+	
+	
+languages: 
+lastmajor: 18
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 3 Comments. ===<br />&gt; They aren't magic tights!!   But it was an awesome run, especially with the comparison to a few months ago! :)<br />&gt; -- [http://caramariesvault.blogspot.com Cara Marie] 2008-12-09 19:28 UTC<br />&gt; ----<br />&gt; PS - check out my notes at: http://caramariesvault.blogspot.com/2008/12/saturday-zoo-run-comparison-of-sorts.html  (I love comments!!)<br />&gt; -- [http://caramariesvault.blogspot.com Cara Marie] 2008-12-10 01:32 UTC<br />&gt; ----<br />&gt; """<br />&gt; I think it's the magic tights --- look at how fast they made you run the mile at the track today! (^_^)<br />&gt; """<br />&gt; -- [http://zhurnaly.com/ MarkZimmermann] 2008-12-10 02:42 UTC</p></div>
+flags: 0
+ts: 1528057677
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 18
+keep-ts: 1528057677

@@ -1,0 +1,22 @@
+blocks: <h3>~3 miles @ ~11 min/mi</h3><p>A chilly crescent moon gleams low in the southwest as Kristin and I set out on a frosty Friday morning. Puddles are ice-covered. I discuss the chess rating system and learn that Kristin's computer science dissertation was in artificial intelligence, particularly neuro-related processes. We revel in the quiet darkness and marvel at garish Christmas decorations. <a class="url http outside" href="http://connect.garmin.com/activity/420439720">Garmin</a> shows our route and pace; <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/155131056">Runtastic</a> concurs, but I fail to stop it at the end, so it includes half an hour of showering, dressing, and walking to my office.</p><p><em><strong>^z</strong></em> - 2014-01-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.53
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~3 miles @ ~11 min/mi
+	
+	A chilly crescent moon gleams low in the southwest as Kristin and I set out on a frosty Friday morning. Puddles are ice-covered. I discuss the chess rating system and learn that Kristin's computer science dissertation was in artificial intelligence, particularly neuro-related processes. We revel in the quiet darkness and marvel at garish Christmas decorations. [[http://connect.garmin.com/activity/420439720|Garmin]] shows our route and pace; [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/155131056|Runtastic]] concurs, but I fail to stop it at the end, so it includes half an hour of showering, dressing, and walking to my office.
+	
+	//**^z**// - 2014-01-16
+	
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~3 miles @ ~11 min/mi<br />&gt; A chilly crescent moon gleams low in the southwest as Kristin and I set out on a frosty Friday morning. Puddles are ice-covered. I discuss the chess rating system and learn that Kristin's computer science dissertation was in artificial intelligence, particularly neuro-related processes. We revel in the quiet darkness and marvel at garish Christmas decorations. [[http://connect.garmin.com/activity/420439720|Garmin]] shows our route and pace; [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/155131056|Runtastic]] concurs, but I fail to stop it at the end, so it includes half an hour of showering, dressing, and walking to my office.<br />&gt; //**^z**// - 2014-01-16</p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057675

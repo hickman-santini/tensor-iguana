@@ -1,0 +1,25 @@
+blocks: <h3>~1.8 miles @ ~11.5 min/mi</h3><p>"Peer Pressure!" Kristin offers, as our reason to run in 13-degree weather with sub-zero wind chill from northerly gusts of 20+ mi/hr. "Bragging Rights!" I counter-propose. We dance around ice puddles and take the Hunting Avenue cut-through. "No rabbits this morning?" I ask when we pass by their typical zone. "They're too smart!" Kristin says.</p><p>There's a busy work day ahead for us both <em>(including a major interview, which turns out ok, yay!)</em> so The Sensible One suggests we end the circuit early. The Foolish One concurs. We give thanks for the company and for hot showers. Monday's forecast is 4&deg;F. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/512068119">Runkeeper</a> records route.</p><p><em><strong>^z</strong></em> - 2015-03-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~1.8 miles @ ~11.5 min/mi
+	
+	"Peer Pressure!" Kristin offers, as our reason to run in 13-degree weather with sub-zero wind chill from northerly gusts of 20+ mi/hr. "Bragging Rights!" I counter-propose. We dance around ice puddles and take the Hunting Avenue cut-through. "No rabbits this morning?" I ask when we pass by their typical zone. "They're too smart!" Kristin says.
+	
+	There's a busy work day ahead for us both //(including a major interview, which turns out ok, yay!)// so The Sensible One suggests we end the circuit early. The Foolish One concurs. We give thanks for the company and for hot showers. Monday's forecast is 4&deg;F. [[http://runkeeper.com/user/zhurnaly/activity/512068119|Runkeeper]] records route.
+	
+	//**^z**// - 2015-03-08
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~1.8 miles @ ~11.5 min/mi<br />&gt; "Peer Pressure!" Kristin offers, as our reason to run in 13-degree weather with sub-zero wind chill from northerly gusts of 20+ mi/hr. "Bragging Rights!" I counter-propose. We dance around ice puddles and take the Hunting Avenue cut-through. "No rabbits this morning?" I ask when we pass by their typical zone. "They're too smart!" Kristin says.<br />&gt; There's a busy work day ahead for us both //(including a major interview, which turns out ok, yay!)// so The Sensible One suggests we end the circuit early. The Foolish One concurs. We give thanks for the company and for hot showers. Monday's forecast is 4&amp;deg;F. [[http://runkeeper.com/user/zhurnaly/activity/512068119|Runkeeper]] records route.<br />&gt; //**^z**// - 2015-03-08</strong></p></div>
+flags: 0
+ts: 1528057694
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057694

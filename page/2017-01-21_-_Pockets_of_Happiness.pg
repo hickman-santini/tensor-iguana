@@ -1,0 +1,25 @@
+blocks: <h3>~10.3 miles @ ~12.4 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Kensington_flowerpot_art_1.jpg" alt="http://zhurnaly.com/images/running/Kensington_flowerpot_art_1.jpg" /></td><td align="center">"Important Safety Tip: do NOT eat 7 feta-and-spinach pierogies before a run &mdash; even if the box describes them as 'Pockets of Happiness'!" Ken and Rebecca trot downstream along Rock Creek at a brisk pace. Trail talk topics include future races, gaslighting, upper-body strength development, and what vegetarians might eat at Famous Dave's Barbecue. <em>(Answer: not much!)</em></td></tr></table><table class="user"><tr><td align="center">"If you're a <strong>real</strong> carnivore, there's a fresh roadkill deer on the shoulder of Connecticut near Franklin!" A solo trek to the 3pm rendezvous begins with speed-camera strobe lights that catch a zippy car, and includes a pause to photograph flowerpot art-statues on Washington Street. Early arrival at Ken-Gar gives time for a wee bit of hillwork. On the way home there's yet another break to catch two Pok&eacute;mon near the inspirational Mermaid Fountain at National Park Seminary. "Yes, I'm addicted," I confess to the gentleman walking a tiny dog, "but I'm cutting back!"</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Kensington_flowerpot_art_2.jpg" alt="http://zhurnaly.com/images/running/Kensington_flowerpot_art_2.jpg" /></td></tr></table><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/922671422">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-02-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.240
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.3 miles @ ~12.4 min/mi
+	
+	| http://zhurnaly.com/images/running/Kensington_flowerpot_art_1.jpg | "Important Safety Tip: do NOT eat 7 feta-and-spinach pierogies before a run &mdash; even if the box describes them as 'Pockets of Happiness'!" Ken and Rebecca trot downstream along Rock Creek at a brisk pace. Trail talk topics include future races, gaslighting, upper-body strength development, and what vegetarians might eat at Famous Dave's Barbecue. //(Answer: not much!)// |
+	
+	| "If you're a **real** carnivore, there's a fresh roadkill deer on the shoulder of Connecticut near Franklin!" A solo trek to the 3pm rendezvous begins with speed-camera strobe lights that catch a zippy car, and includes a pause to photograph flowerpot art-statues on Washington Street. Early arrival at Ken-Gar gives time for a wee bit of hillwork. On the way home there's yet another break to catch two Pok&eacute;mon near the inspirational Mermaid Fountain at National Park Seminary. "Yes, I'm addicted," I confess to the gentleman walking a tiny dog, "but I'm cutting back!" | http://zhurnaly.com/images/running/Kensington_flowerpot_art_2.jpg |
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/922671422|trackfile]])// - //**^z**// - 2017-02-21
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.3 miles @ ~12.4 min/mi<br />&gt; | http://zhurnaly.com/images/running/Kensington_flowerpot_art_1.jpg | "Important Safety Tip: do NOT eat 7 feta-and-spinach pierogies before a run &amp;mdash; even if the box describes them as 'Pockets of Happiness'!" Ken and Rebecca trot downstream along Rock Creek at a brisk pace. Trail talk topics include future races, gaslighting, upper-body strength development, and what vegetarians might eat at Famous Dave's Barbecue. //(Answer: not much!)// |<br />&gt; | "If you're a **real** carnivore, there's a fresh roadkill deer on the shoulder of Connecticut near Franklin!" A solo trek to the 3pm rendezvous begins with speed-camera strobe lights that catch a zippy car, and includes a pause to photograph flowerpot art-statues on Washington Street. Early arrival at Ken-Gar gives time for a wee bit of hillwork. On the way home there's yet another break to catch two Pok&amp;eacute;mon near the inspirational Mermaid Fountain at National Park Seminary. "Yes, I'm addicted," I confess to the gentleman walking a tiny dog, "but I'm cutting back!" | http://zhurnaly.com/images/running/Kensington_flowerpot_art_2.jpg |<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/922671422|trackfile]])// - //**^z**// - 2017-02-21</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

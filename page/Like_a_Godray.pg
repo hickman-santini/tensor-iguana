@@ -1,0 +1,27 @@
+blocks: <table class="user"><tr><td align="right">Like a Godray,<br />Nature points toward the Sun,<br />Where remarks of light began<br />Eight minutes ago<br />And now sprawl<br />Wanton<br />Across the sky.</td></tr></table><p><em><strong>^z</strong></em> - 2014-05-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.166
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Like a Godray,
+	Nature points toward the Sun,
+	Where remarks of light began
+	Eight minutes ago
+	And now sprawl
+	Wanton
+	Across the sky. |
+	
+	//**^z**// - 2014-05-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Like a Godray,<br />&gt; Nature points toward the Sun,<br />&gt; Where remarks of light began<br />&gt; Eight minutes ago<br />&gt; And now sprawl<br />&gt; Wanton<br />&gt; Across the sky. |<br />&gt; //**^z**// - 2014-05-17</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057688

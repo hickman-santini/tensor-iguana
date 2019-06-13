@@ -1,0 +1,23 @@
+blocks: <h3>~5 miles @ ~9.8 min/mi</h3><p><em>Mitzvah Run!</em> Dear family friend Clare (age 94) is out of the hospital and in a nursing home near NIH/Bethesda. It's a great Monday holiday to trot along Rock Creek Trail to visit her. <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/164730387">Runtastic</a> and <a class="url http outside" href="http://connect.garmin.com/activity/435492808">Garmin</a> have the trackfiles. As needed to make the distance a round number, overshoot a bit.</p><p><em><strong>^z</strong></em> - 2014-02-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.209.243
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5 miles @ ~9.8 min/mi
+	
+	//Mitzvah Run!// Dear family friend Clare (age 94) is out of the hospital and in a nursing home near NIH/Bethesda. It's a great Monday holiday to trot along Rock Creek Trail to visit her. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/164730387|Runtastic]] and [[http://connect.garmin.com/activity/435492808|Garmin]] have the trackfiles. As needed to make the distance a round number, overshoot a bit.
+	
+	//**^z**// - 2014-02-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5 miles @ ~9.8 min/mi<br />&gt; //Mitzvah Run!// Dear family friend Clare (age 94) is out of the hospital and in a nursing home near NIH/Bethesda. It's a great Monday holiday to trot along Rock Creek Trail to visit her. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/164730387|Runtastic]] and [[http://connect.garmin.com/activity/435492808|Garmin]] have the trackfiles. As needed to make the distance a round number, overshoot a bit.<br />&gt; //**^z**// - 2014-02-16</strong></p></div>
+flags: 0
+ts: 1528057709
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057709

@@ -1,0 +1,29 @@
+blocks: <h3>~6 miles @ ~10.6 min/mi and ~11 miles @ ~12 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Icicles_beard_moustache_z_sf.jpg" alt="http://zhurnaly.com/images/running/Icicles_beard_moustache_z_sf.jpg" /></td><td align="right">At 7am and ~10&deg;F, a ~6 mile run with Stephanie Fonda along Beach Dr in Rock Creek Park makes for an icy moustache plus beardcicles! A big red-tailed hawk, puffed up against the chill, perches on a branch above the road and eyes us hungrily as we pass below. A cowled figure sings and chants to the rising sun from the pavilion near Military Rd. Anny Rosenthal and others in training groups greet us.</td></tr></table><p>Mile splits, including all stops: 12:04 + 10:01 + 11:25 + 10:16 + 10:16 + 9:13 <em>(ha!)</em> The <a class="url http outside" href="http://connect.garmin.com/activity/424569591">Garmin</a> and <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/157802397">Runtastic</a> record details.</p><p>Two hours later, a veritable heat wave: ~20&deg;F! From home, jog ~3 miles to Candy Cane City, then ~8 miles with Barry Smith &amp; Rebecca Rosenberg along Beach Dr. Snowballs blow down at us from trees. They splatter on the asphalt like inverse Dalmatian spots, white on black. Quote o' the Run by RR: "There's always somebody crazier than you!"</p><p>Details are at <a class="url http outside" href="http://connect.garmin.com/activity/424569616">Garmin</a> and <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/157875243">Runtastic</a>. |</p><p><em><strong>^z</strong></em> - 2014-01-30</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.211.54
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6 miles @ ~10.6 min/mi and ~11 miles @ ~12 min/mi
+	
+	| http://zhurnaly.com/images/running/Icicles_beard_moustache_z_sf.jpg | At 7am and ~10&deg;F, a ~6 mile run with Stephanie Fonda along Beach Dr in Rock Creek Park makes for an icy moustache plus beardcicles! A big red-tailed hawk, puffed up against the chill, perches on a branch above the road and eyes us hungrily as we pass below. A cowled figure sings and chants to the rising sun from the pavilion near Military Rd. Anny Rosenthal and others in training groups greet us.
+	
+	Mile splits, including all stops: 12:04 + 10:01 + 11:25 + 10:16 + 10:16 + 9:13 //(ha!)// The [[http://connect.garmin.com/activity/424569591|Garmin]] and [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/157802397|Runtastic]] record details.
+	
+	Two hours later, a veritable heat wave: ~20&deg;F! From home, jog ~3 miles to Candy Cane City, then ~8 miles with Barry Smith & Rebecca Rosenberg along Beach Dr. Snowballs blow down at us from trees. They splatter on the asphalt like inverse Dalmatian spots, white on black. Quote o' the Run by RR: "There's always somebody crazier than you!"
+	
+	Details are at [[http://connect.garmin.com/activity/424569616|Garmin]] and [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/157875243|Runtastic]]. |
+	
+	//**^z**// - 2014-01-30
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6 miles @ ~10.6 min/mi and ~11 miles @ ~12 min/mi<br />&gt; | http://zhurnaly.com/images/running/Icicles_beard_moustache_z_sf.jpg | At 7am and ~10&amp;deg;F, a ~6 mile run with Stephanie Fonda along Beach Dr in Rock Creek Park makes for an icy moustache plus beardcicles! A big red-tailed hawk, puffed up against the chill, perches on a branch above the road and eyes us hungrily as we pass below. A cowled figure sings and chants to the rising sun from the pavilion near Military Rd. Anny Rosenthal and others in training groups greet us.<br />&gt; Mile splits, including all stops: 12:04 + 10:01 + 11:25 + 10:16 + 10:16 + 9:13 //(ha!)// The [[http://connect.garmin.com/activity/424569591|Garmin]] and [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/157802397|Runtastic]] record details.<br />&gt; Two hours later, a veritable heat wave: ~20&amp;deg;F! From home, jog ~3 miles to Candy Cane City, then ~8 miles with Barry Smith &amp; Rebecca Rosenberg along Beach Dr. Snowballs blow down at us from trees. They splatter on the asphalt like inverse Dalmatian spots, white on black. Quote o' the Run by RR: "There's always somebody crazier than you!"<br />&gt; Details are at [[http://connect.garmin.com/activity/424569616|Garmin]] and [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/157875243|Runtastic]]. |<br />&gt; //**^z**// - 2014-01-30</strong></p></div>
+flags: 0
+ts: 1528057685
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057685

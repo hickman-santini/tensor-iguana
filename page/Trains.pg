@@ -1,0 +1,37 @@
+flags: 0
+blocks: <table class="user"><tr><td align="right">The best adventures often start<br />On railroad trains that suddenly<br />Have had to halt mid-journey due<br />To clich&eacute;d plot device:<br /><br />"A shot rang out!" &mdash; "The bridge collapsed!"<br />"The President is missing now!"<br />"We have only five minutes left<br />To neutralize the bomb!"<br /><br />What happens next? That all depends<br />On authors' talents to step on<br />And trigger mines they set themselves.<br />They must break <em>into</em> jail ...</td></tr></table><p><em><strong>^z</strong></em> - 2018-09-03</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; The best adventures often start<br />&lt; On trains that <strong class="changes">unexpectedly</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">|</strong> The best adventures often start<br />&gt; On <strong class="changes">railroad</strong> trains that <strong class="changes">suddenly</strong></p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; They must break //into// jail ...</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; They must break //into// jail ... <strong class="changes">|</strong></p></div>
+lastmajorsummary: format & tweak
+ts: 1535969876
+minor: 
+host: 166.137.240.27
+username: z
+revision: 2
+diff-major: 1
+summary: format & tweak
+languages: 
+text: | The best adventures often start
+	On railroad trains that suddenly
+	Have had to halt mid-journey due
+	To clich&eacute;d plot device:
+	\\
+	"A shot rang out!" &mdash; "The bridge collapsed!"
+	"The President is missing now!"
+	"We have only five minutes left
+	To neutralize the bomb!"
+	\\
+	What happens next? That all depends
+	On authors' talents to step on
+	And trigger mines they set themselves.
+	They must break //into// jail ... |
+	
+	//**^z**// - 2018-09-03
+	
+lastmajor: 2
+keep-ts: 1535969876

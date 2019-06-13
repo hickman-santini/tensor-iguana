@@ -1,0 +1,23 @@
+blocks: <p>Sometimes simplest wins. A favorite quote around our home, from French chef Jacques Pepin:</p><table class="user"><tr><td align="center">"If you have the best bread in the world and the best butter, it's hard to beat bread and butter."</td></tr></table><p><em><strong>^z</strong></em> - 2012-07-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.129.41
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Sometimes simplest wins. A favorite quote around our home, from French chef Jacques Pepin:
+	
+	| "If you have the best bread in the world and the best butter, it's hard to beat bread and butter." |
+	
+	//**^z**// - 2012-07-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Sometimes simplest wins. A favorite quote around our home, from French chef Jacques Pepin:<br />&gt; | "If you have the best bread in the world and the best butter, it's hard to beat bread and butter." |<br />&gt; //**^z**// - 2012-07-10</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

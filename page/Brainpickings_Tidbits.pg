@@ -1,0 +1,48 @@
+blocks: <p>Maria Popova's <a class="url http outside" href="http://www.brainpickings.org">Brain Pickings</a> site is a fascinating collection of essays and notes, lists and aphorisms. It's self-described as "... a modest exercise in vision- and mind-expansion...". A few brief excerpts and samples:</p><p>From "<a class="url http outside" href="http://www.brainpickings.org/index.php/2012/02/27/purpose-work-love/">How to Find Your Purpose and Do What You Love</a>":<br /></p><blockquote><p>"What you should not do, I think, is worry about the opinion of anyone beyond your friends. You shouldn't worry about prestige. Prestige is the opinion of the rest of the world." &mdash; Paul Graham</p><p>"Find something more important than you are and dedicate your life to it." &mdash; Daniel Dennett<br /></p></blockquote><p>From "<a class="url http outside" href="http://www.brainpickings.org/index.php/2012/01/09/best-books-on-writing-reading/">New Year's Resolution Reading List: 9 Books on Reading and Writing</a>":<br /></p><blockquote><p>"Finish each day before you begin the next, and interpose a solid wall of sleep between the two. This you cannot do without temperance." &mdash; Ralph Waldo Emerson<br /></p></blockquote><p>From "<a class="url http outside" href="http://www.brainpickings.org/index.php/2011/06/13/10-primers-on-culture/">(Almost) Everything You Need to Know about Culture in 10 Books</a>":<br /></p><blockquote><p>"The story begins with an account of how the human mind works. Not a full account, of course, just two ancient truths that must be understood before you can take advantage of modern psychology to improve your life. The first truth is the foundational idea of this book: The mind is divided into parts that sometimes conflict. Like a rider on the back of an elephant, the conscious, reasoning part of the mind has only limited control of what the elephant does. Nowadays, we know the causes of these divisions, and a few ways to help the rider and the elephant work better as a team." &mdash; Jonathan Haidt<br /></p></blockquote><p>From "<a class="url http outside" href="http://www.brainpickings.org/index.php/2011/04/08/five-manifestos-for-life/">Five Manifestos for the Creative Life</a>":<br /></p><blockquote><p>"Pretending you know what you're doing is almost the same as knowing what you are doing, so just accept that you know what you're doing even if you don't and do it." &mdash; Bre Pettis and Kio Stark<br /></p></blockquote><p>From "<a class="url http outside" href="http://www.brainpickings.org/index.php/2012/02/07/david-ogilvy-on-writing/">10 Tips on Writing from David Ogilvy</a>":<br /></p><blockquote><p>"Never write more than two pages on any subject." &mdash; David Ogilvy<br /></p></blockquote><p><em><strong>^z</strong></em> - 2012-07-31</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.199.242
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Maria Popova's [[http://www.brainpickings.org|Brain Pickings]] site is a fascinating collection of essays and notes, lists and aphorisms. It's self-described as "... a modest exercise in vision- and mind-expansion...". A few brief excerpts and samples:
+	
+	From "[[http://www.brainpickings.org/index.php/2012/02/27/purpose-work-love/|How to Find Your Purpose and Do What You Love]]":
+	"""
+	"What you should not do, I think, is worry about the opinion of anyone beyond your friends. You shouldn't worry about prestige. Prestige is the opinion of the rest of the world." &mdash; Paul Graham
+	
+	"Find something more important than you are and dedicate your life to it." &mdash; Daniel Dennett
+	"""
+	
+	From "[[http://www.brainpickings.org/index.php/2012/01/09/best-books-on-writing-reading/|New Year's Resolution Reading List: 9 Books on Reading and Writing]]":
+	"""
+	"Finish each day before you begin the next, and interpose a solid wall of sleep between the two. This you cannot do without temperance." &mdash; Ralph Waldo Emerson
+	"""
+	
+	From "[[http://www.brainpickings.org/index.php/2011/06/13/10-primers-on-culture/|(Almost) Everything You Need to Know about Culture in 10 Books]]":
+	"""
+	"The story begins with an account of how the human mind works. Not a full account, of course, just two ancient truths that must be understood before you can take advantage of modern psychology to improve your life. The first truth is the foundational idea of this book: The mind is divided into parts that sometimes conflict. Like a rider on the back of an elephant, the conscious, reasoning part of the mind has only limited control of what the elephant does. Nowadays, we know the causes of these divisions, and a few ways to help the rider and the elephant work better as a team." &mdash; Jonathan Haidt
+	"""
+	
+	From "[[http://www.brainpickings.org/index.php/2011/04/08/five-manifestos-for-life/|Five Manifestos for the Creative Life]]":
+	"""
+	"Pretending you know what you're doing is almost the same as knowing what you are doing, so just accept that you know what you're doing even if you don't and do it." &mdash; Bre Pettis and Kio Stark
+	"""
+	
+	From "[[http://www.brainpickings.org/index.php/2012/02/07/david-ogilvy-on-writing/|10 Tips on Writing from David Ogilvy]]":
+	"""
+	"Never write more than two pages on any subject." &mdash; David Ogilvy
+	"""
+	
+	//**^z**// - 2012-07-31
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Maria Popova's [[http://www.brainpickings.org|Brain Pickings]] site is a fascinating collection of essays and notes, lists and aphorisms. It's self-described as "... a modest exercise in vision- and mind-expansion...". A few brief excerpts and samples:<br />&gt; From "[[http://www.brainpickings.org/index.php/2012/02/27/purpose-work-love/|How to Find Your Purpose and Do What You Love]]":<br />&gt; """<br />&gt; "What you should not do, I think, is worry about the opinion of anyone beyond your friends. You shouldn't worry about prestige. Prestige is the opinion of the rest of the world." &amp;mdash; Paul Graham<br />&gt; "Find something more important than you are and dedicate your life to it." &amp;mdash; Daniel Dennett<br />&gt; """<br />&gt; From "[[http://www.brainpickings.org/index.php/2012/01/09/best-books-on-writing-reading/|New Year's Resolution Reading List: 9 Books on Reading and Writing]]":<br />&gt; """<br />&gt; "Finish each day before you begin the next, and interpose a solid wall of sleep between the two. This you cannot do without temperance." &amp;mdash; Ralph Waldo Emerson<br />&gt; """<br />&gt; From "[[http://www.brainpickings.org/index.php/2011/06/13/10-primers-on-culture/|(Almost) Everything You Need to Know about Culture in 10 Books]]":<br />&gt; """<br />&gt; "The story begins with an account of how the human mind works. Not a full account, of course, just two ancient truths that must be understood before you can take advantage of modern psychology to improve your life. The first truth is the foundational idea of this book: The mind is divided into parts that sometimes conflict. Like a rider on the back of an elephant, the conscious, reasoning part of the mind has only limited control of what the elephant does. Nowadays, we know the causes of these divisions, and a few ways to help the rider and the elephant work better as a team." &amp;mdash; Jonathan Haidt<br />&gt; """<br />&gt; From "[[http://www.brainpickings.org/index.php/2011/04/08/five-manifestos-for-life/|Five Manifestos for the Creative Life]]":<br />&gt; """<br />&gt; "Pretending you know what you're doing is almost the same as knowing what you are doing, so just accept that you know what you're doing even if you don't and do it." &amp;mdash; Bre Pettis and Kio Stark<br />&gt; """<br />&gt; From "[[http://www.brainpickings.org/index.php/2012/02/07/david-ogilvy-on-writing/|10 Tips on Writing from David Ogilvy]]":<br />&gt; """<br />&gt; "Never write more than two pages on any subject." &amp;mdash; David Ogilvy<br />&gt; """<br />&gt; //**^z**// - 2012-07-31</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057679

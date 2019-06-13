@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>4+ miles @ ~11.5 min/mi</h3></p><p>I've got a mid-afternoon meeting, so Stephanie meets me at 1:45pm and off we go. The weather is pleasant and as we follow the Georgetown Pike pathway we chatter about Stephanie's 10th high school reunion this evening and the Dallas-Washington football game this Sunday. Stephanie is running well and we trot along faster than we did earlier this week. The day's classes are finishing at Langley High School; our digression through the parking lots toward the track requires zigging and zagging. A game is underway on the field, so we abandon my idea of running laps. Back on Georgetown Pike we carry on until Mackall Av, then turn back. We dodge cars as students flee campus, ignoring stop signs in their haste.</p><p><em><strong>^z</strong></em> - 2009-11-22</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; I've got a mid-afternoon meeting, so Stephanie meets me at 1:45pm and off we go. The weather is pleasant and as we follow the Georgetown Pike pathway we chatter about Stephanie's 10th high school reunion this evening and the Dallas-Washington football game this Sunday. Stephanie is running well and we trot along faster than we did earlier this week. The day's classes are finishing at Langley High School <strong class="changes">so</strong> our digression through the parking lots toward the track requires <strong class="changes">a bit of</strong> zigging and zagging. A game is underway so we abandon <strong class="changes">the</strong> idea of running laps. Back on Georgetown Pike we carry on until Mackall Av, then turn back. We dodge cars as students flee campus, ignoring stop signs in their haste.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; I've got a mid-afternoon meeting, so Stephanie meets me at 1:45pm and off we go. The weather is pleasant and as we follow the Georgetown Pike pathway we chatter about Stephanie's 10th high school reunion this evening and the Dallas-Washington football game this Sunday. Stephanie is running well and we trot along faster than we did earlier this week. The day's classes are finishing at Langley High School<strong class="changes">;</strong> our digression through the parking lots toward the track requires zigging and zagging. A game is underway <strong class="changes">on the field,</strong> so we abandon <strong class="changes">my</strong> idea of running laps. Back on Georgetown Pike we carry on until Mackall Av, then turn back. We dodge cars as students flee campus, ignoring stop signs in their haste.</p></div>
+ip: 138.88.106.60
+ts: 1258931137
+minor: 1
+host: pool-138-88-106-60.res.east.verizon.net
+username: zz
+revision: 3
+diff-major: 
+summary: tweaks 2
+languages: 
+text: === 4+ miles @ ~11.5 min/mi
+	
+	I've got a mid-afternoon meeting, so Stephanie meets me at 1:45pm and off we go. The weather is pleasant and as we follow the Georgetown Pike pathway we chatter about Stephanie's 10th high school reunion this evening and the Dallas-Washington football game this Sunday. Stephanie is running well and we trot along faster than we did earlier this week. The day's classes are finishing at Langley High School; our digression through the parking lots toward the track requires zigging and zagging. A game is underway on the field, so we abandon my idea of running laps. Back on Georgetown Pike we carry on until Mackall Av, then turn back. We dodge cars as students flee campus, ignoring stop signs in their haste.
+	
+	//**^z**// - 2009-11-22
+	
+lastmajor: 1
+keep-ts: 1258931137

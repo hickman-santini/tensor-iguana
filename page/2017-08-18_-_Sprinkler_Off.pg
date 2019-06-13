@@ -1,0 +1,25 @@
+blocks: <h3>~6.9 miles @ ~13.0 min/mi</h3><p>"Hawk!" says Cait. The big bird perches above us in a scruffy pine tree overhanging Brawner St, then takes wing and soars away. Eagle-eyed Kristin has already spotted two rabbits in the gloom. We see a third on the way back. Morning is gray and hyper-humid, temperature and dew point both in the upper 70s.</p><p>"Don't curse the nurse!" &mdash; good advice for hospital patients, from someone with recent experience. We divert to cool down in a lawn sprinkler's spray, and moments later it cuts off. "Was it on a timer, or did somebody see vagabonds invading their turf?"</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1038520829">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-09-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.196
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.9 miles @ ~13.0 min/mi
+	
+	"Hawk!" says Cait. The big bird perches above us in a scruffy pine tree overhanging Brawner St, then takes wing and soars away. Eagle-eyed Kristin has already spotted two rabbits in the gloom. We see a third on the way back. Morning is gray and hyper-humid, temperature and dew point both in the upper 70s.
+	
+	"Don't curse the nurse!" &mdash; good advice for hospital patients, from someone with recent experience. We divert to cool down in a lawn sprinkler's spray, and moments later it cuts off. "Was it on a timer, or did somebody see vagabonds invading their turf?"
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1038520829|trackfile]])// - //**^z**// - 2017-09-12
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.9 miles @ ~13.0 min/mi<br />&gt; "Hawk!" says Cait. The big bird perches above us in a scruffy pine tree overhanging Brawner St, then takes wing and soars away. Eagle-eyed Kristin has already spotted two rabbits in the gloom. We see a third on the way back. Morning is gray and hyper-humid, temperature and dew point both in the upper 70s.<br />&gt; "Don't curse the nurse!" &amp;mdash; good advice for hospital patients, from someone with recent experience. We divert to cool down in a lawn sprinkler's spray, and moments later it cuts off. "Was it on a timer, or did somebody see vagabonds invading their turf?"<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1038520829|trackfile]])// - //**^z**// - 2017-09-12</strong></p></div>
+flags: 0
+ts: 1528057709
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057709

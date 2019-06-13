@@ -1,0 +1,42 @@
+flags: 0
+blocks: <p>On 28 April I venture into the office gym, where normally I only go to change clothes before heading outside to run. The mission: a "Fitness Profile" set of tests. It's an entertaining experience, but although I love numbers I'm quite skeptical about many of these, particularly ones reported with excessive false precision. But for the record, my blood pressure is rather too high, 150/91 at a pulse rate of 68. Perhaps I'm nervous? The results from a "Tanita" stand-barefoot-on-the electrodes and grip-the-electrodes "Body Composition Analyzer" printout:<br /></p><ul><li>Height 68 inches</li><li>Weight 153.4 lbs</li><li>Body Mass Index (BMI) 23.3</li><li>Fat 20.1%</li><li>Basal Metabolic Rate (BMR) 1,594 kCal</li><li>Fat Mass 30.8 lbs</li><li>Fat Free Mass (FFM) 122.6 lbs</li><li>Total Body Water (TBW) 89.8 lbs</li><li>Estimated Hydration Level 59%</li></ul><p>Those are apparently all within reasonable ranges for a 57-year-old male. The machine suggests that I could stand to lose half a dozen pounds or so; no argument from me on that. And I'm probably a bit dehydrated this early in the morning, which may cause errors in the machine's analysis.</p><p>Then I do a set of "Microfit" measurements, using machinery for testing endurance, strength, and flexibility. The results there:<br /></p><ul><li>Aerobic Fitness (V02 Max) 34.5 ml/kg/min</li><li>Biceps Strength 72 lbs</li><li>Back Flexibility 41 cm</li><li>R+L Hand Grip Strength 86 kg</li><li>Waist/Hip Ratio (WHR) 0.88</li></ul><p>The Aerobic Fitness measurement is done on a stationary bicycle with increasing resistance, and cuts off when the heart monitor says I'm up to ~147 beats/min, before I really start sweating much. That V0<sub>2</sub> Max number claims to be in the "Fit" range, but I think I can do much better. Also supposedly "Fit" are Biceps Strength and Back Flexibility; perhaps the standards are low for old men? My hand grip strength number, in contrast, falls in the "Needs Work" (aka "Pitifully Weak") category.</p><p>Overall verdict? Moderately interesting, but not terribly scientific. Perhaps I'll try again in six months and see if there's any improvement, though I strongly suspect a huge amount of noise is in with the data. Controlled experiments would be fun, but I've got better things to do&mdash;such as get outside and run!</p><p><em><strong>^z</strong></em> - 2010-04-30</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">Boring for-the-record numbers follow: on</strong> 28 April I venture into the office gym, where normally I only go to change clothes before heading outside to run. The mission: a "Fitness Profile" set of tests. It's an entertaining experience, but although I love numbers I'm quite skeptical about many of these, particularly ones reported with excessive false precision. But for the record, my blood pressure is rather too high, 150/91 at a pulse rate of 68. Perhaps I'm nervous? The results from a "Tanita" stand-barefoot-on-the electrodes and grip-the-electrodes "Body Composition Analyzer" printout:</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">On</strong> 28 April I venture into the office gym, where normally I only go to change clothes before heading outside to run. The mission: a "Fitness Profile" set of tests. It's an entertaining experience, but although I love numbers I'm quite skeptical about many of these, particularly ones reported with excessive false precision. But for the record, my blood pressure is rather too high, 150/91 at a pulse rate of 68. Perhaps I'm nervous? The results from a "Tanita" stand-barefoot-on-the electrodes and grip-the-electrodes "Body Composition Analyzer" printout:</p></div>
+ip: 138.88.114.105
+ts: 1272617319
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: On 28 April I venture into the office gym, where normally I only go to change clothes before heading outside to run. The mission: a "Fitness Profile" set of tests. It's an entertaining experience, but although I love numbers I'm quite skeptical about many of these, particularly ones reported with excessive false precision. But for the record, my blood pressure is rather too high, 150/91 at a pulse rate of 68. Perhaps I'm nervous? The results from a "Tanita" stand-barefoot-on-the electrodes and grip-the-electrodes "Body Composition Analyzer" printout:
+	* Height 68 inches
+	* Weight 153.4 lbs
+	* Body Mass Index (BMI) 23.3
+	* Fat 20.1%
+	* Basal Metabolic Rate (BMR) 1,594 kCal
+	* Fat Mass 30.8 lbs
+	* Fat Free Mass (FFM) 122.6 lbs
+	* Total Body Water (TBW) 89.8 lbs
+	* Estimated Hydration Level 59%
+	
+	Those are apparently all within reasonable ranges for a 57-year-old male. The machine suggests that I could stand to lose half a dozen pounds or so; no argument from me on that. And I'm probably a bit dehydrated this early in the morning, which may cause errors in the machine's analysis.
+	
+	Then I do a set of "Microfit" measurements, using machinery for testing endurance, strength, and flexibility. The results there:
+	* Aerobic Fitness (V02 Max) 34.5 ml/kg/min
+	* Biceps Strength 72 lbs
+	* Back Flexibility 41 cm
+	* R+L Hand Grip Strength 86 kg
+	* Waist/Hip Ratio (WHR) 0.88
+	
+	The Aerobic Fitness measurement is done on a stationary bicycle with increasing resistance, and cuts off when the heart monitor says I'm up to ~147 beats/min, before I really start sweating much. That V0,,2,, Max number claims to be in the "Fit" range, but I think I can do much better. Also supposedly "Fit" are Biceps Strength and Back Flexibility; perhaps the standards are low for old men? My hand grip strength number, in contrast, falls in the "Needs Work" (aka "Pitifully Weak") category.
+	
+	Overall verdict? Moderately interesting, but not terribly scientific. Perhaps I'll try again in six months and see if there's any improvement, though I strongly suspect a huge amount of noise is in with the data. Controlled experiments would be fun, but I've got better things to do&mdash;such as get outside and run!
+	
+	//**^z**// - 2010-04-30
+	
+lastmajor: 1
+keep-ts: 1272617319

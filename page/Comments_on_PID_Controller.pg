@@ -1,0 +1,34 @@
+flags: 0
+blocks: <p><h3>2 Comments.</h3>Quelle coinky-dink! I stumbled across this same article last week while learning about programming (Lego) line-following robots. Sweet stuff.</p><p>-- dave w 2010-03-19 00:52 UTC</p><hr /><p>coincidence? or another proof of the existence of morphogenic fields, telepathy, alien mind control,...? Or maybe the simplest hypothesis: Wikipedia is a tool of Satan!</p><p>-- <a class="url http outside" href="http://zhurnaly.com">zz</a> 2010-03-19 12:28 UTC</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; === <strong class="changes">3</strong> Comments. ===</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === <strong class="changes">2</strong> Comments. ===</p></div><p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; ----<br />&lt; peoples choice credit unin pnc school loans.  get rid of credit cards, &lt;a href=http://freeloansmoney.com/&gt;free loan&lt;/a&gt;. credit card balance line personal loans no home ownership needed.<br />&lt; -- [http://lowcreditpersonalloans.com EdurceEuronge] 2011-08-31 19:21 UTC</p></div>
+ip: 138.88.30.18
+ts: 1314820421
+minor: 1
+host: pool-138-88-30-18.res.east.verizon.net
+username: zimmermann (chrome)
+revision: 18
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; === <strong class="changes">2</strong> Comments. ===</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === <strong class="changes">3</strong> Comments. ===</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; ----<br />&gt; peoples choice credit unin pnc school loans.  get rid of credit cards, &lt;a href=http://freeloansmoney.com/&gt;free loan&lt;/a&gt;. credit card balance line personal loans no home ownership needed.<br />&gt; -- [http://lowcreditpersonalloans.com EdurceEuronge] 2011-08-31 19:21 UTC</p></div>
+summary: rollback spam
+languages: 
+text: === 2 Comments. ===
+	Quelle coinky-dink!  I stumbled across this same article last week while learning about programming (Lego) line-following robots.  Sweet stuff.
+	
+	-- dave w 2010-03-19 00:52 UTC
+	
+	
+	----
+	
+	coincidence? or another proof of the existence of morphogenic fields, telepathy, alien mind control,...?  Or maybe the simplest hypothesis: Wikipedia is a tool of Satan!
+	
+	-- [http://zhurnaly.com zz] 2010-03-19 12:28 UTC
+	
+	
+	
+lastmajor: 17
+keep-ts: 1314820421

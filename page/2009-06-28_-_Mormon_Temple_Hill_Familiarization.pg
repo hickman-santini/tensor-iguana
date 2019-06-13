@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~6.5 miles @ ~10.5 min/mi</h3></p><p>"Take it easy!" is apparently not in CM Manlandro's vocabulary. Yesterday she did some long fast mileage as part of her MCRRC XMP training. Today she recovers with hillwork starting at 0530, following my advice to get acquainted with the hill at the LDS Temple. We trot from <em>Che^z</em> down Ireland Dr to Rock Creek Trail, then attack the long climb from Beach Dr half a mile to Kent St. Three times up the 6% grade, varying our return trip: down once the regular way retracing our path; down once on Kensington neighborhood streets to Old Spring Rd; and finally down as we return to my home via Leafy House and the McKenney Hills Learning Center. Rabbits scamper away as we approach, and near Rock Creek two big deer eye us from the fringe of the woods.</p><p><em><strong>^z</strong></em> - 2009-07-08</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">//*^</strong>z**// - 2009-07-08</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//**^</strong>z**// - 2009-07-08</p></div>
+ip: 65.222.202.26
+ts: 1247051750
+minor: 
+host: 65.222.202.26
+username: zz
+revision: 2
+diff-major: 1
+summary: === ~6.5 miles @ ~10.5 min/mi "Take it easy!" is apparently not in CM Manlandro's vocabulary. Yesterday she  ...
+languages: 
+text: === ~6.5 miles @ ~10.5 min/mi
+	
+	"Take it easy!" is apparently not in CM Manlandro's vocabulary. Yesterday she did some long fast mileage as part of her MCRRC XMP training. Today she recovers with hillwork starting at 0530, following my advice to get acquainted with the hill at the LDS Temple. We trot from //Che^z// down Ireland Dr to Rock Creek Trail, then attack the long climb from Beach Dr half a mile to Kent St. Three times up the 6% grade, varying our return trip: down once the regular way retracing our path; down once on Kensington neighborhood streets to Old Spring Rd; and finally down as we return to my home via Leafy House and the McKenney Hills Learning Center. Rabbits scamper away as we approach, and near Rock Creek two big deer eye us from the fringe of the woods.
+	
+	//**^z**// - 2009-07-08
+	
+lastmajor: 2
+keep-ts: 1247051750

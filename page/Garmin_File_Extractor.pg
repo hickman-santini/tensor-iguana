@@ -1,0 +1,78 @@
+flags: 0
+blocks: <p>It's been a long time since I wrote any code, but yesterday the old dog dusted off the Perl manual and managed a few simple tricks. The Garmin GPS unit that I have produces a *.tcx file which is a succession of XML-tagged data points. With every outing the file grows a megabyte or so in length, depending on the duration of the run. In order to produce maps and elevation profiles I've been using a text editor to strip out a single day's trek from the mass. But as the file gets larger, that's more and more inconvenient.</p><p>Hence, the following tiny Perl script to pull a run's trackfile out of an arbitrarily-large Garmin *.tcx file:</p><pre class="real">#! /usr/bin/perl
+	
+	# extract_garmin.prl version 0.1 - ^z - 2010-04-20
+	# usage:  perl extract_garmin.prl datepattern &lt;infile.tcx &gt;outfile.tcx
+	
+	# take a Garmin *.tcx file and extract a chunk for a given date
+	# example:  perl extract_garmin.prl 2010-04-10 &lt;Garmin_2010-04-17.tcx &gt;Garmin_BRR.tcx
+	
+	# method: print out header down to and including line containing &lt;Activity Sport="Running"&gt;
+	# scan until find line that matches datepattern
+	# print out that line and all subsequent lines until and including next &lt;/Activity&gt;
+	# print out &lt;/Activities&gt; and &lt;/TrainingCenterDatabase&gt;, and finish
+	
+	$datepattern = $ARGV[0];
+	while (&lt;STDIN&gt;) {
+	  print;
+	  last if /&lt;Activity Sport="Running"&gt;/;
+	}
+	while (&lt;STDIN&gt;) {
+	  last if /$datepattern/;
+	}
+	print;
+	while (&lt;STDIN&gt;) {
+	  print;
+	  last if /&lt;\/Activity&gt;/;
+	}
+	print " &lt;/Activities&gt;\n&lt;/TrainingCenterDatabase&gt;\n";</pre><p><em><strong>^z</strong></em> - 2010-04-21</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; It's been a long time since I wrote any code, but yesterday the old dog dusted off the Perl manual and managed a few tricks. The Garmin GPS unit that I have produces a *.tcx file which is a succession of XML-tagged data points. With every outing the file grows a megabyte or so in length, depending on the duration of the run. In order to produce maps and elevation profiles I've been using a text editor to strip out a single day's trek from the mass. But as the file gets larger, that's more and more inconvenient.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; It's been a long time since I wrote any code, but yesterday the old dog dusted off the Perl manual and managed a few <strong class="changes">simple</strong> tricks. The Garmin GPS unit that I have produces a *.tcx file which is a succession of XML-tagged data points. With every outing the file grows a megabyte or so in length, depending on the duration of the run. In order to produce maps and elevation profiles I've been using a text editor to strip out a single day's trek from the mass. But as the file gets larger, that's more and more inconvenient.</p></div>
+ip: 138.88.114.105
+ts: 1271839947
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: It's been a long time since I wrote any code, but yesterday the old dog dusted off the Perl manual and managed a few simple tricks. The Garmin GPS unit that I have produces a *.tcx file which is a succession of XML-tagged data points. With every outing the file grows a megabyte or so in length, depending on the duration of the run. In order to produce maps and elevation profiles I've been using a text editor to strip out a single day's trek from the mass. But as the file gets larger, that's more and more inconvenient.
+	
+	Hence, the following tiny Perl script to pull a run's trackfile out of an arbitrarily-large Garmin *.tcx file:
+	
+	{{{
+	#! /usr/bin/perl
+	
+	# extract_garmin.prl version 0.1 - ^z - 2010-04-20
+	# usage:  perl extract_garmin.prl datepattern <infile.tcx >outfile.tcx
+	
+	# take a Garmin *.tcx file and extract a chunk for a given date
+	# example:  perl extract_garmin.prl 2010-04-10 <Garmin_2010-04-17.tcx >Garmin_BRR.tcx
+	
+	# method: print out header down to and including line containing <Activity Sport="Running">
+	# scan until find line that matches datepattern
+	# print out that line and all subsequent lines until and including next </Activity>
+	# print out </Activities> and </TrainingCenterDatabase>, and finish
+	
+	$datepattern = $ARGV[0];
+	while (<STDIN>) {
+	  print;
+	  last if /<Activity Sport="Running">/;
+	}
+	while (<STDIN>) {
+	  last if /$datepattern/;
+	}
+	print;
+	while (<STDIN>) {
+	  print;
+	  last if /<\/Activity>/;
+	}
+	print " </Activities>\n</TrainingCenterDatabase>\n";
+	}}}
+	
+	//**^z**// - 2010-04-21
+	
+lastmajor: 1
+keep-ts: 1271839947

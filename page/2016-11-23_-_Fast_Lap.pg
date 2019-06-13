@@ -1,0 +1,25 @@
+blocks: <h3>~8.4 miles @ ~11.6 min/mi</h3><p>"I'm racing my nose!" Cait declares between sniffles, as she and Kerry trek along Ridge Road. A wrong turn leads to a dead end reward of sunrise glimpses through the trees. A lady walking her giant poodle directs us to the correct corner. Icicles form on the beard. We divert to explore a new cut-through, Dogwood Drive, past attractive architecture.</p><p>"You need to be my coach!" I tell Cait at the 200 meter point of a Lane 1 sprint around Langley High School's track. She runs like a greyhound and finishes the lap in 1:31, a second ahead of me. Kerry, big smile as always, cruises in comfortably just behind. "Wow - we need to do more intervals!" &mdash; an early resolution for 2017. Trail talk includes family Thanksgiving plans, movie recommendations, political analysis, and wedding preparations. "Send photos of the dresses &mdash; I'll crank up the estrogen!".</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/899167296">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-12-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.99
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.4 miles @ ~11.6 min/mi
+	
+	"I'm racing my nose!" Cait declares between sniffles, as she and Kerry trek along Ridge Road. A wrong turn leads to a dead end reward of sunrise glimpses through the trees. A lady walking her giant poodle directs us to the correct corner. Icicles form on the beard. We divert to explore a new cut-through, Dogwood Drive, past attractive architecture.
+	
+	"You need to be my coach!" I tell Cait at the 200 meter point of a Lane 1 sprint around Langley High School's track. She runs like a greyhound and finishes the lap in 1:31, a second ahead of me. Kerry, big smile as always, cruises in comfortably just behind. "Wow - we need to do more intervals!" &mdash; an early resolution for 2017. Trail talk includes family Thanksgiving plans, movie recommendations, political analysis, and wedding preparations. "Send photos of the dresses &mdash; I'll crank up the estrogen!".
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/899167296|trackfile]])// - //**^z**// - 2016-12-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.4 miles @ ~11.6 min/mi<br />&gt; "I'm racing my nose!" Cait declares between sniffles, as she and Kerry trek along Ridge Road. A wrong turn leads to a dead end reward of sunrise glimpses through the trees. A lady walking her giant poodle directs us to the correct corner. Icicles form on the beard. We divert to explore a new cut-through, Dogwood Drive, past attractive architecture.<br />&gt; "You need to be my coach!" I tell Cait at the 200 meter point of a Lane 1 sprint around Langley High School's track. She runs like a greyhound and finishes the lap in 1:31, a second ahead of me. Kerry, big smile as always, cruises in comfortably just behind. "Wow - we need to do more intervals!" &amp;mdash; an early resolution for 2017. Trail talk includes family Thanksgiving plans, movie recommendations, political analysis, and wedding preparations. "Send photos of the dresses &amp;mdash; I'll crank up the estrogen!".<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/899167296|trackfile]])// - //**^z**// - 2016-12-20</strong></p></div>
+flags: 0
+ts: 1528057705
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057705

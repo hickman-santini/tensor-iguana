@@ -1,0 +1,25 @@
+blocks: <h3>~7.5 miles @ ~11.9 min/mi</h3><p>"<strong>Mindful Monkey, Happy Panda</strong>!" Dr Kristin prescribes the children's book on in-the-moment awareness as an antidote to anxiety and distraction. Christmas lights are fading, but several homes still feature twinkling displays. We ramble along Route 7, turn away <em>(regretfully, for some!)</em> from the Hot Yoga studio, and take the W&amp;OD Trail as a blossoming pale periwinkle dawn begins to scatter off high lavender clouds.</p><p>"Thank you!" and "Thank YOU!" are our grateful Mantras of the Day, as we appreciate the blessings we've enjoyed and hope to help our families and friends and colleagues who are having stressful times, ill health, and work challenges. May they all find peace, insight, safety, health, and happiness in 2017!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/912858090">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-01-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.176
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.5 miles @ ~11.9 min/mi
+	
+	"**Mindful Monkey, Happy Panda**!" Dr Kristin prescribes the children's book on in-the-moment awareness as an antidote to anxiety and distraction. Christmas lights are fading, but several homes still feature twinkling displays. We ramble along Route 7, turn away //(regretfully, for some!)// from the Hot Yoga studio, and take the W&OD Trail as a blossoming pale periwinkle dawn begins to scatter off high lavender clouds.
+	
+	"Thank you!" and "Thank YOU!" are our grateful Mantras of the Day, as we appreciate the blessings we've enjoyed and hope to help our families and friends and colleagues who are having stressful times, ill health, and work challenges. May they all find peace, insight, safety, health, and happiness in 2017!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/912858090|trackfile]])// - //**^z**// - 2017-01-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.5 miles @ ~11.9 min/mi<br />&gt; "**Mindful Monkey, Happy Panda**!" Dr Kristin prescribes the children's book on in-the-moment awareness as an antidote to anxiety and distraction. Christmas lights are fading, but several homes still feature twinkling displays. We ramble along Route 7, turn away //(regretfully, for some!)// from the Hot Yoga studio, and take the W&amp;OD Trail as a blossoming pale periwinkle dawn begins to scatter off high lavender clouds.<br />&gt; "Thank you!" and "Thank YOU!" are our grateful Mantras of the Day, as we appreciate the blessings we've enjoyed and hope to help our families and friends and colleagues who are having stressful times, ill health, and work challenges. May they all find peace, insight, safety, health, and happiness in 2017!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/912858090|trackfile]])// - //**^z**// - 2017-01-24</strong></p></div>
+flags: 0
+ts: 1528057685
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057685

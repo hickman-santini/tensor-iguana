@@ -1,0 +1,23 @@
+blocks: <h3>~7.3 miles @ ~13.3 min/mi</h3><p>"Projectile vomiting!" - "Diaper overflow!" - "Three-month-old twins!" - "In the car!" - "At the store!" The Dawn Patrol is full strength this morning, and conversation turns to topics not unrelated to things that happen during ultramarathons, as well as to parents of young kids. Big raindrops fall, pause, then start again as we meander through Langley. Cait and Kerry are back from long road trips to visit family; Kristin updates them on local news. We reverse our usual route and take the Heather Brook - Mackall cut-through in a new direction. Birds chirp and tulips glow. Dogwood and cherry blossom trees drop petals to blanket the sidewalks.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/967668695">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-05-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.91.226
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.3 miles @ ~13.3 min/mi
+	
+	"Projectile vomiting!" - "Diaper overflow!" - "Three-month-old twins!" - "In the car!" - "At the store!" The Dawn Patrol is full strength this morning, and conversation turns to topics not unrelated to things that happen during ultramarathons, as well as to parents of young kids. Big raindrops fall, pause, then start again as we meander through Langley. Cait and Kerry are back from long road trips to visit family; Kristin updates them on local news. We reverse our usual route and take the Heather Brook - Mackall cut-through in a new direction. Birds chirp and tulips glow. Dogwood and cherry blossom trees drop petals to blanket the sidewalks.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/967668695|trackfile]])// - //**^z**// - 2017-05-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.3 miles @ ~13.3 min/mi<br />&gt; "Projectile vomiting!" - "Diaper overflow!" - "Three-month-old twins!" - "In the car!" - "At the store!" The Dawn Patrol is full strength this morning, and conversation turns to topics not unrelated to things that happen during ultramarathons, as well as to parents of young kids. Big raindrops fall, pause, then start again as we meander through Langley. Cait and Kerry are back from long road trips to visit family; Kristin updates them on local news. We reverse our usual route and take the Heather Brook - Mackall cut-through in a new direction. Birds chirp and tulips glow. Dogwood and cherry blossom trees drop petals to blanket the sidewalks.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/967668695|trackfile]])// - //**^z**// - 2017-05-15</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

@@ -1,0 +1,23 @@
+blocks: <h3>~5.7 mi @ ~12.8 min/mi</h3><p>"It's a Hooptie!" Dr Kristin explains the finer points of low-rider style as illustrated by a classic Thunderbird parked on Pimmit Drive. The Dawn Patrol recon run meanders to map out early Xmas displays. One yard has a giant Santa Claus; another features an air-pump inflated snow-globe with flying styrofoam pellets rattling down inside. Green and red laser beams crawl over facades. Kids race to catch school buses.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1091058759">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-12-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.171
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.7 mi @ ~12.8 min/mi
+	
+	"It's a Hooptie!" Dr Kristin explains the finer points of low-rider style as illustrated by a classic Thunderbird parked on Pimmit Drive. The Dawn Patrol recon run meanders to map out early Xmas displays. One yard has a giant Santa Claus; another features an air-pump inflated snow-globe with flying styrofoam pellets rattling down inside. Green and red laser beams crawl over facades. Kids race to catch school buses.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1091058759|trackfile]])// - //**^z**// - 2017-12-22
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.7 mi @ ~12.8 min/mi<br />&gt; "It's a Hooptie!" Dr Kristin explains the finer points of low-rider style as illustrated by a classic Thunderbird parked on Pimmit Drive. The Dawn Patrol recon run meanders to map out early Xmas displays. One yard has a giant Santa Claus; another features an air-pump inflated snow-globe with flying styrofoam pellets rattling down inside. Green and red laser beams crawl over facades. Kids race to catch school buses.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1091058759|trackfile]])// - //**^z**// - 2017-12-22</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

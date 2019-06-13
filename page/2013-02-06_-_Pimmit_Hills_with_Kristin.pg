@@ -1,0 +1,23 @@
+blocks: <h3>~2.9 miles @ ~10.3 min/mi</h3><p>In the men's locker room at work, changed into my running gear, suddenly I realize that I've forgotten to bring my shoes! So street shoes it is for today's pre-dawn circuit around the Pimmit Hills neighborhood. Fortunately the heavy old scuffed-up Brooks "walkers" work fine for the outing, as do double shorts and shirts. And it's dark enough that I'm not too embarrassed. Colleague Kristin cruises faster than she planned, in spite of having to scamper onto the sidewalk and pause at some road crossings to avoid traffic. An old crescent moon peeps at us. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/147226963">Runkeeper</a> makes a nice route map when we've finished; so does the <a class="url http outside" href="http://connect.garmin.com/activity/270804021">Garmin</a> wrist GPS. Both are in close agreement as to splits, plus or minus a few seconds per mile.</p><p><em><strong>^z</strong></em> - 2013-02-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2.9 miles @ ~10.3 min/mi
+	
+	In the men's locker room at work, changed into my running gear, suddenly I realize that I've forgotten to bring my shoes! So street shoes it is for today's pre-dawn circuit around the Pimmit Hills neighborhood. Fortunately the heavy old scuffed-up Brooks "walkers" work fine for the outing, as do double shorts and shirts. And it's dark enough that I'm not too embarrassed. Colleague Kristin cruises faster than she planned, in spite of having to scamper onto the sidewalk and pause at some road crossings to avoid traffic. An old crescent moon peeps at us. [[http://runkeeper.com/user/zhurnaly/activity/147226963|Runkeeper]] makes a nice route map when we've finished; so does the [[http://connect.garmin.com/activity/270804021|Garmin]] wrist GPS. Both are in close agreement as to splits, plus or minus a few seconds per mile.
+	
+	//**^z**// - 2013-02-18
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2.9 miles @ ~10.3 min/mi<br />&gt; In the men's locker room at work, changed into my running gear, suddenly I realize that I've forgotten to bring my shoes! So street shoes it is for today's pre-dawn circuit around the Pimmit Hills neighborhood. Fortunately the heavy old scuffed-up Brooks "walkers" work fine for the outing, as do double shorts and shirts. And it's dark enough that I'm not too embarrassed. Colleague Kristin cruises faster than she planned, in spite of having to scamper onto the sidewalk and pause at some road crossings to avoid traffic. An old crescent moon peeps at us. [[http://runkeeper.com/user/zhurnaly/activity/147226963|Runkeeper]] makes a nice route map when we've finished; so does the [[http://connect.garmin.com/activity/270804021|Garmin]] wrist GPS. Both are in close agreement as to splits, plus or minus a few seconds per mile.<br />&gt; //**^z**// - 2013-02-18</strong></p></div>
+flags: 0
+ts: 1528057677
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057677

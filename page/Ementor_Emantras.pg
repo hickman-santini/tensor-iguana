@@ -1,0 +1,36 @@
+flags: 0
+blocks: <p>At work people who ask for one can be assigned a "mentor", somebody to be a friendly advisor in another part of the organization. Alas, although I mean well I've never been a very good mentor, at least not in any formal fashion. The latest person who had the ill fortune to draw me, for instance, seems to be always too busy to meet with me for a cup of tea. <em>(Hmmmm, perhaps he took my disclaimer seriously when I warned him about myself?!)</em> So I told him last month that I would post my career-enhancing words of wisdom via <a class="url http outside" href="http://twitter.com/#!/zhurnaly">Twitter</a> as text-messages. Thus far, the eMentor has tweeted more than a dozen mini-thoughts. Some are recycled old offerings from the <em><strong><a class="url http outside" href="http://zhurnaly.com">^zhurnal</a></strong></em>; others are new bumper-stickes:</p><ul><li>Advice to a new colleague: "An Action delegated is an Action completed!" - #eMentor</li><li>#eMentor tip # 2: Carry something in your hand at all times when you walk the halls!</li><li>#eMentor tip #3: When higher management is around, make your immediate boss look smarter than s/he is</li><li>#eMentor tip #4: Change happens. Deal with it and move on.</li><li>#eMentor: panic is not productive</li><li>#eMentor #6: Take a breath before explaining why someone is wrong</li><li>#eMentor explanation: colleague I'm assigned to mentor is always too busy to meet with me, so I promise to tweet my "sage" advice! (^_^)</li><li>#eMentor #7: everything takes three times as long to do as your first estimate --- and triple that if other people are involved</li><li>#eMentor: your filofax/daytimer is a Jedi sword to protect you against missed meetings, forgotten action items, lost notes, etc. Carry it!</li><li>#eMentor #9: Senior management is often clueless, but generally means well - give them a break</li><li>#eMentor: Take notes at all meetings. Whoever takes notes controls what happened.</li><li>#eMentor: Unless small children are likely to get hurt, go home to your family on time</li><li>#eMentor: Have fun, do good, stay out of trouble --- achieve any two, and you have a successful career</li><li>#eMentor Homer Simpson career advice: "You can't keep blaming yourself. Just blame yourself once, and move on."</li><li>#eMentor #14: Give credit generously, take credit modestly</li></ul><p><em><strong>^z</strong></em> - 2011-05-02</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; * #<strong class="changes">eMantor</strong> Homer Simpson career advice: "You can't keep blaming yourself. Just blame yourself once, and move on."</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * #<strong class="changes">eMentor</strong> Homer Simpson career advice: "You can't keep blaming yourself. Just blame yourself once, and move on."</p></div>
+ip: 128.29.43.1
+ts: 1315927051
+minor: 1
+host: mw-128-29-43-1.mitre.org
+username: mezimmerman
+revision: 2
+diff-major: 
+summary: typo fix
+languages: 
+text: At work people who ask for one can be assigned a "mentor", somebody to be a friendly advisor in another part of the organization. Alas, although I mean well I've never been a very good mentor, at least not in any formal fashion. The latest person who had the ill fortune to draw me, for instance, seems to be always too busy to meet with me for a cup of tea. //(Hmmmm, perhaps he took my disclaimer seriously when I warned him about myself?!)// So I told him last month that I would post my career-enhancing words of wisdom via [[http://twitter.com/#!/zhurnaly|Twitter]] as text-messages. Thus far, the eMentor has tweeted more than a dozen mini-thoughts. Some are recycled old offerings from the //**[[http://zhurnaly.com|^zhurnal]]**//; others are new bumper-stickes:
+	
+	* Advice to a new colleague: "An Action delegated is an Action completed!" - #eMentor
+	* #eMentor tip # 2: Carry something in your hand at all times when you walk the halls!
+	* #eMentor tip #3: When higher management is around, make your immediate boss look smarter than s/he is
+	* #eMentor tip #4: Change happens. Deal with it and move on.
+	* #eMentor: panic is not productive
+	* #eMentor #6: Take a breath before explaining why someone is wrong
+	* #eMentor explanation: colleague I'm assigned to mentor is always too busy to meet with me, so I promise to tweet my "sage" advice! (^_^)
+	* #eMentor #7: everything takes three times as long to do as your first estimate --- and triple that if other people are involved
+	* #eMentor: your filofax/daytimer is a Jedi sword to protect you against missed meetings, forgotten action items, lost notes, etc. Carry it!
+	* #eMentor #9: Senior management is often clueless, but generally means well - give them a break
+	* #eMentor: Take notes at all meetings. Whoever takes notes controls what happened.
+	* #eMentor: Unless small children are likely to get hurt, go home to your family on time
+	* #eMentor: Have fun, do good, stay out of trouble --- achieve any two, and you have a successful career
+	* #eMentor Homer Simpson career advice: "You can't keep blaming yourself. Just blame yourself once, and move on."
+	* #eMentor #14: Give credit generously, take credit modestly
+	
+	//**^z**// - 2011-05-02
+	
+lastmajor: 1
+keep-ts: 1315927051

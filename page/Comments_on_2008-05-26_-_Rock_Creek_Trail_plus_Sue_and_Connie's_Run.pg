@@ -1,0 +1,23 @@
+blocks: <h3>2 Comments.</h3><p>The most important thing was omitted: despite her weakened running state Christina won a pie for guessing the exact number of red, white, and blue flags along the course without really counting them. The pie was given to Rathini, a member of Red 11 SDP training group, for her to share with her family.</p><p>-- Christina 2009-05-25 01:16 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.117
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	The most important thing was omitted: despite her weakened running state Christina won a pie for guessing the exact number of red, white, and blue flags along the course without really counting them. The pie was given to Rathini, a member of Red 11 SDP training group, for her to share with her family.
+	
+	-- Christina 2009-05-25 01:16 UTC
+	
+	
+	
+languages: 
+lastmajor: 25
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; The most important thing was omitted: despite her weakened running state Christina won a pie for guessing the exact number of red, white, and blue flags along the course without really counting them. The pie was given to Rathini, a member of Red 11 SDP training group, for her to share with her family.<br />&gt; -- Christina 2009-05-25 01:16 UTC</p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 25
+keep-ts: 1528057681

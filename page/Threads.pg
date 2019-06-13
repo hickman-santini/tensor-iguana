@@ -1,0 +1,34 @@
+blocks: <table class="user"><tr><td align="right">Threads in the tapestry<br />Weaving the fabric of life<br />Persistent: shapes of bodies, patterns of thought<br />Words and deeds, habits and surprises<br />Values to choose by, choices to surrender to<br /><br />We meet and dance<br />Whirl and dip, mirror each other<br />Learn each other, lift each other<br />Together help each other<br />Grow &mdash; and then, separate<br /><br />To fade into the background<br />For all the rest of time </td></tr></table><p><em><strong>^z</strong></em> - 2018-03-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Threads in the tapestry
+	Weaving the fabric of life
+	Persistent: shapes of bodies, patterns of thought
+	Words and deeds, habits and surprises
+	Values to choose by, choices to surrender to
+	\\
+	We meet and dance
+	Whirl and dip, mirror each other
+	Learn each other, lift each other
+	Together help each other
+	Grow &mdash; and then, separate
+	\\
+	To fade into the background
+	For all the rest of time |
+	
+	//**^z**// - 2018-03-12
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Threads in the tapestry<br />&gt; Weaving the fabric of life<br />&gt; Persistent: shapes of bodies, patterns of thought<br />&gt; Words and deeds, habits and surprises<br />&gt; Values to choose by, choices to surrender to<br />&gt; \\<br />&gt; We meet and dance<br />&gt; Whirl and dip, mirror each other<br />&gt; Learn each other, lift each other<br />&gt; Together help each other<br />&gt; Grow &amp;mdash; and then, separate<br />&gt; \\<br />&gt; To fade into the background<br />&gt; For all the rest of time |<br />&gt; //**^z**// - 2018-03-12</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057708

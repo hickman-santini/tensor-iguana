@@ -1,0 +1,23 @@
+blocks: <p><img class="url http" src="http://zhurnaly.com/images/Bluebird_Feather.jpg" alt="http://zhurnaly.com/images/Bluebird_Feather.jpg" /></p><p>Bluebird feather found after a run on my birthday, 29 Sep 2012, and posed on a thistle for this portrait ...</p><p><em><strong>^z</strong></em> - 2012-12-28</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.186.77
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: http://zhurnaly.com/images/Bluebird_Feather.jpg
+	
+	Bluebird feather found after a run on my birthday, 29 Sep 2012, and posed on a thistle for this portrait ...
+	
+	//**^z**// - 2012-12-28
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">http://zhurnaly.com/images/Bluebird_Feather.jpg<br />&gt; Bluebird feather found after a run on my birthday, 29 Sep 2012, and posed on a thistle for this portrait ...<br />&gt; //**^z**// - 2012-12-28</strong></p></div>
+flags: 0
+ts: 1528057692
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057692

@@ -1,0 +1,18 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3>You are truly amazing, you know that???</p><p>-- Caren Jew 2008-11-24 01:29 UTC</p>
+ip: 138.88.176.69
+ts: 1237859416
+minor: 0
+host: pool-138-88-176-69.res.east.verizon.net
+username: zz
+revision: 9
+summary: Rollback to 2008-11-25 12:13 UTC
+languages: 
+text: === 1 Comment. ===
+	You are truly amazing, you know that???
+	
+	-- Caren Jew 2008-11-24 01:29 UTC
+	
+	
+lastmajor: 9
+keep-ts: 1237859416

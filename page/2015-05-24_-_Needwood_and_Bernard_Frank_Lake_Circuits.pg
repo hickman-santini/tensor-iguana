@@ -1,0 +1,23 @@
+blocks: <h3>~10.3 miles @ ~12.6 min/mi</h3><p>"We have baby wipes!" says our text message to Stephanie Fonda and Marshall Porterfield. They're 9+ miles into a Sunday ultramarathon training run when Amy Couch and I meet them to provide aid and company on some bonus natural-surface trail mileage. After circling Lake Needwood together we head down Rock Creek and divert to circumnavigate Lake Bernard Frank. The hills and rocks and roots seem gnarlier than a few years ago. Stephanie stumbles and pulls a muscle in an unmentionable zone. Later she takes a complete fall, thankfully not too damaging. Marshall spots a deer. Amy spies another, then a magnificent heron gliding low over the stream. Trail talk is fun and wide-ranging. We part ways after ~8.5 miles together, Stephanie and Marshall heading back downstream for a few dozen more miles, Amy and I returning to Lake Needwood.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/577127967">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-06-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 67.198.77.136
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.3 miles @ ~12.6 min/mi
+	
+	"We have baby wipes!" says our text message to Stephanie Fonda and Marshall Porterfield. They're 9+ miles into a Sunday ultramarathon training run when Amy Couch and I meet them to provide aid and company on some bonus natural-surface trail mileage. After circling Lake Needwood together we head down Rock Creek and divert to circumnavigate Lake Bernard Frank. The hills and rocks and roots seem gnarlier than a few years ago. Stephanie stumbles and pulls a muscle in an unmentionable zone. Later she takes a complete fall, thankfully not too damaging. Marshall spots a deer. Amy spies another, then a magnificent heron gliding low over the stream. Trail talk is fun and wide-ranging. We part ways after ~8.5 miles together, Stephanie and Marshall heading back downstream for a few dozen more miles, Amy and I returning to Lake Needwood.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/577127967|trackfile]])// - //**^z**// - 2015-06-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.3 miles @ ~12.6 min/mi<br />&gt; "We have baby wipes!" says our text message to Stephanie Fonda and Marshall Porterfield. They're 9+ miles into a Sunday ultramarathon training run when Amy Couch and I meet them to provide aid and company on some bonus natural-surface trail mileage. After circling Lake Needwood together we head down Rock Creek and divert to circumnavigate Lake Bernard Frank. The hills and rocks and roots seem gnarlier than a few years ago. Stephanie stumbles and pulls a muscle in an unmentionable zone. Later she takes a complete fall, thankfully not too damaging. Marshall spots a deer. Amy spies another, then a magnificent heron gliding low over the stream. Trail talk is fun and wide-ranging. We part ways after ~8.5 miles together, Stephanie and Marshall heading back downstream for a few dozen more miles, Amy and I returning to Lake Needwood.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/577127967|trackfile]])// - //**^z**// - 2015-06-17</strong></p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057678

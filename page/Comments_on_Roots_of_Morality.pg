@@ -1,0 +1,24 @@
+blocks: <h3>1 Comment.</h3><p>Mark,</p><p>This topic is facinating. Years ago, I had the same coversations with my old boss. I cannot wait to watch Jonathon Haidt's lecture over the weekend.</p><p>-- <a class="url http outside" href="http://detroit2dc.blogspot.com/">Detroit2DC</a> 2009-04-03 12:16 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	Mark, 
+	
+	This topic is facinating.  Years ago, I had the same coversations with my old boss.  I cannot wait to watch Jonathon Haidt's lecture over the weekend.
+	
+	-- [http://detroit2dc.blogspot.com/ Detroit2DC] 2009-04-03 12:16 UTC
+	
+	
+languages: 
+lastmajor: 41
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; Mark, <br />&gt; This topic is facinating.  Years ago, I had the same coversations with my old boss.  I cannot wait to watch Jonathon Haidt's lecture over the weekend.<br />&gt; -- [http://detroit2dc.blogspot.com/ Detroit2DC] 2009-04-03 12:16 UTC</p></div>
+flags: 0
+ts: 1528057680
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 41
+keep-ts: 1528057680

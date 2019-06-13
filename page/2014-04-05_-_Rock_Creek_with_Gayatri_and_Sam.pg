@@ -1,0 +1,23 @@
+blocks: <h3>~12 miles @ ~11.5 min/mi</h3><p>Fireflies drift through the dawn fog over Ray's Meadow &mdash; suddenly changing, as I approach, into reflected headlights on a pond in the middle of the ball field. At Candy Cane City Sandra "Sam" Yerkes &amp; Gayatri Datta join me for a trek down Beach Dr into Rock Creek Park, to near Military Rd and back. I leave them at Meadowbrook Stables where they join Barry Smith, and "blast" out a fast-for-me mile #10 along the flat bikepath at 8:57 by the Garmin &mdash; then chase a lady in black and her dog up the hill out of the park, divert into the National Park Seminary to circle the lovely Mermaid Fountain, and "sprint" home across the train tracks. <a class="url http outside" href="http://runkeeper.com/activity?userId=12484464&amp;trip=329979323">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/474143711">Garmin</a> GPS record details, disagreeing as to total distance by ~3%.</p><p><em><strong>^z</strong></em> - 2014-05-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.166
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12 miles @ ~11.5 min/mi
+	
+	Fireflies drift through the dawn fog over Ray's Meadow &mdash; suddenly changing, as I approach, into reflected headlights on a pond in the middle of the ball field. At Candy Cane City Sandra "Sam" Yerkes & Gayatri Datta join me for a trek down Beach Dr into Rock Creek Park, to near Military Rd and back. I leave them at Meadowbrook Stables where they join Barry Smith, and "blast" out a fast-for-me mile #10 along the flat bikepath at 8:57 by the Garmin &mdash; then chase a lady in black and her dog up the hill out of the park, divert into the National Park Seminary to circle the lovely Mermaid Fountain, and "sprint" home across the train tracks. [[http://runkeeper.com/activity?userId=12484464&trip=329979323|Runkeeper]] and [[http://connect.garmin.com/activity/474143711|Garmin]] GPS record details, disagreeing as to total distance by ~3%.
+	
+	//**^z**// - 2014-05-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12 miles @ ~11.5 min/mi<br />&gt; Fireflies drift through the dawn fog over Ray's Meadow &amp;mdash; suddenly changing, as I approach, into reflected headlights on a pond in the middle of the ball field. At Candy Cane City Sandra "Sam" Yerkes &amp; Gayatri Datta join me for a trek down Beach Dr into Rock Creek Park, to near Military Rd and back. I leave them at Meadowbrook Stables where they join Barry Smith, and "blast" out a fast-for-me mile #10 along the flat bikepath at 8:57 by the Garmin &amp;mdash; then chase a lady in black and her dog up the hill out of the park, divert into the National Park Seminary to circle the lovely Mermaid Fountain, and "sprint" home across the train tracks. [[http://runkeeper.com/activity?userId=12484464&amp;trip=329979323|Runkeeper]] and [[http://connect.garmin.com/activity/474143711|Garmin]] GPS record details, disagreeing as to total distance by ~3%.<br />&gt; //**^z**// - 2014-05-16</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057700

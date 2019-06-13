@@ -1,0 +1,27 @@
+blocks: <h3>~13.5 miles @ ~14.6 min/mi</h3><p>"Did you finish delivering all the packages?" two young women in USC sweatshirts ask, when they meet me by the Patapsco River and pretend to mistake me for Santa Claus. "Yep!" I reply. "This is my recovery run!" They laugh. Geese honk and ducks splash.</p><p>It's Christmas morning in Ellicott City, near Baltimore, and DD is playing violin in the Korean Presbyterian church. Maps from the <a class="url http outside" href="http://dnr2.maryland.gov/publiclands/Pages/central/patapsco.aspx">Maryland Park Service</a> suggest that neighborhood streets connect to the Patapsco Valley State Park. Dog walkers give directions to a trail they think deer made, and indeed there are a couple of big does by a tributary stream. I take several wrong turns on the way but eventually arrive.</p><p>A wide path, rutted with bike tire tracks, leads downriver. Boggy spots from recent rains slow progress. After a dam the route is interrupted by private property and the trail climbs steeply to circumnavigate it. Eventually back at the waterside there are railroad tracks that curve below Interstate 70 and enter a spooky-dark tunnel below US-40. Instead, at that point since time is running short take a dirt path and bushwhack up a steep slope the highway. Follow it back and close the circuit. Be thankful for the paper I'm carrying with me <em>(and don't ask for details!)</em>. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/486622624">Runkeeper</a> records route.</p><p><em><strong>^z</strong></em> - 2015-01-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.208.162
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~13.5 miles @ ~14.6 min/mi
+	
+	"Did you finish delivering all the packages?" two young women in USC sweatshirts ask, when they meet me by the Patapsco River and pretend to mistake me for Santa Claus. "Yep!" I reply. "This is my recovery run!" They laugh. Geese honk and ducks splash.
+	
+	It's Christmas morning in Ellicott City, near Baltimore, and DD is playing violin in the Korean Presbyterian church. Maps from the [[http://dnr2.maryland.gov/publiclands/Pages/central/patapsco.aspx|Maryland Park Service]] suggest that neighborhood streets connect to the Patapsco Valley State Park. Dog walkers give directions to a trail they think deer made, and indeed there are a couple of big does by a tributary stream. I take several wrong turns on the way but eventually arrive.
+	
+	A wide path, rutted with bike tire tracks, leads downriver. Boggy spots from recent rains slow progress. After a dam the route is interrupted by private property and the trail climbs steeply to circumnavigate it. Eventually back at the waterside there are railroad tracks that curve below Interstate 70 and enter a spooky-dark tunnel below US-40. Instead, at that point since time is running short take a dirt path and bushwhack up a steep slope the highway. Follow it back and close the circuit. Be thankful for the paper I'm carrying with me //(and don't ask for details!)//. [[http://runkeeper.com/user/zhurnaly/activity/486622624|Runkeeper]] records route.
+	
+	//**^z**// - 2015-01-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~13.5 miles @ ~14.6 min/mi<br />&gt; "Did you finish delivering all the packages?" two young women in USC sweatshirts ask, when they meet me by the Patapsco River and pretend to mistake me for Santa Claus. "Yep!" I reply. "This is my recovery run!" They laugh. Geese honk and ducks splash.<br />&gt; It's Christmas morning in Ellicott City, near Baltimore, and DD is playing violin in the Korean Presbyterian church. Maps from the [[http://dnr2.maryland.gov/publiclands/Pages/central/patapsco.aspx|Maryland Park Service]] suggest that neighborhood streets connect to the Patapsco Valley State Park. Dog walkers give directions to a trail they think deer made, and indeed there are a couple of big does by a tributary stream. I take several wrong turns on the way but eventually arrive.<br />&gt; A wide path, rutted with bike tire tracks, leads downriver. Boggy spots from recent rains slow progress. After a dam the route is interrupted by private property and the trail climbs steeply to circumnavigate it. Eventually back at the waterside there are railroad tracks that curve below Interstate 70 and enter a spooky-dark tunnel below US-40. Instead, at that point since time is running short take a dirt path and bushwhack up a steep slope the highway. Follow it back and close the circuit. Be thankful for the paper I'm carrying with me //(and don't ask for details!)//. [[http://runkeeper.com/user/zhurnaly/activity/486622624|Runkeeper]] records route.<br />&gt; //**^z**// - 2015-01-13</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

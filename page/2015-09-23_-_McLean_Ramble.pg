@@ -1,0 +1,25 @@
+blocks: <h3>~9.2 miles @ ~12.3 min/mi</h3><p>"You're too short!" says Beth, as she takes a spider web in the face while running behind Kristin. "Uh, I mean, you're exactly the right height, but ...". We loop past the home of Monday's friendly Weimaraner puppy, but alas he's not waiting for us at the gate today.</p><p>Earlier this morning in the pre-dawn gloom Kristin leads the way in an exploratory quest for connections between Dolley Madison Blvd and Balls Hill Rd. A search down Merrimac Dr fails (we're not willing to tresspass or climb fences), but after some nervous scampering over fallen walnuts and acorns, success! &mdash; we discover a public cut-through to Evans Mill Rd, by the tennis courts behind the Langley School. A fast young runner leads us back across Hwy 123 just as the light changes. We meet him again an hour later as he returns along Magarity Rd.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/661710056">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.2 miles @ ~12.3 min/mi
+	
+	"You're too short!" says Beth, as she takes a spider web in the face while running behind Kristin. "Uh, I mean, you're exactly the right height, but ...". We loop past the home of Monday's friendly Weimaraner puppy, but alas he's not waiting for us at the gate today.
+	
+	Earlier this morning in the pre-dawn gloom Kristin leads the way in an exploratory quest for connections between Dolley Madison Blvd and Balls Hill Rd. A search down Merrimac Dr fails (we're not willing to tresspass or climb fences), but after some nervous scampering over fallen walnuts and acorns, success! &mdash; we discover a public cut-through to Evans Mill Rd, by the tennis courts behind the Langley School. A fast young runner leads us back across Hwy 123 just as the light changes. We meet him again an hour later as he returns along Magarity Rd.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/661710056|trackfile]])// - //**^z**// - 2015-10-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.2 miles @ ~12.3 min/mi<br />&gt; "You're too short!" says Beth, as she takes a spider web in the face while running behind Kristin. "Uh, I mean, you're exactly the right height, but ...". We loop past the home of Monday's friendly Weimaraner puppy, but alas he's not waiting for us at the gate today.<br />&gt; Earlier this morning in the pre-dawn gloom Kristin leads the way in an exploratory quest for connections between Dolley Madison Blvd and Balls Hill Rd. A search down Merrimac Dr fails (we're not willing to tresspass or climb fences), but after some nervous scampering over fallen walnuts and acorns, success! &amp;mdash; we discover a public cut-through to Evans Mill Rd, by the tennis courts behind the Langley School. A fast young runner leads us back across Hwy 123 just as the light changes. We meet him again an hour later as he returns along Magarity Rd.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/661710056|trackfile]])// - //**^z**// - 2015-10-17</strong></p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057713

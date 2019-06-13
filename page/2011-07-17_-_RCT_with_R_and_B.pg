@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~7 miles @ ~11.4 min/mi</h3></p><p>Early this Sunday morning Rebecca Rosenberg arrives back from California on the red-eye flight, to be with her ailing German Shepard dog Lucy. Rebecca suggests an evening excursion, so at about 7pm Barry Smith and I join her at Candy Cane City. We run upstream to Rock Creek Trail mile #4 near Connecticut Av. On the way back I lead a diversion: we veer off course to see a spring that George Washington reputedly drank from, at "<a class="url http outside" href="http://www.northchevychase.org/page5.html">Clean Drinking Manor</a>" in the Village of North Chevy Chase.</p><p><em>(cf. <a class="url http outside" href="http://connect.garmin.com/activity/99951849">GPS trackfile</a>, ...)</em> - <em><strong>^z</strong></em> - 2011-08-03</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Early this Sunday morning Rebecca Rosenberg arrives back from California on the red-eye flight, to be with her ailing German Shepard dog Lucy. Rebecca suggests an evening excursion, so at about 7pm Barry Smith and I join her at Candy Cane City. We run upstream to Rock Creek Trail mile #4 near Connecticut Av. On the way back I lead a diversion: we veer off course to see a spring that George Washington reputedly drank from <strong class="changes">(</strong>at "[[http://www.northchevychase.org/page5.html|Clean Drinking Manor]]" in the Village of North Chevy Chase.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Early this Sunday morning Rebecca Rosenberg arrives back from California on the red-eye flight, to be with her ailing German Shepard dog Lucy. Rebecca suggests an evening excursion, so at about 7pm Barry Smith and I join her at Candy Cane City. We run upstream to Rock Creek Trail mile #4 near Connecticut Av. On the way back I lead a diversion: we veer off course to see a spring that George Washington reputedly drank from<strong class="changes">,</strong> at "[[http://www.northchevychase.org/page5.html|Clean Drinking Manor]]" in the Village of North Chevy Chase.</p></div>
+ip: 138.88.113.83
+ts: 1312362069
+minor: 1
+host: pool-138-88-113-83.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: === ~7 miles @ ~11.4 min/mi
+	
+	Early this Sunday morning Rebecca Rosenberg arrives back from California on the red-eye flight, to be with her ailing German Shepard dog Lucy. Rebecca suggests an evening excursion, so at about 7pm Barry Smith and I join her at Candy Cane City. We run upstream to Rock Creek Trail mile #4 near Connecticut Av. On the way back I lead a diversion: we veer off course to see a spring that George Washington reputedly drank from, at "[[http://www.northchevychase.org/page5.html|Clean Drinking Manor]]" in the Village of North Chevy Chase.
+	
+	//(cf. [[http://connect.garmin.com/activity/99951849|GPS trackfile]], ...)// - //**^z**// - 2011-08-03
+	
+lastmajor: 1
+keep-ts: 1312362069

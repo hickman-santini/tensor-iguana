@@ -1,0 +1,23 @@
+blocks: <h3>~6.3 miles @ ~10.0 min/mi</h3><p>"Take the long way home!" Instead of the direct route to Dr. Stephanie's house, meander along Rock Creek. Begin with broken-field running, zig-zagging between trash cans on the sidewalk, banana in hand. Gnats buzz about the head of a stone statue. The Mermaid Fountain is eye-catching as always. An old comrade, "Alby", pauses to greet me on his way to work. Race hard for the final miles to pull the average pace down to single digit min/mi &mdash; barely!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/940674945">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.157
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.3 miles @ ~10.0 min/mi
+	
+	"Take the long way home!" Instead of the direct route to Dr. Stephanie's house, meander along Rock Creek. Begin with broken-field running, zig-zagging between trash cans on the sidewalk, banana in hand. Gnats buzz about the head of a stone statue. The Mermaid Fountain is eye-catching as always. An old comrade, "Alby", pauses to greet me on his way to work. Race hard for the final miles to pull the average pace down to single digit min/mi &mdash; barely!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/940674945|trackfile]])// - //**^z**// - 2017-03-29
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.3 miles @ ~10.0 min/mi<br />&gt; "Take the long way home!" Instead of the direct route to Dr. Stephanie's house, meander along Rock Creek. Begin with broken-field running, zig-zagging between trash cans on the sidewalk, banana in hand. Gnats buzz about the head of a stone statue. The Mermaid Fountain is eye-catching as always. An old comrade, "Alby", pauses to greet me on his way to work. Race hard for the final miles to pull the average pace down to single digit min/mi &amp;mdash; barely!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/940674945|trackfile]])// - //**^z**// - 2017-03-29</strong></p></div>
+flags: 0
+ts: 1528057695
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057695

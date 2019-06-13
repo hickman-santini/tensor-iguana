@@ -1,0 +1,25 @@
+blocks: <h3>~6.2 miles @ ~11.8 min/mi</h3><p>"Hi Mark &mdash; I'm Mark too!" As Kristin and I cruise through downtown McLean a voice calls out. It's Joe, my "Best Boss Ever", seeing his sons John and Mark onto the school bus. The dawn is cool and pleasant; Dr K's pace is brisk; I call for walk breaks early and often. Venus glitters in the eastern sky as we set out.</p><p>"Her birthday was yesterday!" Kristin's daughter celebrated on the beach and, with her brother, in a virtual-world Minecraft marathon. We compare notes on work, family, plans.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/975713435">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-05-31</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.91.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.2 miles @ ~11.8 min/mi
+	
+	"Hi Mark &mdash; I'm Mark too!" As Kristin and I cruise through downtown McLean a voice calls out. It's Joe, my "Best Boss Ever", seeing his sons John and Mark onto the school bus. The dawn is cool and pleasant; Dr K's pace is brisk; I call for walk breaks early and often. Venus glitters in the eastern sky as we set out.
+	
+	"Her birthday was yesterday!" Kristin's daughter celebrated on the beach and, with her brother, in a virtual-world Minecraft marathon. We compare notes on work, family, plans.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/975713435|trackfile]])// - //**^z**// - 2017-05-31
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.2 miles @ ~11.8 min/mi<br />&gt; "Hi Mark &amp;mdash; I'm Mark too!" As Kristin and I cruise through downtown McLean a voice calls out. It's Joe, my "Best Boss Ever", seeing his sons John and Mark onto the school bus. The dawn is cool and pleasant; Dr K's pace is brisk; I call for walk breaks early and often. Venus glitters in the eastern sky as we set out.<br />&gt; "Her birthday was yesterday!" Kristin's daughter celebrated on the beach and, with her brother, in a virtual-world Minecraft marathon. We compare notes on work, family, plans.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/975713435|trackfile]])// - //**^z**// - 2017-05-31</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

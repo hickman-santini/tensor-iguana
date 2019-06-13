@@ -1,0 +1,23 @@
+blocks: <h3>~16 miles @ ~12.5 min/mi</h3><p>Today's chilly run features winds that make it seem even colder. Temps are in the 20s and there's ice on the sidewalks. After one solo Mormon Temple hill climb I join Barry Smith and Gayatri Datta for 10 down Rock Creek and back. Along the way we meet Loren Alikhan, a young DC lawyer out on a long lone run; her car wouldn't start this morning, and she missed a meeting with her buddy. We accompany her for several miles back to Barry's and Gayatri's cars, and then I escort her back down Jones Mill Rd to East-West Hwy, from which she knows the way home. <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/166778045">Runtastic</a> concurs generally with the <a class="url http outside" href="http://connect.garmin.com/activity/435492858">Garmin</a> GPS.</p><p><em><strong>^z</strong></em> - 2014-02-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.209.243
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~16 miles @ ~12.5 min/mi
+	
+	Today's chilly run features winds that make it seem even colder. Temps are in the 20s and there's ice on the sidewalks. After one solo Mormon Temple hill climb I join Barry Smith and Gayatri Datta for 10 down Rock Creek and back. Along the way we meet Loren Alikhan, a young DC lawyer out on a long lone run; her car wouldn't start this morning, and she missed a meeting with her buddy. We accompany her for several miles back to Barry's and Gayatri's cars, and then I escort her back down Jones Mill Rd to East-West Hwy, from which she knows the way home. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/166778045|Runtastic]] concurs generally with the [[http://connect.garmin.com/activity/435492858|Garmin]] GPS.
+	
+	//**^z**// - 2014-02-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~16 miles @ ~12.5 min/mi<br />&gt; Today's chilly run features winds that make it seem even colder. Temps are in the 20s and there's ice on the sidewalks. After one solo Mormon Temple hill climb I join Barry Smith and Gayatri Datta for 10 down Rock Creek and back. Along the way we meet Loren Alikhan, a young DC lawyer out on a long lone run; her car wouldn't start this morning, and she missed a meeting with her buddy. We accompany her for several miles back to Barry's and Gayatri's cars, and then I escort her back down Jones Mill Rd to East-West Hwy, from which she knows the way home. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/166778045|Runtastic]] concurs generally with the [[http://connect.garmin.com/activity/435492858|Garmin]] GPS.<br />&gt; //**^z**// - 2014-02-19</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

@@ -1,0 +1,27 @@
+blocks: <p>For a project at the office I'm helping, yesterday I had to assign grades to some submissions. It's the third round of an iterative process and in my judgment this time everybody got extremely high marks. I speculated to the project leader why:<br /></p><ul><li>I'm just back from vacation and must be in a good mood?</li><li>The submitters learned a lot from previous rounds and are better than ever?</li><li>My spirit has been broken after reading earlier, incredibly bad efforts, and I've given up hope and can no longer be critical?</li><li>Reviewing submissions in rounds 1 and 2 educated me in the topic so much that I now understand and appreciate subtle arguments that went over my head before?</li></ul><p>Or maybe all of the above!</p><p><em><strong>^z</strong></em> - 2012-09-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.170.21
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: For a project at the office I'm helping, yesterday I had to assign grades to some submissions. It's the third round of an iterative process and in my judgment this time everybody got extremely high marks. I speculated to the project leader why:
+	* I'm just back from vacation and must be in a good mood?
+	* The submitters learned a lot from previous rounds and are better than ever?
+	* My spirit has been broken after reading earlier, incredibly bad efforts, and I've given up hope and can no longer be critical?
+	* Reviewing submissions in rounds 1 and 2 educated me in the topic so much that I now understand and appreciate subtle arguments that went over my head before?
+	
+	Or maybe all of the above!
+	
+	//**^z**// - 2012-09-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">For a project at the office I'm helping, yesterday I had to assign grades to some submissions. It's the third round of an iterative process and in my judgment this time everybody got extremely high marks. I speculated to the project leader why:<br />&gt; * I'm just back from vacation and must be in a good mood?<br />&gt; * The submitters learned a lot from previous rounds and are better than ever?<br />&gt; * My spirit has been broken after reading earlier, incredibly bad efforts, and I've given up hope and can no longer be critical?<br />&gt; * Reviewing submissions in rounds 1 and 2 educated me in the topic so much that I now understand and appreciate subtle arguments that went over my head before?<br />&gt; Or maybe all of the above!<br />&gt; //**^z**// - 2012-09-11</strong></p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057713

@@ -1,0 +1,30 @@
+flags: 0
+blocks: <p><h3>2 Comments.</h3></p><hr /><p>OK, but realistically... I think I figured out that if you translate leagues into miles, they ran something like 300 miles. With no food? You may as well critique Tolkien for not understanding how difficult distance running really is. :)</p><hr /><blockquote><p><em>My impression is that crossing the plains of Rohan was ~45 leagues = ~135 miles, over the course of 3-4 days --- so that's not unreasonable for somebody in decent shape ... and they had lembas, which I take to be a primitive form of Clif Bar (^_^) ... <strong>^z</strong> </em><br /></p></blockquote>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //My impression is that crossing the plains of Rohan was <strong class="changes">~~</strong>45 leagues = <strong class="changes">~~</strong>135 miles, over the course of 3-4 days --- so that's not unreasonable for somebody in decent shape ... and they had lembas, which I take to be a primitive form of Clif Bar (^_^) ... **^z** //</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; //My impression is that crossing the plains of Rohan was <strong class="changes">~</strong>45 leagues = <strong class="changes">~</strong>135 miles, over the course of 3-4 days --- so that's not unreasonable for somebody in decent shape ... and they had lembas, which I take to be a primitive form of Clif Bar (^_^) ... **^z** //</p></div>
+ip: 141.156.150.174
+ts: 1234838060
+minor: 1
+host: pool-141-156-150-174.res.east.verizon.net
+username: MarkZimmermann
+revision: 6
+diff-major: 
+summary: ~~ -> ~
+languages: 
+text: === 2 Comments. ===
+	
+	
+	----
+	
+	OK, but realistically... I think I figured out that if you translate leagues into miles, they ran something like 300 miles.  With no food?  You may as well critique Tolkien for not understanding how difficult distance running really is. :)
+	
+	----
+	
+	"""
+	//My impression is that crossing the plains of Rohan was ~45 leagues = ~135 miles, over the course of 3-4 days --- so that's not unreasonable for somebody in decent shape ... and they had lembas, which I take to be a primitive form of Clif Bar (^_^) ... **^z** //
+	"""
+	
+	
+lastmajor: 3
+keep-ts: 1234838060

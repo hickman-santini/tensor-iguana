@@ -1,0 +1,201 @@
+blocks: <pre>/* preferred font for body text */
+	body { 
+	 font-family: Palatino, serif;
+	 font-size: large;
+	 }
+	
+	/* preferred header style */
+	/* center H1 */
+	h1 {
+	 text-align: center;
+	 background-color: #ccccff;
+	 color: #000066;
+	 }
+	/* left-justify other headers */
+	h2, h3, h4, h5, h6 {
+	 background-color: #ccccff;
+	 color: #000066;
+	 }
+	
+	/* preferred link coloring schema */
+	a:link { color: #000099; }
+	a:visited { color: #330066; }
+	a:hover { text-decoration: none ;
+	  color: #660000; background-color: #ddddff; }
+	
+	/* preferred tables */
+	table.user { border-style:outset; border-width:thick; }
+	table.user tr td { border-style:inset; border-width:thin; padding:5px; text-align: left; }
+	
+	img {
+	    border: #777777 1px solid;
+	    padding: 10px;
+	    color: black;
+	}
+	
+	div.header img, div.footer img { border: 0; padding: 0; margin: 0; float: left;}
+	
+	div.footer hr { height: 4px; }
+	
+	pre {
+	    background-color: #e6e6e6;
+	    color: black;
+	    font-size: small;
+	}
+	
+	/* "small" block quotes &amp; "x-small' gotobar/edit-bar &amp; footer-time */
+	blockquote { font-size: small; }
+	span.bar { font-size: x-small; font-weight: bold;  background-color: #ddddff; }
+	div.bar { font-size: x-small; font-weight: bold;  background-color: #ddddff; }
+	div.time { font-size: x-small; }
+	
+	/* play with imagecomment styling of text */
+	div.imageholder { color: white; }
+	
+	/* define style for "poemMantra" cards - images with text overlays */
+	#poemMantra {
+	    position: relative; 
+	    width:640px;
+	    color: #ffffff;
+	    text-shadow: 0 0 16px black;
+	}
+	#poemMantra img {
+	    width:640px;
+	}
+	#poemMantra div {
+	    position: absolute; 
+	    width: 640px; 
+	}
+	.title {
+	    top:20px;
+	    width:100%;
+	    text-align:center;
+	    font-size:xx-large;
+	    font-weight:bold;
+	}
+	.poem {
+	    bottom:30px;
+	    left:20px;
+	    text-align:left;
+	    font-size:medium;
+	}
+	.mantra {
+	    bottom:30px;
+	    text-align:right;
+	    font-style:italic;
+	    font-size:large;
+	}</pre>
+lastmajorsummary: try Revision 28?
+ip: 128.29.43.1
+summary: try Revision 28?
+diff-major: 1
+languages: 
+text: /* preferred font for body text */
+	body { 
+	 font-family: Palatino, serif;
+	 font-size: large;
+	 }
+	
+	/* preferred header style */
+	/* center H1 */
+	h1 {
+	 text-align: center;
+	 background-color: #ccccff;
+	 color: #000066;
+	 }
+	/* left-justify other headers */
+	h2, h3, h4, h5, h6 {
+	 background-color: #ccccff;
+	 color: #000066;
+	 }
+	
+	/* preferred link coloring schema */
+	a:link { color: #000099; }
+	a:visited { color: #330066; }
+	a:hover { text-decoration: none ;
+	  color: #660000; background-color: #ddddff; }
+	
+	/* preferred tables */
+	table.user { border-style:outset; border-width:thick; }
+	table.user tr td { border-style:inset; border-width:thin; padding:5px; text-align: left; }
+	
+	img {
+	    border: #777777 1px solid;
+	    padding: 10px;
+	    color: black;
+	}
+	
+	div.header img, div.footer img { border: 0; padding: 0; margin: 0; float: left;}
+	
+	div.footer hr { height: 4px; }
+	
+	pre {
+	    background-color: #e6e6e6;
+	    color: black;
+	    font-size: small;
+	}
+	
+	/* "small" block quotes & "x-small' gotobar/edit-bar & footer-time */
+	blockquote { font-size: small; }
+	span.bar { font-size: x-small; font-weight: bold;  background-color: #ddddff; }
+	div.bar { font-size: x-small; font-weight: bold;  background-color: #ddddff; }
+	div.time { font-size: x-small; }
+	
+	/* play with imagecomment styling of text */
+	div.imageholder { color: white; }
+	
+	/* define style for "poemMantra" cards - images with text overlays */
+	#poemMantra {
+	    position: relative; 
+	    width:640px;
+	    color: #ffffff;
+	    text-shadow: 0 0 16px black;
+	}
+	#poemMantra img {
+	    width:640px;
+	}
+	#poemMantra div {
+	    position: absolute; 
+	    width: 640px; 
+	}
+	.title {
+	    top:20px;
+	    width:100%;
+	    text-align:center;
+	    font-size:xx-large;
+	    font-weight:bold;
+	}
+	.poem {
+	    bottom:30px;
+	    left:20px;
+	    text-align:left;
+	    font-size:medium;
+	}
+	.mantra {
+	    bottom:30px;
+	    text-align:right;
+	    font-style:italic;
+	    font-size:large;
+	}
+	
+lastmajor: 35
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;     width: <strong class="changes">100%;</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;     width:<strong class="changes">640px;</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;     width: <strong class="changes">100%;</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;     width:<strong class="changes">640px;</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;     width: <strong class="changes">100%;</strong> </p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;     width: <strong class="changes">640px;</strong> </p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;     width: 100%;<br />&lt;     text-align: center;<br />&lt;     font-size: xx-large;<br />&lt;     font-weight: bold;</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;     width:100%;<br />&gt;     text-align:center;<br />&gt;     font-size:xx-large;<br />&gt;     font-weight:bold;</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;     bottom: 30px;<br />&lt;     left: 20px;<br />&lt;     text-align: left;<br />&lt;     font-size: medium;</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;     bottom:30px;<br />&gt;     left:20px;<br />&gt;     text-align:left;<br />&gt;     font-size:medium;</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt;     bottom: 30px;<br />&lt;     text-align: right;<br />&lt;     font-style: italic;<br />&lt;     font-size: large;</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt;     bottom:30px;<br />&gt;     text-align:right;<br />&gt;     font-style:italic;<br />&gt;     font-size:large;</p></div>
+flags: 0
+ts: 1530957065
+minor: 
+username: z
+host: 71.178.85.70
+revision: 35
+keep-ts: 1530957065

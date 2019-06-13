@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~5.8 mi @ ~13.5 min/mi</h3><p>"She really is my daughter!" Kristin notes with pride, reporting on her youngest's rating of a healthy new juice: "It doesn't taste great, but I know it's good for me!" Dawn Patrol enjoys a cherry-pink sunrise as we visit Starbucks and discuss intermittent fasting and how to schedule a family rendezvous in central Europe this summer. Kerry's basketball brackets are badly busted already, except for one last hope <em>(Go Duke!)</em>.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1134985075">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-04-12</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.8 mi @ ~13.5 min/mi<br />&gt; "She really is my daughter!" Kristin notes with pride, reporting on her youngest's rating of a healthy new juice: "It doesn't taste great, but I know it's good for me!" Dawn Patrol enjoys a cherry-pink sunrise as we visit Starbucks and discuss intermittent fasting and how to schedule a family rendezvous in central Europe this summer. Kerry's basketball brackets are badly busted already, except for one last hope //(Go Duke!)//.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1134985075|trackfile]])// - //**^z**// - 2018-04-12</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057691
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.8 mi @ ~13.5 min/mi
+	
+	"She really is my daughter!" Kristin notes with pride, reporting on her youngest's rating of a healthy new juice: "It doesn't taste great, but I know it's good for me!" Dawn Patrol enjoys a cherry-pink sunrise as we visit Starbucks and discuss intermittent fasting and how to schedule a family rendezvous in central Europe this summer. Kerry's basketball brackets are badly busted already, except for one last hope //(Go Duke!)//.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1134985075|trackfile]])// - //**^z**// - 2018-04-12
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057691

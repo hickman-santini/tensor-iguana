@@ -1,0 +1,35 @@
+blocks: <p>From a beautiful, thoughtful short <a class="url http outside" href="http://www.newyorker.com/news/sporting-scene/the-philosophy-of-ryan-hall">profile of elite runner Ryan Hall</a> in <em>The New Yorker</em> on 16 March 2015:<br /></p><blockquote><p>"... I want everyone to experience the elation of what it's like to win the gold medal, but obviously that's not possible. But we can experience a joy that's even deeper than that&mdash;like, every single person, every moment of every day. It's possible."<br /></p></blockquote><p>... and ...<br /></p><blockquote><p>" ...that's where it comes back to excellence. I try and get everything out of my body that God's put in me, the best I can. You hear it a million times&mdash;'Just do your best'&mdash;but, really, that's all you can do."<br /></p></blockquote><p>... and ...<br /></p><blockquote><p>"I like to go into a race not expecting anything. Not expecting to feel like a million bucks. Not expecting to hit certain splits or the race to unfold a certain way. I like to go into a race with not a real strong, set game plan, but just knowing that I'm going to take my swing at some point in the race, and then see what happens."<br /></p></blockquote><p>... and ...<br /></p><blockquote><p>"A lot of athletes are trying to prove themselves through their performances. I'm trying to be aware of who I am so I can perform at my highest level. Which is a lot different."<br /></p></blockquote><p><em><strong>^z</strong></em> - 2015-03-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.98.108
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: From a beautiful, thoughtful short [[http://www.newyorker.com/news/sporting-scene/the-philosophy-of-ryan-hall|profile of elite runner Ryan Hall]] in //The New Yorker// on 16 March 2015:
+	"""
+	"... I want everyone to experience the elation of what it's like to win the gold medal, but obviously that's not possible. But we can experience a joy that's even deeper than that&mdash;like, every single person, every moment of every day. It's possible."
+	"""
+	... and ...
+	"""
+	" ...that's where it comes back to excellence. I try and get everything out of my body that God's put in me, the best I can. You hear it a million times&mdash;'Just do your best'&mdash;but, really, that's all you can do."
+	"""
+	... and ...
+	"""
+	"I like to go into a race not expecting anything. Not expecting to feel like a million bucks. Not expecting to hit certain splits or the race to unfold a certain way. I like to go into a race with not a real strong, set game plan, but just knowing that I'm going to take my swing at some point in the race, and then see what happens."
+	"""
+	... and ...
+	"""
+	"A lot of athletes are trying to prove themselves through their performances. I'm trying to be aware of who I am so I can perform at my highest level. Which is a lot different."
+	"""
+	//**^z**// - 2015-03-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">From a beautiful, thoughtful short [[http://www.newyorker.com/news/sporting-scene/the-philosophy-of-ryan-hall|profile of elite runner Ryan Hall]] in //The New Yorker// on 16 March 2015:<br />&gt; """<br />&gt; "... I want everyone to experience the elation of what it's like to win the gold medal, but obviously that's not possible. But we can experience a joy that's even deeper than that&amp;mdash;like, every single person, every moment of every day. It's possible."<br />&gt; """<br />&gt; ... and ...<br />&gt; """<br />&gt; " ...that's where it comes back to excellence. I try and get everything out of my body that God's put in me, the best I can. You hear it a million times&amp;mdash;'Just do your best'&amp;mdash;but, really, that's all you can do."<br />&gt; """<br />&gt; ... and ...<br />&gt; """<br />&gt; "I like to go into a race not expecting anything. Not expecting to feel like a million bucks. Not expecting to hit certain splits or the race to unfold a certain way. I like to go into a race with not a real strong, set game plan, but just knowing that I'm going to take my swing at some point in the race, and then see what happens."<br />&gt; """<br />&gt; ... and ...<br />&gt; """<br />&gt; "A lot of athletes are trying to prove themselves through their performances. I'm trying to be aware of who I am so I can perform at my highest level. Which is a lot different."<br />&gt; """<br />&gt; //**^z**// - 2015-03-23</strong></p></div>
+flags: 0
+ts: 1528057696
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057696

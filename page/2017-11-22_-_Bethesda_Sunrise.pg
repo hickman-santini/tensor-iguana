@@ -1,0 +1,22 @@
+blocks: <h3>~5.0 miles @ ~13.4 min/mi</h3><p>"The sidewalk moved!" Cait reveals how she spotted a front-yard rabbit in the gloom this morning. The Dawn Patrol meanders around her extended Bethesda-Kensington 'hood, pausing to let morning traffic zoom by. We discuss systems engineering <em>("Nobody really knows what that means!")</em>, music <em>(Molly is transporting a harmonium in her car at the moment)</em>, and math. Trail talk includes the inadvisability of talking politics at a Thanksgiving family dinner, encounters with local police <em>("They forgot to change the alarm for Daylight Saving Time!")</em>, and the exiguous powers wielded by local Library Advisory Committees. And as we close the loop Molly sets a new PB for distance - <em>yay!</em></p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1089030586">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-12-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.137
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.0 miles @ ~13.4 min/mi
+	
+	"The sidewalk moved!" Cait reveals how she spotted a front-yard rabbit in the gloom this morning. The Dawn Patrol meanders around her extended Bethesda-Kensington 'hood, pausing to let morning traffic zoom by. We discuss systems engineering //("Nobody really knows what that means!")//, music //(Molly is transporting a harmonium in her car at the moment)//, and math. Trail talk includes the inadvisability of talking politics at a Thanksgiving family dinner, encounters with local police //("They forgot to change the alarm for Daylight Saving Time!")//, and the exiguous powers wielded by local Library Advisory Committees. And as we close the loop Molly sets a new PB for distance - //yay!//
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1089030586|trackfile]])// - //**^z**// - 2017-12-16
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~5.0 miles @ ~13.4 min/mi<br />&gt; "The sidewalk moved!" Cait reveals how she spotted a front-yard rabbit in the gloom this morning. The Dawn Patrol meanders around her extended Bethesda-Kensington 'hood, pausing to let morning traffic zoom by. We discuss systems engineering //("Nobody really knows what that means!")//, music //(Molly is transporting a harmonium in her car at the moment)//, and math. Trail talk includes the inadvisability of talking politics at a Thanksgiving family dinner, encounters with local police //("They forgot to change the alarm for Daylight Saving Time!")//, and the exiguous powers wielded by local Library Advisory Committees. And as we close the loop Molly sets a new PB for distance - //yay!//<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1089030586|trackfile]])// - //**^z**// - 2017-12-16</p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057712

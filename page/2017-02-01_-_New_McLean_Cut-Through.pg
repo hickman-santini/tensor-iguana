@@ -1,0 +1,25 @@
+blocks: <h3>~9.2 miles @ ~13.4 min/mi</h3><p>"Bitmoji! You've gotta try 'em!" The Dawn Patrol rambles long on a brisk morning, bank thermometer in the mid-30s, chill intermittent breezes. Silhouetted by streetlights, two big deer amble across the road. Cait tells of last week's National Symphony Orchestra "Pops" concert. Kristin's foot is largely recovered from last week's stumble over her new puppy.</p><p>"Let's call it 'Kerry's Cut-Through #7'!" Led by Dr KB, we explore Pine Hill Road, an apparently-ancient gravel lane that leads to a big farmhouse. A narrow path brings us back onto neighborhood streets. <em>Who knew?</em> And in other deep philosophical questions, we wonder if a big white rock in a front yard indicates a "swinger" residence? Or is that an urban legend?</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/927590747">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.99
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.2 miles @ ~13.4 min/mi
+	
+	"Bitmoji! You've gotta try 'em!" The Dawn Patrol rambles long on a brisk morning, bank thermometer in the mid-30s, chill intermittent breezes. Silhouetted by streetlights, two big deer amble across the road. Cait tells of last week's National Symphony Orchestra "Pops" concert. Kristin's foot is largely recovered from last week's stumble over her new puppy.
+	
+	"Let's call it 'Kerry's Cut-Through #7'!" Led by Dr KB, we explore Pine Hill Road, an apparently-ancient gravel lane that leads to a big farmhouse. A narrow path brings us back onto neighborhood streets. //Who knew?// And in other deep philosophical questions, we wonder if a big white rock in a front yard indicates a "swinger" residence? Or is that an urban legend?
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/927590747|trackfile]])// - //**^z**// - 2017-03-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.2 miles @ ~13.4 min/mi<br />&gt; "Bitmoji! You've gotta try 'em!" The Dawn Patrol rambles long on a brisk morning, bank thermometer in the mid-30s, chill intermittent breezes. Silhouetted by streetlights, two big deer amble across the road. Cait tells of last week's National Symphony Orchestra "Pops" concert. Kristin's foot is largely recovered from last week's stumble over her new puppy.<br />&gt; "Let's call it 'Kerry's Cut-Through #7'!" Led by Dr KB, we explore Pine Hill Road, an apparently-ancient gravel lane that leads to a big farmhouse. A narrow path brings us back onto neighborhood streets. //Who knew?// And in other deep philosophical questions, we wonder if a big white rock in a front yard indicates a "swinger" residence? Or is that an urban legend?<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/927590747|trackfile]])// - //**^z**// - 2017-03-02</strong></p></div>
+flags: 0
+ts: 1528057686
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057686

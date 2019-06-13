@@ -1,0 +1,27 @@
+blocks: <h3>~10 miles @ ~12.5 min/mi</h3><p>"Let's do the bridge over Route 7," I suggest to Kerry and Kristin, "in case the Hot Yoga class is in session." Alas, when we get there the big picture window is dark. I jump to get a better view and almost slip on the ice. "Now if you fell," Kristin says, "<em><strong>That</strong></em> would definitely have to go in the report!"</p><p>Rabbit count = 1 today, a big soggy bunny by Kerry's cut-through at McLean High School. We do one lap around the track there to decorate the GPS map, then proceed down Westmoreland St to the W&amp;OD Trail. Dogs wear flashing lights, and their eyes glow in our headlamps. I stumble but manage not to fall on the sidewalk, giving K&amp;K a surge of adrenaline.</p><p>A light drizzle begins to fall midway through the journey. Cyclists are uniformly polite today, and a school bus stops to let us cross Idlywood Rd safely in front of it when we find ourselves mistakenly on a stretch without sidewalks. Birds chirp at us as the day brightens. Temperatures in the mid-30s feel warm compared to last week. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/506252901">Runkeeper</a> records route.</p><p><em><strong>^z</strong></em> - 2015-02-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10 miles @ ~12.5 min/mi
+	
+	"Let's do the bridge over Route 7," I suggest to Kerry and Kristin, "in case the Hot Yoga class is in session." Alas, when we get there the big picture window is dark. I jump to get a better view and almost slip on the ice. "Now if you fell," Kristin says, "//**That**// would definitely have to go in the report!"
+	
+	Rabbit count = 1 today, a big soggy bunny by Kerry's cut-through at McLean High School. We do one lap around the track there to decorate the GPS map, then proceed down Westmoreland St to the W&OD Trail. Dogs wear flashing lights, and their eyes glow in our headlamps. I stumble but manage not to fall on the sidewalk, giving K&K a surge of adrenaline.
+	
+	A light drizzle begins to fall midway through the journey. Cyclists are uniformly polite today, and a school bus stops to let us cross Idlywood Rd safely in front of it when we find ourselves mistakenly on a stretch without sidewalks. Birds chirp at us as the day brightens. Temperatures in the mid-30s feel warm compared to last week. [[http://runkeeper.com/user/zhurnaly/activity/506252901|Runkeeper]] records route.
+	
+	//**^z**// - 2015-02-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10 miles @ ~12.5 min/mi<br />&gt; "Let's do the bridge over Route 7," I suggest to Kerry and Kristin, "in case the Hot Yoga class is in session." Alas, when we get there the big picture window is dark. I jump to get a better view and almost slip on the ice. "Now if you fell," Kristin says, "//**That**// would definitely have to go in the report!"<br />&gt; Rabbit count = 1 today, a big soggy bunny by Kerry's cut-through at McLean High School. We do one lap around the track there to decorate the GPS map, then proceed down Westmoreland St to the W&amp;OD Trail. Dogs wear flashing lights, and their eyes glow in our headlamps. I stumble but manage not to fall on the sidewalk, giving K&amp;K a surge of adrenaline.<br />&gt; A light drizzle begins to fall midway through the journey. Cyclists are uniformly polite today, and a school bus stops to let us cross Idlywood Rd safely in front of it when we find ourselves mistakenly on a stretch without sidewalks. Birds chirp at us as the day brightens. Temperatures in the mid-30s feel warm compared to last week. [[http://runkeeper.com/user/zhurnaly/activity/506252901|Runkeeper]] records route.<br />&gt; //**^z**// - 2015-02-24</strong></p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057713

@@ -1,0 +1,17 @@
+flags: 0
+blocks: <p>Here's an automagically-generated list of "Recent Changes" in the <em><strong>^zhurnaly</strong></em> wiki ...</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Recent Changes" in the //**^<strong class="changes">zhurnal</strong>**// ...</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Here's an automagically-generated list of</strong> "Recent Changes" in the //**^<strong class="changes">zhurnaly</strong>**// <strong class="changes">wiki</strong> ...</p></div>
+ip: 70.21.97.63
+ts: 1219480252
+minor: 1
+host: pool-70-21-97-63.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: update intro
+languages: 
+text: Here's an automagically-generated list of "Recent Changes" in the //**^zhurnaly**// wiki ...
+	
+keep-ts: 1219480252

@@ -1,0 +1,22 @@
+blocks: <p>Echoes of echoes, of echoes: <em><strong>The Neverending Story</strong></em> by Michael Ende is a fantasy novel, published in 1979. But reading it now for the first time, every chapter brings to mind another author. Themes or devices appear from J. R. R. Tolkien and Roger Zelazny, E. Nesbit and Salman Rushdie. Miguel Cervantes and Jorge Luis Borges, and diverse others. There's a constant <em>basso continuo</em> of Lewis Carroll. The plot doesn't feel derivative, as it twists and turns, but it hardly ever startles. "Clever" may be the best summary. Allusions abound to philosophical and literary concepts. Ende offers considerable fuel for intellectual musing, especially on computer-science themes such as recursion and abstraction. But characterization is thin and language is flat, at least in the 1983 English translation by Ralph Manheim. The poems don't scan and the prose rarely sings.</p><p>Most attractive: the centrality of <strong>nothing</strong>. In Chapter VI ("The Three Magic Gates"), for instance, to overcome the final barrier a hero is told, "But if someone succeeds in forgetting all purpose, in wanting nothing at all&mdash;to him the gate will open of its own accord." So Zen.</p><p><em><strong>^z</strong></em> - 2015-02-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Echoes of echoes, of echoes: //**The Neverending Story**// by Michael Ende is a fantasy novel, published in 1979. But reading it now for the first time, every chapter brings to mind another author. Themes or devices appear from J. R. R. Tolkien and Roger Zelazny, E. Nesbit and Salman Rushdie. Miguel Cervantes and Jorge Luis Borges, and diverse others. There's a constant //basso continuo// of Lewis Carroll. The plot doesn't feel derivative, as it twists and turns, but it hardly ever startles. "Clever" may be the best summary. Allusions abound to philosophical and literary concepts. Ende offers considerable fuel for intellectual musing, especially on computer-science themes such as recursion and abstraction. But characterization is thin and language is flat, at least in the 1983 English translation by Ralph Manheim. The poems don't scan and the prose rarely sings.
+	
+	Most attractive: the centrality of **nothing**. In Chapter VI ("The Three Magic Gates"), for instance, to overcome the final barrier a hero is told, "But if someone succeeds in forgetting all purpose, in wanting nothing at all&mdash;to him the gate will open of its own accord." So Zen.
+	
+	//**^z**// - 2015-02-09
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; Echoes of echoes, of echoes: //**The Neverending Story**// by Michael Ende is a fantasy novel, published in 1979. But reading it now for the first time, every chapter brings to mind another author. Themes or devices appear from J. R. R. Tolkien and Roger Zelazny, E. Nesbit and Salman Rushdie. Miguel Cervantes and Jorge Luis Borges, and diverse others. There's a constant //basso continuo// of Lewis Carroll. The plot doesn't feel derivative, as it twists and turns, but it hardly ever startles. "Clever" may be the best summary. Allusions abound to philosophical and literary concepts. Ende offers considerable fuel for intellectual musing, especially on computer-science themes such as recursion and abstraction. But characterization is thin and language is flat, at least in the 1983 English translation by Ralph Manheim. The poems don't scan and the prose rarely sings.<br />&gt; Most attractive: the centrality of **nothing**. In Chapter VI ("The Three Magic Gates"), for instance, to overcome the final barrier a hero is told, "But if someone succeeds in forgetting all purpose, in wanting nothing at all&amp;mdash;to him the gate will open of its own accord." So Zen.<br />&gt; //**^z**// - 2015-02-09</p></div>
+flags: 0
+ts: 1528057694
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057694

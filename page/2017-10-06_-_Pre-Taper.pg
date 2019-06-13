@@ -1,0 +1,25 @@
+blocks: <h3>~7.7 miles @ ~12.8 min/mi</h3><p>"Oooh, a new Bake Shop!" Kerry exclaims. But wait a mo: peering through the gloom, upon closer exam it's a new <strong>BIKE</strong> Shop on the far side of Route 7. <em>Bummer!</em> So the Dawn Patrol continues in its quest for Starbucks. After a pause and iced coffee at mile 3, feet lead along the W&amp;OD trail into a peachy-pastel sunrise. Cait describes her little niece Riley's latest adventure, wee hand reaching up over her head to grab a cup from the high table. Bicycles zip past, giving polite warning.</p><p>"Later today!" Kristin promises to begin her taper for Sunday's Army 10 Miler. A gibbous moon pokes through the clouds as Venus sparkles near Mars. Somebody reports on his proud self-restraint: "I didn't buy ice cream yesterday on the way home - only sorbet and gelato!"</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1065844538">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-11-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.28
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.7 miles @ ~12.8 min/mi
+	
+	"Oooh, a new Bake Shop!" Kerry exclaims. But wait a mo: peering through the gloom, upon closer exam it's a new **BIKE** Shop on the far side of Route 7. //Bummer!// So the Dawn Patrol continues in its quest for Starbucks. After a pause and iced coffee at mile 3, feet lead along the W&OD trail into a peachy-pastel sunrise. Cait describes her little niece Riley's latest adventure, wee hand reaching up over her head to grab a cup from the high table. Bicycles zip past, giving polite warning.
+	
+	"Later today!" Kristin promises to begin her taper for Sunday's Army 10 Miler. A gibbous moon pokes through the clouds as Venus sparkles near Mars. Somebody reports on his proud self-restraint: "I didn't buy ice cream yesterday on the way home - only sorbet and gelato!"
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1065844538|trackfile]])// - //**^z**// - 2017-11-04
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.7 miles @ ~12.8 min/mi<br />&gt; "Oooh, a new Bake Shop!" Kerry exclaims. But wait a mo: peering through the gloom, upon closer exam it's a new **BIKE** Shop on the far side of Route 7. //Bummer!// So the Dawn Patrol continues in its quest for Starbucks. After a pause and iced coffee at mile 3, feet lead along the W&amp;OD trail into a peachy-pastel sunrise. Cait describes her little niece Riley's latest adventure, wee hand reaching up over her head to grab a cup from the high table. Bicycles zip past, giving polite warning.<br />&gt; "Later today!" Kristin promises to begin her taper for Sunday's Army 10 Miler. A gibbous moon pokes through the clouds as Venus sparkles near Mars. Somebody reports on his proud self-restraint: "I didn't buy ice cream yesterday on the way home - only sorbet and gelato!"<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1065844538|trackfile]])// - //**^z**// - 2017-11-04</strong></p></div>
+flags: 0
+ts: 1528057686
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057686

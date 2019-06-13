@@ -1,0 +1,24 @@
+flags: 0
+blocks: <p><h3>6+ miles @ ~13 min/mi</h3></p><p>Four huge black vultures are lurking beside Colvin Run as Mary Ewell and I jog the trail toward Lake Fairfax. They lumber into the air and perch in the trees over ourheads, griping at us for disturbing their repast. Half an hour later on our return trip we encounter them again on the ground. One puffs herself up and bravely stays there as I pass within a few feet.</p><p>This Saturday morning I've got errands to run in Northern Virginia, so Mary invites me to meet her at Colvin Run Mill for a journey along one of her favorite haunts, the Fairfax Cross-Country Trail. After yesterday's heavy rains she warns of possible mud, but for the first mile it's not at all bad. Then, however, after we reach Browns Mill Rd we find the steppingstones across Difficult Run submerged by flood waters. We retrace our path to the road and follow it to the other side of the stream, only to find yet another sea blocking the FCCT. So back we turn, and near Route 7 take a side trail to Lake Fairfax Park, where we meet the vultures.</p><p>I'm in the midst of a horrible cold/cough, but it's responding to "Vitamin I" <em>(ibuprofen!).</em> Mary is herself recovering from an earlier illness. We do our best on the hilly path that parallels the stream but still end up taking a few walk breaks. Lake Fairfax is lovely but heavy construction is underway there. A flock of geese cruise in to land as we jog along the path near the spillway. We climb stairs and another hill above the canoe rental kiosk, then ramble back to our start with ~80 minutes of good trail time.</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; I'm in the midst of a horrible cold/cough, but it's responding to "Vitamin I" //(ibuprofen!).// Mary is herself recovering from an earlier illness. We do our best on the hilly path that parallels the stream but still end up taking a few walk breaks. Lake Fairfax is lovely but heavy construction is underway there. A flock of geese cruise in to land as we jog along the path near the spillway. We climb stairs and another hill above the canoe rental kiosk, then ramble back to our start with <strong class="changes">~~</strong>80 minutes of good trail time.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; I'm in the midst of a horrible cold/cough, but it's responding to "Vitamin I" //(ibuprofen!).// Mary is herself recovering from an earlier illness. We do our best on the hilly path that parallels the stream but still end up taking a few walk breaks. Lake Fairfax is lovely but heavy construction is underway there. A flock of geese cruise in to land as we jog along the path near the spillway. We climb stairs and another hill above the canoe rental kiosk, then ramble back to our start with <strong class="changes">~</strong>80 minutes of good trail time.</p></div>
+ip: 141.156.150.174
+ts: 1234833763
+minor: 1
+host: pool-141-156-150-174.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: fmt fix
+languages: 
+text: === 6+ miles @ ~13 min/mi
+	
+	Four huge black vultures are lurking beside Colvin Run as Mary Ewell and I jog the trail toward Lake Fairfax. They lumber into the air and perch in the trees over ourheads, griping at us for disturbing their repast. Half an hour later on our return trip we encounter them again on the ground. One puffs herself up and bravely stays there as I pass within a few feet.
+	
+	This Saturday morning I've got errands to run in Northern Virginia, so Mary invites me to meet her at Colvin Run Mill for a journey along one of her favorite haunts, the Fairfax Cross-Country Trail. After yesterday's heavy rains she warns of possible mud, but for the first mile it's not at all bad. Then, however, after we reach Browns Mill Rd we find the steppingstones across Difficult Run submerged by flood waters. We retrace our path to the road and follow it to the other side of the stream, only to find yet another sea blocking the FCCT. So back we turn, and near Route 7 take a side trail to Lake Fairfax Park, where we meet the vultures.
+	
+	I'm in the midst of a horrible cold/cough, but it's responding to "Vitamin I" //(ibuprofen!).// Mary is herself recovering from an earlier illness. We do our best on the hilly path that parallels the stream but still end up taking a few walk breaks. Lake Fairfax is lovely but heavy construction is underway there. A flock of geese cruise in to land as we jog along the path near the spillway. We climb stairs and another hill above the canoe rental kiosk, then ramble back to our start with ~80 minutes of good trail time.
+	
+	
+keep-ts: 1234833763

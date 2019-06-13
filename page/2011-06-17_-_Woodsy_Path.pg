@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~5 miles @ ~9 min/mi</h3></p><p>Sunbeams sparkle from dewdrops clinging to the tips of pine needles. Worms like vermicelli decorate the wet asphalt pathway. Blonde ponytail beckons as its owner walks up a hill, then starts running again. I give chase. "Good day!" and "Great run!" bless each other's efforts. She turns toward the office as I begin a second circuit. Pace on marked miles descends 10.0 &rArr; 9.4 &rArr; 8.4 &rArr; 7.6 min/mi, heart pounding 180+ pulse after final sprint, witnessed by deer and her speckled fawn.</p><p><em><strong>^z</strong></em> - 2011-07-02</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Sunbeams sparkle from dewdrops clinging to the tips of pine needles. Worms like vermicelli decorate the wet asphalt pathway. Blonde ponytail beckons as its owner walks up a hill, then starts running again. I give chase. "Good day!" and "Great run!" bless each other's efforts. She turns toward the office as I begin a second circuit. Pace on marked miles descends 10.0 &amp;rArr; 9.4 &amp;rArr; 8.4 &amp;rArr; 7.6 min/mi, heart pounding 180+ pulse after final sprint, <strong class="changes">with</strong> deer and speckled fawn <strong class="changes">witnesses</strong>.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Sunbeams sparkle from dewdrops clinging to the tips of pine needles. Worms like vermicelli decorate the wet asphalt pathway. Blonde ponytail beckons as its owner walks up a hill, then starts running again. I give chase. "Good day!" and "Great run!" bless each other's efforts. She turns toward the office as I begin a second circuit. Pace on marked miles descends 10.0 &amp;rArr; 9.4 &amp;rArr; 8.4 &amp;rArr; 7.6 min/mi, heart pounding 180+ pulse after final sprint, <strong class="changes">witnessed by</strong> deer and <strong class="changes">her</strong> speckled fawn.</p></div>
+ip: 138.88.165.50
+ts: 1309597286
+minor: 1
+host: pool-138-88-165-50.res.east.verizon.net
+username: MarkZimmermann
+revision: 6
+diff-major: 
+summary: tweaks 5
+languages: 
+text: === ~5 miles @ ~9 min/mi
+	
+	Sunbeams sparkle from dewdrops clinging to the tips of pine needles. Worms like vermicelli decorate the wet asphalt pathway. Blonde ponytail beckons as its owner walks up a hill, then starts running again. I give chase. "Good day!" and "Great run!" bless each other's efforts. She turns toward the office as I begin a second circuit. Pace on marked miles descends 10.0 &rArr; 9.4 &rArr; 8.4 &rArr; 7.6 min/mi, heart pounding 180+ pulse after final sprint, witnessed by deer and her speckled fawn.
+	
+	//**^z**// - 2011-07-02
+	
+lastmajor: 1
+keep-ts: 1309597286

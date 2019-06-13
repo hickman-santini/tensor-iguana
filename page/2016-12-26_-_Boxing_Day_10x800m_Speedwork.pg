@@ -1,0 +1,24 @@
+blocks: <h3>~6.6 miles @ ~9.0 min/mi</h3><p>"Hello, Speedwork, my old friend / I've come to run with you again / And soon the quads are softly crying / And the lungs and heart are dying ...". Lane 2 at the local middle school track is wide open. A Latina girl in bright orange shoes and green college hoodie practices high-kick martial arts moves. Two soccer players zig-zag around puddles that dot the infield. A father and young son try to get a quadcopter to take off without success.</p><p>Ten 800m intervals flow nicely by, with half-lap 2 minute recovery walks. Split times = 3:57 + 3:57 + 3:54 + 3:53 + 3:53 + 3:56 + 3:50 + 3:52 + 3:49 + 3:42 <em>(a final banzai!)</em> ...</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/911402062">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-01-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.176
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.6 miles @ ~9.0 min/mi
+	
+	"Hello, Speedwork, my old friend / I've come to run with you again / And soon the quads are softly crying / And the lungs and heart are dying ...". Lane 2 at the local middle school track is wide open. A Latina girl in bright orange shoes and green college hoodie practices high-kick martial arts moves. Two soccer players zig-zag around puddles that dot the infield. A father and young son try to get a quadcopter to take off without success.
+	
+	Ten 800m intervals flow nicely by, with half-lap 2 minute recovery walks. Split times = 3:57 + 3:57 + 3:54 + 3:53 + 3:53 + 3:56 + 3:50 + 3:52 + 3:49 + 3:42 //(a final banzai!)// ...
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/911402062|trackfile]])// - //**^z**// - 2017-01-20
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~6.6 miles @ ~9.0 min/mi<br />&gt; "Hello, Speedwork, my old friend / I've come to run with you again / And soon the quads are softly crying / And the lungs and heart are dying ...". Lane 2 at the local middle school track is wide open. A Latina girl in bright orange shoes and green college hoodie practices high-kick martial arts moves. Two soccer players zig-zag around puddles that dot the infield. A father and young son try to get a quadcopter to take off without success.<br />&gt; Ten 800m intervals flow nicely by, with half-lap 2 minute recovery walks. Split times = 3:57 + 3:57 + 3:54 + 3:53 + 3:53 + 3:56 + 3:50 + 3:52 + 3:49 + 3:42 //(a final banzai!)// ...<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/911402062|trackfile]])// - //**^z**// - 2017-01-20</p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057700

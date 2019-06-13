@@ -1,0 +1,23 @@
+blocks: <h3>1 Comment.</h3><p>hmmm --- the movie <em><strong>Forrest Gump</strong></em> that I saw last week was quite good --- I can't have changed <em>that</em> much in the past five years, can I?</p><p>-- <a class="url http outside" href="http://zhurnaly.com">z</a> 2014-12-26 17:43 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.1
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	hmmm --- the movie //**Forrest Gump**// that I saw last week was quite good --- I can't have changed //that// much in the past five years, can I?
+	
+	-- [http://zhurnaly.com z] 2014-12-26 17:43 UTC
+	
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; hmmm --- the movie //**Forrest Gump**// that I saw last week was quite good --- I can't have changed //that// much in the past five years, can I?<br />&gt; -- [http://zhurnaly.com z] 2014-12-26 17:43 UTC</strong></p></div>
+flags: 0
+ts: 1528057683
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057683

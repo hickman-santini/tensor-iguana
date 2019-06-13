@@ -1,0 +1,23 @@
+blocks: <h3>~6.6 miles @ ~12.6 min/mi</h3><p>"Rabbit Number One!" Kristin spies the first Pimmit Hills spring bunny near Lemon Road Park. Low clouds in the east glow tangelo-pink as the sun rises and feet lead the Dawn Patrol on an unplanned loop. Cait tells of a super-slow Russian-theme dinner recently at the Cosmos Club, followed by a no-surprises talk from a potential politician. Kristin reports on a huge bald eagle perched in a tree near her home yesterday. We ponder long-run possibilities for upcoming months.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/958384872">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-04-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.152
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.6 miles @ ~12.6 min/mi
+	
+	"Rabbit Number One!" Kristin spies the first Pimmit Hills spring bunny near Lemon Road Park. Low clouds in the east glow tangelo-pink as the sun rises and feet lead the Dawn Patrol on an unplanned loop. Cait tells of a super-slow Russian-theme dinner recently at the Cosmos Club, followed by a no-surprises talk from a potential politician. Kristin reports on a huge bald eagle perched in a tree near her home yesterday. We ponder long-run possibilities for upcoming months.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/958384872|trackfile]])// - //**^z**// - 2017-04-26
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.6 miles @ ~12.6 min/mi<br />&gt; "Rabbit Number One!" Kristin spies the first Pimmit Hills spring bunny near Lemon Road Park. Low clouds in the east glow tangelo-pink as the sun rises and feet lead the Dawn Patrol on an unplanned loop. Cait tells of a super-slow Russian-theme dinner recently at the Cosmos Club, followed by a no-surprises talk from a potential politician. Kristin reports on a huge bald eagle perched in a tree near her home yesterday. We ponder long-run possibilities for upcoming months.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/958384872|trackfile]])// - //**^z**// - 2017-04-26</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057712

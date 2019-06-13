@@ -1,0 +1,50 @@
+flags: 0
+blocks: <p><h3>1 Comment.</h3></p><p>Hello, Mark,</p><p>I was recently digging out any info I can find on the 'net about<br />FLOPTRAN-IV, and one of the few hits was your page<br /><a class="url http" href="http://zhurnaly.com/zhurnal08.html">http://zhurnaly.com/zhurnal08.html</a></p><p>You are probably wondering why anyone would mention it after so long,<br />but I typed in the program on my 32K PET back when it was first<br />published and I've recently purchased an original 8K PET, giving me<br />reason to dig out all that old stuff. I thought you might be<br />interested to hear that c. 1981, I not only ported FLOPTRAN to PET<br />BASIC 3.0, but I extended the language a little to give me very simple<br />string input and testing (for yes/no questions), and to compile to<br />upper memory (vs writing bytes to tape) so I could easily test<br />compiled programs without loading and reloading the compiler from<br />tape. Using the enhanced compiler, I was able to tweak simple<br />programs like "Chemist" from David Ahl's "101 Microcomputer Games" to<br />work in the reduced environment. I was "just a kid" at the time, so I<br />didn't know about ways to publish or share my modifications, but now<br />that's a trivial task.</p><p>I just wanted to thank you for your work decades ago. I had just<br />learned 6502 machine language while hand-compiling Scott Adams'<br />adventure game engine, and FLOPTRAN was just the thing to keep me<br />engaged on learning more about the inner workings of my system. The<br />first job I ever landed was programming the Commodore-64, so I<br />consider all that time spent noodling around on the PET to be well<br />spent.</p><p>-ethan --- 2010-11-24</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; -ethan<br />&lt; <strong class="changes">-- [http://zhurnaly.com Mark Zimmermann]</strong> 2010-11-24 <strong class="changes">01:28 UTC</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; -ethan <strong class="changes">---</strong> 2010-11-24</p></div>
+ip: 138.88.169.233
+ts: 1290562207
+minor: 1
+host: pool-138-88-169-233.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: fix signature line
+languages: 
+text: === 1 Comment. ===
+	
+	Hello, Mark,
+	
+	I was recently digging out any info I can find on the 'net about
+	FLOPTRAN-IV, and one of the few hits was your page
+	http://zhurnaly.com/zhurnal08.html
+	
+	You are probably wondering why anyone would mention it after so long,
+	but I typed in the program on my 32K PET back when it was first
+	published and I've recently purchased an original 8K PET, giving me
+	reason to dig out all that old stuff.  I thought you might be
+	interested to hear that c. 1981, I not only ported FLOPTRAN to PET
+	BASIC 3.0, but I extended the language a little to give me very simple
+	string input and testing (for yes/no questions), and to compile to
+	upper memory (vs writing bytes to tape) so I could easily test
+	compiled programs without loading and reloading the compiler from
+	tape.  Using the enhanced compiler, I was able to tweak simple
+	programs like "Chemist" from David Ahl's "101 Microcomputer Games" to
+	work in the reduced environment.  I was "just a kid" at the time, so I
+	didn't know about ways to publish or share my modifications, but now
+	that's a trivial task.
+	
+	I just wanted to thank you for your work decades ago.  I had just
+	learned 6502 machine language while hand-compiling Scott Adams'
+	adventure game engine, and FLOPTRAN was just the thing to keep me
+	engaged on learning more about the inner workings of my system.  The
+	first job I ever landed was programming the Commodore-64, so I
+	consider all that time spent noodling around on the PET to be well
+	spent.
+	
+	-ethan --- 2010-11-24
+	
+	
+lastmajor: 1
+keep-ts: 1290562207

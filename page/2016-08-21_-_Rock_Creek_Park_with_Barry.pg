@@ -1,0 +1,23 @@
+blocks: <h3>~5.5 miles @ ~13.3 min/mi</h3><p>"I am as sorry as you are, Dmitri!" Barry and I quote dialogue from <strong>Dr Strangelove</strong> and critique that film versus various versions of <strong>Fail Safe</strong> as we run in Rock Creek Park on a hyper-humid Sunday morning. The final movement of J. S. Bach's <em>Brandenburg Concerto No. 6</em> finishes on the radio just before we begin, and continues echoing inside the brain. Barry recommends Krista Tippet's "On Being", an NPR podcast; its latest episode is titled "Running as Spiritual Practice". We compare notes on Rio Olympic events, discuss how divergent the Facebook feeds are that each of us sees, marvel at semi-scandalous social media sharing, and review upcoming race plans.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/848583801">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-09-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.29
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.5 miles @ ~13.3 min/mi
+	
+	"I am as sorry as you are, Dmitri!" Barry and I quote dialogue from **Dr Strangelove** and critique that film versus various versions of **Fail Safe** as we run in Rock Creek Park on a hyper-humid Sunday morning. The final movement of J. S. Bach's //Brandenburg Concerto No. 6// finishes on the radio just before we begin, and continues echoing inside the brain. Barry recommends Krista Tippet's "On Being", an NPR podcast; its latest episode is titled "Running as Spiritual Practice". We compare notes on Rio Olympic events, discuss how divergent the Facebook feeds are that each of us sees, marvel at semi-scandalous social media sharing, and review upcoming race plans.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/848583801|trackfile]])// - //**^z**// - 2016-09-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.5 miles @ ~13.3 min/mi<br />&gt; "I am as sorry as you are, Dmitri!" Barry and I quote dialogue from **Dr Strangelove** and critique that film versus various versions of **Fail Safe** as we run in Rock Creek Park on a hyper-humid Sunday morning. The final movement of J. S. Bach's //Brandenburg Concerto No. 6// finishes on the radio just before we begin, and continues echoing inside the brain. Barry recommends Krista Tippet's "On Being", an NPR podcast; its latest episode is titled "Running as Spiritual Practice". We compare notes on Rio Olympic events, discuss how divergent the Facebook feeds are that each of us sees, marvel at semi-scandalous social media sharing, and review upcoming race plans.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/848583801|trackfile]])// - //**^z**// - 2016-09-16</strong></p></div>
+flags: 0
+ts: 1528057707
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057707

@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~9.5 mi @ ~14.4 min/mi</h3><p>"There's <em><strong>always</strong></em> a cut-through!" says Vixen. "Go ahead and find it &mdash; we'll wait!" So Roadkill climbs the fence and creeps behind the French Immersion School. Around the corner, there's the path! "<em>Allons-y</em>!"</p><p>It's a humid morning of robins and rabbits, soggy socks and dewy grass. A cloth banner en route to the rendezvous exhorts: "Wage Hope". At Candy Cane City G-ji introduces Vixen. We run past the stables, greet a Galloway training group, then meet up with Danger Man. In the road-closed zone of Rock Creek Park busy construction workers build a new gravel base for Beach Drive. We dodge a peleton of cyclists on Western Ave, where G-ji finds a dime and a nickel, and visit DC Boundary Stones NW9 and NW8. Neighborhood lanes take us back to Leland St where a lovely-curvy wooden sculpture stands not far from a classic lawn-dog-flower-basket ornament. Danger Man reports on his Big Sur International Marathon experience last weekend; Vixen and Roadkill compare notes on Pasadena California. "<em>Tr&egrave;s bien</em>!"</p><p><em>(<a class="url http outside" href="https://www.strava.com/activities/2341011886">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2019-05-21</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; It's a humid morning of robins and rabbits, soggy socks and dewy grass. A cloth banner en route to the rendezvous exhorts: "Wage Hope". At Candy Cane City G-ji introduces Vixen. We run past the stables, greet a Galloway training group, then meet up with Danger Man. In the road-closed zone of Rock Creek Park busy construction workers build a new gravel base for Beach Drive. We dodge a peleton of cyclists on Western Ave, where G-ji finds a dime and a nickel, and visit DC Boundary Stones NW9 and NW8. Neighborhood lanes take us back to Leland St where a lovely-curvy wooden sculpture stands not far from a classic lawn-dog-flower-basket ornament. Danger Man reports on his Big Sur International Marathon experience last weekend; Vixen and Roadkill compare notes on Pasadena California. "//<strong class="changes">Très</strong> bien//!"</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; It's a humid morning of robins and rabbits, soggy socks and dewy grass. A cloth banner en route to the rendezvous exhorts: "Wage Hope". At Candy Cane City G-ji introduces Vixen. We run past the stables, greet a Galloway training group, then meet up with Danger Man. In the road-closed zone of Rock Creek Park busy construction workers build a new gravel base for Beach Drive. We dodge a peleton of cyclists on Western Ave, where G-ji finds a dime and a nickel, and visit DC Boundary Stones NW9 and NW8. Neighborhood lanes take us back to Leland St where a lovely-curvy wooden sculpture stands not far from a classic lawn-dog-flower-basket ornament. Danger Man reports on his Big Sur International Marathon experience last weekend; Vixen and Roadkill compare notes on Pasadena California. "//<strong class="changes">Tr&amp;egrave;s</strong> bien//!"</p></div>
+lastmajorsummary: fix &egrave;
+ts: 1558606966
+minor: 
+host: 166.216.165.78
+username: z
+revision: 2
+diff-major: 1
+summary: fix &egrave;
+languages: 
+text: === ~9.5 mi @ ~14.4 min/mi
+	
+	"There's //**always**// a cut-through!" says Vixen. "Go ahead and find it &mdash; we'll wait!" So Roadkill climbs the fence and creeps behind the French Immersion School. Around the corner, there's the path! "//Allons-y//!"
+	
+	It's a humid morning of robins and rabbits, soggy socks and dewy grass. A cloth banner en route to the rendezvous exhorts: "Wage Hope". At Candy Cane City G-ji introduces Vixen. We run past the stables, greet a Galloway training group, then meet up with Danger Man. In the road-closed zone of Rock Creek Park busy construction workers build a new gravel base for Beach Drive. We dodge a peleton of cyclists on Western Ave, where G-ji finds a dime and a nickel, and visit DC Boundary Stones NW9 and NW8. Neighborhood lanes take us back to Leland St where a lovely-curvy wooden sculpture stands not far from a classic lawn-dog-flower-basket ornament. Danger Man reports on his Big Sur International Marathon experience last weekend; Vixen and Roadkill compare notes on Pasadena California. "//Tr&egrave;s bien//!"
+	
+	//([[https://www.strava.com/activities/2341011886|trackfile]])// - //**^z**// - 2019-05-21
+	
+lastmajor: 2
+keep-ts: 1558606966

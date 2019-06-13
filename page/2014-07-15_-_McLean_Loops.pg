@@ -1,0 +1,24 @@
+blocks: <h3>~5 miles @ ~11.3 min/mi</h3><p>Two bunny sightings: one at the corner of Sportsman &amp; Storm, the other a few blocks later. Ed confirms them. He and I are trailing behind Kristin and David, who take a more direct route back and finish some minutes before us. Earlier, starting at 0600, Dr K and I loop around the neighborhood with this morning's new acquaintance, Doug, a computer guy who says he usually sticks to the treadmill and doesn't know the local routes. I pause in the middle to unlock the office for colleagues. Conversation includes last weekend's runs and various family disasters. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/393410074">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/548145682">Garmin</a> capture the course.</p><p><em><strong>^z</strong></em> - 2014-08-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.209.198
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5 miles @ ~11.3 min/mi
+	
+	Two bunny sightings: one at the corner of Sportsman & Storm, the other a few blocks later. Ed confirms them. He and I are trailing behind Kristin and David, who take a more direct route back and finish some minutes before us. Earlier, starting at 0600, Dr K and I loop around the neighborhood with this morning's new acquaintance, Doug, a computer guy who says he usually sticks to the treadmill and doesn't know the local routes. I pause in the middle to unlock the office for colleagues. Conversation includes last weekend's runs and various family disasters. [[http://runkeeper.com/user/zhurnaly/activity/393410074|Runkeeper]] and [[http://connect.garmin.com/modern/activity/548145682|Garmin]] capture the course.
+	
+	
+	//**^z**// - 2014-08-01
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5 miles @ ~11.3 min/mi<br />&gt; Two bunny sightings: one at the corner of Sportsman &amp; Storm, the other a few blocks later. Ed confirms them. He and I are trailing behind Kristin and David, who take a more direct route back and finish some minutes before us. Earlier, starting at 0600, Dr K and I loop around the neighborhood with this morning's new acquaintance, Doug, a computer guy who says he usually sticks to the treadmill and doesn't know the local routes. I pause in the middle to unlock the office for colleagues. Conversation includes last weekend's runs and various family disasters. [[http://runkeeper.com/user/zhurnaly/activity/393410074|Runkeeper]] and [[http://connect.garmin.com/modern/activity/548145682|Garmin]] capture the course.<br />&gt; //**^z**// - 2014-08-01</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

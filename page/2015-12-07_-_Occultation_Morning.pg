@@ -1,0 +1,25 @@
+blocks: <h3>~7.5 miles @ ~12.0 min/mi</h3><p>"Earthshine!" Kristin and Kerry and I observe an ashen glow on the dark side of the waning moon. "Light from the sun hits the earth, goes to the moon, and bounces back into your eye!"</p><p>It's an awesome quiet morning. Brilliant Venus glitters like a diamond on the tip of an arrowhead, crescent Luna a silver bow drawn back ready to shoot. In a few hours: an occultation as one eclipses the other. Meanwhile on the trail friends run together toward the sunrise.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/702091006">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-12-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.161
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.5 miles @ ~12.0 min/mi
+	
+	"Earthshine!" Kristin and Kerry and I observe an ashen glow on the dark side of the waning moon. "Light from the sun hits the earth, goes to the moon, and bounces back into your eye!"
+	
+	It's an awesome quiet morning. Brilliant Venus glitters like a diamond on the tip of an arrowhead, crescent Luna a silver bow drawn back ready to shoot. In a few hours: an occultation as one eclipses the other. Meanwhile on the trail friends run together toward the sunrise.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/702091006|trackfile]])// - //**^z**// - 2015-12-27
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.5 miles @ ~12.0 min/mi<br />&gt; "Earthshine!" Kristin and Kerry and I observe an ashen glow on the dark side of the waning moon. "Light from the sun hits the earth, goes to the moon, and bounces back into your eye!"<br />&gt; It's an awesome quiet morning. Brilliant Venus glitters like a diamond on the tip of an arrowhead, crescent Luna a silver bow drawn back ready to shoot. In a few hours: an occultation as one eclipses the other. Meanwhile on the trail friends run together toward the sunrise.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/702091006|trackfile]])// - //**^z**// - 2015-12-27</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

@@ -1,0 +1,23 @@
+blocks: <h3>~3.3 miles @ ~11 min/mi</h3><p>Colleague Kristin leads me on a long version of "Ed's Loop" starting at 5:51am. The temperature is 0&deg;F and everybody else has excuses not to run &mdash; or so we think, until, when we arrive back at the loading dock at 6:30am, fast young triathlete David greets us. We apologize for making him run solo. Our pace is slightly slowed as Kristin has to stop twice to re-tie shoelaces. A left-turning car doesn't see us, but we glimpse it and pause just in time to avoid grief. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/157092509">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/284726396">Garmin</a> concur on the GPS data.</p><p><em><strong>^z</strong></em> - 2013-03-31</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.3 miles @ ~11 min/mi
+	
+	Colleague Kristin leads me on a long version of "Ed's Loop" starting at 5:51am. The temperature is 0&deg;F and everybody else has excuses not to run &mdash; or so we think, until, when we arrive back at the loading dock at 6:30am, fast young triathlete David greets us. We apologize for making him run solo. Our pace is slightly slowed as Kristin has to stop twice to re-tie shoelaces. A left-turning car doesn't see us, but we glimpse it and pause just in time to avoid grief. [[http://runkeeper.com/user/zhurnaly/activity/157092509|Runkeeper]] and [[http://connect.garmin.com/activity/284726396|Garmin]] concur on the GPS data.
+	
+	//**^z**// - 2013-03-31
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.3 miles @ ~11 min/mi<br />&gt; Colleague Kristin leads me on a long version of "Ed's Loop" starting at 5:51am. The temperature is 0&amp;deg;F and everybody else has excuses not to run &amp;mdash; or so we think, until, when we arrive back at the loading dock at 6:30am, fast young triathlete David greets us. We apologize for making him run solo. Our pace is slightly slowed as Kristin has to stop twice to re-tie shoelaces. A left-turning car doesn't see us, but we glimpse it and pause just in time to avoid grief. [[http://runkeeper.com/user/zhurnaly/activity/157092509|Runkeeper]] and [[http://connect.garmin.com/activity/284726396|Garmin]] concur on the GPS data.<br />&gt; //**^z**// - 2013-03-31</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057701

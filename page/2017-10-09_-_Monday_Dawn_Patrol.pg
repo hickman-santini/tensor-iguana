@@ -1,0 +1,23 @@
+blocks: <h3>~4 miles @ ~12.8 min/mi</h3><p>"Like <strong>Oz</strong>!" Kerry describes magical-wonderful sights at a weekend equestrian event near Asheville NC that she attended &mdash; followed by a wild night drive up a winding mountain road, a flat tire, a foggy return trip in a big pickup truck, and even more adventures. <em>And it all ends well!</em> Ditto Kristin's tough Army 10 Miler yesterday, where despite heat and humidity and dense crowds the run is fun and fast. <em>Brava!</em> And this morning, gloomy drizzle turns into solid rain as the Dawn Patrol meanders through Pimmit Hills, sharing and enjoying. <em>And it all ends well!</em></p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1067443309">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-11-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.146
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4 miles @ ~12.8 min/mi
+	
+	"Like **Oz**!" Kerry describes magical-wonderful sights at a weekend equestrian event near Asheville NC that she attended &mdash; followed by a wild night drive up a winding mountain road, a flat tire, a foggy return trip in a big pickup truck, and even more adventures. //And it all ends well!// Ditto Kristin's tough Army 10 Miler yesterday, where despite heat and humidity and dense crowds the run is fun and fast. //Brava!// And this morning, gloomy drizzle turns into solid rain as the Dawn Patrol meanders through Pimmit Hills, sharing and enjoying. //And it all ends well!//
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1067443309|trackfile]])// - //**^z**// - 2017-11-08
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4 miles @ ~12.8 min/mi<br />&gt; "Like **Oz**!" Kerry describes magical-wonderful sights at a weekend equestrian event near Asheville NC that she attended &amp;mdash; followed by a wild night drive up a winding mountain road, a flat tire, a foggy return trip in a big pickup truck, and even more adventures. //And it all ends well!// Ditto Kristin's tough Army 10 Miler yesterday, where despite heat and humidity and dense crowds the run is fun and fast. //Brava!// And this morning, gloomy drizzle turns into solid rain as the Dawn Patrol meanders through Pimmit Hills, sharing and enjoying. //And it all ends well!//<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1067443309|trackfile]])// - //**^z**// - 2017-11-08</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

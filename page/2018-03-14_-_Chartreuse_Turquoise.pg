@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~8.5 mi @ ~12.2 min/mi</h3><p>"Deep Turquoise?" - "Chartreuse?" - "Dark Green?" Dawn Patrol debates the color of a house on Opalacka Street as a scrawny crescent moon rises above a cotton-candy pink-and-blue horizon. Kristin sets a brisk pace for the first 5 miles. We meander through Lewinsville and discover the mysterious corner of El Dorado and El Dorado.</p><p>"Atomic oxygen!" Molly joins us mid-ramble and explains material degradation in low Earth orbit. A late commuter revs his engine and blasts out of a cul-de-sac. Temperatures near 30 and northerly breezes make hands tingle.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1133001154">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-04-07</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.5 mi @ ~12.2 min/mi<br />&gt; "Deep Turquoise?" - "Chartreuse?" - "Dark Green?" Dawn Patrol debates the color of a house on Opalacka Street as a scrawny crescent moon rises above a cotton-candy pink-and-blue horizon. Kristin sets a brisk pace for the first 5 miles. We meander through Lewinsville and discover the mysterious corner of El Dorado and El Dorado.<br />&gt; "Atomic oxygen!" Molly joins us mid-ramble and explains material degradation in low Earth orbit. A late commuter revs his engine and blasts out of a cul-de-sac. Temperatures near 30 and northerly breezes make hands tingle.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1133001154|trackfile]])// - //**^z**// - 2018-04-07</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057689
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.5 mi @ ~12.2 min/mi
+	
+	"Deep Turquoise?" - "Chartreuse?" - "Dark Green?" Dawn Patrol debates the color of a house on Opalacka Street as a scrawny crescent moon rises above a cotton-candy pink-and-blue horizon. Kristin sets a brisk pace for the first 5 miles. We meander through Lewinsville and discover the mysterious corner of El Dorado and El Dorado.
+	
+	"Atomic oxygen!" Molly joins us mid-ramble and explains material degradation in low Earth orbit. A late commuter revs his engine and blasts out of a cul-de-sac. Temperatures near 30 and northerly breezes make hands tingle.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1133001154|trackfile]])// - //**^z**// - 2018-04-07
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057689

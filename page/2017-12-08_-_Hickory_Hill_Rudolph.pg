@@ -1,0 +1,25 @@
+blocks: <h3>~6.9 mi @ ~14.1 min/mi</h3><p>"Ugly Ornament Exchange!" is a game Cait's extended family plays some holiday seasons. She describes one Christmas tree decoration of two reindeer being, uh, "extremely friendly". The Dawn Patrol has a mini-adventure as we run to the end of Turkey Run Road, then ramble through the woods on the edge of Langley Oaks Park &mdash; including an exciting stream crossing via headlamp. And nobody falls in!</p><p>"It's Rudolph!" A huge inflated reindeer stands in front of Hickory Hill, the former Kennedy mansion. Kerry discovers another cut-through <em>(is it #18?)</em>, this one between Melrose Drive and Pine Hill Road. Temps are in the mid-30s, with thickening clouds portending snow.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1095133842">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-12-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.28
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.9 mi @ ~14.1 min/mi
+	
+	"Ugly Ornament Exchange!" is a game Cait's extended family plays some holiday seasons. She describes one Christmas tree decoration of two reindeer being, uh, "extremely friendly". The Dawn Patrol has a mini-adventure as we run to the end of Turkey Run Road, then ramble through the woods on the edge of Langley Oaks Park &mdash; including an exciting stream crossing via headlamp. And nobody falls in!
+	
+	"It's Rudolph!" A huge inflated reindeer stands in front of Hickory Hill, the former Kennedy mansion. Kerry discovers another cut-through //(is it #18?)//, this one between Melrose Drive and Pine Hill Road. Temps are in the mid-30s, with thickening clouds portending snow.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1095133842|trackfile]])// - //**^z**// - 2017-12-29
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.9 mi @ ~14.1 min/mi<br />&gt; "Ugly Ornament Exchange!" is a game Cait's extended family plays some holiday seasons. She describes one Christmas tree decoration of two reindeer being, uh, "extremely friendly". The Dawn Patrol has a mini-adventure as we run to the end of Turkey Run Road, then ramble through the woods on the edge of Langley Oaks Park &amp;mdash; including an exciting stream crossing via headlamp. And nobody falls in!<br />&gt; "It's Rudolph!" A huge inflated reindeer stands in front of Hickory Hill, the former Kennedy mansion. Kerry discovers another cut-through //(is it #18?)//, this one between Melrose Drive and Pine Hill Road. Temps are in the mid-30s, with thickening clouds portending snow.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1095133842|trackfile]])// - //**^z**// - 2017-12-29</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057700

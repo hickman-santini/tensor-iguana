@@ -1,0 +1,25 @@
+blocks: <h3>~8.0 miles @ ~14.7 min/mi</h3><p>"There are worse ways to go!" says the lady at the W&amp;OD water fountain near Route 7. We concur that a heart attack while running is no excuse to stop. "Chest pain is just a sign to up your pace!"</p><p>Humidity is high as a summer heat wave settles in. Sharp-eyed Kristin spies a mole crouched by the sidewalk and a baby rabbit, ears sticking up from the high grass of a front lawn. Today's confirmed bunny count = 4, all along Great Falls Street. Blisters that Kerry and I acquired during Monday's long run only begin to complain today when we reach the farthest point from our start. "It is what it is," says Kerry, stoically. She picks up a thorn from the gutter and we think about pricking her toe to let out the fluid. "Ah, if we only had some vodka to sterilize it!" Best solution is probably retail therapy: shop for new shoes!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/820415886">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-07-28</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.94.31
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.0 miles @ ~14.7 min/mi
+	
+	"There are worse ways to go!" says the lady at the W&OD water fountain near Route 7. We concur that a heart attack while running is no excuse to stop. "Chest pain is just a sign to up your pace!"
+	
+	Humidity is high as a summer heat wave settles in. Sharp-eyed Kristin spies a mole crouched by the sidewalk and a baby rabbit, ears sticking up from the high grass of a front lawn. Today's confirmed bunny count = 4, all along Great Falls Street. Blisters that Kerry and I acquired during Monday's long run only begin to complain today when we reach the farthest point from our start. "It is what it is," says Kerry, stoically. She picks up a thorn from the gutter and we think about pricking her toe to let out the fluid. "Ah, if we only had some vodka to sterilize it!" Best solution is probably retail therapy: shop for new shoes!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/820415886|trackfile]])// - //**^z**// - 2016-07-28
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.0 miles @ ~14.7 min/mi<br />&gt; "There are worse ways to go!" says the lady at the W&amp;OD water fountain near Route 7. We concur that a heart attack while running is no excuse to stop. "Chest pain is just a sign to up your pace!"<br />&gt; Humidity is high as a summer heat wave settles in. Sharp-eyed Kristin spies a mole crouched by the sidewalk and a baby rabbit, ears sticking up from the high grass of a front lawn. Today's confirmed bunny count = 4, all along Great Falls Street. Blisters that Kerry and I acquired during Monday's long run only begin to complain today when we reach the farthest point from our start. "It is what it is," says Kerry, stoically. She picks up a thorn from the gutter and we think about pricking her toe to let out the fluid. "Ah, if we only had some vodka to sterilize it!" Best solution is probably retail therapy: shop for new shoes!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/820415886|trackfile]])// - //**^z**// - 2016-07-28</strong></p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057713

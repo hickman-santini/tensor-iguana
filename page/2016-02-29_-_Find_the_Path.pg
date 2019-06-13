@@ -1,0 +1,23 @@
+blocks: <h3>~8.0 miles @ ~11.6 min/mi</h3><p>"We're not lost &mdash; we're finding our path!" says Kristin, as we explore a new neighborhood before sunrise and discover ourselves on Pathfinder Lane. Birds chirp and the eastern sky brightens into bands of tangerine and ocher. We loop back to meet Beth, then attack the slopes of Pimmit Hills. On the 1.00 mile Friden-Pimmit-Storm loop I challenge Kerry to see how fast we can go. The clock says 8:29. "I can do better!" Kerry promises. During the return leg of our odyssey I pick up a lost orange from the grass by the sidewalk. "Are you going to eat that?" the chorus asks. They already know the answer.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/742170317">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-03-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.164
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.0 miles @ ~11.6 min/mi
+	
+	"We're not lost &mdash; we're finding our path!" says Kristin, as we explore a new neighborhood before sunrise and discover ourselves on Pathfinder Lane. Birds chirp and the eastern sky brightens into bands of tangerine and ocher. We loop back to meet Beth, then attack the slopes of Pimmit Hills. On the 1.00 mile Friden-Pimmit-Storm loop I challenge Kerry to see how fast we can go. The clock says 8:29. "I can do better!" Kerry promises. During the return leg of our odyssey I pick up a lost orange from the grass by the sidewalk. "Are you going to eat that?" the chorus asks. They already know the answer.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/742170317|trackfile]])// - //**^z**// - 2016-03-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.0 miles @ ~11.6 min/mi<br />&gt; "We're not lost &amp;mdash; we're finding our path!" says Kristin, as we explore a new neighborhood before sunrise and discover ourselves on Pathfinder Lane. Birds chirp and the eastern sky brightens into bands of tangerine and ocher. We loop back to meet Beth, then attack the slopes of Pimmit Hills. On the 1.00 mile Friden-Pimmit-Storm loop I challenge Kerry to see how fast we can go. The clock says 8:29. "I can do better!" Kerry promises. During the return leg of our odyssey I pick up a lost orange from the grass by the sidewalk. "Are you going to eat that?" the chorus asks. They already know the answer.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/742170317|trackfile]])// - //**^z**// - 2016-03-15</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

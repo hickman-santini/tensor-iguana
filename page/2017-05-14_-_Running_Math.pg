@@ -1,0 +1,25 @@
+blocks: <h3>~7.6 miles @ ~13.4 min/mi</h3><p>"Life is short &mdash; Running makes it seem longer!" Rebecca quotes from a t-shirt she saw at the Big Sur Marathon three weeks ago. <em>(Hmmmm &mdash; one could interpret those words in opposite ways!)</em> She and Gayatri trot along Rock Creek Trail on a sunny-cool morning, tiptoeing around occasional puddles from recent rains. Three big deer cross the road ahead; a few miles later two more stand close by the path.</p><p>"December 4th &mdash; in 2017 that falls on a Monday!" The Doomsday perpetual calendar algorithm reminds Gaytri of Shakuntala Devi, the Indian mental calculator. <em>(This year 4/4, 6/6, 8/8, 10/10, and 12/12 are all Tuesdays; it's easy to work forward or back from them.)</em> We talk about Ramanujan and upcoming races, running injuries and streaks, politics and bias, lost hats and found shirts. Rebecca and Gayatri share a sisterly hug. <em><strong>Happy Mother's Day to all!</strong></em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/982288136">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-06-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.68
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.6 miles @ ~13.4 min/mi
+	
+	"Life is short &mdash; Running makes it seem longer!" Rebecca quotes from a t-shirt she saw at the Big Sur Marathon three weeks ago. //(Hmmmm &mdash; one could interpret those words in opposite ways!)// She and Gayatri trot along Rock Creek Trail on a sunny-cool morning, tiptoeing around occasional puddles from recent rains. Three big deer cross the road ahead; a few miles later two more stand close by the path.
+	
+	"December 4th &mdash; in 2017 that falls on a Monday!" The Doomsday perpetual calendar algorithm reminds Gaytri of Shakuntala Devi, the Indian mental calculator. //(This year 4/4, 6/6, 8/8, 10/10, and 12/12 are all Tuesdays; it's easy to work forward or back from them.)// We talk about Ramanujan and upcoming races, running injuries and streaks, politics and bias, lost hats and found shirts. Rebecca and Gayatri share a sisterly hug. //**Happy Mother's Day to all!**//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/982288136|trackfile]])// - //**^z**// - 2017-06-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.6 miles @ ~13.4 min/mi<br />&gt; "Life is short &amp;mdash; Running makes it seem longer!" Rebecca quotes from a t-shirt she saw at the Big Sur Marathon three weeks ago. //(Hmmmm &amp;mdash; one could interpret those words in opposite ways!)// She and Gayatri trot along Rock Creek Trail on a sunny-cool morning, tiptoeing around occasional puddles from recent rains. Three big deer cross the road ahead; a few miles later two more stand close by the path.<br />&gt; "December 4th &amp;mdash; in 2017 that falls on a Monday!" The Doomsday perpetual calendar algorithm reminds Gaytri of Shakuntala Devi, the Indian mental calculator. //(This year 4/4, 6/6, 8/8, 10/10, and 12/12 are all Tuesdays; it's easy to work forward or back from them.)// We talk about Ramanujan and upcoming races, running injuries and streaks, politics and bias, lost hats and found shirts. Rebecca and Gayatri share a sisterly hug. //**Happy Mother's Day to all!**//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/982288136|trackfile]])// - //**^z**// - 2017-06-10</strong></p></div>
+flags: 0
+ts: 1528057698
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057698

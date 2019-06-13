@@ -1,0 +1,23 @@
+blocks: <h3>~2 miles @ ~9 min/mi</h3><p>"Is that Jesus?" asks a little kid in soccer class as I zip past on my first lap around the lovely rubber-surfaced Bowie High School track. I wave a blessing at him. Before the sun sets there's time for half a dozen 400 meter intervals: 1:43 + 1:39 + 1:39 + 1:37 + 1:39 + 1:36, that last one close to the Puke Point. Taco Bell down the street soon settles my tummy. DW's rehearsal is in the nearby auditorium at the Bowie Center for the Performing Arts. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/163442294">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/293290753">Garmin</a> show the oval.</p><p><em><strong>^z</strong></em> - 2013-04-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.79
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2 miles @ ~9 min/mi
+	
+	"Is that Jesus?" asks a little kid in soccer class as I zip past on my first lap around the lovely rubber-surfaced Bowie High School track. I wave a blessing at him. Before the sun sets there's time for half a dozen 400 meter intervals: 1:43 + 1:39 + 1:39 + 1:37 + 1:39 + 1:36, that last one close to the Puke Point. Taco Bell down the street soon settles my tummy. DW's rehearsal is in the nearby auditorium at the Bowie Center for the Performing Arts. [[http://runkeeper.com/user/zhurnaly/activity/163442294|Runkeeper]] and [[http://connect.garmin.com/activity/293290753|Garmin]] show the oval.
+	
+	//**^z**// - 2013-04-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2 miles @ ~9 min/mi<br />&gt; "Is that Jesus?" asks a little kid in soccer class as I zip past on my first lap around the lovely rubber-surfaced Bowie High School track. I wave a blessing at him. Before the sun sets there's time for half a dozen 400 meter intervals: 1:43 + 1:39 + 1:39 + 1:37 + 1:39 + 1:36, that last one close to the Puke Point. Taco Bell down the street soon settles my tummy. DW's rehearsal is in the nearby auditorium at the Bowie Center for the Performing Arts. [[http://runkeeper.com/user/zhurnaly/activity/163442294|Runkeeper]] and [[http://connect.garmin.com/activity/293290753|Garmin]] show the oval.<br />&gt; //**^z**// - 2013-04-19</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057711

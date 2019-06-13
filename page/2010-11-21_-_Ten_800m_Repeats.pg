@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~6.2 miles @ ~8.5 min/mi</h3></p><p>A pair of young ladies in fuchsia and black materialize to do yoga-stretches on the track infield and disrupt my plan to maintain steady-pace intervals. Confession: my last three sets are significantly faster than those before. At 4pm on Sunday the temperature is 50ish with east winds that blow chill. On the way to the store it's belated solo time trials for me at the local middle-school track, double-lap (half-mile or maybe 800m) repeats with half a lap (~2 minutes) of recovery walk/jog between each. The splits accelerate due to vanity and enthusiasm: 3:47 + 3:44 + 3:39 + 3:41 + 3:45 + 3:42 + 3:46 + 3:38 + 3:37 + 3:31 (!). If the "Yasso 800" formula is right this forecasts an incredible marathon next Saturday. We shall see ...</p><p><em><strong>^z</strong></em> - 2010-12-01</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; A pair of young ladies in <strong class="changes">fuschia</strong> and black materialize to do yoga-stretches on the track infield and disrupt my plan to maintain steady-pace <strong class="changes">800-meter repeats</strong>. <strong class="changes">//(Vanity</strong>: <strong class="changes">the</strong> last three <strong class="changes">times</strong> are <strong class="changes">thus</strong> faster than those before<strong class="changes">.)//</strong> At 4pm the temperature is 50ish with east winds that blow chill. <strong class="changes">It</strong>'s time <strong class="changes">trial time</strong> at the local <strong class="changes">(SSIMS)</strong> track, double-lap (half-mile or maybe 800m<strong class="changes">?)</strong> repeats with half a lap (~2 minutes) of recovery walk/jog between each. <strong class="changes">Splits</strong> accelerate: 3:47 + 3:44 + 3:39 + 3:41 + 3:45 + 3:42 + 3:46 + 3:38 + 3:37 + 3:31 (!). If the "Yasso 800" formula is right this forecasts an incredible marathon next Saturday. We shall see ...</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; A pair of young ladies in <strong class="changes">fuchsia</strong> and black materialize to do yoga-stretches on the track infield and disrupt my plan to maintain steady-pace <strong class="changes">intervals</strong>. <strong class="changes">Confession</strong>: <strong class="changes">my</strong> last three <strong class="changes">sets</strong> are <strong class="changes">significantly</strong> faster than those before<strong class="changes">.</strong> At 4pm <strong class="changes">on Sunday</strong> the temperature is 50ish with east winds that blow chill. <strong class="changes">On the way to the store it</strong>'s <strong class="changes">belated solo</strong> time <strong class="changes">trials for me</strong> at the local <strong class="changes">middle-school</strong> track, double-lap (half-mile or maybe 800m<strong class="changes">)</strong> repeats with half a lap (~2 minutes) of recovery walk/jog between each. <strong class="changes">The splits</strong> accelerate <strong class="changes">due to vanity and enthusiasm</strong>: 3:47 + 3:44 + 3:39 + 3:41 + 3:45 + 3:42 + 3:46 + 3:38 + 3:37 + 3:31 (!). If the "Yasso 800" formula is right this forecasts an incredible marathon next Saturday. We shall see ...</p></div>
+ip: 138.88.169.233
+ts: 1291196839
+minor: 1
+host: pool-138-88-169-233.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: tweaks 2
+languages: 
+text: === ~6.2 miles @ ~8.5 min/mi
+	
+	A pair of young ladies in fuchsia and black materialize to do yoga-stretches on the track infield and disrupt my plan to maintain steady-pace intervals. Confession: my last three sets are significantly faster than those before. At 4pm on Sunday the temperature is 50ish with east winds that blow chill. On the way to the store it's belated solo time trials for me at the local middle-school track, double-lap (half-mile or maybe 800m) repeats with half a lap (~2 minutes) of recovery walk/jog between each. The splits accelerate due to vanity and enthusiasm: 3:47 + 3:44 + 3:39 + 3:41 + 3:45 + 3:42 + 3:46 + 3:38 + 3:37 + 3:31 (!). If the "Yasso 800" formula is right this forecasts an incredible marathon next Saturday. We shall see ...
+	
+	//**^z**// - 2010-12-01
+	
+lastmajor: 1
+keep-ts: 1291196839

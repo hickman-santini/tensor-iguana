@@ -1,0 +1,62 @@
+blocks: <h3>1 Comment.</h3><p>This was fun, thanks! Reminds me of something I read:</p><p>One extraordinary feature of the lexicon is the <br />sheer capacity for memorization that goes into building <br />it. How many words do you think an average person knows?<br />If you are like most writers who have offered an opinion <br />based on the number of words they hear or read, you might <br />guess a few hundred for the uneducated, a few thousand <br />for the literate, and as many as 15,000 for gifted <br />wordsmiths like Shakespeare (that is how many distinct <br />words are found in his collected plays and sonnets)....<br /> The most sophisticated estimate comes from the <br />psychologists William Nagy and Richard Anderson. They <br />began with a list of 227,553 different words. Of these,<br />45,453 were simple roots and stems. Of the remaining<br />182,100 derivatives and compounds, they estimated <br />that all but 42,080 could be understood in context by <br />someone who knew their components. Thus there were a <br />total of 44,453 + 42,080 = 88,533 listeme* words. By<br />sampling from this list and testing the sample, Nagy <br />and Anderson estimated that an average American high <br />school graduate knows 45,000 words -- three times as <br />many as Shakespeare managed to use! Actually, this is <br />an underestimate, because proper names, numbers, foreign <br />words, acronyms, and many common undecomposable compounds <br />were excluded. There is no need to follow the rules of <br />Scrabble in estimating vocabulary size; these forms are <br />all listemes, and a person should be given credit for <br />them. If they had been included, the average high school <br />graduate would probably be credited with something like <br />60,000 words (a tetrabard?), and superior students,<br />because they read more, would probably merit a figure <br />twice as high, an octobard.</p><p>- *LISTEME: An uncommon but useful term corresponding to <br />one of the senses of "word," it refers to an element of <br />language that must be memorized because its sound or <br />meaning does not conform to some general rule. All <br />word roots, irregular forms, and idioms are listemes.<br />-- Steven Pinker, The Language Instinct, pp. 149, 150</p><p>-- <a class="url http outside" href="http://hecat.org">steve</a> 2015-07-09 16:13 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 169.253.194.1
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	This was fun, thanks! Reminds me of something I read:
+	
+	One extraordinary feature of the lexicon is the 
+	sheer capacity for memorization that goes into building 
+	it. How many words do you think an average person knows? 
+	If you are like most writers who have offered an opinion 
+	based on the number of words they hear or read, you might 
+	guess a few hundred for the uneducated, a few thousand 
+	for the literate, and as many as 15,000 for gifted 
+	wordsmiths like Shakespeare (that is how many distinct 
+	words are found in his collected plays and sonnets)....
+	   The most sophisticated estimate comes from the 
+	psychologists William Nagy and Richard Anderson. They 
+	began with a list of 227,553 different words. Of these, 
+	45,453 were simple roots and stems. Of the remaining
+	182,100 derivatives and compounds, they estimated 
+	that all but 42,080 could be understood in context by 
+	someone who knew their components. Thus there were a 
+	total of 44,453 + 42,080 = 88,533 listeme* words. By
+	sampling from this list and testing the sample, Nagy 
+	and Anderson estimated that an average American high 
+	school graduate knows 45,000 words -- three times as 
+	many as Shakespeare managed to use! Actually, this is 
+	an underestimate, because proper names, numbers, foreign 
+	words, acronyms, and many common undecomposable compounds 
+	were excluded. There is no need to follow the rules of 
+	Scrabble in estimating vocabulary size; these forms are 
+	all listemes, and a person should be given credit for 
+	them. If they had been included, the average high school 
+	graduate would probably be credited with something like 
+	60,000 words (a tetrabard?), and superior students, 
+	because they read more, would probably merit a figure 
+	twice as high, an octobard.
+	
+	- *LISTEME: An uncommon but useful term corresponding to 
+	one of the senses of "word," it refers to an element of 
+	language that must be memorized because its sound or 
+	meaning does not conform to some general rule. All 
+	word roots, irregular forms, and idioms are listemes.
+	-- Steven Pinker, The Language Instinct, pp. 149, 150
+	
+	-- [http://hecat.org steve] 2015-07-09 16:13 UTC
+	
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; This was fun, thanks! Reminds me of something I read:<br />&gt; One extraordinary feature of the lexicon is the <br />&gt; sheer capacity for memorization that goes into building <br />&gt; it. How many words do you think an average person knows? <br />&gt; If you are like most writers who have offered an opinion <br />&gt; based on the number of words they hear or read, you might <br />&gt; guess a few hundred for the uneducated, a few thousand <br />&gt; for the literate, and as many as 15,000 for gifted <br />&gt; wordsmiths like Shakespeare (that is how many distinct <br />&gt; words are found in his collected plays and sonnets)....<br />&gt;    The most sophisticated estimate comes from the <br />&gt; psychologists William Nagy and Richard Anderson. They <br />&gt; began with a list of 227,553 different words. Of these, <br />&gt; 45,453 were simple roots and stems. Of the remaining<br />&gt; 182,100 derivatives and compounds, they estimated <br />&gt; that all but 42,080 could be understood in context by <br />&gt; someone who knew their components. Thus there were a <br />&gt; total of 44,453 + 42,080 = 88,533 listeme* words. By<br />&gt; sampling from this list and testing the sample, Nagy <br />&gt; and Anderson estimated that an average American high <br />&gt; school graduate knows 45,000 words -- three times as <br />&gt; many as Shakespeare managed to use! Actually, this is <br />&gt; an underestimate, because proper names, numbers, foreign <br />&gt; words, acronyms, and many common undecomposable compounds <br />&gt; were excluded. There is no need to follow the rules of <br />&gt; Scrabble in estimating vocabulary size; these forms are <br />&gt; all listemes, and a person should be given credit for <br />&gt; them. If they had been included, the average high school <br />&gt; graduate would probably be credited with something like <br />&gt; 60,000 words (a tetrabard?), and superior students, <br />&gt; because they read more, would probably merit a figure <br />&gt; twice as high, an octobard.<br />&gt; - *LISTEME: An uncommon but useful term corresponding to <br />&gt; one of the senses of "word," it refers to an element of <br />&gt; language that must be memorized because its sound or <br />&gt; meaning does not conform to some general rule. All <br />&gt; word roots, irregular forms, and idioms are listemes.<br />&gt; -- Steven Pinker, The Language Instinct, pp. 149, 150<br />&gt; -- [http://hecat.org steve] 2015-07-09 16:13 UTC</strong></p></div>
+flags: 0
+ts: 1528057704
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057704

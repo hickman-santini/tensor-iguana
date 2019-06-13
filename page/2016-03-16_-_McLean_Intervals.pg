@@ -1,0 +1,23 @@
+blocks: <h3>~8.3 miles @ ~11.8 min/mi</h3><p>"Windy Hill?" Dr Kristin nominates a route for the Dawn Patrol. Headlamp batteries need replacing, but between neighborhood streets we manage dark cut-throughs without stumbling. Stars twinkle and a lone loud bird calls out from overhead. Dr Beth meets us at mile 4 and we trot to the McLean High School track. Half a dozen 400m intervals at ~7 min/mi are enough to greet the sunrise.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/751043854">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.188
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~8.3 miles @ ~11.8 min/mi
+	
+	"Windy Hill?" Dr Kristin nominates a route for the Dawn Patrol. Headlamp batteries need replacing, but between neighborhood streets we manage dark cut-throughs without stumbling. Stars twinkle and a lone loud bird calls out from overhead. Dr Beth meets us at mile 4 and we trot to the McLean High School track. Half a dozen 400m intervals at ~7 min/mi are enough to greet the sunrise.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/751043854|trackfile]])// - //**^z**// - 2016-04-05
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.3 miles @ ~11.8 min/mi<br />&gt; "Windy Hill?" Dr Kristin nominates a route for the Dawn Patrol. Headlamp batteries need replacing, but between neighborhood streets we manage dark cut-throughs without stumbling. Stars twinkle and a lone loud bird calls out from overhead. Dr Beth meets us at mile 4 and we trot to the McLean High School track. Half a dozen 400m intervals at ~7 min/mi are enough to greet the sunrise.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/751043854|trackfile]])// - //**^z**// - 2016-04-05</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

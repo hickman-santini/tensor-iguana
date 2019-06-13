@@ -1,0 +1,25 @@
+blocks: <h3>~7.0 miles @ ~13.7 min/mi</h3><p>"The lure of Starbucks is what got me out of the parking lot this morning!" Kerry admits. Chilly drizzle and 30+ mi/hr headwinds make for a brisk adventure, as Kristin leads the Dawn Patrol eastward two miles, then waits outside as two others snag hot coffee. We share family news, report on weekend activities, and discuss aspirations.</p><p>"Look &mdash; deer crossing!" Kristin points to silhouettes of four big does ahead of us, followed by a tiny fawn, as they pause in the middle of Magarity Road before continuing into the woods. Earlier she spies a wee mouse by the trail. On a dark path I stumble, but Kerry helps me recover balance. "I fell at this spot before!" is the comment at mile 3, and again at mile 6.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/923430924">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-02-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.240
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.0 miles @ ~13.7 min/mi
+	
+	"The lure of Starbucks is what got me out of the parking lot this morning!" Kerry admits. Chilly drizzle and 30+ mi/hr headwinds make for a brisk adventure, as Kristin leads the Dawn Patrol eastward two miles, then waits outside as two others snag hot coffee. We share family news, report on weekend activities, and discuss aspirations.
+	
+	"Look &mdash; deer crossing!" Kristin points to silhouettes of four big does ahead of us, followed by a tiny fawn, as they pause in the middle of Magarity Road before continuing into the woods. Earlier she spies a wee mouse by the trail. On a dark path I stumble, but Kerry helps me recover balance. "I fell at this spot before!" is the comment at mile 3, and again at mile 6.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/923430924|trackfile]])// - //**^z**// - 2017-02-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.0 miles @ ~13.7 min/mi<br />&gt; "The lure of Starbucks is what got me out of the parking lot this morning!" Kerry admits. Chilly drizzle and 30+ mi/hr headwinds make for a brisk adventure, as Kristin leads the Dawn Patrol eastward two miles, then waits outside as two others snag hot coffee. We share family news, report on weekend activities, and discuss aspirations.<br />&gt; "Look &amp;mdash; deer crossing!" Kristin points to silhouettes of four big does ahead of us, followed by a tiny fawn, as they pause in the middle of Magarity Road before continuing into the woods. Earlier she spies a wee mouse by the trail. On a dark path I stumble, but Kerry helps me recover balance. "I fell at this spot before!" is the comment at mile 3, and again at mile 6.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/923430924|trackfile]])// - //**^z**// - 2017-02-24</strong></p></div>
+flags: 0
+ts: 1528057710
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057710

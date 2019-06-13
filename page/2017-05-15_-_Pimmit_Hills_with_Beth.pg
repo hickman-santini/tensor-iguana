@@ -1,0 +1,25 @@
+blocks: <h3>~3.6 miles @ ~13.6 min/mi</h3><p>"There goes the car-shuffle theory!" The monster pickup is still idling in front of the house on Pimmit Drive when Dr Beth and I pass it on our second lap; first time around somebody was pulling a car out of the driveway. Did they forget that they left the truck running, or is it being kept ready for a speedy get-away? Trail talk is wide-ranging today, touching on diverse aspects of cognition.</p><p>"It only needs a spinner on its tail!" A front-yard statue of a llama on Storm Drive features a silver head and neck, faux-stone body, and glass legs. As we finish the run a tiny bunny hops away through a flower bed.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/982781313">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-06-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.68
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.6 miles @ ~13.6 min/mi
+	
+	"There goes the car-shuffle theory!" The monster pickup is still idling in front of the house on Pimmit Drive when Dr Beth and I pass it on our second lap; first time around somebody was pulling a car out of the driveway. Did they forget that they left the truck running, or is it being kept ready for a speedy get-away? Trail talk is wide-ranging today, touching on diverse aspects of cognition.
+	
+	"It only needs a spinner on its tail!" A front-yard statue of a llama on Storm Drive features a silver head and neck, faux-stone body, and glass legs. As we finish the run a tiny bunny hops away through a flower bed.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/982781313|trackfile]])// - //**^z**// - 2017-06-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.6 miles @ ~13.6 min/mi<br />&gt; "There goes the car-shuffle theory!" The monster pickup is still idling in front of the house on Pimmit Drive when Dr Beth and I pass it on our second lap; first time around somebody was pulling a car out of the driveway. Did they forget that they left the truck running, or is it being kept ready for a speedy get-away? Trail talk is wide-ranging today, touching on diverse aspects of cognition.<br />&gt; "It only needs a spinner on its tail!" A front-yard statue of a llama on Storm Drive features a silver head and neck, faux-stone body, and glass legs. As we finish the run a tiny bunny hops away through a flower bed.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/982781313|trackfile]])// - //**^z**// - 2017-06-11</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057711

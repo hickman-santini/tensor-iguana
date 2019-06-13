@@ -1,0 +1,23 @@
+blocks: <h3>~9.3 miles @ ~11.6 min/mi</h3><p>"Number 4!" Nathan spies yet another rabbit on a beautiful-cool morning. He and Kerry discuss humor and the fine lines between edgy and excessive, crude and cruel. We start briskly at sunrise, take the forest path and construction cut-through at McLean High School, then ramble back for a 7am rendezvous where Kerry passes the baton to Beth. Nathan attempts to explain the Metropolis-Hastings Algorithm to two physicists, who eventually get him down to their level: a model consisting of antisocial kittens jumping in and out of boxes. Beth and I compare notes on retina, optic nerve, and visual cortex phenomenology. She recounts a Turkey Trot race, being passed by a pram-pushing mom running with a three-legged dog. <em>Inspiration!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/617919365">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-08-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.117
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.3 miles @ ~11.6 min/mi
+	
+	"Number 4!" Nathan spies yet another rabbit on a beautiful-cool morning. He and Kerry discuss humor and the fine lines between edgy and excessive, crude and cruel. We start briskly at sunrise, take the forest path and construction cut-through at McLean High School, then ramble back for a 7am rendezvous where Kerry passes the baton to Beth. Nathan attempts to explain the Metropolis-Hastings Algorithm to two physicists, who eventually get him down to their level: a model consisting of antisocial kittens jumping in and out of boxes. Beth and I compare notes on retina, optic nerve, and visual cortex phenomenology. She recounts a Turkey Trot race, being passed by a pram-pushing mom running with a three-legged dog. //Inspiration!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/617919365|trackfile]])// - //**^z**// - 2015-08-09
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.3 miles @ ~11.6 min/mi<br />&gt; "Number 4!" Nathan spies yet another rabbit on a beautiful-cool morning. He and Kerry discuss humor and the fine lines between edgy and excessive, crude and cruel. We start briskly at sunrise, take the forest path and construction cut-through at McLean High School, then ramble back for a 7am rendezvous where Kerry passes the baton to Beth. Nathan attempts to explain the Metropolis-Hastings Algorithm to two physicists, who eventually get him down to their level: a model consisting of antisocial kittens jumping in and out of boxes. Beth and I compare notes on retina, optic nerve, and visual cortex phenomenology. She recounts a Turkey Trot race, being passed by a pram-pushing mom running with a three-legged dog. //Inspiration!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/617919365|trackfile]])// - //**^z**// - 2015-08-09</strong></p></div>
+flags: 0
+ts: 1528057680
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057680

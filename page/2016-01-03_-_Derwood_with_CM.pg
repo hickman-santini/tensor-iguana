@@ -1,0 +1,23 @@
+blocks: <h3>~2.8 miles @ ~15.4 min/mi</h3><p>"My phone is on the kitchen table &mdash; in Saint Augustine, Florida!" says Cara Marie, whose early flight back this morning from a family holiday visit left a few things behind. And yes, all's well! Her husband George and I shake hands and wish each other a happy 2016. CM and I walk and jog a loop around the neighborhood, sharing cheerful news and plans for training and racing in months to come. Fingers crossed: no injuries!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/713650160">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-01-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.144
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2.8 miles @ ~15.4 min/mi
+	
+	"My phone is on the kitchen table &mdash; in Saint Augustine, Florida!" says Cara Marie, whose early flight back this morning from a family holiday visit left a few things behind. And yes, all's well! Her husband George and I shake hands and wish each other a happy 2016. CM and I walk and jog a loop around the neighborhood, sharing cheerful news and plans for training and racing in months to come. Fingers crossed: no injuries!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/713650160|trackfile]])// - //**^z**// - 2016-01-21
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2.8 miles @ ~15.4 min/mi<br />&gt; "My phone is on the kitchen table &amp;mdash; in Saint Augustine, Florida!" says Cara Marie, whose early flight back this morning from a family holiday visit left a few things behind. And yes, all's well! Her husband George and I shake hands and wish each other a happy 2016. CM and I walk and jog a loop around the neighborhood, sharing cheerful news and plans for training and racing in months to come. Fingers crossed: no injuries!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/713650160|trackfile]])// - //**^z**// - 2016-01-21</strong></p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057678

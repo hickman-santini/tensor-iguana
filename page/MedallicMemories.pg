@@ -1,0 +1,16 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; [[<strong class="changes">image:http://zhurnaly.com/images/zhurnalnet_z_images/running_medals.jpg_t.jpg|Marathon Medals - click for larger image|http://zhurnaly.com/images/zhurnalnet_z_images/running_medals.jpg</strong>]]<br />&lt; <strong class="changes">Against all my expectations, during the past two years I've managed to stagger across the finish lines of four marathons. They've each been successively slower and in various ways successively more fun. Besides a sunburned pate plus purple toenails I brought home finisher's medals which now hang from my bedpost. When I bump them they clinkety-clank like wind chimes on steroids:<br />&lt; * **Marine Corps Marathon** //(27th annual, 27 Oct 2002)// --- [[Bless the Leathernecks]]<br />&lt; * **Montgomery County Marathon in the Parks** //(3nd annual, 17 Nov 2002)// --- [[Rocky Run]]<br />&lt; * **Montgomery County Marathon in the Parks** //(4th annual, 9 Nov 2003)// --- [[Marathon in the Parks 2003]]<br />&lt; * **George Washington's Birthday Marathon** //(43rd annual, 22 Feb 2004)// --- [[Washington Birthday Marathon 2004]]<br />&lt; And then there was a single ultramarathon that, instead of a metallic residue, yielded a technical running shirt and two hats:<br />&lt; * **Hinte Anderson Trail Run** //(16th annual, 27 Mar 2004)// --- [[HAT Run 2004]]<br />&lt; //(click on the image for a half-megabyte detailed scan; and see also [[WelcomeToTheClub]] (11 Jun 2003), ... )//<br />&lt; ----<br />&lt; [[TopicRunning]] - [[TopicPersonalHistory]] - Datetag20040822<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[DickersonZimmermannFamilyPhoto2006]], [[CastingShadows]], [[EventInsurance]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">Medallic Memories</strong>]]</p></div>
+ip: 70.21.102.87
+ts: 1222162070
+minor: 1
+host: pool-70-21-102-87.res.east.verizon.net
+username: MarkZimmermann
+revision: 10
+diff-major: 
+summary: redirect
+languages: 
+text: #REDIRECT [[Medallic Memories]]
+	
+lastmajor: 3
+keep-ts: 1222162070

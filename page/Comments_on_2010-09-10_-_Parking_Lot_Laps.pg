@@ -1,0 +1,29 @@
+blocks: <h3>2 Comments.</h3><p>Hi Mark - Nice chatting with you at the airport this afternoon. I'll be looking for you at an Ultra soon!</p><p>-- Bob Baldwin 2010-09-24 00:41 UTC</p><hr /><p>Great meeting you too, Bob! --- and I salute your speed and ambition ... best of luck in your upcoming ultramarathons!</p><p>-- <a class="url http outside" href="http://zhurnaly.com">Mark Zimmermann</a> 2010-09-24 02:18 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.143.159
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	Hi Mark - Nice chatting with you at the airport this afternoon.  I'll be looking for you at an Ultra soon!
+	
+	-- Bob Baldwin 2010-09-24 00:41 UTC
+	
+	
+	----
+	
+	Great meeting you too, Bob! --- and I salute your speed and ambition ... best of luck in your upcoming ultramarathons!
+	
+	-- [http://zhurnaly.com Mark Zimmermann] 2010-09-24 02:18 UTC
+	
+	
+languages: 
+lastmajor: 10
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; Hi Mark - Nice chatting with you at the airport this afternoon.  I'll be looking for you at an Ultra soon!<br />&gt; -- Bob Baldwin 2010-09-24 00:41 UTC<br />&gt; ----<br />&gt; Great meeting you too, Bob! --- and I salute your speed and ambition ... best of luck in your upcoming ultramarathons!<br />&gt; -- [http://zhurnaly.com Mark Zimmermann] 2010-09-24 02:18 UTC</p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 10
+keep-ts: 1528057693

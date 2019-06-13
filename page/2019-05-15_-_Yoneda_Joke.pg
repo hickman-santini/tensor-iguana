@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~4.7 mi @ ~12.2 min/mi</h3><table class="user"><tr><td align="right">"Another house under attack by flamingos!" K2 leads Dawn Patrol through back roads; we're constrained by early meetings to dash for iced coffee and then make a speedy return. The Four Seasons nursery is rich with spring flowers, leading Roadkill to muse about "A rose by any other name...", the Yoneda Lemma, and the associated joke: "If it's just a <strong>lemma</strong>, then what's the <strong>theorem</strong>?" Answer: "All of them!" <em>(OK, a Category Theorist's sense of humor is, uh, ...)</em><br /><br />"God Bless America" says a faded lawn sculpture depicting either a puffball mushroom or a giant golf ball on a tee. Black vultures graze at a dumpster. We give thanks for the peachy sunrise. "Gratitude creates joy!"</td><td align="right"><a class="image outside" href="http://zhurnaly.com/images/run/McLean-lawn-flamingos_2019-05-15.jpg"><img class="upload" title="McLean Lawn Flamingo attack" src="http://zhurnaly.com/images/run/McLean-lawn-flamingos_2019-05-15_t.jpg" alt="McLean Lawn Flamingo attack" /></a></td></tr></table><p><em>(<a class="url http outside" href="https://www.strava.com/activities/2369207560">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2019-06-01</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Another house under attack by flamingos!" K2 leads Dawn Patrol through back roads; we're constrained by early meetings to dash for iced coffee and then make a speedy return. The Four Seasons nursery is rich with spring flowers, leading Roadkill to muse about "A rose by any other name...", the Yoneda Lemma, and the associated joke: "If it's just a **lemma**, then what's the **theorem**?" Answer: "All of them!" //(OK, a Category Theorist's sense of humor is, uh, ...)//<br />&lt; "God Bless America" says a faded lawn sculpture depicting either a puffball mushroom or a giant golf ball on a tee. Black vultures graze at a dumpster. We give thanks for the peachy sunrise. "Gratitude creates joy!"</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">|</strong> "Another house under attack by flamingos!" K2 leads Dawn Patrol through back roads; we're constrained by early meetings to dash for iced coffee and then make a speedy return. The Four Seasons nursery is rich with spring flowers, leading Roadkill to muse about "A rose by any other name...", the Yoneda Lemma, and the associated joke: "If it's just a **lemma**, then what's the **theorem**?" Answer: "All of them!" //(OK, a Category Theorist's sense of humor is, uh, ...)//<br />&gt; <strong class="changes">\\</strong><br />&gt; "God Bless America" says a faded lawn sculpture depicting either a puffball mushroom or a giant golf ball on a tee. Black vultures graze at a dumpster. We give thanks for the peachy sunrise. "Gratitude creates joy!" <strong class="changes">| [[image:http://zhurnaly.com/images/run/McLean-lawn-flamingos_2019-05-15_t.jpg|McLean Lawn Flamingo attack|http://zhurnaly.com/images/run/McLean-lawn-flamingos_2019-05-15.jpg]] |</strong></p></div>
+lastmajorsummary: add pic
+ts: 1559377103
+minor: 
+host: 71.178.83.138
+username: z
+revision: 2
+diff-major: 1
+summary: add pic
+languages: 
+text: === ~4.7 mi @ ~12.2 min/mi
+	
+	| "Another house under attack by flamingos!" K2 leads Dawn Patrol through back roads; we're constrained by early meetings to dash for iced coffee and then make a speedy return. The Four Seasons nursery is rich with spring flowers, leading Roadkill to muse about "A rose by any other name...", the Yoneda Lemma, and the associated joke: "If it's just a **lemma**, then what's the **theorem**?" Answer: "All of them!" //(OK, a Category Theorist's sense of humor is, uh, ...)//
+	\\
+	"God Bless America" says a faded lawn sculpture depicting either a puffball mushroom or a giant golf ball on a tee. Black vultures graze at a dumpster. We give thanks for the peachy sunrise. "Gratitude creates joy!" | [[image:http://zhurnaly.com/images/run/McLean-lawn-flamingos_2019-05-15_t.jpg|McLean Lawn Flamingo attack|http://zhurnaly.com/images/run/McLean-lawn-flamingos_2019-05-15.jpg]] |
+	
+	//([[https://www.strava.com/activities/2369207560|trackfile]])// - //**^z**// - 2019-06-01
+	
+lastmajor: 2
+keep-ts: 1559377103

@@ -1,0 +1,16 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">**Happy 4th Anniversary, //^zhurnal!**//<br />&lt; A critical look back suggests that entries here tend to fall into a handful of overlapping categories. Five types are arguably healthy in their motivation:<br />&lt; * **sharing** --- offerings of ideas, metaphors, the occasional pretty pebble found on the beach ...<br />&lt; * **quoting** --- noteworthy phrases, aphorisms, literary excerpts, newspaper clippings, and the like ...<br />&lt; * **coaching** --- exhortations to myself to try harder and be a better person, or at least emulate one ...<br />&lt; * **sharpening** --- attempts to focus and clarify my thinking, and to identify areas that need improvement ...<br />&lt; * **remembering** --- observations that I fancy I might wish to revisit some day, rather like notes to a future self ...<br />&lt; Then there are two forms of //**^zhurnal**// item that seem significantly less noble:<br />&lt; * **catharsis** --- self-psychotherapeutic venting of disgruntlement, anger, shame, or other emotions ...<br />&lt; * **exhibitionism** --- juggling, sword-swallowing, high-wire walks, fire-eating, and miscellaneous intellectual showings-off ...<br />&lt; What other pigeonholes can posts be sorted into? Should the [[TopicIndex]] list be expanded? //(Recent additions have included "Language" and "Recreation".)// Which themes deserve more //(or less)// attention? Is it time to can this project, or change it radically? What other questions should be asked?<br />&lt; //(see also [[Zhurnal Zero]] (4 Apr 1999), [[AnnalsOfJournals]] (4 Apr 2000), [[ZhurnalAnniversary2]] (4 Apr 2001),</strong> [[Zhurnal <strong class="changes">Three</strong>]] <strong class="changes">(4 Apr 2002), ...)//<br />&lt; ----<br />&lt; [[TopicZhurnal]] - [[TopicWriting]] - [[TopicJournalizing]] - Datetag20030404<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[Zhurnal Three]], [[SiMonumentumRequiris]], [[TomorrowSinger]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[Zhurnal <strong class="changes">Themes</strong>]]</p></div>
+ip: 70.21.102.87
+ts: 1221348813
+minor: 1
+host: pool-70-21-102-87.res.east.verizon.net
+username: MarkZimmermann
+revision: 6
+diff-major: 
+summary: redirect to new page name
+languages: 
+text: #REDIRECT [[Zhurnal Themes]]
+	
+lastmajor: 3
+keep-ts: 1221348813

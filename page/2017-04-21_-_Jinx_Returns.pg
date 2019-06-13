@@ -1,0 +1,25 @@
+blocks: <h3>~7.0 miles @ ~13.7 min/mi</h3><p>"She's got a cone around her neck, her tail is half-shaved, and she's just happy to be home!" Jinx, a family cat, is back after several weeks at an undisclosed location. The Dawn Patrol sympathizes. Low clouds tickle the tops of Tysons Corner office buildings; heavy traffic makes for long pauses at crosswalks. Kristin, Kerry, and Cait catch up on news and share ideas for better communication. Sometimes polishing a message to perfection isn't as valuable as a faster good-enough response.</p><p>"Take everybody out shopping together!" - "Assign someone to bake goodies for the next meeting!" - "Teach them to pull their hair back into a Power Bun!" We brainstorm how to help some senior manager-colleagues escape their usual comfort zones. <em>Hmmmmm</em> ... that last suggestion might not work for the follicly-challenged!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/968773544">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-05-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.183
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.0 miles @ ~13.7 min/mi
+	
+	"She's got a cone around her neck, her tail is half-shaved, and she's just happy to be home!" Jinx, a family cat, is back after several weeks at an undisclosed location. The Dawn Patrol sympathizes. Low clouds tickle the tops of Tysons Corner office buildings; heavy traffic makes for long pauses at crosswalks. Kristin, Kerry, and Cait catch up on news and share ideas for better communication. Sometimes polishing a message to perfection isn't as valuable as a faster good-enough response.
+	
+	"Take everybody out shopping together!" - "Assign someone to bake goodies for the next meeting!" - "Teach them to pull their hair back into a Power Bun!" We brainstorm how to help some senior manager-colleagues escape their usual comfort zones. //Hmmmmm// ... that last suggestion might not work for the follicly-challenged!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/968773544|trackfile]])// - //**^z**// - 2017-05-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.0 miles @ ~13.7 min/mi<br />&gt; "She's got a cone around her neck, her tail is half-shaved, and she's just happy to be home!" Jinx, a family cat, is back after several weeks at an undisclosed location. The Dawn Patrol sympathizes. Low clouds tickle the tops of Tysons Corner office buildings; heavy traffic makes for long pauses at crosswalks. Kristin, Kerry, and Cait catch up on news and share ideas for better communication. Sometimes polishing a message to perfection isn't as valuable as a faster good-enough response.<br />&gt; "Take everybody out shopping together!" - "Assign someone to bake goodies for the next meeting!" - "Teach them to pull their hair back into a Power Bun!" We brainstorm how to help some senior manager-colleagues escape their usual comfort zones. //Hmmmmm// ... that last suggestion might not work for the follicly-challenged!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/968773544|trackfile]])// - //**^z**// - 2017-05-17</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

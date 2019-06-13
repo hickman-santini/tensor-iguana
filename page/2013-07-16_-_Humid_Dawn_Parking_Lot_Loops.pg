@@ -1,0 +1,22 @@
+blocks: <h3>~3.5 miles @ ~11 min/mi</h3><p>At 5:45am it's already super-warm and damp, as Kristin and I set off from the loading dock and run around the office neighborhood. Two rabbits eye us and then dash away near mile 2 of our meandering route. The <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/209726264">iPhone's GPS</a> glitches and records an extra 0.2 miles when I cut through the MITRE-3 parking garage to pick up a towel from my car. At 0630 we greet Kerry Buckley and Ed Brown as they prepare to begin their run. K and I are done!</p><p><em><strong>^z</strong></em> - 2013-08-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.53
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.5 miles @ ~11 min/mi
+	
+	At 5:45am it's already super-warm and damp, as Kristin and I set off from the loading dock and run around the office neighborhood. Two rabbits eye us and then dash away near mile 2 of our meandering route. The [[http://runkeeper.com/user/zhurnaly/activity/209726264|iPhone's GPS]] glitches and records an extra 0.2 miles when I cut through the MITRE-3 parking garage to pick up a towel from my car. At 0630 we greet Kerry Buckley and Ed Brown as they prepare to begin their run. K and I are done!
+	
+	//**^z**// - 2013-08-02
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~3.5 miles @ ~11 min/mi<br />&gt; At 5:45am it's already super-warm and damp, as Kristin and I set off from the loading dock and run around the office neighborhood. Two rabbits eye us and then dash away near mile 2 of our meandering route. The [[http://runkeeper.com/user/zhurnaly/activity/209726264|iPhone's GPS]] glitches and records an extra 0.2 miles when I cut through the MITRE-3 parking garage to pick up a towel from my car. At 0630 we greet Kerry Buckley and Ed Brown as they prepare to begin their run. K and I are done!<br />&gt; //**^z**// - 2013-08-02</p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057697

@@ -1,0 +1,34 @@
+flags: 0
+blocks: <h3>2 Comments.</h3><p>Ahaha, I love it. And those are some of my favorite commercials.</p><p>-- rayna 2012-02-10 07:47 UTC</p><hr /><p>from <a class="url http outside" href="http://www.alexandertechnique.com/articles/chance/">The Alexander Technique</a> by Jeremy Chance:<br /></p><blockquote><p>In fact, if you try to learn something 'new' you will only hamper your progress. Alexander: "Trying is only emphasising the thing you already know." The thing you want to learn is the absence of what you have, and that's nothing. How can an absence of something be something? As my loved and treasured teacher Marjorie Barstow always used to remind me: "All you want is a little bit of nothing. The trouble with all you people is that you all want something. And the something is your habit."</p><p>Alexander's discoveries are all about our habits, all about discovering what we are already doing to ourselves.... The primary premise behind Alexander work, so at odds with most educational systems, is that if something is wrong it will be because we are doing something to make it wrong. Find out what that thing is and stop it. Then, as Alexander always used to say, "The right thing does itself."<br /></p></blockquote><p>-- <a class="url http outside" href="http://zhurnaly.com">Zimmmm</a> 2012-02-19 03:47 UTC</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; In fact, if you try to learn something <strong class="changes">‘</strong>new<strong class="changes">’</strong> you will only hamper your progress. Alexander: "Trying is only emphasising the thing you already know." The thing you want to learn is the absence of what you have, and that<strong class="changes">’</strong>s nothing. How can an absence of something be something? As my loved and treasured teacher Marjorie Barstow always used to remind me: "All you want is a little bit of nothing. The trouble with all you people is that you all want something. And the something is your habit."<br />&lt; Alexander<strong class="changes">’</strong>s discoveries are all about our habits, all about discovering what we are already doing to ourselves.... The primary premise behind Alexander work, so at odds with most educational systems, is that if something is wrong it will be because we are doing something to make it wrong. Find out what that thing is and stop it. Then, as Alexander always used to say, "The right thing does itself."</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; In fact, if you try to learn something <strong class="changes">'</strong>new<strong class="changes">'</strong> you will only hamper your progress. Alexander: "Trying is only emphasising the thing you already know." The thing you want to learn is the absence of what you have, and that<strong class="changes">'</strong>s nothing. How can an absence of something be something? As my loved and treasured teacher Marjorie Barstow always used to remind me: "All you want is a little bit of nothing. The trouble with all you people is that you all want something. And the something is your habit."<br />&gt; Alexander<strong class="changes">'</strong>s discoveries are all about our habits, all about discovering what we are already doing to ourselves.... The primary premise behind Alexander work, so at odds with most educational systems, is that if something is wrong it will be because we are doing something to make it wrong. Find out what that thing is and stop it. Then, as Alexander always used to say, "The right thing does itself."</p></div>
+ip: 71.178.88.61
+ts: 1528057676
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 6
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	Ahaha, I love it.  And those are some of my favorite commercials.
+	
+	-- rayna 2012-02-10 07:47 UTC
+	
+	
+	----
+	
+	from [[http://www.alexandertechnique.com/articles/chance/|The Alexander Technique]] by Jeremy Chance:
+	"""
+	In fact, if you try to learn something 'new' you will only hamper your progress. Alexander: "Trying is only emphasising the thing you already know." The thing you want to learn is the absence of what you have, and that's nothing. How can an absence of something be something? As my loved and treasured teacher Marjorie Barstow always used to remind me: "All you want is a little bit of nothing. The trouble with all you people is that you all want something. And the something is your habit."
+	
+	Alexander's discoveries are all about our habits, all about discovering what we are already doing to ourselves.... The primary premise behind Alexander work, so at odds with most educational systems, is that if something is wrong it will be because we are doing something to make it wrong. Find out what that thing is and stop it. Then, as Alexander always used to say, "The right thing does itself."
+	"""
+	
+	-- [http://zhurnaly.com Zimmmm] 2012-02-19 03:47 UTC
+	
+	
+languages: 
+lastmajor: 2
+keep-ts: 1528057676

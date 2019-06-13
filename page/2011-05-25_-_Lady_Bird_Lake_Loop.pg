@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~10.2 miles @ ~10.6 min/mi</h3></p><p>Warm and humid early morning in Austin Texas, as a big rabbit crouches by the trail at the canoe rental on the north side of the town lake and a big turtle watches runners on the south shore. Yesterday's fast <a class="url http outside" href="http://connect.garmin.com/activity/87946900">bicycling experiment</a> with brother Keith is fun: "This could be highly addictive!" I tell him.</p><p><em>(GPS trackfiles for <a class="url http outside" href="http://connect.garmin.com/activity/87946898">Tuesday flight from Baltimore to Austin</a> and for <a class="url http outside" href="http://connect.garmin.com/activity/87946904">Lady Bird Lake loop trail</a>, ...)</em> - <em><strong>^z</strong></em> - 2011-06-04</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Warm and humid early morning in Austin Texas, as a big rabbit crouches by the trail at the canoe rental on the north side of the town lake and a big turtle watches runners on the south shore. Yesterday's fast [[http://connect.garmin.com/activity/<strong class="changes">87946904</strong>|bicycling experiment]] with brother Keith is fun: "This could be highly addictive!" I tell him.<br />&lt; <strong class="changes">//([[</strong>http://connect.garmin.com/activity/87946904|<strong class="changes">GPS trackfile</strong>]], ...)// - //**^z**// - 2011-06-04</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Warm and humid early morning in Austin Texas, as a big rabbit crouches by the trail at the canoe rental on the north side of the town lake and a big turtle watches runners on the south shore. Yesterday's fast [[http://connect.garmin.com/activity/<strong class="changes">87946900</strong>|bicycling experiment]] with brother Keith is fun: "This could be highly addictive!" I tell him.<br />&gt; <strong class="changes">//(GPS trackfiles for [[http://connect.garmin.com/activity/87946898|Tuesday flight from Baltimore to Austin]] and for [[</strong>http://connect.garmin.com/activity/87946904|<strong class="changes">Lady Bird Lake loop trail</strong>]], ...)// - //**^z**// - 2011-06-04</p></div>
+ip: 141.156.143.26
+ts: 1307183581
+minor: 1
+host: pool-141-156-143-26.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: fix links
+languages: 
+text: === ~10.2 miles @ ~10.6 min/mi
+	
+	Warm and humid early morning in Austin Texas, as a big rabbit crouches by the trail at the canoe rental on the north side of the town lake and a big turtle watches runners on the south shore. Yesterday's fast [[http://connect.garmin.com/activity/87946900|bicycling experiment]] with brother Keith is fun: "This could be highly addictive!" I tell him.
+	
+	//(GPS trackfiles for [[http://connect.garmin.com/activity/87946898|Tuesday flight from Baltimore to Austin]] and for [[http://connect.garmin.com/activity/87946904|Lady Bird Lake loop trail]], ...)// - //**^z**// - 2011-06-04
+	
+lastmajor: 1
+keep-ts: 1307183581

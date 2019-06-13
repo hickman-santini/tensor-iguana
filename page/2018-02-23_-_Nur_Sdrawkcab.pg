@@ -1,0 +1,23 @@
+blocks: <h3>~5.3 mi @ ~12.8 min/mi</h3><p>"Raccoon!" K-Rex spies the critter galumphing across Pimmit Drive, the first and only of its kind seen in that neighborhood. In a cool drizzle Dawn Patrol sets off in opposite-to-normal direction, and everything looks new and different. Cars pause politely for us at crosswalks. We ponder why some kids (and adults) are so stoic when ill, while others become whiny-needy. Birds chirp as the sky brightens. We meander to produce a crenelated trackfile map, in hopes of giving artist Sean a new challenge.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1125090219">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-03-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.163
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.3 mi @ ~12.8 min/mi
+	
+	"Raccoon!" K-Rex spies the critter galumphing across Pimmit Drive, the first and only of its kind seen in that neighborhood. In a cool drizzle Dawn Patrol sets off in opposite-to-normal direction, and everything looks new and different. Cars pause politely for us at crosswalks. We ponder why some kids (and adults) are so stoic when ill, while others become whiny-needy. Birds chirp as the sky brightens. We meander to produce a crenelated trackfile map, in hopes of giving artist Sean a new challenge.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1125090219|trackfile]])// - //**^z**// - 2018-03-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.3 mi @ ~12.8 min/mi<br />&gt; "Raccoon!" K-Rex spies the critter galumphing across Pimmit Drive, the first and only of its kind seen in that neighborhood. In a cool drizzle Dawn Patrol sets off in opposite-to-normal direction, and everything looks new and different. Cars pause politely for us at crosswalks. We ponder why some kids (and adults) are so stoic when ill, while others become whiny-needy. Birds chirp as the sky brightens. We meander to produce a crenelated trackfile map, in hopes of giving artist Sean a new challenge.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1125090219|trackfile]])// - //**^z**// - 2018-03-24</strong></p></div>
+flags: 0
+ts: 1528057686
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057686

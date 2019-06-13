@@ -1,0 +1,53 @@
+blocks: <h3>3 Comments.</h3><p>Hello, I am writing regarding your web page about saving scraps of web pages using a bookmarklet.</p><p>In case you are not aware, there is an extension or addon for the Firefox web browser which will save any part of a web page or the complete page or even an entire web site.</p><p>The extension is Scrapbook which can be found here: <a class="url http" href="https://addons.mozilla.org/en-US/firefox/addon/427/">https://addons.mozilla.org/en-US/firefox/addon/427/</a> . There is a an improved version which is Scrapbook Plus, which has been modified by another author <a class="url http" href="https://addons.mozilla.org/en-US/firefox/addon/8186/">https://addons.mozilla.org/en-US/firefox/addon/8186/</a> .</p><p>The Scrapbook addon saves pages to your hard drive and has many tools for managing your collections and editing any saved pages.</p><p>I hope you find this information useful.</p><p>Cheers<br /> Robert</p><hr /><p>To make the scrapbook files available from another computer, you can use a USB flash memory drive and install a portable version of Firefox. I have used the open source Portable Apps program which is found here: <a class="url http" href="http://portableapps.com/">http://portableapps.com/</a></p><p>Download and install on a USB flash memory drive then download and install the portable version of Firefox, <a class="url http" href="http://portableapps.com/apps/internet/firefox_portable">http://portableapps.com/apps/internet/firefox_portable</a> --- then you can get the scrapbook addon and save all your scraps to the flash drive, which will be available to use on any computer. You can also import and export the scrapbook files between your desktop or mobile PC and the portable drive.</p><p>I understand that your project is for online storage, which requires a dependable host site and will be inaccessible  if the site is down or you have no internet access. The portable solution overcomes these problems and I have found it most useful when studying away from home.</p><p>Cheers<br />Robert</p><hr /><p>to make the bookmarklet Javascript work in IE8 (maybe!) try changing it to:<br /></p><pre class="real">javascript:range=document.selection.createRange();location.href='http://zhurnaly.com/cgi-bin/scrapbook.cgi?X='+encodeURIComponent(location.href)+'&amp;Y='+encodeURIComponent(range.text);</pre><p>... since older versions of Internet Explorer don't handle window.getSelection() properly, so it's apparently necessary to do document.selection.createRange and then use its text ...</p><p>-- <a class="url http outside" href="http://zhurnaly.com">mezimmerman</a> 2011-09-09 15:58 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.44
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 3 Comments. ===
+	
+	Hello, I am writing regarding your web page about saving scraps of web pages using a bookmarklet.
+	
+	In case you are not aware, there is an extension or addon for the Firefox web browser which will save any part of a web page or the complete page or even an entire web site.
+	
+	The extension is Scrapbook which can be found here: https://addons.mozilla.org/en-US/firefox/addon/427/ .  There is a an improved version which is Scrapbook Plus, which has been modified by another author https://addons.mozilla.org/en-US/firefox/addon/8186/ .
+	
+	The Scrapbook addon saves pages to your hard drive and has many tools for managing your collections and editing any saved pages.
+	
+	I hope you find this information useful.
+	
+	Cheers
+	    Robert
+	
+	----
+	
+	To make the scrapbook files available from another computer, you can use a USB flash memory drive and install a portable version of Firefox. I have used the open source Portable Apps program which is found here: http://portableapps.com/
+	
+	Download and install on a USB flash memory drive then download and install the portable version of Firefox, http://portableapps.com/apps/internet/firefox_portable --- then you can get the scrapbook addon and save all your scraps to the flash drive, which will be available to use on any computer. You can also import and export the scrapbook files between your desktop or mobile PC and the portable drive.
+	
+	I understand that your project is for online storage, which requires a dependable host site and will be inaccessible  if the site is down or you have no internet access. The portable solution overcomes these problems and I have found it most useful when studying away from home.
+	
+	Cheers
+	Robert
+	
+	----
+	
+	to make the bookmarklet Javascript work in IE8 (maybe!) try changing it to:
+	{{{
+	javascript:range=document.selection.createRange();location.href='http://zhurnaly.com/cgi-bin/scrapbook.cgi?X='+encodeURIComponent(location.href)+'&Y='+encodeURIComponent(range.text);
+	}}}
+	... since older versions of Internet Explorer don't handle window.getSelection() properly, so it's apparently necessary to do document.selection.createRange and then use its text ...
+	
+	-- [http://zhurnaly.com mezimmerman] 2011-09-09 15:58 UTC
+	
+	
+languages: 
+lastmajor: 29
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 3 Comments. ===<br />&gt; Hello, I am writing regarding your web page about saving scraps of web pages using a bookmarklet.<br />&gt; In case you are not aware, there is an extension or addon for the Firefox web browser which will save any part of a web page or the complete page or even an entire web site.<br />&gt; The extension is Scrapbook which can be found here: https://addons.mozilla.org/en-US/firefox/addon/427/ .  There is a an improved version which is Scrapbook Plus, which has been modified by another author https://addons.mozilla.org/en-US/firefox/addon/8186/ .<br />&gt; The Scrapbook addon saves pages to your hard drive and has many tools for managing your collections and editing any saved pages.<br />&gt; I hope you find this information useful.<br />&gt; Cheers<br />&gt;     Robert<br />&gt; ----<br />&gt; To make the scrapbook files available from another computer, you can use a USB flash memory drive and install a portable version of Firefox. I have used the open source Portable Apps program which is found here: http://portableapps.com/<br />&gt; Download and install on a USB flash memory drive then download and install the portable version of Firefox, http://portableapps.com/apps/internet/firefox_portable --- then you can get the scrapbook addon and save all your scraps to the flash drive, which will be available to use on any computer. You can also import and export the scrapbook files between your desktop or mobile PC and the portable drive.<br />&gt; I understand that your project is for online storage, which requires a dependable host site and will be inaccessible  if the site is down or you have no internet access. The portable solution overcomes these problems and I have found it most useful when studying away from home.<br />&gt; Cheers<br />&gt; Robert<br />&gt; ----<br />&gt; to make the bookmarklet Javascript work in IE8 (maybe!) try changing it to:<br />&gt; {{{<br />&gt; javascript:range=document.selection.createRange();location.href='http://zhurnaly.com/cgi-bin/scrapbook.cgi?X='+encodeURIComponent(location.href)+'&amp;Y='+encodeURIComponent(range.text);<br />&gt; }}}<br />&gt; ... since older versions of Internet Explorer don't handle window.getSelection() properly, so it's apparently necessary to do document.selection.createRange and then use its text ...<br />&gt; -- [http://zhurnaly.com mezimmerman] 2011-09-09 15:58 UTC</p></div>
+flags: 0
+ts: 1528057699
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 29
+keep-ts: 1528057699

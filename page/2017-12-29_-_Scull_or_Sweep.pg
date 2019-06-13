@@ -1,0 +1,25 @@
+blocks: <h3>~4.8 mi @ ~9.8 min/mi</h3><p>"Scull or Sweep?" Caitlin asks, re rowing as depicted in the romantic comedy film <strong>Must Love Dogs</strong>. She explains some of the finer points of crew and racing shells during mile 4 of today's trek. Temps are in the upper teens and our pace is similarly brisk as the Dawn Patrol Duo follows neighborhood streets to the Bethesda Trolley Trail, missing a turn in the dark along the way and circling back.</p><p>"Maybe <em>'<strong>Fast</strong>'</em> is your trigger word?" After complaining of hamstring twinges somebody says, "So we shouldn't go too fast!" - and then, according to Cait, we speed up. <em>Oops!</em> And later, at the office locker room post-shower he discovers that he's forgotten his pants. <em>Oops!</em> Fortunately black running tights suffice on a pre-holiday Friday. One friend notices, and laughs.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1101786964">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-01-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.163
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.8 mi @ ~9.8 min/mi
+	
+	"Scull or Sweep?" Caitlin asks, re rowing as depicted in the romantic comedy film **Must Love Dogs**. She explains some of the finer points of crew and racing shells during mile 4 of today's trek. Temps are in the upper teens and our pace is similarly brisk as the Dawn Patrol Duo follows neighborhood streets to the Bethesda Trolley Trail, missing a turn in the dark along the way and circling back.
+	
+	"Maybe //'**Fast**'// is your trigger word?" After complaining of hamstring twinges somebody says, "So we shouldn't go too fast!" - and then, according to Cait, we speed up. //Oops!// And later, at the office locker room post-shower he discovers that he's forgotten his pants. //Oops!// Fortunately black running tights suffice on a pre-holiday Friday. One friend notices, and laughs.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1101786964|trackfile]])// - //**^z**// - 2018-01-24
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.8 mi @ ~9.8 min/mi<br />&gt; "Scull or Sweep?" Caitlin asks, re rowing as depicted in the romantic comedy film **Must Love Dogs**. She explains some of the finer points of crew and racing shells during mile 4 of today's trek. Temps are in the upper teens and our pace is similarly brisk as the Dawn Patrol Duo follows neighborhood streets to the Bethesda Trolley Trail, missing a turn in the dark along the way and circling back.<br />&gt; "Maybe //'**Fast**'// is your trigger word?" After complaining of hamstring twinges somebody says, "So we shouldn't go too fast!" - and then, according to Cait, we speed up. //Oops!// And later, at the office locker room post-shower he discovers that he's forgotten his pants. //Oops!// Fortunately black running tights suffice on a pre-holiday Friday. One friend notices, and laughs.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1101786964|trackfile]])// - //**^z**// - 2018-01-24</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057690

@@ -1,0 +1,23 @@
+blocks: <h3>~3 miles @ ~10.5 min/mi</h3><p>"Car back!" is the chorus on a foggy dark Halloween morning as the usual gang &mdash; Amber, David, Kerry, Kristin &mdash; starts at 0630 for a pre-work-day ramble around the Pimmit Hills 'hood, accompanied by jokes about transcranial low-voltage brain stimulation, a mini-review <strong>Master and Commander</strong>, anecdotes of recent races, etc. At journey's end both Kristin and I actually manage <em>(barely!)</em> to control our obsessive-compulsive tendency to do "just a few steps more" and push the distance up to the next integer value. "2.97 miles" is what <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/264439126">Runkeeper</a> records. Enough!</p><p><em><strong>^z</strong></em> - 2013-11-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3 miles @ ~10.5 min/mi
+	
+	"Car back!" is the chorus on a foggy dark Halloween morning as the usual gang &mdash; Amber, David, Kerry, Kristin &mdash; starts at 0630 for a pre-work-day ramble around the Pimmit Hills 'hood, accompanied by jokes about transcranial low-voltage brain stimulation, a mini-review **Master and Commander**, anecdotes of recent races, etc. At journey's end both Kristin and I actually manage //(barely!)// to control our obsessive-compulsive tendency to do "just a few steps more" and push the distance up to the next integer value. "2.97 miles" is what [[http://runkeeper.com/user/zhurnaly/activity/264439126|Runkeeper]] records. Enough!
+	
+	//**^z**// - 2013-11-10
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3 miles @ ~10.5 min/mi<br />&gt; "Car back!" is the chorus on a foggy dark Halloween morning as the usual gang &amp;mdash; Amber, David, Kerry, Kristin &amp;mdash; starts at 0630 for a pre-work-day ramble around the Pimmit Hills 'hood, accompanied by jokes about transcranial low-voltage brain stimulation, a mini-review **Master and Commander**, anecdotes of recent races, etc. At journey's end both Kristin and I actually manage //(barely!)// to control our obsessive-compulsive tendency to do "just a few steps more" and push the distance up to the next integer value. "2.97 miles" is what [[http://runkeeper.com/user/zhurnaly/activity/264439126|Runkeeper]] records. Enough!<br />&gt; //**^z**// - 2013-11-10</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057690

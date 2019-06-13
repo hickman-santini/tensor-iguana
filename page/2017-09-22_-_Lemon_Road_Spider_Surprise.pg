@@ -1,0 +1,25 @@
+blocks: <h3>~7.6 miles @ ~13.3 min/mi</h3><p>"I run like a dinosaur!" Caitlin declares, holding her hands like a <em>T Rex</em>, high and folded close in front of her. Photos of the Dawn Patrol have come in from the Navy-AF Half Marathon on Sunday. Kristin dismisses the stylistic criticism. Three big deer amble past as we cruise the McLean 'hood after a warm-up loop around the office building complex. "Is it a 'compound' or a 'campus'?" Hmmmmm ... each has its implications.</p><p>"<em><strong>Big</strong> spider!</em>" warns Cait, halting suddenly as a huge brown hairy arachnid climbs its web across the sidewalk. "Thank you for taking the lead!" we tell her. Her cap brim gives her a few extra inches of safety.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1057939415">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-10-21</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.146
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~7.6 miles @ ~13.3 min/mi
+	
+	"I run like a dinosaur!" Caitlin declares, holding her hands like a //T Rex//, high and folded close in front of her. Photos of the Dawn Patrol have come in from the Navy-AF Half Marathon on Sunday. Kristin dismisses the stylistic criticism. Three big deer amble past as we cruise the McLean 'hood after a warm-up loop around the office building complex. "Is it a 'compound' or a 'campus'?" Hmmmmm ... each has its implications.
+	
+	"//**Big** spider!//" warns Cait, halting suddenly as a huge brown hairy arachnid climbs its web across the sidewalk. "Thank you for taking the lead!" we tell her. Her cap brim gives her a few extra inches of safety.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1057939415|trackfile]])// - //**^z**// - 2017-10-21
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.6 miles @ ~13.3 min/mi<br />&gt; "I run like a dinosaur!" Caitlin declares, holding her hands like a //T Rex//, high and folded close in front of her. Photos of the Dawn Patrol have come in from the Navy-AF Half Marathon on Sunday. Kristin dismisses the stylistic criticism. Three big deer amble past as we cruise the McLean 'hood after a warm-up loop around the office building complex. "Is it a 'compound' or a 'campus'?" Hmmmmm ... each has its implications.<br />&gt; "//**Big** spider!//" warns Cait, halting suddenly as a huge brown hairy arachnid climbs its web across the sidewalk. "Thank you for taking the lead!" we tell her. Her cap brim gives her a few extra inches of safety.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1057939415|trackfile]])// - //**^z**// - 2017-10-21</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

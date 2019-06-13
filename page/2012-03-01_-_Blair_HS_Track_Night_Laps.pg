@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~3 miles @ ~8.3 min/mi</h3></p><p>After picking up Chinese carry-out for the starving masses Robin and I go to the Blair High School track and start running. Cara Marie Manlandro has told me to "descend" in pace, and that's the recipe in the darkness, with a first-quarter moon high overhead plus minimal illumination from lights at the football field and parking lot nearby. The <a class="url http outside" href="http://connect.garmin.com/activity/154056757">GPS trackfile</a> (adjusted to add ~9 seconds per mile, making up for its too-generous distance estimate) says 9:40 &rArr; 8:05 &rArr; 7:15. It's gloomy-spooky, with faint moonshadows underfoot and an unidentified third silent person doing slow laps.</p><p><em><strong>^z</strong></em> - 2012-03-08</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; After picking up Chinese carry-out for the starving masses Robin and I go to the Blair High School track and start running. Cara Marie Manlandro has told me to "descend" in pace, and that's the recipe in the darkness, with a first-quarter moon high overhead <strong class="changes">casting faint shadows</strong> plus minimal illumination from lights at the football field and parking lot nearby. The [[http://connect.garmin.com/activity/154056757|GPS trackfile]] (adjusted to add ~9 seconds per mile, making up for its too-generous distance estimate) says 9:40 &amp;rArr; 8:05 &amp;rArr; 7:15. It's gloomy-spooky, with faint moonshadows underfoot and an unidentified third silent person doing slow laps.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; After picking up Chinese carry-out for the starving masses Robin and I go to the Blair High School track and start running. Cara Marie Manlandro has told me to "descend" in pace, and that's the recipe in the darkness, with a first-quarter moon high overhead plus minimal illumination from lights at the football field and parking lot nearby. The [[http://connect.garmin.com/activity/154056757|GPS trackfile]] (adjusted to add ~9 seconds per mile, making up for its too-generous distance estimate) says 9:40 &amp;rArr; 8:05 &amp;rArr; 7:15. It's gloomy-spooky, with faint moonshadows underfoot and an unidentified third silent person doing slow laps.</p></div>
+ip: 138.88.29.237
+ts: 1331204692
+minor: 1
+host: pool-138-88-29-237.res.east.verizon.net
+username: Zimm
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: === ~3 miles @ ~8.3 min/mi
+	
+	After picking up Chinese carry-out for the starving masses Robin and I go to the Blair High School track and start running. Cara Marie Manlandro has told me to "descend" in pace, and that's the recipe in the darkness, with a first-quarter moon high overhead plus minimal illumination from lights at the football field and parking lot nearby. The [[http://connect.garmin.com/activity/154056757|GPS trackfile]] (adjusted to add ~9 seconds per mile, making up for its too-generous distance estimate) says 9:40 &rArr; 8:05 &rArr; 7:15. It's gloomy-spooky, with faint moonshadows underfoot and an unidentified third silent person doing slow laps.
+	
+	//**^z**// - 2012-03-08
+	
+lastmajor: 1
+keep-ts: 1331204692

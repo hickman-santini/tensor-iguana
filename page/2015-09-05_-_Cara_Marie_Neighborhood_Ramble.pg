@@ -1,0 +1,23 @@
+blocks: <h3>~3.7 miles @ ~14.5 min/mi</h3><p>"Nutella on matzos!" &mdash; my explanation for steady weight gain of ~1 pound/month for much of the past year. CM Manlandro and I tour her neighborhood, telling stories, walking hills, and sprinting across busy streets. I make her promise not to mistreat her minions if she gets multiple grants and has to hire students in her lab. Penguin-themed objets d'art at her home remind me of the film <strong>Fight Club</strong>, which she swears she hasn't yet seen. Total water intake this warm morning is ~80 oz, and when I get home I'm still dehydrated. The scale temporarily shows a number less than 150 lbs &mdash; alas, not for long!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/649847607">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-09-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.121
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.7 miles @ ~14.5 min/mi
+	
+	"Nutella on matzos!" &mdash; my explanation for steady weight gain of ~1 pound/month for much of the past year. CM Manlandro and I tour her neighborhood, telling stories, walking hills, and sprinting across busy streets. I make her promise not to mistreat her minions if she gets multiple grants and has to hire students in her lab. Penguin-themed objets d'art at her home remind me of the film **Fight Club**, which she swears she hasn't yet seen. Total water intake this warm morning is ~80 oz, and when I get home I'm still dehydrated. The scale temporarily shows a number less than 150 lbs &mdash; alas, not for long!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/649847607|trackfile]])// - //**^z**// - 2015-09-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.7 miles @ ~14.5 min/mi<br />&gt; "Nutella on matzos!" &amp;mdash; my explanation for steady weight gain of ~1 pound/month for much of the past year. CM Manlandro and I tour her neighborhood, telling stories, walking hills, and sprinting across busy streets. I make her promise not to mistreat her minions if she gets multiple grants and has to hire students in her lab. Penguin-themed objets d'art at her home remind me of the film **Fight Club**, which she swears she hasn't yet seen. Total water intake this warm morning is ~80 oz, and when I get home I'm still dehydrated. The scale temporarily shows a number less than 150 lbs &amp;mdash; alas, not for long!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/649847607|trackfile]])// - //**^z**// - 2015-09-24</strong></p></div>
+flags: 0
+ts: 1528057702
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057702

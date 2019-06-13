@@ -1,0 +1,23 @@
+blocks: <h3>~2 miles @ ~9.7 min/mi</h3><p>Young men practice standing jumps to a metal platform. Young ladies jog slowly around the oval. Bleachers block lanes 1 and 2 on the east side of the Kehoe Track at Ludwig Field. I notice and immediately forget the donor's name on the press box above the western seats. Perhaps the University of Maryland at College Park will soon sell campus naming rights? Robin runs steadily for ~1.5 miles while I sprint a lap and then walk a half-lap to recover. The <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/117515941">iPhone Runkeeper</a> app and <a class="url http outside" href="http://connect.garmin.com/activity/222383892">Garmin GPS</a> generally concur on splits: 1:40 + 1:37 + 1:36 + 1:36 + 1:37 + 1:37 for this cool-for-late-summer evening. Marathon Deli provides post-interval gyros, salty french fries, and sodas.</p><p><em><strong>^z</strong></em> - 2012-09-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.170.21
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2 miles @ ~9.7 min/mi
+	
+	Young men practice standing jumps to a metal platform. Young ladies jog slowly around the oval. Bleachers block lanes 1 and 2 on the east side of the Kehoe Track at Ludwig Field. I notice and immediately forget the donor's name on the press box above the western seats. Perhaps the University of Maryland at College Park will soon sell campus naming rights? Robin runs steadily for ~1.5 miles while I sprint a lap and then walk a half-lap to recover. The [[http://runkeeper.com/user/zhurnaly/activity/117515941|iPhone Runkeeper]] app and [[http://connect.garmin.com/activity/222383892|Garmin GPS]] generally concur on splits: 1:40 + 1:37 + 1:36 + 1:36 + 1:37 + 1:37 for this cool-for-late-summer evening. Marathon Deli provides post-interval gyros, salty french fries, and sodas.
+	
+	//**^z**// - 2012-09-27
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2 miles @ ~9.7 min/mi<br />&gt; Young men practice standing jumps to a metal platform. Young ladies jog slowly around the oval. Bleachers block lanes 1 and 2 on the east side of the Kehoe Track at Ludwig Field. I notice and immediately forget the donor's name on the press box above the western seats. Perhaps the University of Maryland at College Park will soon sell campus naming rights? Robin runs steadily for ~1.5 miles while I sprint a lap and then walk a half-lap to recover. The [[http://runkeeper.com/user/zhurnaly/activity/117515941|iPhone Runkeeper]] app and [[http://connect.garmin.com/activity/222383892|Garmin GPS]] generally concur on splits: 1:40 + 1:37 + 1:36 + 1:36 + 1:37 + 1:37 for this cool-for-late-summer evening. Marathon Deli provides post-interval gyros, salty french fries, and sodas.<br />&gt; //**^z**// - 2012-09-27</strong></p></div>
+flags: 0
+ts: 1528057705
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057705

@@ -1,0 +1,20 @@
+flags: 0
+blocks: <table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/unicorns/Pets.jpg" alt="http://zhurnaly.com/images/unicorns/Pets.jpg" /></td></tr></table><p><em>(text by Doreen Virtue, artwork by Tim Brown)</em></p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //(text by Doreen Virtue)//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; //(text by Doreen Virtue<strong class="changes">, artwork by Tim Brown</strong>)//</p></div>
+lastmajorsummary: art
+ts: 1542902081
+minor: 
+host: 71.178.87.32
+username: z
+revision: 2
+diff-major: 1
+summary: art
+languages: 
+text: | http://zhurnaly.com/images/unicorns/Pets.jpg |
+	
+	//(text by Doreen Virtue, artwork by Tim Brown)//
+	
+lastmajor: 2
+keep-ts: 1542902081

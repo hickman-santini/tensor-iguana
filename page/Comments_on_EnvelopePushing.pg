@@ -1,0 +1,23 @@
+flags: 0
+blocks: <p><h3>2 Comments.</h3></p><p>please would you tell me what "envelope-pushing" exactly means? I'm italian.<br />Thank you</p><p>Diana<br /></p><hr /><p><em>To me it means working on the edges of what's possible, or discovering that what's possible extends a little farther than anticipated. Perhaps it comes from the field of aviation? The range of parameters within which a plane can successfully fly --- speed, altitude, angle of attack, engine power, etc. --- could be envisioned as forming a multidimensional shape, an "envelope" ... and when test pilots "push the envelope" they explore the space of possibilities to discover what can and can't be done. - <strong>^z</strong> </em><br /></p><hr />
+ip: 71.178.91.229
+ts: 1518984701
+minor: 0
+host: pool-71-178-91-229.washdc.east.verizon.net
+username: z
+revision: 7
+summary: Rollback to 2012-03-20 02:25 UTC
+languages: 
+text: === 2 Comments. ===
+	
+	
+	please would you tell me what "envelope-pushing" exactly means? I'm italian. 
+	Thank you
+	
+	Diana
+	----
+	//To me it means working on the edges of what's possible, or discovering that what's possible extends a little farther than anticipated. Perhaps it comes from the field of aviation? The range of parameters within which a plane can successfully fly --- speed, altitude, angle of attack, engine power, etc. --- could be envisioned as forming a multidimensional shape, an "envelope" ... and when test pilots "push the envelope" they explore the space of possibilities to discover what can and can't be done. - **^z** //
+	----
+	
+lastmajor: 7
+keep-ts: 1518984701

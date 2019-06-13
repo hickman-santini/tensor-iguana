@@ -1,0 +1,23 @@
+blocks: <h3>~5.1 miles @ ~12.3 min/mi</h3><p>"Just Cambodia!" Dr K2 tells of her daughter's summer plans, to teach and tour almost as far from home as one could imagine. The Dawn Patrol pauses at mile 1 to pet a fat gray cat ambling down Anderson Road. We meander around Pimmit Hills, sharing weekend news, cooking projects, puppy updates, and long-run plans. Peonies and roses blossom in front-yard gardens. Kerry and Kristin notice a new cake shop on Route 7, with macarons on display. Alas, at 0630 the doors are locked.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/793293809">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-06-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.93.245
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.1 miles @ ~12.3 min/mi
+	
+	"Just Cambodia!" Dr K2 tells of her daughter's summer plans, to teach and tour almost as far from home as one could imagine. The Dawn Patrol pauses at mile 1 to pet a fat gray cat ambling down Anderson Road. We meander around Pimmit Hills, sharing weekend news, cooking projects, puppy updates, and long-run plans. Peonies and roses blossom in front-yard gardens. Kerry and Kristin notice a new cake shop on Route 7, with macarons on display. Alas, at 0630 the doors are locked.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/793293809|trackfile]])// - //**^z**// - 2016-06-09
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.1 miles @ ~12.3 min/mi<br />&gt; "Just Cambodia!" Dr K2 tells of her daughter's summer plans, to teach and tour almost as far from home as one could imagine. The Dawn Patrol pauses at mile 1 to pet a fat gray cat ambling down Anderson Road. We meander around Pimmit Hills, sharing weekend news, cooking projects, puppy updates, and long-run plans. Peonies and roses blossom in front-yard gardens. Kerry and Kristin notice a new cake shop on Route 7, with macarons on display. Alas, at 0630 the doors are locked.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/793293809|trackfile]])// - //**^z**// - 2016-06-09</strong></p></div>
+flags: 0
+ts: 1528057677
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057677

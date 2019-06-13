@@ -1,0 +1,19 @@
+flags: 0
+blocks: <p>A proverb heard today:</p><table class="user"><tr><td align="center">You get what you <strong>IN</strong>spect, not what you <strong>EX</strong>pect.</td></tr></table><p>It reminds me of another business-world aphorism encountered years ago: "Beware what you measure&mdash;you'll get it!"</p><p><em><strong>^z</strong></em> - 2009-11-23</p>
+ip: 138.88.106.60
+ts: 1259031996
+minor: 
+host: pool-138-88-106-60.res.east.verizon.net
+username: zz
+revision: 1
+summary: A proverb heard today: | You get what you **IN**spect, not what you **EX**pect. | It reminds me of another business-world aphorism encountered . . .
+languages: 
+text: A proverb heard today:
+	
+	| You get what you **IN**spect, not what you **EX**pect. |
+	
+	It reminds me of another business-world aphorism encountered years ago: "Beware what you measure&mdash;you'll get it!"
+	
+	//**^z**// - 2009-11-23
+	
+lastmajor: 1

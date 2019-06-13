@@ -1,0 +1,25 @@
+blocks: <table class="user"><tr><td align="right">Rocket Science is<br />&nbsp; &nbsp; <em><strong>not</strong></em><br />"Rocket Science"</td></tr></table><p>... the complex, when properly understood, is actually simple ... and <em>vice versa</em>!</p><p><em><strong>^z</strong></em> - 2017-08-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.193
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Rocket Science is
+	&nbsp; &nbsp; //**not**//
+	"Rocket Science" |
+	
+	... the complex, when properly understood, is actually simple ... and //vice versa//!
+	
+	//**^z**// - 2017-08-01
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Rocket Science is<br />&gt; &amp;nbsp; &amp;nbsp; //**not**//<br />&gt; "Rocket Science" |<br />&gt; ... the complex, when properly understood, is actually simple ... and //vice versa//!<br />&gt; //**^z**// - 2017-08-01</strong></p></div>
+flags: 0
+ts: 1528057684
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057684

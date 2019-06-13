@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~4.7 mi @ ~14.1 min/mi</h3><p>"Clay coached from the couch!" But the Duke basketball team lost in overtime last night, despite advice from K2's better half that they could easily have heard in Omaha. K-Rex leads Dawn Patrol to Starbucks, then through Evans Farm cut-throughs. Frost sparkles on grass and windshields. A truck idles in front of an under-construction mansion.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1137954812">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-04-18</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.7 mi @ ~14.1 min/mi<br />&gt; "Clay coached from the couch!" But the Duke basketball team lost in overtime last night, despite advice from K2's better half that they could easily have heard in Omaha. K-Rex leads Dawn Patrol to Starbucks, then through Evans Farm cut-throughs. Frost sparkles on grass and windshields. A truck idles in front of an under-construction mansion.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1137954812|trackfile]])// - //**^z**// - 2018-04-18</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057675
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~4.7 mi @ ~14.1 min/mi
+	
+	"Clay coached from the couch!" But the Duke basketball team lost in overtime last night, despite advice from K2's better half that they could easily have heard in Omaha. K-Rex leads Dawn Patrol to Starbucks, then through Evans Farm cut-throughs. Frost sparkles on grass and windshields. A truck idles in front of an under-construction mansion.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1137954812|trackfile]])// - //**^z**// - 2018-04-18
+	
+lastmajor: 3
+keep-ts: 1528057675

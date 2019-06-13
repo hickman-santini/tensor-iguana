@@ -1,0 +1,24 @@
+blocks: <h3>~1.7 miles @ ~15 min/mi</h3><table class="user"><tr><td align="center">Stars twinkle overhead; the temperature has fallen now to near freezing after the past few days of silly warmth. Kristin leads on the odd-number repeats and I go first on the even-numbered ones, as we descend the eastern staircase and climb the western side 8 times. GPS signal shadows and reflections make for wacky maps.</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Garmin_GPS_stairwork_map_2013-12-24.png" alt="http://zhurnaly.com/images/running/Garmin_GPS_stairwork_map_2013-12-24.png" /></td></tr></table><table class="user"><tr><td align="right">The <a class="url http outside" href="http://connect.garmin.com/activity/419263290">Garmin</a> is far more consistent on elevation measurement, with its barometric sensor, than the iPhone <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/154387402">Runtastic</a> using only GPS.</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Garmin_elevation_stairwork_2013-12-24.png" alt="http://zhurnaly.com/images/running/Garmin_elevation_stairwork_2013-12-24.png" /></td></tr></table><p><em><strong>^z</strong></em> - 2014-01-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.53
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~1.7 miles @ ~15 min/mi
+	
+	| Stars twinkle overhead; the temperature has fallen now to near freezing after the past few days of silly warmth. Kristin leads on the odd-number repeats and I go first on the even-numbered ones, as we descend the eastern staircase and climb the western side 8 times. GPS signal shadows and reflections make for wacky maps. | http://zhurnaly.com/images/running/Garmin_GPS_stairwork_map_2013-12-24.png |
+	
+	| The [[http://connect.garmin.com/activity/419263290|Garmin]] is far more consistent on elevation measurement, with its barometric sensor, than the iPhone [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/154387402|Runtastic]] using only GPS. | http://zhurnaly.com/images/running/Garmin_elevation_stairwork_2013-12-24.png |
+	
+	//**^z**// - 2014-01-14
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~1.7 miles @ ~15 min/mi<br />&gt; | Stars twinkle overhead; the temperature has fallen now to near freezing after the past few days of silly warmth. Kristin leads on the odd-number repeats and I go first on the even-numbered ones, as we descend the eastern staircase and climb the western side 8 times. GPS signal shadows and reflections make for wacky maps. | http://zhurnaly.com/images/running/Garmin_GPS_stairwork_map_2013-12-24.png |<br />&gt; | The [[http://connect.garmin.com/activity/419263290|Garmin]] is far more consistent on elevation measurement, with its barometric sensor, than the iPhone [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/154387402|Runtastic]] using only GPS. | http://zhurnaly.com/images/running/Garmin_elevation_stairwork_2013-12-24.png |<br />&gt; //**^z**// - 2014-01-14</p></div>
+flags: 0
+ts: 1528057682
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057682

@@ -1,0 +1,25 @@
+blocks: <h3>~6.5 miles @ ~12.7 min/mi</h3><p>"How much is that doggie in the window?" A portly Jack Russell terrier yips at passers-by as the sun rises. Kristin spots a rabbit munching the grass at McLean High School. Another bunny scampers along the middle of Susquehanna Drive. Crickets chirp, in the hallway near the gym as well as outside.</p><p>We meander through familiar neighborhoods, enjoying the cool first morning of autumn. Lawns glisten with dewdrops. On Kirby Road a tight peloton of eight cyclists, headlights blazing, looks like a cluster of cars from a distance. A pickup truck serving as storage-locker has its cab full and its bed overflowing with boxes, papers, pipes, and an old water heater. A pyramid of pumpkins in a front yard is labeled, "<strong>HAPPY FALL, Y'ALL!</strong>".</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/868649922">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-10-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.89
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.5 miles @ ~12.7 min/mi
+	
+	"How much is that doggie in the window?" A portly Jack Russell terrier yips at passers-by as the sun rises. Kristin spots a rabbit munching the grass at McLean High School. Another bunny scampers along the middle of Susquehanna Drive. Crickets chirp, in the hallway near the gym as well as outside.
+	
+	We meander through familiar neighborhoods, enjoying the cool first morning of autumn. Lawns glisten with dewdrops. On Kirby Road a tight peloton of eight cyclists, headlights blazing, looks like a cluster of cars from a distance. A pickup truck serving as storage-locker has its cab full and its bed overflowing with boxes, papers, pipes, and an old water heater. A pyramid of pumpkins in a front yard is labeled, "**HAPPY FALL, Y'ALL!**".
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/868649922|trackfile]])// - //**^z**// - 2016-10-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.5 miles @ ~12.7 min/mi<br />&gt; "How much is that doggie in the window?" A portly Jack Russell terrier yips at passers-by as the sun rises. Kristin spots a rabbit munching the grass at McLean High School. Another bunny scampers along the middle of Susquehanna Drive. Crickets chirp, in the hallway near the gym as well as outside.<br />&gt; We meander through familiar neighborhoods, enjoying the cool first morning of autumn. Lawns glisten with dewdrops. On Kirby Road a tight peloton of eight cyclists, headlights blazing, looks like a cluster of cars from a distance. A pickup truck serving as storage-locker has its cab full and its bed overflowing with boxes, papers, pipes, and an old water heater. A pyramid of pumpkins in a front yard is labeled, "**HAPPY FALL, Y'ALL!**".<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/868649922|trackfile]])// - //**^z**// - 2016-10-20</strong></p></div>
+flags: 0
+ts: 1528057709
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057709

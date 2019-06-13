@@ -1,0 +1,28 @@
+blocks: <p>How tone-rich this world has become in recent years:<br /></p><ul><li>elevator arrival signals</li><li>traffic crosswalk chirps</li><li>remote-control car-lock horn-toots</li><li>computer boot-up and shutdown chimes</li><li>call and text-message alerts on cellphones</li></ul><p> ... as though there's an invisible orchestra trying to break through from a shadow dimension!</p><p><em><strong>^z</strong></em> - 2013-01-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.182.137
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: How tone-rich this world has become in recent years:
+	* elevator arrival signals
+	* traffic crosswalk chirps
+	* remote-control car-lock horn-toots
+	* computer boot-up and shutdown chimes
+	* call and text-message alerts on cellphones
+	
+	 ... as though there's an invisible orchestra trying to break through from a shadow dimension!
+	
+	//**^z**// - 2013-01-26
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">How tone-rich this world has become in recent years:<br />&gt; * elevator arrival signals<br />&gt; * traffic crosswalk chirps<br />&gt; * remote-control car-lock horn-toots<br />&gt; * computer boot-up and shutdown chimes<br />&gt; * call and text-message alerts on cellphones<br />&gt;  ... as though there's an invisible orchestra trying to break through from a shadow dimension!<br />&gt; //**^z**// - 2013-01-26</strong></p></div>
+flags: 0
+ts: 1528057676
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057676

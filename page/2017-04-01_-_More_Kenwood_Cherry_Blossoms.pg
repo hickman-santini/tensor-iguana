@@ -1,0 +1,31 @@
+blocks: <h3>~20.4 miles @ ~13.2 min/mi</h3><table class="user"><tr><td align="right">"German cheesecake!" Gayatri Datta describes her cooking project yesterday. On the way to meet her in Bethesda, dodge puddles by skyglow on the Capital Crescent Trail. Spires of the Mormon Temple gleam between bare tree trunks as seen from the trestle over Rock Creek. We loop into East Bethesda and return via NIH and the Trolley Trail.<br /><br />"30,000 - which is why I don't run it!" Don Libes tells how many people will do the Cherry Blossom 10 Miler tomorrow as we await Rebecca Rosenberg, whose car won't start this morning. Our walkabout includes a pause at the Hello Kitty Truck, where a line is already forming. Gayatri and Jerry Epstein dash around the block. When Rebecca arrives we proceed down the CCT to the Kenwood neighborhood.</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_z_2017-04-01_t.jpg" alt="http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_z_2017-04-01_t.jpg" /></td></tr></table><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Lawn_Owl_z_2017-04-01_t.jpg" alt="http://zhurnaly.com/images/running/Lawn_Owl_z_2017-04-01_t.jpg" /></td><td align="right">"You're OCD - and you have a photographic memory!" Jerry leads the gang along a fractal route to cover streets that we missed last weekend. Pink confetti rains down upon us as brisk winds blow through the cherry blossoms. After a beautiful meander it's time to head home.<br /><br />"Lawn owl!" The big kitschy bird sculpture is filled with sand to add weight, and lies abandoned on the roadside at mile 19 near the one-lane wooden bridge over the train tracks. <em>Cross Training: carry it home and set it up by the front door!</em></td></tr></table><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/957268821">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-04-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.152
+summary: \\
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~20.4 miles @ ~13.2 min/mi<br />&gt; | "German cheesecake!" Gayatri Datta describes her cooking project yesterday. On the way to meet her in Bethesda, dodge puddles by skyglow on the Capital Crescent Trail. Spires of the Mormon Temple gleam between bare tree trunks as seen from the trestle over Rock Creek. We loop into East Bethesda and return via NIH and the Trolley Trail.<br />&gt; "30,000 - which is why I don't run it!" Don Libes tells how many people will do the Cherry Blossom 10 Miler tomorrow as we await Rebecca Rosenberg, whose car won't start this morning. Our walkabout includes a pause at the Hello Kitty Truck, where a line is already forming. Gayatri and Jerry Epstein dash around the block. When Rebecca arrives we proceed down the CCT to the Kenwood neighborhood. | http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_z_2017-04-01_t.jpg |<br />&gt; | http://zhurnaly.com/images/running/Lawn_Owl_z_2017-04-01_t.jpg | "You're OCD - and you have a photographic memory!" Jerry leads the gang along a fractal route to cover streets that we missed last weekend. Pink confetti rains down upon us as brisk winds blow through the cherry blossoms. After a beautiful meander it's time to head home.<br />&gt; "Lawn owl!" The big kitschy bird sculpture is filled with sand to add weight, and lies abandoned on the roadside at mile 19 near the one-lane wooden bridge over the train tracks. //Cross Training: carry it home and set it up by the front door!// |<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/957268821|trackfile]])// - //**^z**// - 2017-04-24</strong></p></div>
+languages: 
+text: === ~20.4 miles @ ~13.2 min/mi
+	
+	| "German cheesecake!" Gayatri Datta describes her cooking project yesterday. On the way to meet her in Bethesda, dodge puddles by skyglow on the Capital Crescent Trail. Spires of the Mormon Temple gleam between bare tree trunks as seen from the trestle over Rock Creek. We loop into East Bethesda and return via NIH and the Trolley Trail.
+	\\
+	"30,000 - which is why I don't run it!" Don Libes tells how many people will do the Cherry Blossom 10 Miler tomorrow as we await Rebecca Rosenberg, whose car won't start this morning. Our walkabout includes a pause at the Hello Kitty Truck, where a line is already forming. Gayatri and Jerry Epstein dash around the block. When Rebecca arrives we proceed down the CCT to the Kenwood neighborhood. | http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_z_2017-04-01_t.jpg |
+	
+	| http://zhurnaly.com/images/running/Lawn_Owl_z_2017-04-01_t.jpg | "You're OCD - and you have a photographic memory!" Jerry leads the gang along a fractal route to cover streets that we missed last weekend. Pink confetti rains down upon us as brisk winds blow through the cherry blossoms. After a beautiful meander it's time to head home.
+	\\
+	"Lawn owl!" The big kitschy bird sculpture is filled with sand to add weight, and lies abandoned on the roadside at mile 19 near the one-lane wooden bridge over the train tracks. //Cross Training: carry it home and set it up by the front door!// |
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/957268821|trackfile]])// - //**^z**// - 2017-04-24
+	
+lastmajor: 3
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div>
+flags: 0
+ts: 1554737261
+minor: 1
+host: 128.29.43.1
+username: z
+revision: 4
+keep-ts: 1554737261

@@ -1,0 +1,22 @@
+blocks: <h3>~3.3 miles @ ~10.3 min/mi</h3><p>Another fun early morning run with colleagues Amber Sprenger, David Foster, Kerry Buckley, and Kristin: David did an Olympic triathlon 9 days ago and leads us around the neighborhood (one rabbit sighted), then sets off for bonus mileage after the rest of us stop; Amber's young son is recovering from a broken arm; Kristin is surviving on only a few hours of sleep; Kerry is happy and fast! <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/243423918">Runkeeper</a> measures the distance.</p><p><em><strong>^z</strong></em> - 2013-10-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.53
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.3 miles @ ~10.3 min/mi
+	
+	Another fun early morning run with colleagues Amber Sprenger, David Foster, Kerry Buckley, and Kristin: David did an Olympic triathlon 9 days ago and leads us around the neighborhood (one rabbit sighted), then sets off for bonus mileage after the rest of us stop; Amber's young son is recovering from a broken arm; Kristin is surviving on only a few hours of sleep; Kerry is happy and fast! [[http://runkeeper.com/user/zhurnaly/activity/243423918|Runkeeper]] measures the distance.
+	
+	//**^z**// - 2013-10-02
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~3.3 miles @ ~10.3 min/mi<br />&gt; Another fun early morning run with colleagues Amber Sprenger, David Foster, Kerry Buckley, and Kristin: David did an Olympic triathlon 9 days ago and leads us around the neighborhood (one rabbit sighted), then sets off for bonus mileage after the rest of us stop; Amber's young son is recovering from a broken arm; Kristin is surviving on only a few hours of sleep; Kerry is happy and fast! [[http://runkeeper.com/user/zhurnaly/activity/243423918|Runkeeper]] measures the distance.<br />&gt; //**^z**// - 2013-10-02</p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057687

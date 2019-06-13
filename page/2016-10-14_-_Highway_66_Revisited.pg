@@ -1,0 +1,23 @@
+blocks: <h3>~8.1 miles @ ~12.7 min/mi</h3><p>"Let's skip the laps!" Kristin suggests as we approach the track. She and Cait lead the way past McLean High School and along Westmoreland Street. Headlights from a phalanx of bicycles simulate a big truck. Cute dogs greet us along the W&amp;OD Trail. In honor of Bob Dylan's Nobel Prize we review other classic faves: &Eacute;dith Piaf, meet the Traveling Wilburys! Trail talk includes injuries, politics, and weekend plans.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/880247835">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-11-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.188
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.1 miles @ ~12.7 min/mi
+	
+	"Let's skip the laps!" Kristin suggests as we approach the track. She and Cait lead the way past McLean High School and along Westmoreland Street. Headlights from a phalanx of bicycles simulate a big truck. Cute dogs greet us along the W&OD Trail. In honor of Bob Dylan's Nobel Prize we review other classic faves: &Eacute;dith Piaf, meet the Traveling Wilburys! Trail talk includes injuries, politics, and weekend plans.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/880247835|trackfile]])// - //**^z**// - 2016-11-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.1 miles @ ~12.7 min/mi<br />&gt; "Let's skip the laps!" Kristin suggests as we approach the track. She and Cait lead the way past McLean High School and along Westmoreland Street. Headlights from a phalanx of bicycles simulate a big truck. Cute dogs greet us along the W&amp;OD Trail. In honor of Bob Dylan's Nobel Prize we review other classic faves: &amp;Eacute;dith Piaf, meet the Traveling Wilburys! Trail talk includes injuries, politics, and weekend plans.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/880247835|trackfile]])// - //**^z**// - 2016-11-10</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

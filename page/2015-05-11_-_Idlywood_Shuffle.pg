@@ -1,0 +1,23 @@
+blocks: <h3>~10.2 miles @ ~12.0 min/mi</h3><p>Kerry, Kristin, and I take turns leading and taking cobwebs in the face for The Team along the woodsy path beside Magarity Rd. We extend our survey of Idlywood Rd to outside the Beltway and discover a stretch of no sidewalk and narrow shoulders, a burnt-out house, and one rabbit. Soon we're on the W&amp;OD Trail, dodging cyclists and greeting joggers. High humidity and warm temperatures make for a sweaty trek. The water fountain at Route 7 is thankfully working, but the hot yoga studio's windows are dark. Kerry spies a lawn sprinkler; Kristin &amp; I divert to get a quick cooldown.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/567673195">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-06-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.208.51
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~10.2 miles @ ~12.0 min/mi
+	
+	Kerry, Kristin, and I take turns leading and taking cobwebs in the face for The Team along the woodsy path beside Magarity Rd. We extend our survey of Idlywood Rd to outside the Beltway and discover a stretch of no sidewalk and narrow shoulders, a burnt-out house, and one rabbit. Soon we're on the W&OD Trail, dodging cyclists and greeting joggers. High humidity and warm temperatures make for a sweaty trek. The water fountain at Route 7 is thankfully working, but the hot yoga studio's windows are dark. Kerry spies a lawn sprinkler; Kristin & I divert to get a quick cooldown.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/567673195|trackfile]])// - //**^z**// - 2015-06-06
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.2 miles @ ~12.0 min/mi<br />&gt; Kerry, Kristin, and I take turns leading and taking cobwebs in the face for The Team along the woodsy path beside Magarity Rd. We extend our survey of Idlywood Rd to outside the Beltway and discover a stretch of no sidewalk and narrow shoulders, a burnt-out house, and one rabbit. Soon we're on the W&amp;OD Trail, dodging cyclists and greeting joggers. High humidity and warm temperatures make for a sweaty trek. The water fountain at Route 7 is thankfully working, but the hot yoga studio's windows are dark. Kerry spies a lawn sprinkler; Kristin &amp; I divert to get a quick cooldown.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/567673195|trackfile]])// - //**^z**// - 2015-06-06</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

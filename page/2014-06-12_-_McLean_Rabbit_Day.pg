@@ -1,0 +1,23 @@
+blocks: <h3>~5.5 miles @ ~11.7 min/mi</h3><p>Coney Conjunction: at least 5 seen, including a pair on Hunting Av and a couple more in the MITRE parking lot at the finish line. On a wet morning Kristin and I do ~2 miles to warm up, then at 0630 join Ed and Kerry at the loading dock for "Ed's Loop" in the reverse direction. Ed describes his torn hamstring injury from some years ago, and we compare notes on running out of gas in various cars, plus discuss long hair, and hill climbing tactics. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/372480986">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/521459253">Garmin</a> GPS are again within 1% concurrence today.</p><p><em><strong>^z</strong></em> - 2014-06-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.213.42
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.5 miles @ ~11.7 min/mi
+	
+	Coney Conjunction: at least 5 seen, including a pair on Hunting Av and a couple more in the MITRE parking lot at the finish line. On a wet morning Kristin and I do ~2 miles to warm up, then at 0630 join Ed and Kerry at the loading dock for "Ed's Loop" in the reverse direction. Ed describes his torn hamstring injury from some years ago, and we compare notes on running out of gas in various cars, plus discuss long hair, and hill climbing tactics. [[http://runkeeper.com/user/zhurnaly/activity/372480986|Runkeeper]] and [[http://connect.garmin.com/modern/activity/521459253|Garmin]] GPS are again within 1% concurrence today.
+	
+	//**^z**// - 2014-06-29
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.5 miles @ ~11.7 min/mi<br />&gt; Coney Conjunction: at least 5 seen, including a pair on Hunting Av and a couple more in the MITRE parking lot at the finish line. On a wet morning Kristin and I do ~2 miles to warm up, then at 0630 join Ed and Kerry at the loading dock for "Ed's Loop" in the reverse direction. Ed describes his torn hamstring injury from some years ago, and we compare notes on running out of gas in various cars, plus discuss long hair, and hill climbing tactics. [[http://runkeeper.com/user/zhurnaly/activity/372480986|Runkeeper]] and [[http://connect.garmin.com/modern/activity/521459253|Garmin]] GPS are again within 1% concurrence today.<br />&gt; //**^z**// - 2014-06-29</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057706

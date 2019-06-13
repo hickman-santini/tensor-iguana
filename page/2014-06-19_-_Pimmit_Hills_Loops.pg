@@ -1,0 +1,23 @@
+blocks: <h3>~5.6 miles @ ~11.9 min/mi</h3><p>Only 1 rabbit today: Ed Brown, whom Kristin &amp; I call "our rabbit" as he leads us up a long hill on a warm and humid Thursday morning with temps and humidity in the upper 70's. Amber and Kristin and I start at 0600 and meander around the neighborhood trying to figure out how to get to the little Pimmit View Park from the north side <em>(secret: Sportsman Dr to dead-end Hileman Rd)</em>. We're back at 0632 to join David and Ed for the office-area loop. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/376871287">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/526598716">Garmin</a> record results.</p><p><em><strong>^z</strong></em> - 2014-07-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.6 miles @ ~11.9 min/mi
+	
+	Only 1 rabbit today: Ed Brown, whom Kristin & I call "our rabbit" as he leads us up a long hill on a warm and humid Thursday morning with temps and humidity in the upper 70's. Amber and Kristin and I start at 0600 and meander around the neighborhood trying to figure out how to get to the little Pimmit View Park from the north side //(secret: Sportsman Dr to dead-end Hileman Rd)//. We're back at 0632 to join David and Ed for the office-area loop. [[http://runkeeper.com/user/zhurnaly/activity/376871287|Runkeeper]] and [[http://connect.garmin.com/modern/activity/526598716|Garmin]] record results.
+	
+	//**^z**// - 2014-07-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.6 miles @ ~11.9 min/mi<br />&gt; Only 1 rabbit today: Ed Brown, whom Kristin &amp; I call "our rabbit" as he leads us up a long hill on a warm and humid Thursday morning with temps and humidity in the upper 70's. Amber and Kristin and I start at 0600 and meander around the neighborhood trying to figure out how to get to the little Pimmit View Park from the north side //(secret: Sportsman Dr to dead-end Hileman Rd)//. We're back at 0632 to join David and Ed for the office-area loop. [[http://runkeeper.com/user/zhurnaly/activity/376871287|Runkeeper]] and [[http://connect.garmin.com/modern/activity/526598716|Garmin]] record results.<br />&gt; //**^z**// - 2014-07-05</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

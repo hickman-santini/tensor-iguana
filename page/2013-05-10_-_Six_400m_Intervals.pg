@@ -1,0 +1,22 @@
+blocks: <h3>~2 miles @ ~9.2 min/mi</h3><p>Speedwork at the University of Maryland track while DD does Friday evening dress rehearsal for tomorrow night's concert: six 400m repeats <em>(wish it had been ten!)</em>, locked in by the grounds crew, climb the fence to get out. Splits: 1:46 + 1:40 + 1:39 + 1:43 + 1:41 + 1:37 &mdash; and then, the reward: Marathon Deli for dinner! <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/178853807">Runkeeper</a> shows the boring oval trackfile map.</p><p><em><strong>^z</strong></em> - 2013-05-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.213.25
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2 miles @ ~9.2 min/mi
+	
+	Speedwork at the University of Maryland track while DD does Friday evening dress rehearsal for tomorrow night's concert: six 400m repeats //(wish it had been ten!)//, locked in by the grounds crew, climb the fence to get out. Splits: 1:46 + 1:40 + 1:39 + 1:43 + 1:41 + 1:37 &mdash; and then, the reward: Marathon Deli for dinner! [[http://runkeeper.com/user/zhurnaly/activity/178853807|Runkeeper]] shows the boring oval trackfile map.
+	
+	//**^z**// - 2013-05-29
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~2 miles @ ~9.2 min/mi<br />&gt; Speedwork at the University of Maryland track while DD does Friday evening dress rehearsal for tomorrow night's concert: six 400m repeats //(wish it had been ten!)//, locked in by the grounds crew, climb the fence to get out. Splits: 1:46 + 1:40 + 1:39 + 1:43 + 1:41 + 1:37 &amp;mdash; and then, the reward: Marathon Deli for dinner! [[http://runkeeper.com/user/zhurnaly/activity/178853807|Runkeeper]] shows the boring oval trackfile map.<br />&gt; //**^z**// - 2013-05-29</p></div>
+flags: 0
+ts: 1528057687
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057687

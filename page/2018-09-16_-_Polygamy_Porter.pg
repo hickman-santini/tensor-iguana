@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~6.5 mi @ ~14 min/mi</h3><p>"Polygamy Porter &mdash; bring some home to the wives!" says the slogan for a Utah brew. Nowhere-Man recalls the "Go West Beer Fest" that he attended with Ken and Emaad, and what happened afterwards. <em>(Trail Talk!)</em> We try to enhance today's trackfile with a loop, fall prey to a dead-end street with no cut-through escape, and have to backtrack. A realistic great blue heron sculpture stands guard in a front-yard garden. Ken and Win meet us in the tunnel under the train tracks. Two big deer amble across Rock Creek Trail.</p><p>"Is that a gall?" - "Or a boll?" - "It looks like a giant brain!" We try to remember the term <em>("burl")</em> for a canker-like growth on the side of a tree. Win discusses plans for playful pranks and wonders about the potential benefits of electrical muscle stimulation for healing injuries. <em>("Just don't attach the wires to your head!")</em> Ken describes today's "Baldo" Sunday comic strip, with punchline "<em><strong>Libraries are theme parks for the mind!</strong></em>" Nowhere-Man's tie-dye-style skull shirt reads "Run or Die" with subscript "Singletrack Mind".</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1229899823">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-10-08</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Polygamy Porter <strong class="changes">–</strong> bring some home to the wives!" says the slogan for a Utah brew. Nowhere-Man recalls the "Go West Beer Fest" that he attended with Ken and Emaad, and what happened afterwards. //(Trail Talk!)// We try to enhance today's trackfile with a loop, fall prey to a dead-end street with no cut-through escape, and have to backtrack. A realistic great blue heron sculpture stands guard in a front-yard garden. Ken and Win meet us in the tunnel under the train tracks. Two big deer amble across Rock Creek Trail.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "Polygamy Porter <strong class="changes">&amp;mdash;</strong> bring some home to the wives!" says the slogan for a Utah brew. Nowhere-Man recalls the "Go West Beer Fest" that he attended with Ken and Emaad, and what happened afterwards. //(Trail Talk!)// We try to enhance today's trackfile with a loop, fall prey to a dead-end street with no cut-through escape, and have to backtrack. A realistic great blue heron sculpture stands guard in a front-yard garden. Ken and Win meet us in the tunnel under the train tracks. Two big deer amble across Rock Creek Trail.</p></div>
+lastmajorsummary: fix &mdash;
+ts: 1538987859
+minor: 
+host: 71.178.80.249
+username: z
+revision: 2
+diff-major: 1
+summary: fix &mdash;
+languages: 
+text: === ~6.5 mi @ ~~14 min/mi
+	
+	"Polygamy Porter &mdash; bring some home to the wives!" says the slogan for a Utah brew. Nowhere-Man recalls the "Go West Beer Fest" that he attended with Ken and Emaad, and what happened afterwards. //(Trail Talk!)// We try to enhance today's trackfile with a loop, fall prey to a dead-end street with no cut-through escape, and have to backtrack. A realistic great blue heron sculpture stands guard in a front-yard garden. Ken and Win meet us in the tunnel under the train tracks. Two big deer amble across Rock Creek Trail.
+	
+	"Is that a gall?" - "Or a boll?" - "It looks like a giant brain!" We try to remember the term //("burl")// for a canker-like growth on the side of a tree. Win discusses plans for playful pranks and wonders about the potential benefits of electrical muscle stimulation for healing injuries. //("Just don't attach the wires to your head!")// Ken describes today's "Baldo" Sunday comic strip, with punchline "//**Libraries are theme parks for the mind!**//" Nowhere-Man's tie-dye-style skull shirt reads "Run or Die" with subscript "Singletrack Mind".
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1229899823|trackfile]])// - //**^z**// - 2018-10-08
+	
+lastmajor: 2
+keep-ts: 1538987859

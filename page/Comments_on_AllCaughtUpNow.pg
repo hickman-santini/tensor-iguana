@@ -1,0 +1,25 @@
+blocks: <h3>1 Comment.</h3><p><a class="url http" href="http://www.gocomics.com/roseisrose/2002/11/20">http://www.gocomics.com/roseisrose/2002/11/20</a></p><p><a class="url http" href="http://www.gocomics.com/roseisrose/2002/11/21">http://www.gocomics.com/roseisrose/2002/11/21</a></p><p>-- z 2018-02-26 12:57 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 166.137.244.117
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	http://www.gocomics.com/roseisrose/2002/11/20
+	
+	http://www.gocomics.com/roseisrose/2002/11/21
+	
+	-- z 2018-02-26 12:57 UTC
+	
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; http://www.gocomics.com/roseisrose/2002/11/20<br />&gt; http://www.gocomics.com/roseisrose/2002/11/21<br />&gt; -- z 2018-02-26 12:57 UTC</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057712

@@ -1,0 +1,23 @@
+blocks: <h3>~9.7 miles @ ~12.5 min/mi</h3><p>"Deer!" Kristin points out four pairs of glowing eyes near the W&amp;OD trail, reflecting back flashlight beams through the heavy fog. Cyclists swoop past, 80% politely. In the hot yoga studio's picture window <em>Tadasana</em> (Mountain) and <em>Shavasana</em> (Corpse) poses are demonstrated by lithe pre-dawn yoginis. Raindrops patter as they land. We're grateful for warm December weather, the scent of aroma candles, not-slipping on wet leaf-covered slopes, bushes full of chirping birds, cars that pause to let us cross streets, and the chance to begin a day with a quiet run that includes discussions of epistemology, optimism, and kitchen science experiments.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/699889897">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-12-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.32
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.7 miles @ ~12.5 min/mi
+	
+	"Deer!" Kristin points out four pairs of glowing eyes near the W&OD trail, reflecting back flashlight beams through the heavy fog. Cyclists swoop past, 80% politely. In the hot yoga studio's picture window //Tadasana// (Mountain) and //Shavasana// (Corpse) poses are demonstrated by lithe pre-dawn yoginis. Raindrops patter as they land. We're grateful for warm December weather, the scent of aroma candles, not-slipping on wet leaf-covered slopes, bushes full of chirping birds, cars that pause to let us cross streets, and the chance to begin a day with a quiet run that includes discussions of epistemology, optimism, and kitchen science experiments.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/699889897|trackfile]])// - //**^z**// - 2015-12-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.7 miles @ ~12.5 min/mi<br />&gt; "Deer!" Kristin points out four pairs of glowing eyes near the W&amp;OD trail, reflecting back flashlight beams through the heavy fog. Cyclists swoop past, 80% politely. In the hot yoga studio's picture window //Tadasana// (Mountain) and //Shavasana// (Corpse) poses are demonstrated by lithe pre-dawn yoginis. Raindrops patter as they land. We're grateful for warm December weather, the scent of aroma candles, not-slipping on wet leaf-covered slopes, bushes full of chirping birds, cars that pause to let us cross streets, and the chance to begin a day with a quiet run that includes discussions of epistemology, optimism, and kitchen science experiments.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/699889897|trackfile]])// - //**^z**// - 2015-12-19</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

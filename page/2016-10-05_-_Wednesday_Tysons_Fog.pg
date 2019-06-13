@@ -1,0 +1,25 @@
+blocks: <h3>~7.6 miles @ ~13.5 min/mi</h3><p>"<strong> #ExactWordCount </strong>!" Caitlin proposes. Kerry's daughter needs to describe herself in a single hashtag for a college application, and her paranormal ability to compose an essay precisely to meet a specified length parameter seems noteworthy.</p><p>Kristin leads the pack on a loop through Tysons Corner. Fog blankets soccer fields as a rising sun tinges clouds tangelo-pink. We divert to inspect the Spring Hill Recreation Center, where a for-sale display case features polychromatic goggles and intriguing "Power Gloves". Cait explains that they're not actually magical artifacts, just swim-fins for the hands. <em>Drat, another fantasy dashed!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/875502081">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-10-31</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.112
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~7.6 miles @ ~13.5 min/mi
+	
+	"** #ExactWordCount **!" Caitlin proposes. Kerry's daughter needs to describe herself in a single hashtag for a college application, and her paranormal ability to compose an essay precisely to meet a specified length parameter seems noteworthy.
+	
+	Kristin leads the pack on a loop through Tysons Corner. Fog blankets soccer fields as a rising sun tinges clouds tangelo-pink. We divert to inspect the Spring Hill Recreation Center, where a for-sale display case features polychromatic goggles and intriguing "Power Gloves". Cait explains that they're not actually magical artifacts, just swim-fins for the hands. //Drat, another fantasy dashed!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/875502081|trackfile]])// - //**^z**// - 2016-10-31
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.6 miles @ ~13.5 min/mi<br />&gt; "** #ExactWordCount **!" Caitlin proposes. Kerry's daughter needs to describe herself in a single hashtag for a college application, and her paranormal ability to compose an essay precisely to meet a specified length parameter seems noteworthy.<br />&gt; Kristin leads the pack on a loop through Tysons Corner. Fog blankets soccer fields as a rising sun tinges clouds tangelo-pink. We divert to inspect the Spring Hill Recreation Center, where a for-sale display case features polychromatic goggles and intriguing "Power Gloves". Cait explains that they're not actually magical artifacts, just swim-fins for the hands. //Drat, another fantasy dashed!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/875502081|trackfile]])// - //**^z**// - 2016-10-31</strong></p></div>
+flags: 0
+ts: 1528057676
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057676

@@ -1,0 +1,23 @@
+blocks: <h3>~4.3 mi @ ~10.0 min/mi</h3><p>"Erin caught a crab. It broke her nose and knocked her unconscious!" Cait explains more rowing language as we sprint down the long hill at mile 3. "Catching a crab" refers to getting an oar caught in the water, sometimes with dire results. In this case it happened to a comrade in the boat during a race - and no, they did not go on to win. And yes, sometimes an entire crew catches crabs! Temps fall from the mid-30s to below freezing as a squall line brings eye-watering gusty northwest winds.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1116259019">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-03-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.117
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.3 mi @ ~10.0 min/mi
+	
+	"Erin caught a crab. It broke her nose and knocked her unconscious!" Cait explains more rowing language as we sprint down the long hill at mile 3. "Catching a crab" refers to getting an oar caught in the water, sometimes with dire results. In this case it happened to a comrade in the boat during a race - and no, they did not go on to win. And yes, sometimes an entire crew catches crabs! Temps fall from the mid-30s to below freezing as a squall line brings eye-watering gusty northwest winds.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1116259019|trackfile]])// - //**^z**// - 2018-03-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.3 mi @ ~10.0 min/mi<br />&gt; "Erin caught a crab. It broke her nose and knocked her unconscious!" Cait explains more rowing language as we sprint down the long hill at mile 3. "Catching a crab" refers to getting an oar caught in the water, sometimes with dire results. In this case it happened to a comrade in the boat during a race - and no, they did not go on to win. And yes, sometimes an entire crew catches crabs! Temps fall from the mid-30s to below freezing as a squall line brings eye-watering gusty northwest winds.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1116259019|trackfile]])// - //**^z**// - 2018-03-03</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

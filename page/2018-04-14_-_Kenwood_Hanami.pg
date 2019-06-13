@@ -1,0 +1,26 @@
+flags: 0
+blocks: <h3>~8.8 mi @ ~14.1 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_k2_z_2018-04-14_t.jpg" alt="http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_k2_z_2018-04-14_t.jpg" /></td><td align="center">"Culpable malpractice? Probably not," says the doctor, after listening to Roadkill's lungs for post-flu post-marathon wheezing and rales. <em>Yay!</em> &mdash; it's license to join K2, Rebecca, Ken, and Barry for a hanami ramble in Bethesda, where 1,000+ cherry trees are at peak bloom. Ladies in kimonos pose under parasols for photos. Cardinals swoop across the street. Pink sakura petals rain down when the wind gusts and when friends throw them at each other.</td></tr></table><table class="user"><tr><td align="right">"It's fun to run with someone even more OCD than I am!" Fearless Leader, who shall remain nameless, chooses a route to maximize coverage of Kenwood neighborhood lanes. After an hour the group heads back. Some depart, others add a couple of brisk bonus miles.<br /><br />"Here's to the one part of your body that doesn't hate you right now &mdash; your heart!" Rebecca quotes a Flora <em>(London Marathon sponsor)</em> <a class="url http outside" href="https://youtu.be/m-hCuYjvw2I">commercial</a> devoted to post-run aches and pains. <em>Cute!</em></td><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_stream_2018-04-15b_t.jpg" alt="http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_stream_2018-04-15b_t.jpg" /></td></tr></table><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/114745416">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-05-04</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.8 mi @ ~14.1 min/mi<br />&gt; | http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_k2_z_2018-04-14_t.jpg | "Culpable malpractice? Probably not," says the doctor, after listening to Roadkill's lungs for post-flu post-marathon wheezing and rales. //Yay!// &amp;mdash; it's license to join K2, Rebecca, Ken, and Barry for a hanami ramble in Bethesda, where 1,000+ cherry trees are at peak bloom. Ladies in kimonos pose under parasols for photos. Cardinals swoop across the street. Pink sakura petals rain down when the wind gusts and when friends throw them at each other. |<br />&gt; | "It's fun to run with someone even more OCD than I am!" Fearless Leader, who shall remain nameless, chooses a route to maximize coverage of Kenwood neighborhood lanes. After an hour the group heads back. Some depart, others add a couple of brisk bonus miles.<br />&gt; \\<br />&gt; "Here's to the one part of your body that doesn't hate you right now &amp;mdash; your heart!" Rebecca quotes a Flora //(London Marathon sponsor)// [[https://youtu.be/m-hCuYjvw2I|commercial]] devoted to post-run aches and pains. //Cute!// | http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_stream_2018-04-15b_t.jpg |<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/114745416|trackfile]])// - //**^z**// - 2018-05-04</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057696
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.8 mi @ ~14.1 min/mi
+	
+	| http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_k2_z_2018-04-14_t.jpg | "Culpable malpractice? Probably not," says the doctor, after listening to Roadkill's lungs for post-flu post-marathon wheezing and rales. //Yay!// &mdash; it's license to join K2, Rebecca, Ken, and Barry for a hanami ramble in Bethesda, where 1,000+ cherry trees are at peak bloom. Ladies in kimonos pose under parasols for photos. Cardinals swoop across the street. Pink sakura petals rain down when the wind gusts and when friends throw them at each other. |
+	
+	| "It's fun to run with someone even more OCD than I am!" Fearless Leader, who shall remain nameless, chooses a route to maximize coverage of Kenwood neighborhood lanes. After an hour the group heads back. Some depart, others add a couple of brisk bonus miles.
+	\\
+	"Here's to the one part of your body that doesn't hate you right now &mdash; your heart!" Rebecca quotes a Flora //(London Marathon sponsor)// [[https://youtu.be/m-hCuYjvw2I|commercial]] devoted to post-run aches and pains. //Cute!// | http://zhurnaly.com/images/running/Kenwood_cherry_blossoms_stream_2018-04-15b_t.jpg |
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/114745416|trackfile]])// - //**^z**// - 2018-05-04
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057696

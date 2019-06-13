@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p>What hubris: the idea of recording <strong>everything</strong>, exhibiting <strong>everything</strong>, then imposing on the viewer all the problems of finding and making sense of the tiny nontrivial subset. As if attention were free, or as cheap as storage seems to be. As if listener is so much less important than speaker. As if everything is equally fascinating. As if the future is free and preserving the past is the only precious thing. As if, some day, it will all make perfect sense &mdash; so with treasure provide all the trash, "just in case".</p><p>Better to respect the reader: choose the best, frame the best, display the best.</p><p><em><strong>^z</strong></em> - 2012-06-02</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; What hubris: the idea of recording **everything**, exhibiting **everything**, then imposing on the viewer all the problems of finding and making sense of the tiny nontrivial subset. As if attention were free, or as cheap as storage seems to be. As if listener is so much less important than speaker. As if everything is equally fascinating. As if the future is free and preserving the past is the only precious thing. As if, some day, it will all make perfect sense &amp;mdash; so with treasure<strong class="changes">, pass along</strong> all the trash, "just in case".</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; What hubris: the idea of recording **everything**, exhibiting **everything**, then imposing on the viewer all the problems of finding and making sense of the tiny nontrivial subset. As if attention were free, or as cheap as storage seems to be. As if listener is so much less important than speaker. As if everything is equally fascinating. As if the future is free and preserving the past is the only precious thing. As if, some day, it will all make perfect sense &amp;mdash; so with treasure <strong class="changes">provide</strong> all the trash, "just in case".</p></div>
+ip: 141.156.198.144
+ts: 1338626963
+minor: 1
+host: pool-141-156-198-144.res.east.verizon.net
+username: Zimm
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: What hubris: the idea of recording **everything**, exhibiting **everything**, then imposing on the viewer all the problems of finding and making sense of the tiny nontrivial subset. As if attention were free, or as cheap as storage seems to be. As if listener is so much less important than speaker. As if everything is equally fascinating. As if the future is free and preserving the past is the only precious thing. As if, some day, it will all make perfect sense &mdash; so with treasure provide all the trash, "just in case".
+	
+	Better to respect the reader: choose the best, frame the best, display the best.
+	
+	//**^z**// - 2012-06-02
+	
+lastmajor: 1
+keep-ts: 1338626963

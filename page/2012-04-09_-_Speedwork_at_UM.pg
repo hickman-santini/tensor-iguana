@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~3 miles @ ~8.5 min/mi</h3></p><p>Wild west winds gust to 30 mph during evening laps at the University of Maryland track, with 800m repeats descending in a pretty pattern 3:54 &gt; 3:49 &gt; 3:40 &gt; 3:39 &gt; 3:38. See <a class="url http outside" href="http://connect.garmin.com/activity/166583741">GPS trackfile</a> for a boring map.</p><p><em><strong>^z</strong></em> - 2012-04-21</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Wild west winds gust to 30 mph during evening laps at the <strong class="changes">UM</strong> track, with 800m repeats descending in a pretty pattern 3:54 &gt; 3:49 &gt; 3:40 &gt; 3:39 &gt; 3:38. See [[http://connect.garmin.com/activity/166583741|GPS trackfile]] for a boring map.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Wild west winds gust to 30 mph during evening laps at the <strong class="changes">University of Maryland</strong> track, with 800m repeats descending in a pretty pattern 3:54 &gt; 3:49 &gt; 3:40 &gt; 3:39 &gt; 3:38. See [[http://connect.garmin.com/activity/166583741|GPS trackfile]] for a boring map.</p></div>
+ip: 141.156.141.156
+ts: 1335005922
+minor: 1
+host: pool-141-156-141-156.res.east.verizon.net
+username: Zimm
+revision: 3
+diff-major: 
+summary: tweaks 2
+languages: 
+text: === ~3 miles @ ~8.5 min/mi
+	
+	Wild west winds gust to 30 mph during evening laps at the University of Maryland track, with 800m repeats descending in a pretty pattern 3:54 > 3:49 > 3:40 > 3:39 > 3:38. See [[http://connect.garmin.com/activity/166583741|GPS trackfile]] for a boring map.
+	
+	//**^z**// - 2012-04-21
+	
+lastmajor: 1
+keep-ts: 1335005922

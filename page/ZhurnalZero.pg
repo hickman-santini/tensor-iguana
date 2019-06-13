@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">This experiment in keeping a public journal was begun today, April 4, 1999.<br />&lt; Wish me luck!<br />&lt; - Sunday, April 04, 1999 at 17:36:13 (EDT) = Datetag19990404<br />&lt; //(see</strong> [[<strong class="changes">AnnalsOfJournals]])//<br />&lt; [[TopicZhurnal</strong>]]<br />&lt; <strong class="changes">----<br />&lt; //(correlates: [[PhysicsWords]], [[RalphWaldoEmerson]], [[ZhurnalThree]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">Zhurnal Zero</strong>]]</p></div>
+ip: 70.21.102.87
+ts: 1221348396
+minor: 1
+host: pool-70-21-102-87.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>correlates: [[PhysicsWords]], [[RalphWaldoEmerson]], [[ZhurnalThree]], <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>correlates: [[PhysicsWords]], [[RalphWaldoEmerson]], [[ZhurnalThree]], <strong class="changes">...)//</strong></p></div>
+summary: make redirect
+languages: 
+text: #REDIRECT [[Zhurnal Zero]]
+	
+lastmajor: 2
+keep-ts: 1221348396

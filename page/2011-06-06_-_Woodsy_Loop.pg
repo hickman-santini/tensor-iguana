@@ -1,0 +1,21 @@
+flags: 0
+blocks: <p><h3>~5 miles @ ~9 min/mi</h3></p><p><em>Da-dum DUM!</em> Sound of startled deer, as it leaps into the brush, brings to mind soundtrack bass rhythm in <strong>Big Trouble in Little China</strong> when the heroes find themselves in the middle of a gang battle. A late (8:30am) start makes the morning more warm and humid than it need have been. Dried mud from cloven hooves dapples the asphalt to complement sunlight speckling through the leaves. Marked miles descend in pace 9.9 &rArr; 9.3 &rArr; 8.5 &rArr; 7.8 min/mi.</p><p><em><strong>^z</strong></em> - 2011-06-18</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~5 miles @ ~9 min/mi</p></div>
+ip: 141.156.143.26
+ts: 1308386652
+minor: 1
+host: pool-141-156-143-26.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: 
+summary: add mileage & pace
+languages: 
+text: === ~5 miles @ ~9 min/mi
+	
+	//Da-dum DUM!// Sound of startled deer, as it leaps into the brush, brings to mind soundtrack bass rhythm in **Big Trouble in Little China** when the heroes find themselves in the middle of a gang battle. A late (8:30am) start makes the morning more warm and humid than it need have been. Dried mud from cloven hooves dapples the asphalt to complement sunlight speckling through the leaves. Marked miles descend in pace 9.9 &rArr; 9.3 &rArr; 8.5 &rArr; 7.8 min/mi.
+	
+	//**^z**// - 2011-06-18
+	
+lastmajor: 1
+keep-ts: 1308386652

@@ -1,0 +1,19 @@
+flags: 0
+blocks: <table class="user"><tr><td align="center"><span style="font-variant: small-caps">&nbsp;&nbsp; Be Aware <br />Be Very Aware</span></td></tr></table><p><em><strong>^z</strong></em> - 2009-06-02</p>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; Reminder to self:</p></div>
+ip: 141.156.149.234
+ts: 1243933456
+minor: 1
+host: pool-141-156-149-234.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: | %%&nbsp;&nbsp; Be Aware \\ Be Very Aware%% |
+	
+	//**^z**// - 2009-06-02
+	
+lastmajor: 1
+keep-ts: 1243933456

@@ -1,0 +1,23 @@
+blocks: <h3>~3 miles @ ~8.3 min/mi</h3><p>Nobody else shows up at the MITRE loading dock for the 0630 run, so I push off for a solo trek, the Anderson - Pimmit - Griffith - Magarity loop. Pushing a bit, splits are 8:10 + 8:23 + 8:18 by <a class="url http outside" href="http://connect.garmin.com/activity/313717945">Garmin</a>, and <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/181361336">Runkeeper</a> roughly concurs.</p><p><em><strong>^z</strong></em> - 2013-06-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3 miles @ ~8.3 min/mi
+	
+	Nobody else shows up at the MITRE loading dock for the 0630 run, so I push off for a solo trek, the Anderson - Pimmit - Griffith - Magarity loop. Pushing a bit, splits are 8:10 + 8:23 + 8:18 by [[http://connect.garmin.com/activity/313717945|Garmin]], and [[http://runkeeper.com/user/zhurnaly/activity/181361336|Runkeeper]] roughly concurs.
+	
+	//**^z**// - 2013-06-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3 miles @ ~8.3 min/mi<br />&gt; Nobody else shows up at the MITRE loading dock for the 0630 run, so I push off for a solo trek, the Anderson - Pimmit - Griffith - Magarity loop. Pushing a bit, splits are 8:10 + 8:23 + 8:18 by [[http://connect.garmin.com/activity/313717945|Garmin]], and [[http://runkeeper.com/user/zhurnaly/activity/181361336|Runkeeper]] roughly concurs.<br />&gt; //**^z**// - 2013-06-03</strong></p></div>
+flags: 0
+ts: 1528057691
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057691

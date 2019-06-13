@@ -1,0 +1,28 @@
+blocks: <table class="user"><tr><td align="right">Rape is not a metaphor<br />Torture not a symbol </td></tr></table><p>Please, please, do <em>not</em> read <strong>The Sympathizer</strong>.</p><p>Murder and dismemberment, depicted via clever writing, do not make great literature. USC professor Viet Thanh Nguyen's 2015 novel, despite applause and awards it has garnered, is unworthy. It tries to make torment into allegory, plot vehicle, trope for a "message". Such pornographic usage must not be rewarded.</p><p><strong>The Sympathizer</strong> begins charmingly, with brilliant prose and gritty humor. It slides gradually into darkness and horror, attempting to convey the story of the Vietnam war. When he was four years old, Nguyen came to the US "... taken from my parents and put into a household of American strangers ...". His personal tragedy, and the suffering that befell so many of his former countrymen, are not appropriately treated in this work of fiction.</p><p><em><strong>^z</strong></em> - 2017-06-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.181
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Rape is not a metaphor
+	Torture not a symbol |
+	
+	Please, please, do //not// read **The Sympathizer**.
+	
+	Murder and dismemberment, depicted via clever writing, do not make great literature. USC professor Viet Thanh Nguyen's 2015 novel, despite applause and awards it has garnered, is unworthy. It tries to make torment into allegory, plot vehicle, trope for a "message". Such pornographic usage must not be rewarded.
+	
+	**The Sympathizer** begins charmingly, with brilliant prose and gritty humor. It slides gradually into darkness and horror, attempting to convey the story of the Vietnam war. When he was four years old, Nguyen came to the US "... taken from my parents and put into a household of American strangers ...". His personal tragedy, and the suffering that befell so many of his former countrymen, are not appropriately treated in this work of fiction.
+	
+	//**^z**// - 2017-06-04
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Rape is not a metaphor<br />&gt; Torture not a symbol |<br />&gt; Please, please, do //not// read **The Sympathizer**.<br />&gt; Murder and dismemberment, depicted via clever writing, do not make great literature. USC professor Viet Thanh Nguyen's 2015 novel, despite applause and awards it has garnered, is unworthy. It tries to make torment into allegory, plot vehicle, trope for a "message". Such pornographic usage must not be rewarded.<br />&gt; **The Sympathizer** begins charmingly, with brilliant prose and gritty humor. It slides gradually into darkness and horror, attempting to convey the story of the Vietnam war. When he was four years old, Nguyen came to the US "... taken from my parents and put into a household of American strangers ...". His personal tragedy, and the suffering that befell so many of his former countrymen, are not appropriately treated in this work of fiction.<br />&gt; //**^z**// - 2017-06-04</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

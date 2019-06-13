@@ -1,0 +1,22 @@
+blocks: <h3>1 Comment.</h3><p><em>Perfectly true</em>, and not just graduate school, but for all education. To grow and develop one needs tools and method, not rote facts. The elementary rote stuff (readin' writin' and 'rithmetic) should be set and done by the time kids are about ten. -- Bo<br /></p><hr />
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.1
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	
+	//Perfectly true//, and not just graduate school, but for all education. To grow and develop one needs tools and method, not rote facts. The elementary rote stuff (readin' writin' and 'rithmetic) should be set and done by the time kids are about ten. -- Bo
+	----
+	
+	
+languages: 
+lastmajor: 20
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; //Perfectly true//, and not just graduate school, but for all education. To grow and develop one needs tools and method, not rote facts. The elementary rote stuff (readin' writin' and 'rithmetic) should be set and done by the time kids are about ten. -- Bo<br />&gt; ----</p></div>
+flags: 0
+ts: 1528057680
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 20
+keep-ts: 1528057680

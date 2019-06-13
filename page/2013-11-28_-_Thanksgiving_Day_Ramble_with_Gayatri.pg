@@ -1,0 +1,25 @@
+blocks: <h3>~8 miles @ ~12 min/mi</h3><table class="user"><tr><td align="right">Once the turkey is in the oven this Thanksgiving morning, there's plenty of time to trot &mdash; so to Gayatri Datta's home I drive, and join her for an out-and-back neighborhood trek: leaping across icy-frozen puddles, waving at Bethesda turkey-trot runners, dodging cars, and pausing to pick up yellow golf balls. At the end my nose is crimson from the cold.</td></tr></table><p><a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/275454042">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/409736665">Garmin</a> concur on distance and route. | <img class="url http" src="http://zhurnaly.com/images/running/Gayatri_and_red-nosed_z_Thanksgiving_2013.jpg" alt="http://zhurnaly.com/images/running/Gayatri_and_red-nosed_z_Thanksgiving_2013.jpg" /> |</p><p><em><strong>^z</strong></em> - 2013-12-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.214.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8 miles @ ~12 min/mi
+	
+	| Once the turkey is in the oven this Thanksgiving morning, there's plenty of time to trot &mdash; so to Gayatri Datta's home I drive, and join her for an out-and-back neighborhood trek: leaping across icy-frozen puddles, waving at Bethesda turkey-trot runners, dodging cars, and pausing to pick up yellow golf balls. At the end my nose is crimson from the cold.
+	
+	[[http://runkeeper.com/user/zhurnaly/activity/275454042|Runkeeper]] and [[http://connect.garmin.com/activity/409736665|Garmin]] concur on distance and route. | http://zhurnaly.com/images/running/Gayatri_and_red-nosed_z_Thanksgiving_2013.jpg | 
+	
+	//**^z**// - 2013-12-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8 miles @ ~12 min/mi<br />&gt; | Once the turkey is in the oven this Thanksgiving morning, there's plenty of time to trot &amp;mdash; so to Gayatri Datta's home I drive, and join her for an out-and-back neighborhood trek: leaping across icy-frozen puddles, waving at Bethesda turkey-trot runners, dodging cars, and pausing to pick up yellow golf balls. At the end my nose is crimson from the cold.<br />&gt; [[http://runkeeper.com/user/zhurnaly/activity/275454042|Runkeeper]] and [[http://connect.garmin.com/activity/409736665|Garmin]] concur on distance and route. | http://zhurnaly.com/images/running/Gayatri_and_red-nosed_z_Thanksgiving_2013.jpg | <br />&gt; //**^z**// - 2013-12-17</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

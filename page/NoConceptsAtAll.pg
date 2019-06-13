@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">In the recent article "100 Years of Quantum Mysteries" (//Scientific American//, February 2001) Max Tegmark and John Archibald Wheeler speak of abstraction:<br />&lt; :" ... Theories can be crudely organized in a family tree where each might, at least in principle, be derived from more fundamental ones above it. Almost at the top of the tree lie general relativity and quantum field theory. The first level of descendents includes special relativity and quantum mechanics, which in turn spawn electromagnetism, classical mechanics, atomic physics, and so on. Disciplines such as computer science, psychology and medicine appear far down in the lineage.<br />&lt; :"All these theories have two components: mathematical equations and words that explain how the equations are connected to what is observed in experiments. ... Crudely speaking, the ratio of equations to words decreases as one moves down the tree, dropping near zero for very applied fields such as medicine and sociology. In contrast, theories near the top are highly mathematical, and physicists are still struggling to comprehend the concepts that are encoded in the mathematics.<br />&lt; :"The ultimate goal of physics is to find what is jocularly referred to as a theory of everything, from which all else can be derived. ... <br />&lt; :"A theory of everything would probably have to contain no concepts at all."<br />&lt; This resonates with Martin Gardner's comment: "There is still a difference between something and nothing --- but it is purely geometrical, and there is nothing behind the geometry." //(See **^zhurnal** 17 January 2000, [[OnSomethingness]].)//<br />&lt; - Thursday, February 22, 2001 at 18:27:06 (EST) = Datetag20010222<br />&lt; [[TopicScience]] -</strong> [[<strong class="changes">TopicPhilosophy</strong>]]<br />&lt; <strong class="changes">----<br />&lt; //(correlates: [[OnSomethingness]], [[NegativeResults]], [[ApprovedMethods]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">No Concepts At All</strong>]]</p></div>
+ip: 70.21.87.47
+ts: 1220708732
+minor: 1
+host: pool-70-21-87-47.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>correlates: [[OnSomethingness]], [[NegativeResults]], [[ApprovedMethods]], <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>correlates: [[OnSomethingness]], [[NegativeResults]], [[ApprovedMethods]], <strong class="changes">...)//</strong></p></div>
+summary: make redirect
+languages: 
+text: #REDIRECT [[No Concepts At All]]
+	
+lastmajor: 2
+keep-ts: 1220708732

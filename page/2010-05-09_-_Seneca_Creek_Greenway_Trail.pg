@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~4 miles @ ~14 min/mi</h3></p><p>Cloud banks piled high like mountains of meringue block the rising sun. I leave home at 0510 in hopes of beating ever-early Caren Jew to the parking lot on Rt 28. She says we'll meet at 0600, but when I arrive ~0545 she's already there&mdash;as expected! We start running south at 0550. Brush grows thick alongside the Seneca Creek Greenway Trail. It's chilly, temps in the 40s, so we both don windbreakers. After a mile we're warmed up enough to take the jackets off. We walk the hills, and I tread carefully over roots to avoid a fall. At the 2 mile point by my GPS, just after a half-mile marker post, we turn back. <em>Happy Mother's Day, Caren!</em></p><p><em><strong>^z</strong></em> - 2010-05-21</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; I leave home at 0510 in hopes of beating ever-early Caren Jew to the parking lot on Rt 28. She says we'll meet at 0600, but when I arrive ~0545 she's already there&amp;mdash;as expected! We start running south at 0550. <strong class="changes">Dramatic cloud banks block the rising sun; brush</strong> grows thick alongside the Seneca Creek Greenway Trail. It's chilly, temps in the 40s, so we both don windbreakers. After a mile we're warmed up enough to take the jackets off. We walk the hills, and I tread carefully over roots to avoid a fall. At the 2 mile point by my GPS, just after a half-mile marker post, we turn back. //Happy Mother's Day, Caren!//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Cloud banks piled high like mountains of meringue block the rising sun.</strong> I leave home at 0510 in hopes of beating ever-early Caren Jew to the parking lot on Rt 28. She says we'll meet at 0600, but when I arrive ~0545 she's already there&amp;mdash;as expected! We start running south at 0550. <strong class="changes">Brush</strong> grows thick alongside the Seneca Creek Greenway Trail. It's chilly, temps in the 40s, so we both don windbreakers. After a mile we're warmed up enough to take the jackets off. We walk the hills, and I tread carefully over roots to avoid a fall. At the 2 mile point by my GPS, just after a half-mile marker post, we turn back. //Happy Mother's Day, Caren!//</p></div>
+ip: 138.88.180.121
+ts: 1274434053
+minor: 1
+host: pool-138-88-180-121.res.east.verizon.net
+username: zz
+revision: 3
+diff-major: 
+summary: tweaks - 2
+languages: 
+text: === ~4 miles @ ~14 min/mi
+	
+	Cloud banks piled high like mountains of meringue block the rising sun. I leave home at 0510 in hopes of beating ever-early Caren Jew to the parking lot on Rt 28. She says we'll meet at 0600, but when I arrive ~0545 she's already there&mdash;as expected! We start running south at 0550. Brush grows thick alongside the Seneca Creek Greenway Trail. It's chilly, temps in the 40s, so we both don windbreakers. After a mile we're warmed up enough to take the jackets off. We walk the hills, and I tread carefully over roots to avoid a fall. At the 2 mile point by my GPS, just after a half-mile marker post, we turn back. //Happy Mother's Day, Caren!//
+	
+	//**^z**// - 2010-05-21
+	
+lastmajor: 1
+keep-ts: 1274434053

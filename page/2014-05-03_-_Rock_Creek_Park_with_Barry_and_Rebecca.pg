@@ -1,0 +1,23 @@
+blocks: <h3>~20 miles @ ~12 min/mi</h3><p>Sunrise bunny count = 1 (Warren St!) on the way to meet Rebecca &amp; Barry at Candy Cane, where Avon Breast Cancer Walk volunteers are setting up a pink tent city and monster commercial kitchen &amp; shower Trucks block the parking lot. We trek down Beach Dr and back, with a detour along Military Rd to add hills. Conversation topics include entropy and time's arrow, the animated film <em>Ratatouille</em>, exhibits at the soon-to-close Corcoran art gallery, literal-minded French tax lawyers, and varieties of the philosophical Trolley Problem &mdash; after that last of which, I eye my companions warily when we pause on a bridge above roiling Rock Creek, lest they decide to push me off to save the more worthy life of someone in the water. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/346856829">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/492256715">Garmin</a> GPS record the route.</p><p><em><strong>^z</strong></em> - 2014-06-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~20 miles @ ~12 min/mi
+	
+	Sunrise bunny count = 1 (Warren St!) on the way to meet Rebecca & Barry at Candy Cane, where Avon Breast Cancer Walk volunteers are setting up a pink tent city and monster commercial kitchen & shower Trucks block the parking lot. We trek down Beach Dr and back, with a detour along Military Rd to add hills. Conversation topics include entropy and time's arrow, the animated film //Ratatouille//, exhibits at the soon-to-close Corcoran art gallery, literal-minded French tax lawyers, and varieties of the philosophical Trolley Problem &mdash; after that last of which, I eye my companions warily when we pause on a bridge above roiling Rock Creek, lest they decide to push me off to save the more worthy life of someone in the water. [[http://runkeeper.com/user/zhurnaly/activity/346856829|Runkeeper]] and [[http://connect.garmin.com/activity/492256715|Garmin]] GPS record the route.
+	
+	//**^z**// - 2014-06-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~20 miles @ ~12 min/mi<br />&gt; Sunrise bunny count = 1 (Warren St!) on the way to meet Rebecca &amp; Barry at Candy Cane, where Avon Breast Cancer Walk volunteers are setting up a pink tent city and monster commercial kitchen &amp; shower Trucks block the parking lot. We trek down Beach Dr and back, with a detour along Military Rd to add hills. Conversation topics include entropy and time's arrow, the animated film //Ratatouille//, exhibits at the soon-to-close Corcoran art gallery, literal-minded French tax lawyers, and varieties of the philosophical Trolley Problem &amp;mdash; after that last of which, I eye my companions warily when we pause on a bridge above roiling Rock Creek, lest they decide to push me off to save the more worthy life of someone in the water. [[http://runkeeper.com/user/zhurnaly/activity/346856829|Runkeeper]] and [[http://connect.garmin.com/activity/492256715|Garmin]] GPS record the route.<br />&gt; //**^z**// - 2014-06-07</strong></p></div>
+flags: 0
+ts: 1528057702
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057702

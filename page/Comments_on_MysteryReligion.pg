@@ -1,0 +1,24 @@
+blocks: <h3>1 Comment.</h3><p><a class="url http" href="http://artsbeat.blogs.nytimes.com/2015/02/07/at-grammys-event-bob-dylan-speech-steals-the-show/">http://artsbeat.blogs.nytimes.com/2015/02/07/at-grammys-event-bob-dylan-speech-steals-the-show/</a> :<br />"These songs of mine," he said, "they're like mystery plays, the kind Shakespeare saw when he was growing up. I think you could trace what I do back that far. They were on the fringes then, and I think they're on the fringes now."</p><p>-- z 2015-02-08 16:02 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.61
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	http://artsbeat.blogs.nytimes.com/2015/02/07/at-grammys-event-bob-dylan-speech-steals-the-show/ :
+	"These songs of mine," he said, "they're like mystery plays, the kind Shakespeare saw when he was growing up. I think you could trace what I do back that far. They were on the fringes then, and I think they're on the fringes now."
+	
+	-- z 2015-02-08 16:02 UTC
+	
+	
+languages: 
+lastmajor: 6
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; http://artsbeat.blogs.nytimes.com/2015/02/07/at-grammys-event-bob-dylan-speech-steals-the-show/ :<br />&gt; "These songs of mine," he said, "they're like mystery plays, the kind Shakespeare saw when he was growing up. I think you could trace what I do back that far. They were on the fringes then, and I think they're on the fringes now."<br />&gt; -- z 2015-02-08 16:02 UTC</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 6
+keep-ts: 1528057679

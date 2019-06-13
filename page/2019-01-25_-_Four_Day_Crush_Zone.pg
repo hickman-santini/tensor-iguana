@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~3.1 mi @ ~13.1 min/mi</h3><p><em><strong>"It's a Four-day Crush Zone!"</strong></em> declares K-Rex, as Dawn Patrol commiserates about how a holiday-shortened week becomes hectic when the usual five days of work gets squeezed into 20% less. Venus and Sirius glimmer side-by-side through high clouds, and a beautiful stained-glass window glows above a garage on Thrasher Road. Slick ice puddles turn exposed asphalt surfaces into skating rinks, even though the air temperature is slightly above freezing. Roadkill lectures on the physics of Planck-law black body radiation and why darker surfaces cool faster. K2 leads the way through neighborhood cut-throughs.</p><p><em><strong>"You are the greatest athletes in the world!"</strong></em> We salute each other and debate whether decathlons or triathlons are appropriate next-steps beyond ultramarathons &mdash; and concur that injury avoidance and efficient use of limited training time are key factors to consider &mdash; not to mention glory and mental health and cultivation of friendships!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1282106658">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2019-02-19</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">"</strong>It's a Four-day Crush Zone<strong class="changes">!"</strong> declares K-Rex, as Dawn Patrol commiserates about how a holiday-shortened week becomes hectic when the usual five days of work gets squeezed into 20% less. Venus and Sirius glimmer side-by-side through high clouds, and a beautiful stained-glass window glows above a garage on Thrasher Road. Slick ice puddles turn exposed asphalt surfaces into skating rinks, even though the air temperature is slightly above freezing. Roadkill lectures on the physics of Planck-law black body radiation and why darker surfaces cool faster. K2 leads the way through neighborhood cut-throughs.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//**"</strong>It's a Four-day Crush Zone<strong class="changes">!"**//</strong> declares K-Rex, as Dawn Patrol commiserates about how a holiday-shortened week becomes hectic when the usual five days of work gets squeezed into 20% less. Venus and Sirius glimmer side-by-side through high clouds, and a beautiful stained-glass window glows above a garage on Thrasher Road. Slick ice puddles turn exposed asphalt surfaces into skating rinks, even though the air temperature is slightly above freezing. Roadkill lectures on the physics of Planck-law black body radiation and why darker surfaces cool faster. K2 leads the way through neighborhood cut-throughs.</p></div>
+lastmajorsummary: tweak
+ts: 1550571746
+minor: 
+host: 166.137.240.32
+username: z
+revision: 2
+diff-major: 1
+summary: tweak
+languages: 
+text: === ~3.1 mi @ ~13.1 min/mi
+	
+	//**"It's a Four-day Crush Zone!"**// declares K-Rex, as Dawn Patrol commiserates about how a holiday-shortened week becomes hectic when the usual five days of work gets squeezed into 20% less. Venus and Sirius glimmer side-by-side through high clouds, and a beautiful stained-glass window glows above a garage on Thrasher Road. Slick ice puddles turn exposed asphalt surfaces into skating rinks, even though the air temperature is slightly above freezing. Roadkill lectures on the physics of Planck-law black body radiation and why darker surfaces cool faster. K2 leads the way through neighborhood cut-throughs.
+	
+	//**"You are the greatest athletes in the world!"**// We salute each other and debate whether decathlons or triathlons are appropriate next-steps beyond ultramarathons &mdash; and concur that injury avoidance and efficient use of limited training time are key factors to consider &mdash; not to mention glory and mental health and cultivation of friendships!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1282106658|trackfile]])// - //**^z**// - 2019-02-19
+	
+lastmajor: 2
+keep-ts: 1550571746

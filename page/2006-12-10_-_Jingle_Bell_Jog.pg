@@ -1,0 +1,19 @@
+flags: 0
+blocks: <p><h3>5- miles @ ~11:10 min/mi</h3></p><p>Christina Caravoulias and I see lots of friends and have a nice ramble on neighborhood streets in this chilly morning's 8k MCRRC event. The first two miles go by at ~10:40 pace, but then we begin to take walk breaks and slow to ~11:20 for miles 3 and 4, where we see comrade Caren Jew working the water table. I take photos along the way and pick up a shiny but badly scratched brass parking token on the course to give to Ken at the finish line. Jim gives me some digital camera advice; friend Ruth Martin is in town and visits with us before and after the race.</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Christina and I see lots of friends and have a nice ramble on neighborhood streets in this chilly morning's 8k MCRRC event. The first two miles go by at ~10:40 pace, but then we begin to take walk breaks and slow to ~11:20 for miles 3 and 4, where we see comrade Caren working the water table. I take photos along the way and pick up a shiny but badly scratched brass parking token on the course to give to Ken at the finish line. Jim gives me some digital camera advice; friend Ruth is in town and visits with us before and after the race.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Christina <strong class="changes">Caravoulias</strong> and I see lots of friends and have a nice ramble on neighborhood streets in this chilly morning's 8k MCRRC event. The first two miles go by at ~10:40 pace, but then we begin to take walk breaks and slow to ~11:20 for miles 3 and 4, where we see comrade Caren <strong class="changes">Jew</strong> working the water table. I take photos along the way and pick up a shiny but badly scratched brass parking token on the course to give to Ken at the finish line. Jim gives me some digital camera advice; friend Ruth <strong class="changes">Martin</strong> is in town and visits with us before and after the race.</p></div>
+ip: 138.88.169.233
+ts: 1292754178
+minor: 1
+host: pool-138-88-169-233.res.east.verizon.net
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: add Caren's last name
+languages: 
+text: === 5- miles @ ~11:10 min/mi
+	
+	Christina Caravoulias and I see lots of friends and have a nice ramble on neighborhood streets in this chilly morning's 8k MCRRC event. The first two miles go by at ~10:40 pace, but then we begin to take walk breaks and slow to ~11:20 for miles 3 and 4, where we see comrade Caren Jew working the water table. I take photos along the way and pick up a shiny but badly scratched brass parking token on the course to give to Ken at the finish line. Jim gives me some digital camera advice; friend Ruth Martin is in town and visits with us before and after the race.
+	
+keep-ts: 1292754178

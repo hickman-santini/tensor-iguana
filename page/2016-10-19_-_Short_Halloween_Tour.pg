@@ -1,0 +1,25 @@
+blocks: <h3>~4.4 miles @ ~13.7 min/mi</h3><p><em>"I OK!"</em> Caitlin reports her 3-year-old niece's declaration when she falls but is uninjured. In the opposite case, a tearful <em>"No '<strong>Man up</strong>'!"</em> was Kristin's daughter's response at that age to Mom's suggestion that she shrug off pain.</p><p>And speaking of twinges, both Kristin's right knee and my right ankle are iffy today, so we cut short the survey of Halloween decorations and close the loop after only an hour. Faux-cobwebs are in vogue this season, as are skeletons emerging from the earth, giant inflated creatures, pumpkin pyramids, and orange light arrays. At least five cats, two dogs, and a possible raccoon are on watch this morning. A waning moon is within a degree of Aldebaran.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/882865769">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-11-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.4 miles @ ~13.7 min/mi
+	
+	//"I OK!"// Caitlin reports her 3-year-old niece's declaration when she falls but is uninjured. In the opposite case, a tearful //"No '**Man up**'!"// was Kristin's daughter's response at that age to Mom's suggestion that she shrug off pain.
+	
+	And speaking of twinges, both Kristin's right knee and my right ankle are iffy today, so we cut short the survey of Halloween decorations and close the loop after only an hour. Faux-cobwebs are in vogue this season, as are skeletons emerging from the earth, giant inflated creatures, pumpkin pyramids, and orange light arrays. At least five cats, two dogs, and a possible raccoon are on watch this morning. A waning moon is within a degree of Aldebaran.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/882865769|trackfile]])// - //**^z**// - 2016-11-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.4 miles @ ~13.7 min/mi<br />&gt; //"I OK!"// Caitlin reports her 3-year-old niece's declaration when she falls but is uninjured. In the opposite case, a tearful //"No '**Man up**'!"// was Kristin's daughter's response at that age to Mom's suggestion that she shrug off pain.<br />&gt; And speaking of twinges, both Kristin's right knee and my right ankle are iffy today, so we cut short the survey of Halloween decorations and close the loop after only an hour. Faux-cobwebs are in vogue this season, as are skeletons emerging from the earth, giant inflated creatures, pumpkin pyramids, and orange light arrays. At least five cats, two dogs, and a possible raccoon are on watch this morning. A waning moon is within a degree of Aldebaran.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/882865769|trackfile]])// - //**^z**// - 2016-11-16</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

@@ -1,0 +1,25 @@
+blocks: <h3>~5.9 miles @ ~13.8 min/mi</h3><p>Instead of "Pok&eacute;mon Go" perhaps it should be called "Pok&eacute;mon Stop"? Mega-apologies to patient comrade Kerry, as I stare at my screen and interrupt the trek through Scotts Run Nature Preserve to catch virtual creatures. Real bunny count = 0; ditto zero actual deer sightings. On a dirt trail we pass another Pok&eacute;mon hunter, who looks as though the walk in the woods is the most exercise he has undertaken in quite a while. Good on him, and on the game for encouraging outdoor activity!</p><p>"Now we know the answer to <em><strong>that</strong></em> philosophical question!" Kerry observes, after a tree falls in the forest and makes a loud noise. <em>(Yes, we're nobody!)</em> On Churchill St we investigate a potential cut-through behind a stand of bamboo, but the connection to a proper trail is unclear, so we turn back rather than trespass or risk falling into a creek. Kerry catches cobwebs for The Team as she leads, and makes a graceful recovery from a near-epic stumble on a hidden root. A scramble down to the Potomac River yields lovely views and a Magikarp.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/824673340">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-08-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.39
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.9 miles @ ~13.8 min/mi
+	
+	Instead of "Pok&eacute;mon Go" perhaps it should be called "Pok&eacute;mon Stop"? Mega-apologies to patient comrade Kerry, as I stare at my screen and interrupt the trek through Scotts Run Nature Preserve to catch virtual creatures. Real bunny count = 0; ditto zero actual deer sightings. On a dirt trail we pass another Pok&eacute;mon hunter, who looks as though the walk in the woods is the most exercise he has undertaken in quite a while. Good on him, and on the game for encouraging outdoor activity!
+	
+	"Now we know the answer to //**that**// philosophical question!" Kerry observes, after a tree falls in the forest and makes a loud noise. //(Yes, we're nobody!)// On Churchill St we investigate a potential cut-through behind a stand of bamboo, but the connection to a proper trail is unclear, so we turn back rather than trespass or risk falling into a creek. Kerry catches cobwebs for The Team as she leads, and makes a graceful recovery from a near-epic stumble on a hidden root. A scramble down to the Potomac River yields lovely views and a Magikarp.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/824673340|trackfile]])// - //**^z**// - 2016-08-04
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.9 miles @ ~13.8 min/mi<br />&gt; Instead of "Pok&amp;eacute;mon Go" perhaps it should be called "Pok&amp;eacute;mon Stop"? Mega-apologies to patient comrade Kerry, as I stare at my screen and interrupt the trek through Scotts Run Nature Preserve to catch virtual creatures. Real bunny count = 0; ditto zero actual deer sightings. On a dirt trail we pass another Pok&amp;eacute;mon hunter, who looks as though the walk in the woods is the most exercise he has undertaken in quite a while. Good on him, and on the game for encouraging outdoor activity!<br />&gt; "Now we know the answer to //**that**// philosophical question!" Kerry observes, after a tree falls in the forest and makes a loud noise. //(Yes, we're nobody!)// On Churchill St we investigate a potential cut-through behind a stand of bamboo, but the connection to a proper trail is unclear, so we turn back rather than trespass or risk falling into a creek. Kerry catches cobwebs for The Team as she leads, and makes a graceful recovery from a near-epic stumble on a hidden root. A scramble down to the Potomac River yields lovely views and a Magikarp.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/824673340|trackfile]])// - //**^z**// - 2016-08-04</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

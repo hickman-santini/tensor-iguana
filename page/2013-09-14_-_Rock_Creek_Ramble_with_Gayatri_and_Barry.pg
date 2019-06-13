@@ -1,0 +1,23 @@
+blocks: <h3>~17 miles @ ~12 min/mi</h3><p>Lovely-cool weather for a trek along Rock Creek. Spy: a dozen deer, including one buck with a great rack eating flowers from a neighbor's garden. Middle miles flow with comrades Gayatri Datta and Barry Smith. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/241767640">Runkeeper</a> roughly agrees with <a class="url http outside" href="http://connect.garmin.com/activity/375478458">Garmin GPS</a>, which has splits as 10:45 + 9:47 + 11:27 + 12:58 + 10:58 + 16:12 + 11:14 + 11:58 + 12:56 + 11:14 + 11:55 + 15:19 + 10:46 + 11:29 + 11:01 + 11:30 + 9:16 + and a final fraction at ~9:10 min/mi pace.</p><p><em><strong>^z</strong></em> - 2013-09-28</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.136
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~17 miles @ ~12 min/mi
+	
+	Lovely-cool weather for a trek along Rock Creek. Spy: a dozen deer, including one buck with a great rack eating flowers from a neighbor's garden. Middle miles flow with comrades Gayatri Datta and Barry Smith. [[http://runkeeper.com/user/zhurnaly/activity/241767640|Runkeeper]] roughly agrees with [[http://connect.garmin.com/activity/375478458|Garmin GPS]], which has splits as 10:45 + 9:47 + 11:27 + 12:58 + 10:58 + 16:12 + 11:14 + 11:58 + 12:56 + 11:14 + 11:55 + 15:19 + 10:46 + 11:29 + 11:01 + 11:30 + 9:16 + and a final fraction at ~9:10 min/mi pace. 
+	
+	//**^z**// - 2013-09-28
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~17 miles @ ~12 min/mi<br />&gt; Lovely-cool weather for a trek along Rock Creek. Spy: a dozen deer, including one buck with a great rack eating flowers from a neighbor's garden. Middle miles flow with comrades Gayatri Datta and Barry Smith. [[http://runkeeper.com/user/zhurnaly/activity/241767640|Runkeeper]] roughly agrees with [[http://connect.garmin.com/activity/375478458|Garmin GPS]], which has splits as 10:45 + 9:47 + 11:27 + 12:58 + 10:58 + 16:12 + 11:14 + 11:58 + 12:56 + 11:14 + 11:55 + 15:19 + 10:46 + 11:29 + 11:01 + 11:30 + 9:16 + and a final fraction at ~9:10 min/mi pace. <br />&gt; //**^z**// - 2013-09-28</strong></p></div>
+flags: 0
+ts: 1528057695
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057695

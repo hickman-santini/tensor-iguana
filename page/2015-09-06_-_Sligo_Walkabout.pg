@@ -1,0 +1,23 @@
+blocks: <h3>~5.9 miles @ ~19.7 min/mi</h3><p>"Julie Trapp!" After 30 seconds I finally remember the name of long-time Montgomery County Road Runners Club comrade and can properly introduce her to DD Gray. We're on a Sunday morning walkabout, a loop along Sligo Creek Trail and neighborhood streets. Julie gives us a burst-mode update on Patti &amp; Jim Rich, then resumes her run. There's a new little free library at the corner of Crosby &amp; Dale.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/650505951">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-09-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.121
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.9 miles @ ~19.7 min/mi
+	
+	"Julie Trapp!" After 30 seconds I finally remember the name of long-time Montgomery County Road Runners Club comrade and can properly introduce her to DD Gray. We're on a Sunday morning walkabout, a loop along Sligo Creek Trail and neighborhood streets. Julie gives us a burst-mode update on Patti & Jim Rich, then resumes her run. There's a new little free library at the corner of Crosby & Dale.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/650505951|trackfile]])// - //**^z**// - 2015-09-27
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.9 miles @ ~19.7 min/mi<br />&gt; "Julie Trapp!" After 30 seconds I finally remember the name of long-time Montgomery County Road Runners Club comrade and can properly introduce her to DD Gray. We're on a Sunday morning walkabout, a loop along Sligo Creek Trail and neighborhood streets. Julie gives us a burst-mode update on Patti &amp; Jim Rich, then resumes her run. There's a new little free library at the corner of Crosby &amp; Dale.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/650505951|trackfile]])// - //**^z**// - 2015-09-27</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

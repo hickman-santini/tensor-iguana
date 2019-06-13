@@ -1,0 +1,30 @@
+blocks: <h3>~9.5 miles @ ~12.3 min/mi</h3><p>Kristin's travel snafu-cancellation has a silver lining! &mdash; with Kerry this morning we enjoy an awesome run:<br /></p><ul><li>huge rainbow, glowing opposite a brilliant chiaroscuro sunrise</li><li>water sprinklers in the new little park by Route 7 at the W&amp;OD &mdash; we duck low under the arching spray and get wet hair</li><li>cottontail bunny scampers away in our flashlight beams, near a flower bed of what looks in the gloom like a miniature forest of broccoli</li><li>barefoot runner dashes past us ("We're not taking a walk break, we're admiring the dawn!")</li><li>delightful-friendly Weimaraner puppy that we're tempted to kidnap.</li></ul><p>... more than a "silver lining" &mdash; it's solid gold!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/660335858">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.5 miles @ ~12.3 min/mi
+	
+	Kristin's travel snafu-cancellation has a silver lining! &mdash; with Kerry this morning we enjoy an awesome run:
+	* huge rainbow, glowing opposite a brilliant chiaroscuro sunrise
+	* water sprinklers in the new little park by Route 7 at the W&OD &mdash; we duck low under the arching spray and get wet hair
+	* cottontail bunny scampers away in our flashlight beams, near a flower bed of what looks in the gloom like a miniature forest of broccoli
+	* barefoot runner dashes past us ("We're not taking a walk break, we're admiring the dawn!")
+	* delightful-friendly Weimaraner puppy that we're tempted to kidnap.
+	
+	... more than a "silver lining" &mdash; it's solid gold!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/660335858|trackfile]])// - //**^z**// - 2015-10-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.5 miles @ ~12.3 min/mi<br />&gt; Kristin's travel snafu-cancellation has a silver lining! &amp;mdash; with Kerry this morning we enjoy an awesome run:<br />&gt; * huge rainbow, glowing opposite a brilliant chiaroscuro sunrise<br />&gt; * water sprinklers in the new little park by Route 7 at the W&amp;OD &amp;mdash; we duck low under the arching spray and get wet hair<br />&gt; * cottontail bunny scampers away in our flashlight beams, near a flower bed of what looks in the gloom like a miniature forest of broccoli<br />&gt; * barefoot runner dashes past us ("We're not taking a walk break, we're admiring the dawn!")<br />&gt; * delightful-friendly Weimaraner puppy that we're tempted to kidnap.<br />&gt; ... more than a "silver lining" &amp;mdash; it's solid gold!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/660335858|trackfile]])// - //**^z**// - 2015-10-15</strong></p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057687

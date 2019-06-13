@@ -1,0 +1,57 @@
+blocks: <table class="user"><tr><td align="right">Bull Run<br />Being surrounded is not<br />a strategy<br />for success<br /> <br />Alamo<br />Being surrounded is not a<br />strategy for<br />success<br /> <br />Titanic<br />Being surrounded<br />is not a strategy<br />for success<br /> <br />Unless you are surrounded <br />by friends, or <br />at least<br />The indifferent<br />Or at least<br />The satiated or at<br />least escape routes<br /><br />Your best bet being<br />greater freedom<br />Than the threats<br />That surround you<br /><br />And with freedom<br />Better judgment<br />To deal with the threats<br />Within you<br /><br />The ones<br />That transform <br />mindless ice<br />Into deadly assassins </td></tr></table><p>... a poem by Ed Covannon - March 2012</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 198.228.228.36
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Bull Run
+	Being surrounded is not
+	a strategy
+	for success
+	 \\
+	Alamo
+	Being surrounded is not a
+	strategy for
+	success
+	 \\
+	Titanic
+	Being surrounded
+	is not a strategy
+	for success
+	 \\
+	Unless you are surrounded 
+	by friends, or 
+	at least
+	The indifferent
+	Or at least
+	The satiated or at
+	least escape routes
+	\\
+	Your best bet being
+	greater freedom
+	Than the threats
+	That surround you
+	\\
+	And with freedom
+	Better judgment
+	To deal with the threats
+	Within you
+	\\
+	The ones
+	That transform 
+	mindless ice
+	Into deadly assassins |
+	
+	... a poem by Ed Covannon - March 2012
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Bull Run<br />&gt; Being surrounded is not<br />&gt; a strategy<br />&gt; for success<br />&gt;  \\<br />&gt; Alamo<br />&gt; Being surrounded is not a<br />&gt; strategy for<br />&gt; success<br />&gt;  \\<br />&gt; Titanic<br />&gt; Being surrounded<br />&gt; is not a strategy<br />&gt; for success<br />&gt;  \\<br />&gt; Unless you are surrounded <br />&gt; by friends, or <br />&gt; at least<br />&gt; The indifferent<br />&gt; Or at least<br />&gt; The satiated or at<br />&gt; least escape routes<br />&gt; \\<br />&gt; Your best bet being<br />&gt; greater freedom<br />&gt; Than the threats<br />&gt; That surround you<br />&gt; \\<br />&gt; And with freedom<br />&gt; Better judgment<br />&gt; To deal with the threats<br />&gt; Within you<br />&gt; \\<br />&gt; The ones<br />&gt; That transform <br />&gt; mindless ice<br />&gt; Into deadly assassins |<br />&gt; ... a poem by Ed Covannon - March 2012</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

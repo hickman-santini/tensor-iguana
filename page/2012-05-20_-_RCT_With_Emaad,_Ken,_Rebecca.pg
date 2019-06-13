@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~8 miles @ ~10.4 min/mi</h3></p><p>A scrawny rabbit sits in the middle of Rock Creek Trail and only scampers off when we're a few feet away. A big deer bounds across the path. Ken Swab, who set a PR yesterday at the Capon Valley 50k race, does the first five miles with Emaad Burki and Rebecca Rosenberg and me, an out-and-back downstream from Ken-Gar (milepost 7). Then Ken heads off to nearby Goldbergs Bagel Bakery where he scores some great bagels to share with me. The rest of us continue north ~1.5 miles to Randolph Rd and return. I dash ahead of Emaad and Rebecca to attempt photos of them, without great success &mdash; they're going too fast! The <a class="url http outside" href="http://connect.garmin.com/activity/180214111">Garmin GPS trackfile</a> says 8.39 miles; the Runens iPhone app is a hair less, 8.38 mi. Elapsed time includes two detours to my car, to drop off water bottle and pick up money for Ken's bagel purchase. Dehydration knocks my weight down from ~146.2 to ~143.7 lbs in spite of my drinking a pint of water.</p><p><em><strong>^z</strong></em> - 2012-06-06</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //**^z**// - 2012-06<strong class="changes">-??</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; //**^z**// - 2012-06<strong class="changes">-06</strong></p></div>
+ip: 138.88.181.94
+ts: 1338971661
+minor: 1
+host: pool-138-88-181-94.res.east.verizon.net
+username: Zimm
+revision: 2
+diff-major: 
+summary: fix date
+languages: 
+text: === ~8 miles @ ~10.4 min/mi
+	
+	A scrawny rabbit sits in the middle of Rock Creek Trail and only scampers off when we're a few feet away. A big deer bounds across the path. Ken Swab, who set a PR yesterday at the Capon Valley 50k race, does the first five miles with Emaad Burki and Rebecca Rosenberg and me, an out-and-back downstream from Ken-Gar (milepost 7). Then Ken heads off to nearby Goldbergs Bagel Bakery where he scores some great bagels to share with me. The rest of us continue north ~1.5 miles to Randolph Rd and return. I dash ahead of Emaad and Rebecca to attempt photos of them, without great success &mdash; they're going too fast! The [[http://connect.garmin.com/activity/180214111|Garmin GPS trackfile]] says 8.39 miles; the Runens iPhone app is a hair less, 8.38 mi. Elapsed time includes two detours to my car, to drop off water bottle and pick up money for Ken's bagel purchase. Dehydration knocks my weight down from ~146.2 to ~143.7 lbs in spite of my drinking a pint of water.
+	
+	//**^z**// - 2012-06-06
+	
+lastmajor: 1
+keep-ts: 1338971661

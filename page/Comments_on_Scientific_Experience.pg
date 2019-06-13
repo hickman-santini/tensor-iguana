@@ -1,0 +1,22 @@
+blocks: <h3>1 Comment.</h3><p>I would guess the essential aspect of a scientific experience is <em>reduction</em> -- taking what were apparently unrelated phenomena and understanding them as the same thing. Basically <a class="url http outside" href="http://www.irregularwebcomic.net/1420.html">what Maxwell felt when he solved his equations</a>.</p><p>-- <a class="url http outside" href="http://packbat.dreamwidth.org/">RobinZ</a> 2010-12-30 17:05 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.199.242
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	I would guess the essential aspect of a scientific experience is //reduction// -- taking what were apparently unrelated phenomena and understanding them as the same thing. Basically [http://www.irregularwebcomic.net/1420.html what Maxwell felt when he solved his equations].
+	
+	-- [http://packbat.dreamwidth.org/ RobinZ] 2010-12-30 17:05 UTC
+	
+	
+languages: 
+lastmajor: 7
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; I would guess the essential aspect of a scientific experience is //reduction// -- taking what were apparently unrelated phenomena and understanding them as the same thing. Basically [http://www.irregularwebcomic.net/1420.html what Maxwell felt when he solved his equations].<br />&gt; -- [http://packbat.dreamwidth.org/ RobinZ] 2010-12-30 17:05 UTC</p></div>
+flags: 0
+ts: 1528057678
+minor: 
+username: z
+host: 166.137.240.115
+revision: 7
+keep-ts: 1528057678

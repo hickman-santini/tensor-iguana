@@ -1,0 +1,23 @@
+blocks: <h3>~4.7 miles @ ~11.8 min/mi</h3><p>"Mark, <em><strong>we're</strong></em> people doing silly exercises!" says Dr Beth, when I so label the young men performing calisthenics in the gloom at the far end of the football field. The sun is rising behind thick clouds as we reach McLean HS track and discover it runnable, albeit with frosty-slick patches that mandate caution. Five 400m intervals in lane 2, with half-lap two-minute recovery walks &mdash; 1:45 + 1:48 + 1:46 + 1:47 + 1:48 &mdash; pushing hard and not quite puking. "I'm starting to pray that you say it's time to stop!" I tell Beth midway. She's running at a more sensible pace and applauds as I sprint by. My chronic double vision is a little troublesome as the day brightens and white lines on the maroon cushioned track curve around the ends of the oval. A crimson cardinal watches from a nearby cedar tree.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/735781842">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-02-28</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.11
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.7 miles @ ~11.8 min/mi
+	
+	"Mark, //**we're**// people doing silly exercises!" says Dr Beth, when I so label the young men performing calisthenics in the gloom at the far end of the football field. The sun is rising behind thick clouds as we reach McLean HS track and discover it runnable, albeit with frosty-slick patches that mandate caution. Five 400m intervals in lane 2, with half-lap two-minute recovery walks &mdash; 1:45 + 1:48 + 1:46 + 1:47 + 1:48 &mdash; pushing hard and not quite puking. "I'm starting to pray that you say it's time to stop!" I tell Beth midway. She's running at a more sensible pace and applauds as I sprint by. My chronic double vision is a little troublesome as the day brightens and white lines on the maroon cushioned track curve around the ends of the oval. A crimson cardinal watches from a nearby cedar tree.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/735781842|trackfile]])// - //**^z**// - 2016-02-28
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.7 miles @ ~11.8 min/mi<br />&gt; "Mark, //**we're**// people doing silly exercises!" says Dr Beth, when I so label the young men performing calisthenics in the gloom at the far end of the football field. The sun is rising behind thick clouds as we reach McLean HS track and discover it runnable, albeit with frosty-slick patches that mandate caution. Five 400m intervals in lane 2, with half-lap two-minute recovery walks &amp;mdash; 1:45 + 1:48 + 1:46 + 1:47 + 1:48 &amp;mdash; pushing hard and not quite puking. "I'm starting to pray that you say it's time to stop!" I tell Beth midway. She's running at a more sensible pace and applauds as I sprint by. My chronic double vision is a little troublesome as the day brightens and white lines on the maroon cushioned track curve around the ends of the oval. A crimson cardinal watches from a nearby cedar tree.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/735781842|trackfile]])// - //**^z**// - 2016-02-28</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

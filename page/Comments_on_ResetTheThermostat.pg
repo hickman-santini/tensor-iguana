@@ -1,0 +1,25 @@
+blocks: <h3>1 Comment.</h3><p>My favorite Paul Ammann quote is:</p><p>"Look at it this way --- you aren't out to run one marathon. You are out to run so many that you lose track of them."</p><p>Excellent review of "In Search of the Fulcrum", by the way. I'll have to add it to my (rather long) list. -- ANS</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.18.99
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	
+	My favorite Paul Ammann quote is:
+	
+	"Look at it this way --- you aren't out to run one marathon.  You are out to run so many that you lose track of them."
+	
+	Excellent review of "In Search of the Fulcrum", by the way.  I'll have to add it to my (rather long) list. -- ANS
+	
+	
+languages: 
+lastmajor: 25
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; My favorite Paul Ammann quote is:<br />&gt; "Look at it this way --- you aren't out to run one marathon.  You are out to run so many that you lose track of them."<br />&gt; Excellent review of "In Search of the Fulcrum", by the way.  I'll have to add it to my (rather long) list. -- ANS</p></div>
+flags: 0
+ts: 1528057678
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 25
+keep-ts: 1528057678

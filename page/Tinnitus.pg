@@ -1,0 +1,24 @@
+blocks: <table class="user"><tr><td align="right"><em>Tinnitus</em> &mdash; the N's and T's and I's<br />Make a constant ringing whine<br />Only heard when silence<br />Breaks through the wall of mind </td></tr></table><p><em><strong>^z</strong></em> - 2013-04-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.56
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | //Tinnitus// &mdash; the N's and T's and I's
+	Make a constant ringing whine
+	Only heard when silence
+	Breaks through the wall of mind |
+	
+	//**^z**// - 2013-04-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| //Tinnitus// &amp;mdash; the N's and T's and I's<br />&gt; Make a constant ringing whine<br />&gt; Only heard when silence<br />&gt; Breaks through the wall of mind |<br />&gt; //**^z**// - 2013-04-03</strong></p></div>
+flags: 0
+ts: 1528057703
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057703

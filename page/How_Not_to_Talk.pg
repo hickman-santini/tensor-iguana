@@ -1,0 +1,26 @@
+blocks: <p>At an industry association meeting I attended last week the lunchtime speaker inadvertently demonstrated what <em><strong>not</strong></em> to do in order to give an engaging presentation:<br /></p><ul><li>Begin with a lame self-deprecating joke <em>("They say I'm pretty fly for an old guy, but ...")</em></li><li>Read and discuss a dictionary definition of a word in the title of the talk</li><li>Plod through irrelevant facts and figures &mdash; statistics that would have required an almanac or encyclopedia to look up in past decades, but which now are two clicks away</li><li>Offer a numbered list of platitudes as recommendations &mdash; none of which are actionable, measurable, or connected to the earlier parts of the talk</li><li>Finish with more attempted humor <em>("I may sound like a MOTO, a Master Of The Obvious, but ...")</em></li></ul><p><em><strong>^z</strong></em> - 2013-04-25</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.79
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: At an industry association meeting I attended last week the lunchtime speaker inadvertently demonstrated what //**not**// to do in order to give an engaging presentation:
+	* Begin with a lame self-deprecating joke //("They say I'm pretty fly for an old guy, but ...")//
+	* Read and discuss a dictionary definition of a word in the title of the talk
+	* Plod through irrelevant facts and figures &mdash; statistics that would have required an almanac or encyclopedia to look up in past decades, but which now are two clicks away
+	* Offer a numbered list of platitudes as recommendations &mdash; none of which are actionable, measurable, or connected to the earlier parts of the talk
+	* Finish with more attempted humor //("I may sound like a MOTO, a Master Of The Obvious, but ...")
+	
+	//**^z**// - 2013-04-25
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">At an industry association meeting I attended last week the lunchtime speaker inadvertently demonstrated what //**not**// to do in order to give an engaging presentation:<br />&gt; * Begin with a lame self-deprecating joke //("They say I'm pretty fly for an old guy, but ...")//<br />&gt; * Read and discuss a dictionary definition of a word in the title of the talk<br />&gt; * Plod through irrelevant facts and figures &amp;mdash; statistics that would have required an almanac or encyclopedia to look up in past decades, but which now are two clicks away<br />&gt; * Offer a numbered list of platitudes as recommendations &amp;mdash; none of which are actionable, measurable, or connected to the earlier parts of the talk<br />&gt; * Finish with more attempted humor //("I may sound like a MOTO, a Master Of The Obvious, but ...")<br />&gt; //**^z**// - 2013-04-25</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

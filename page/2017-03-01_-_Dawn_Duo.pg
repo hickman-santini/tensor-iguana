@@ -1,0 +1,25 @@
+blocks: <h3>~6.0 miles @ ~12.8 min/mi</h3><p>"Kwanzan cherries ahead!" Pink petals speckle the sidewalk and stick to a hand that brushes against wet blossoms. Rain pauses for the Dawn Patrol to trot toward a sunrise behind thick clouds, temps in the upper 50s. Dr Kristin and I run for those who can't make it today. We concur on the value of not responding in haste to unfair criticism or blame, and of sharing credit widely after an unexpected success.</p><p>"Oops! That was a <em><strong>deep</strong></em> puddle!" Suddenly, soggy socks ...</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/940969902">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-31</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.93.63
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.0 miles @ ~12.8 min/mi
+	
+	"Kwanzan cherries ahead!" Pink petals speckle the sidewalk and stick to a hand that brushes against wet blossoms. Rain pauses for the Dawn Patrol to trot toward a sunrise behind thick clouds, temps in the upper 50s. Dr Kristin and I run for those who can't make it today. We concur on the value of not responding in haste to unfair criticism or blame, and of sharing credit widely after an unexpected success.
+	
+	"Oops! That was a //**deep**// puddle!" Suddenly, soggy socks ...
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/940969902|trackfile]])// - //**^z**// - 2017-03-31
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.0 miles @ ~12.8 min/mi<br />&gt; "Kwanzan cherries ahead!" Pink petals speckle the sidewalk and stick to a hand that brushes against wet blossoms. Rain pauses for the Dawn Patrol to trot toward a sunrise behind thick clouds, temps in the upper 50s. Dr Kristin and I run for those who can't make it today. We concur on the value of not responding in haste to unfair criticism or blame, and of sharing credit widely after an unexpected success.<br />&gt; "Oops! That was a //**deep**// puddle!" Suddenly, soggy socks ...<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/940969902|trackfile]])// - //**^z**// - 2017-03-31</strong></p></div>
+flags: 0
+ts: 1528057676
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057676

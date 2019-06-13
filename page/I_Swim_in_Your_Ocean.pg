@@ -1,0 +1,24 @@
+blocks: <table class="user"><tr><td align="right">I swim in your ocean<br /> &nbsp;&nbsp;&nbsp;&nbsp; You soar in my sky<br />We finish each other<br /> &nbsp;&nbsp;&nbsp;&nbsp; One breath, one sigh </td></tr></table><p><em>(composed at 6am on the DC subway platform at Metro Center, 1 Aug 2014)</em> - <em><strong>^z</strong></em> - 2014-08-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.209.198
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | I swim in your ocean
+	 &nbsp;&nbsp;&nbsp;&nbsp; You soar in my sky
+	We finish each other
+	 &nbsp;&nbsp;&nbsp;&nbsp; One breath, one sigh |
+	
+	//(composed at 6am on the DC subway platform at Metro Center, 1 Aug 2014)// - //**^z**// - 2014-08-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| I swim in your ocean<br />&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; You soar in my sky<br />&gt; We finish each other<br />&gt;  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; One breath, one sigh |<br />&gt; //(composed at 6am on the DC subway platform at Metro Center, 1 Aug 2014)// - //**^z**// - 2014-08-02</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057697

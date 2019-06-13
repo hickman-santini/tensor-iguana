@@ -1,0 +1,22 @@
+blocks: <h3>1 Comment.</h3><p>Also: better at <em>which decision</em>-making? I've heard of a number of studies on "rationality of depression" where the apparent rationality came from choosing questions where most people were too optimistic, rather than where most people were too pessimistic.</p><p>-- <a class="url http outside" href="http://packbat.livejournal.com/">RadRob</a> 2010-06-10 13:39 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.30.123
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	Also: better at //which decision//-making? I've heard of a number of studies on "rationality of depression" where the apparent rationality came from choosing questions where most people were too optimistic, rather than where most people were too pessimistic.
+	
+	-- [http://packbat.livejournal.com/ RadRob] 2010-06-10 13:39 UTC
+	
+	
+languages: 
+lastmajor: 7
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; Also: better at //which decision//-making? I've heard of a number of studies on "rationality of depression" where the apparent rationality came from choosing questions where most people were too optimistic, rather than where most people were too pessimistic.<br />&gt; -- [http://packbat.livejournal.com/ RadRob] 2010-06-10 13:39 UTC</p></div>
+flags: 0
+ts: 1528057704
+minor: 
+username: z
+host: 166.137.240.115
+revision: 7
+keep-ts: 1528057704

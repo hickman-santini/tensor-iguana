@@ -1,0 +1,29 @@
+blocks: <h3>2 Comments.</h3><p>Those first two sentences are excellent description.</p><p>-- <a class="url http outside" href="http://packbat.livejournal.com/">RobinZimm</a> 2010-03-02 14:39 UTC</p><hr /><p>tnx, Robin ... I've been trying to put a little more lit'ry merit in my run reports, but it don't come easy! Presume you saw the <strong>Guardian</strong> "<a class="url http outside" href="http://www.guardian.co.uk/books/2010/feb/20/ten-rules-for-writing-fiction-part-one">Ten Rules for Writing Fiction</a>" recent collection of advice from various authors? ... e.g., "1. Never open a book with weather." (^_^)</p><p>-- zzz 2010-03-02 15:19 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.186.77
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	Those first two sentences are excellent description.
+	
+	-- [http://packbat.livejournal.com/ RobinZimm] 2010-03-02 14:39 UTC
+	
+	
+	----
+	
+	tnx, Robin ... I've been trying to put a little more lit'ry merit in my run reports, but it don't come easy!  Presume you saw the **Guardian** "[[http://www.guardian.co.uk/books/2010/feb/20/ten-rules-for-writing-fiction-part-one|Ten Rules for Writing Fiction]]" recent collection of advice from various authors?  ... e.g., "1. Never open a book with weather."  (^_^)
+	
+	-- zzz 2010-03-02 15:19 UTC
+	
+	
+languages: 
+lastmajor: 15
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; Those first two sentences are excellent description.<br />&gt; -- [http://packbat.livejournal.com/ RobinZimm] 2010-03-02 14:39 UTC<br />&gt; ----<br />&gt; tnx, Robin ... I've been trying to put a little more lit'ry merit in my run reports, but it don't come easy!  Presume you saw the **Guardian** "[[http://www.guardian.co.uk/books/2010/feb/20/ten-rules-for-writing-fiction-part-one|Ten Rules for Writing Fiction]]" recent collection of advice from various authors?  ... e.g., "1. Never open a book with weather."  (^_^)<br />&gt; -- zzz 2010-03-02 15:19 UTC</p></div>
+flags: 0
+ts: 1528057687
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 15
+keep-ts: 1528057687

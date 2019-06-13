@@ -1,0 +1,25 @@
+blocks: <p>In the spirit of Ernest Hemingway's purported Six Word Story &mdash; "For sale: baby shoes, never worn." &mdash; at MITRE some months ago an online discussion invited readers to submit a six word job description. Many were forgettable. One, by digital media specialist Michael Baker, jumped out:</p><table class="user"><tr><td align="center">Ideas have dimensions, I move camera.</td></tr></table><p><em>What a great metaphor!</em></p><p><em><strong>^z</strong></em> - 2013-09-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.177
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: In the spirit of Ernest Hemingway's purported Six Word Story &mdash; "For sale: baby shoes, never worn." &mdash; at MITRE some months ago an online discussion invited readers to submit a six word job description. Many were forgettable. One, by digital media specialist Michael Baker, jumped out:
+	
+	| Ideas have dimensions, I move camera. |
+	
+	//What a great metaphor!//
+	
+	//**^z**// - 2013-09-13
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">In the spirit of Ernest Hemingway's purported Six Word Story &amp;mdash; "For sale: baby shoes, never worn." &amp;mdash; at MITRE some months ago an online discussion invited readers to submit a six word job description. Many were forgettable. One, by digital media specialist Michael Baker, jumped out:<br />&gt; | Ideas have dimensions, I move camera. |<br />&gt; //What a great metaphor!//<br />&gt; //**^z**// - 2013-09-13</strong></p></div>
+flags: 0
+ts: 1528057702
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057702

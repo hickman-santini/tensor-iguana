@@ -1,0 +1,23 @@
+blocks: <h3>~20 miles @ ~12.8 min/mi</h3><p>Gayatri Datta stumbles and falls at 9:30am on Rock Creek Trail while running with me; Barry Smith does likewise at 10:30am. I head for home immediately, before my turn comes! Rebecca Rosenberg and Sara Crum are far ahead and, cross fingers, avoid a fall. <a class="url http outside" href="https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/172460333">Runtastic</a> and <a class="url http outside" href="http://connect.garmin.com/activity/443001770">Garmin</a> trackfiles show the rambling route.</p><p><em><strong>^z</strong></em> - 2014-02-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.209.243
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~20 miles @ ~12.8 min/mi
+	
+	Gayatri Datta stumbles and falls at 9:30am on Rock Creek Trail while running with me; Barry Smith does likewise at 10:30am. I head for home immediately, before my turn comes! Rebecca Rosenberg and Sara Crum are far ahead and, cross fingers, avoid a fall. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/172460333|Runtastic]] and [[http://connect.garmin.com/activity/443001770|Garmin]] trackfiles show the rambling route.
+	
+	//**^z**// - 2014-02-27
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~20 miles @ ~12.8 min/mi<br />&gt; Gayatri Datta stumbles and falls at 9:30am on Rock Creek Trail while running with me; Barry Smith does likewise at 10:30am. I head for home immediately, before my turn comes! Rebecca Rosenberg and Sara Crum are far ahead and, cross fingers, avoid a fall. [[https://www.runtastic.com/en/users/Mark-Zimmermann/sport-sessions/172460333|Runtastic]] and [[http://connect.garmin.com/activity/443001770|Garmin]] trackfiles show the rambling route.<br />&gt; //**^z**// - 2014-02-27</strong></p></div>
+flags: 0
+ts: 1528057709
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057709

@@ -1,0 +1,23 @@
+blocks: <p>2 August 1981: I start working for the Federal government. It's in the middle of a two-week pay period, so on 21 August I receive my first paycheck from the US Treasury, for the princely sum of $431.30. <em>(Inflation adjustment: prices have gone up a factor of ~2.5 from 1981 to 2013.)</em> I have accrued no annual leave, no sick leave, no comp time. After 30 years plus one day, on 2 August 2011, I retire from the Civil Service. Perhaps the entry on that initial pay stub labeled "RET", for $41.10, turns out to be the best investment I've ever made ...</p><p><img class="url http" src="http://zhurnaly.com/images/my_first_federal_pay_slip_1981.jpg" alt="http://zhurnaly.com/images/my_first_federal_pay_slip_1981.jpg" /></p><p><em><strong>^z</strong></em> - 2013-01-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.29.121
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: 2 August 1981: I start working for the Federal government. It's in the middle of a two-week pay period, so on 21 August I receive my first paycheck from the US Treasury, for the princely sum of $431.30. //(Inflation adjustment: prices have gone up a factor of ~2.5 from 1981 to 2013.)// I have accrued no annual leave, no sick leave, no comp time. After 30 years plus one day, on 2 August 2011, I retire from the Civil Service. Perhaps the entry on that initial pay stub labeled "RET", for $41.10, turns out to be the best investment I've ever made ...
+	
+	http://zhurnaly.com/images/my_first_federal_pay_slip_1981.jpg
+	
+	//**^z**// - 2013-01-14
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">2 August 1981: I start working for the Federal government. It's in the middle of a two-week pay period, so on 21 August I receive my first paycheck from the US Treasury, for the princely sum of $431.30. //(Inflation adjustment: prices have gone up a factor of ~2.5 from 1981 to 2013.)// I have accrued no annual leave, no sick leave, no comp time. After 30 years plus one day, on 2 August 2011, I retire from the Civil Service. Perhaps the entry on that initial pay stub labeled "RET", for $41.10, turns out to be the best investment I've ever made ...<br />&gt; http://zhurnaly.com/images/my_first_federal_pay_slip_1981.jpg<br />&gt; //**^z**// - 2013-01-14</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

@@ -1,0 +1,26 @@
+blocks: <h3>~6.3 mi @ ~13.8 min/mi</h3><p>"Want a Cherry Blossom bib?" we ask, as eight runners and two dogs pass the Dawn Patrol. A comrade can't run that race this year, so we're in search of someone to transfer her entry to. <em>No takers yet!</em> Fog hangs in the valley above Scotts Run. Temps are already in the 60s, on their way to record warmth today.</p><p>"The coffee is better at Star Nut - and the owner is happy to open shop early for us!" Local runners Morgan and Laurel introduce themselves and let us pet their dogs. We vow to join them another day, get our iced coffees from Starbucks, and proceed. Kerry and Kristin navigate through neighborhood cut-throughs. A brilliant ball of light appears above the eastern horizon, some phenomenon we haven't witnessed for months. Crocuses and snowdrops blossom.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1124289883">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-03-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.163
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: 
+	=== ~6.3 mi @ ~13.8 min/mi
+	
+	"Want a Cherry Blossom bib?" we ask, as eight runners and two dogs pass the Dawn Patrol. A comrade can't run that race this year, so we're in search of someone to transfer her entry to. //No takers yet!// Fog hangs in the valley above Scotts Run. Temps are already in the 60s, on their way to record warmth today.
+	
+	"The coffee is better at Star Nut - and the owner is happy to open shop early for us!" Local runners Morgan and Laurel introduce themselves and let us pet their dogs. We vow to join them another day, get our iced coffees from Starbucks, and proceed. Kerry and Kristin navigate through neighborhood cut-throughs. A brilliant ball of light appears above the eastern horizon, some phenomenon we haven't witnessed for months. Crocuses and snowdrops blossom.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1124289883|trackfile]])// - //**^z**// - 2018-03-22
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes"><br />&gt; === ~6.3 mi @ ~13.8 min/mi<br />&gt; "Want a Cherry Blossom bib?" we ask, as eight runners and two dogs pass the Dawn Patrol. A comrade can't run that race this year, so we're in search of someone to transfer her entry to. //No takers yet!// Fog hangs in the valley above Scotts Run. Temps are already in the 60s, on their way to record warmth today.<br />&gt; "The coffee is better at Star Nut - and the owner is happy to open shop early for us!" Local runners Morgan and Laurel introduce themselves and let us pet their dogs. We vow to join them another day, get our iced coffees from Starbucks, and proceed. Kerry and Kristin navigate through neighborhood cut-throughs. A brilliant ball of light appears above the eastern horizon, some phenomenon we haven't witnessed for months. Crocuses and snowdrops blossom.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1124289883|trackfile]])// - //**^z**// - 2018-03-22</strong></p></div>
+flags: 0
+ts: 1528057692
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057692

@@ -1,0 +1,23 @@
+blocks: <h3>~11.7 miles @ ~13.3 min/mi</h3><p>"Back-to-School Run!" Kristin names today's trek, a venture that starts in the dark on a cool crisp fall-like morning. Kerry has just returned from Italy, and on her internal clock it's 10am. After a warm-up lap around McLean HS track we head east toward Venus. On Franklin Park Rd a weird creche, occupied by two human-sized statues of crows, stands beside a spooky-looking house that we all agree looks like it belongs in the wilderness, guarded by a shotgun-totin' tobacco-chewin' squint-eyed mountain man. At Tuckahoe Park a water fountain beckons, as does playground equipment including a giant rope-spiderweb, bouncy-spring stools, and a mega-xylophone. Our return trip intersects rush hour at the high school where cars of last-minute arrivals jam the parking lot. Rabbit Count = 1, in the final mile.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/655769999">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~11.7 miles @ ~13.3 min/mi
+	
+	"Back-to-School Run!" Kristin names today's trek, a venture that starts in the dark on a cool crisp fall-like morning. Kerry has just returned from Italy, and on her internal clock it's 10am. After a warm-up lap around McLean HS track we head east toward Venus. On Franklin Park Rd a weird creche, occupied by two human-sized statues of crows, stands beside a spooky-looking house that we all agree looks like it belongs in the wilderness, guarded by a shotgun-totin' tobacco-chewin' squint-eyed mountain man. At Tuckahoe Park a water fountain beckons, as does playground equipment including a giant rope-spiderweb, bouncy-spring stools, and a mega-xylophone. Our return trip intersects rush hour at the high school where cars of last-minute arrivals jam the parking lot. Rabbit Count = 1, in the final mile.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/655769999|trackfile]])// - //**^z**// - 2015-10-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~11.7 miles @ ~13.3 min/mi<br />&gt; "Back-to-School Run!" Kristin names today's trek, a venture that starts in the dark on a cool crisp fall-like morning. Kerry has just returned from Italy, and on her internal clock it's 10am. After a warm-up lap around McLean HS track we head east toward Venus. On Franklin Park Rd a weird creche, occupied by two human-sized statues of crows, stands beside a spooky-looking house that we all agree looks like it belongs in the wilderness, guarded by a shotgun-totin' tobacco-chewin' squint-eyed mountain man. At Tuckahoe Park a water fountain beckons, as does playground equipment including a giant rope-spiderweb, bouncy-spring stools, and a mega-xylophone. Our return trip intersects rush hour at the high school where cars of last-minute arrivals jam the parking lot. Rabbit Count = 1, in the final mile.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/655769999|trackfile]])// - //**^z**// - 2015-10-07</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

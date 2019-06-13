@@ -1,0 +1,39 @@
+blocks: <table class="user"><tr><td align="right">growing old<br />she grew weak<br />growing weak<br />she grew afraid<br />and put bars on the windows<br />pulled down the blinds<br />put more locks<br />on her heavy doors<br />and an intruder alarm<br />and a whistle<br />around her neck<br />and then<br />never went out<br /><br />and this is how<br />after<br />she sentenced the world<br />to jail<br />she executed the sentence </td></tr></table><p><em>- by Edward Covannon, 2013 -</em></p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 129.83.31.1
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | growing old
+	she grew weak
+	growing weak
+	she grew afraid
+	and put bars on the windows
+	pulled down the blinds
+	put more locks
+	on her heavy doors
+	and an intruder alarm
+	and a whistle
+	around her neck
+	and then
+	never went out
+	\\
+	and this is how
+	after
+	she sentenced the world
+	to jail
+	she executed the sentence |
+	
+	//- by Edward Covannon, 2013 -//
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| growing old<br />&gt; she grew weak<br />&gt; growing weak<br />&gt; she grew afraid<br />&gt; and put bars on the windows<br />&gt; pulled down the blinds<br />&gt; put more locks<br />&gt; on her heavy doors<br />&gt; and an intruder alarm<br />&gt; and a whistle<br />&gt; around her neck<br />&gt; and then<br />&gt; never went out<br />&gt; \\<br />&gt; and this is how<br />&gt; after<br />&gt; she sentenced the world<br />&gt; to jail<br />&gt; she executed the sentence |<br />&gt; //- by Edward Covannon, 2013 -//</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

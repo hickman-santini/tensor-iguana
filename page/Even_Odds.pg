@@ -1,0 +1,24 @@
+flags: 0
+blocks: <p>Mysticism: <em>Yin</em> as dark, female, negative, nurturing, ... <em>Yang</em> as light, male, positive, creating, ....</p><p>My doctor tells me to take half an aspirin a day, but I don't want to waste time splitting the tablets in two, or waste money on expensive baby aspirin. When I play chess against a computer I like to have the white or the black pieces about equally often. To make the wear on my belt symmetric and keep it from getting warped it's best to sometimes put it on clockwise and other times counterclockwise. But I hate to keep track of such trivia, and it's impractical to generate a pseudo-random number every time a choice is needed.</p><p>So my method, which I hope isn't too obsessive-compulsive, is a simple odd-even choice rule. On even-numbered days I take a whole pill, play the black chess pieces, wear my belt clockwise; on odd-numbered days, the opposite. It all averages out in the long term. Silly, sure enough, but I like it&mdash;and the yin-yang metaphor reminds me ...</p><p><em><strong>^z</strong></em> - 2009-05-05</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes"></strong>  Mysticism: //Yin// as dark, female, negative, nurturing, ... //Yang// as light, male, positive, creating, ....</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Mysticism: //Yin// as dark, female, negative, nurturing, ... //Yang// as light, male, positive, creating, ....</p></div>
+ip: 141.156.140.79
+ts: 1241514084
+minor: 1
+host: pool-141-156-140-79.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: remove extra spaces ...
+languages: 
+text: Mysticism: //Yin// as dark, female, negative, nurturing, ... //Yang// as light, male, positive, creating, ....
+	
+	My doctor tells me to take half an aspirin a day, but I don't want to waste time splitting the tablets in two, or waste money on expensive baby aspirin. When I play chess against a computer I like to have the white or the black pieces about equally often. To make the wear on my belt symmetric and keep it from getting warped it's best to sometimes put it on clockwise and other times counterclockwise. But I hate to keep track of such trivia, and it's impractical to generate a pseudo-random number every time a choice is needed.
+	
+	So my method, which I hope isn't too obsessive-compulsive, is a simple odd-even choice rule. On even-numbered days I take a whole pill, play the black chess pieces, wear my belt clockwise; on odd-numbered days, the opposite. It all averages out in the long term.  Silly, sure enough, but I like it&mdash;and the yin-yang metaphor reminds me ...
+	
+	//**^z**// - 2009-05-05
+	
+lastmajor: 1
+keep-ts: 1241514084

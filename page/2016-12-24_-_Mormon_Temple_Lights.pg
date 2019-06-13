@@ -1,0 +1,25 @@
+blocks: <h3>~10.0 miles @ ~14.3 min/mi</h3><p>"I'm off duty &mdash; if you break a leg you'll have to call 9-1-1 yourself!" says Wheaton Rescue Squad member Sakurako, as we run along Kensington sidewalks in rapidly deepening gloom. When we begin our evening circuit it's too bright for Christmas lights to be lit at the Mormon Temple. When we return the traffic jam of cars waiting to see them stretches more than a quarter mile down the hill. A bright red Santa cap catches the eyes of children and adults.</p><p>"Have a Klondike Bar!" offers Robin Zimmermann. We accept, with gratitude. Construction work and trail maintenance block our path through Wheaton Regional Park, so ice cream is the midcourse reward. Neighborhood houses feature crawling red-green laser light-show decorations. Sako's first marathon is only two weeks away, so we navigate cautiously by headlamp light. "Don't fall down!".</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/910768452">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-01-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.5
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.0 miles @ ~14.3 min/mi
+	
+	"I'm off duty &mdash; if you break a leg you'll have to call 9-1-1 yourself!" says Wheaton Rescue Squad member Sakurako, as we run along Kensington sidewalks in rapidly deepening gloom. When we begin our evening circuit it's too bright for Christmas lights to be lit at the Mormon Temple. When we return the traffic jam of cars waiting to see them stretches more than a quarter mile down the hill. A bright red Santa cap catches the eyes of children and adults.
+	
+	"Have a Klondike Bar!" offers Robin Zimmermann. We accept, with gratitude. Construction work and trail maintenance block our path through Wheaton Regional Park, so ice cream is the midcourse reward. Neighborhood houses feature crawling red-green laser light-show decorations. Sako's first marathon is only two weeks away, so we navigate cautiously by headlamp light. "Don't fall down!".
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/910768452|trackfile]])// - //**^z**// - 2017-01-18
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.0 miles @ ~14.3 min/mi<br />&gt; "I'm off duty &amp;mdash; if you break a leg you'll have to call 9-1-1 yourself!" says Wheaton Rescue Squad member Sakurako, as we run along Kensington sidewalks in rapidly deepening gloom. When we begin our evening circuit it's too bright for Christmas lights to be lit at the Mormon Temple. When we return the traffic jam of cars waiting to see them stretches more than a quarter mile down the hill. A bright red Santa cap catches the eyes of children and adults.<br />&gt; "Have a Klondike Bar!" offers Robin Zimmermann. We accept, with gratitude. Construction work and trail maintenance block our path through Wheaton Regional Park, so ice cream is the midcourse reward. Neighborhood houses feature crawling red-green laser light-show decorations. Sako's first marathon is only two weeks away, so we navigate cautiously by headlamp light. "Don't fall down!".<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/910768452|trackfile]])// - //**^z**// - 2017-01-18</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057697

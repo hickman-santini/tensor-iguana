@@ -1,0 +1,25 @@
+blocks: <p>An aphorism widely attributed to Arthur Schopenhauer (1788-1860), which he almost surely never said (in German or otherwise): "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."</p><p>Yes, and so: "All famous quotations pass through three stages. First, they are garbled or concocted. Second, they are widely repeated. Third, they are debunked."</p><p><em>And no, I never said that!</em></p><p><em><strong>^z</strong></em> - 2013-12-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.184
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: An aphorism widely attributed to Arthur Schopenhauer (1788-1860), which he almost surely never said (in German or otherwise): "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."
+	
+	Yes, and so: "All famous quotations pass through three stages. First, they are garbled or concocted. Second, they are widely repeated. Third, they are debunked."
+	
+	//And no, I never said that!//
+	
+	//**^z**// - 2013-12-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">An aphorism widely attributed to Arthur Schopenhauer (1788-1860), which he almost surely never said (in German or otherwise): "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."<br />&gt; Yes, and so: "All famous quotations pass through three stages. First, they are garbled or concocted. Second, they are widely repeated. Third, they are debunked."<br />&gt; //And no, I never said that!//<br />&gt; //**^z**// - 2013-12-10</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

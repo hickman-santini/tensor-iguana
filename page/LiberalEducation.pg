@@ -1,0 +1,20 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">In his essay// 'Only Connect': The Goals of a</strong> Liberal Education <strong class="changes">//William Cronon lists ten characteristics he sees in liberally educated persons:<br />&lt; * They listen and they hear.<br />&lt; * They read and they understand.<br />&lt; * They can talk with anyone.<br />&lt; * They can write clearly and persuasively and movingly.<br />&lt; * They can solve a wide variety of puzzles and problems.<br />&lt; * They respect rigor not so much for its own sake but as a way of seeking truth.<br />&lt; * They practice humility, tolerance, and self-criticism.<br />&lt; * They understand how to get things done in the world.<br />&lt; * They nurture and empower the people around them.<br />&lt; * They follow E. M. Forster's injunction from **Howards End**: "Only connect." <br />&lt; One can, of course, be "liberally educated" without attending an expensive ivy league university &amp;mdash; and equally obviously, many who graduate from such establishments are far from "liberally educated".<br />&lt; And, on a less-serious note, the above list inevitably reminds me of the liberally-educated protagonist of yet another underappreciated movie: **The Adventures of Buckaroo Banzai Across the 8th Dimension**. Dr. Banzai is a race-car driver, a brain surgeon, a rock musician, and a theoretical physicist who also saves the world. My kind of hero!<br />&lt; //(Cronon's list appeared in **The Key Reporter**, Winter 1998-99, as abridged from his article in the **American Scholar**, Autumn 1998; cf. [[PursuitOfExcellence</strong>]] <strong class="changes">(22 Feb 2002), [[PartingAdvice]] (21 Jun 2002), [[LiberalArts]] (13 Mar 2003), ...)//<br />&lt; ----<br />&lt; [[TopicEducation]] - [[TopicThinking]] - [[TopicHumor]] - [[TopicEntertainment]] - Datetag20051102<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[ExtraordinaryGentlemen]], [[TheClassicist]], [[FreshwaterForgiveness]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT [[</strong>Liberal Education]]</p></div>
+ip: 70.21.102.87
+ts: 1222305777
+minor: 1
+host: pool-70-21-102-87.res.east.verizon.net
+username: MarkZimmermann
+revision: 3
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>Cronon's list appeared in **The Key Reporter**, Winter 1998-99, as abridged from his article in the **American Scholar**, Autumn 1998; cf. [[PursuitOfExcellence]] (22 Feb 2002), [[PartingAdvice]] (21 Jun 2002), [[LiberalArts]] (13 Mar 2003), <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>Cronon's list appeared in **The Key Reporter**, Winter 1998-99, as abridged from his article in the **American Scholar**, Autumn 1998; cf. [[PursuitOfExcellence]] (22 Feb 2002), [[PartingAdvice]] (21 Jun 2002), [[LiberalArts]] (13 Mar 2003), <strong class="changes">...)//</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>correlates: [[ExtraordinaryGentlemen]], [[TheClassicist]], [[FreshwaterForgiveness]], <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>correlates: [[ExtraordinaryGentlemen]], [[TheClassicist]], [[FreshwaterForgiveness]], <strong class="changes">...)//</strong></p></div>
+summary: redirect
+languages: 
+text: #REDIRECT [[Liberal Education]]
+	
+lastmajor: 2
+keep-ts: 1222305777

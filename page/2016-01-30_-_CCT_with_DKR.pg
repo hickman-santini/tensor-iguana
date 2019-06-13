@@ -1,0 +1,25 @@
+blocks: <h3>~15.0 miles @ ~12.4 min/mi</h3><p>"Ice up!" The Capital Crescent Trail south from Bethesda is amazingly snow-free, but melt-and-refreeze makes for dangerous footing in a few patches. Don, Ken, and Rebecca maintain nonstop banter about flaws in Social Security law, medieval history, cosplay, decades-old issues of "<strong>Playboy</strong>" magazine featuring an interview with Donald Trump and images of the women of Enron, a questionnaire that candidates for elected office in the local running club must fill out, droll British comedy shows, false memories, and more, including the observation "Pandas are tasty!"</p><p>Streets seem safer than sidewalks, though it's necessary to step into shoveled driveways or lean back toward high snowbanks when cars must pass on narrower segments. At dawn contrails from high-flying jets streak the sky next to the gibbous moon. Training groups of local runners do out-and-back mileage on the CCT, exchanging greetings and hugs. Temperatures rise from the low 20's to above freezing.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/726776018">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-02-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 70.117.115.132
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~15.0 miles @ ~12.4 min/mi
+	
+	"Ice up!" The Capital Crescent Trail south from Bethesda is amazingly snow-free, but melt-and-refreeze makes for dangerous footing in a few patches. Don, Ken, and Rebecca maintain nonstop banter about flaws in Social Security law, medieval history, cosplay, decades-old issues of "**Playboy**" magazine featuring an interview with Donald Trump and images of the women of Enron, a questionnaire that candidates for elected office in the local running club must fill out, droll British comedy shows, false memories, and more, including the observation "Pandas are tasty!"
+	
+	Streets seem safer than sidewalks, though it's necessary to step into shoveled driveways or lean back toward high snowbanks when cars must pass on narrower segments. At dawn contrails from high-flying jets streak the sky next to the gibbous moon. Training groups of local runners do out-and-back mileage on the CCT, exchanging greetings and hugs. Temperatures rise from the low 20's to above freezing.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/726776018|trackfile]])// - //**^z**// - 2016-02-09
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~15.0 miles @ ~12.4 min/mi<br />&gt; "Ice up!" The Capital Crescent Trail south from Bethesda is amazingly snow-free, but melt-and-refreeze makes for dangerous footing in a few patches. Don, Ken, and Rebecca maintain nonstop banter about flaws in Social Security law, medieval history, cosplay, decades-old issues of "**Playboy**" magazine featuring an interview with Donald Trump and images of the women of Enron, a questionnaire that candidates for elected office in the local running club must fill out, droll British comedy shows, false memories, and more, including the observation "Pandas are tasty!"<br />&gt; Streets seem safer than sidewalks, though it's necessary to step into shoveled driveways or lean back toward high snowbanks when cars must pass on narrower segments. At dawn contrails from high-flying jets streak the sky next to the gibbous moon. Training groups of local runners do out-and-back mileage on the CCT, exchanging greetings and hugs. Temperatures rise from the low 20's to above freezing.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/726776018|trackfile]])// - //**^z**// - 2016-02-09</strong></p></div>
+flags: 0
+ts: 1528057682
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057682

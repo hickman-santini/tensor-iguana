@@ -1,0 +1,27 @@
+blocks: <h3>~15 miles @ ~14 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Northwest_Branch_Trail_rock_Stephanie.jpg" alt="http://zhurnaly.com/images/running/Northwest_Branch_Trail_rock_Stephanie.jpg" /></td><td align="right">Stephanie Fonda demonstrates the benefits of cross-training by lifting a rock beside Northwest Branch Trail. This Sunday morning we do a fun loop from the New Place, across Wheaton Regional Park, and down Northwest Branch Trail, over boulders and under the Beltway. We scare three big deer drinking from the stream and greet innumerable dog-walkers.</td></tr></table><p>When we reach New Hampshire Av we take Piney Branch Rd across University Blvd, pausing to buy a cup of coffee at La Pollera, a friendly hole-in-the-wall where chickens rotate slowly on a spit above glowing charcoal. The trek back to the start is via Sligo Creek Trail. Splendid conversation lifts our spirits throughout, and it's perfect prep for the Fire on the Mountain 50k in western Maryland next Sunday. <em>Thank you, Stephanie!</em></p><p><a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/259700189">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/393390707">Garmin</a> GPS record the route. | <img class="url http" src="http://zhurnaly.com/images/running/Northwest_Branch_Trail_Sligo_Creek_Trail_with_Stephanie.jpg" alt="http://zhurnaly.com/images/running/Northwest_Branch_Trail_Sligo_Creek_Trail_with_Stephanie.jpg" /> |</p><p><em><strong>^z</strong></em> - 2013-11-04</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~15 miles @ ~14 min/mi
+	
+	| http://zhurnaly.com/images/running/Northwest_Branch_Trail_rock_Stephanie.jpg | Stephanie Fonda demonstrates the benefits of cross-training by lifting a rock beside Northwest Branch Trail. This Sunday morning we do a fun loop from the New Place, across Wheaton Regional Park, and down Northwest Branch Trail, over boulders and under the Beltway. We scare three big deer drinking from the stream and greet innumerable dog-walkers.
+	
+	When we reach New Hampshire Av we take Piney Branch Rd across University Blvd, pausing to buy a cup of coffee at La Pollera, a friendly hole-in-the-wall where chickens rotate slowly on a spit above glowing charcoal. The trek back to the start is via Sligo Creek Trail. Splendid conversation lifts our spirits throughout, and it's perfect prep for the Fire on the Mountain 50k in western Maryland next Sunday. //Thank you, Stephanie!//
+	
+	[[http://runkeeper.com/user/zhurnaly/activity/259700189|Runkeeper]] and [[http://connect.garmin.com/activity/393390707|Garmin]] GPS record the route. | http://zhurnaly.com/images/running/Northwest_Branch_Trail_Sligo_Creek_Trail_with_Stephanie.jpg | 
+	
+	//**^z**// - 2013-11-04
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~15 miles @ ~14 min/mi<br />&gt; | http://zhurnaly.com/images/running/Northwest_Branch_Trail_rock_Stephanie.jpg | Stephanie Fonda demonstrates the benefits of cross-training by lifting a rock beside Northwest Branch Trail. This Sunday morning we do a fun loop from the New Place, across Wheaton Regional Park, and down Northwest Branch Trail, over boulders and under the Beltway. We scare three big deer drinking from the stream and greet innumerable dog-walkers.<br />&gt; When we reach New Hampshire Av we take Piney Branch Rd across University Blvd, pausing to buy a cup of coffee at La Pollera, a friendly hole-in-the-wall where chickens rotate slowly on a spit above glowing charcoal. The trek back to the start is via Sligo Creek Trail. Splendid conversation lifts our spirits throughout, and it's perfect prep for the Fire on the Mountain 50k in western Maryland next Sunday. //Thank you, Stephanie!//<br />&gt; [[http://runkeeper.com/user/zhurnaly/activity/259700189|Runkeeper]] and [[http://connect.garmin.com/activity/393390707|Garmin]] GPS record the route. | http://zhurnaly.com/images/running/Northwest_Branch_Trail_Sligo_Creek_Trail_with_Stephanie.jpg | <br />&gt; //**^z**// - 2013-11-04</strong></p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057687

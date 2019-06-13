@@ -1,0 +1,25 @@
+blocks: <table class="user"><tr><td align="right">Like tea leaves<br />Unfolding in hot water<br />Acts of kindness<br />Infuse the world<br />With love </td></tr></table><p><em><strong>^z</strong></em> - 2016-11-28</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.174
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Like tea leaves
+	Unfolding in hot water
+	Acts of kindness
+	Infuse the world
+	With love |
+	
+	//**^z**// - 2016-11-28
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Like tea leaves<br />&gt; Unfolding in hot water<br />&gt; Acts of kindness<br />&gt; Infuse the world<br />&gt; With love |<br />&gt; //**^z**// - 2016-11-28</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057700

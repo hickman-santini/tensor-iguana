@@ -1,0 +1,23 @@
+blocks: <h3>~9 miles @ ~10.9 min/mi</h3><p>"My kids would kill me!" Kerry says, as we run past Langley High <em>(that they both attend)</em> and I suggest doing laps on the track there. Amber and Kerry reminisce about their HS mascots <em>("The Mustangs"!? "The Whippets"?!)</em> and I ask the meaning of the small boulder splattered with red paint in front of the school. We admire the Kennedy estate <em>("Hickory Hill")</em> and smile for security cameras at former Vice President Richard Chaney's mansion. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/465235546">Runkeeper</a> records route.</p><p><em><strong>^z</strong></em> - 2014-12-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.14
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9 miles @ ~10.9 min/mi
+	
+	"My kids would kill me!" Kerry says, as we run past Langley High //(that they both attend)// and I suggest doing laps on the track there. Amber and Kerry reminisce about their HS mascots //("The Mustangs"!? "The Whippets"?!)// and I ask the meaning of the small boulder splattered with red paint in front of the school. We admire the Kennedy estate //("Hickory Hill")// and smile for security cameras at former Vice President Richard Chaney's mansion. [[http://runkeeper.com/user/zhurnaly/activity/465235546|Runkeeper]] records route.
+	
+	//**^z**// - 2014-12-01
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9 miles @ ~10.9 min/mi<br />&gt; "My kids would kill me!" Kerry says, as we run past Langley High //(that they both attend)// and I suggest doing laps on the track there. Amber and Kerry reminisce about their HS mascots //("The Mustangs"!? "The Whippets"?!)// and I ask the meaning of the small boulder splattered with red paint in front of the school. We admire the Kennedy estate //("Hickory Hill")// and smile for security cameras at former Vice President Richard Chaney's mansion. [[http://runkeeper.com/user/zhurnaly/activity/465235546|Runkeeper]] records route.<br />&gt; //**^z**// - 2014-12-01</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

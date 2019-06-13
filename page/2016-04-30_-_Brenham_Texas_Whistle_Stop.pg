@@ -1,0 +1,25 @@
+blocks: <h3>~4.1 miles @ ~10.8 min/mi</h3><p>Visiting Aunt Froggie and Cousin James, with Mom and DS Merle: the Blinn College Buccaneers play a spring baseball game. The track around the football field is open, but one lap in the east central Texas sun is enough today. A two-car freight train pauses for a crewman to climb down, flip a switch, and watch while the engines reverse to drop off boxcars on a siding. Lizards scurry across the sidewalk and hide under rocks.</p><p>Important observation: <em>jalape&ntilde;o poppers are <strong>suboptimal</strong> for dinner and breakfast before a brisk run!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/778750175">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-05-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.225
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.1 miles @ ~10.8 min/mi
+	
+	Visiting Aunt Froggie and Cousin James, with Mom and DS Merle: the Blinn College Buccaneers play a spring baseball game. The track around the football field is open, but one lap in the east central Texas sun is enough today. A two-car freight train pauses for a crewman to climb down, flip a switch, and watch while the engines reverse to drop off boxcars on a siding. Lizards scurry across the sidewalk and hide under rocks.
+	
+	Important observation: //jalape&ntilde;o poppers are **suboptimal** for dinner and breakfast before a brisk run!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/778750175|trackfile]])// - //**^z**// - 2016-05-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.1 miles @ ~10.8 min/mi<br />&gt; Visiting Aunt Froggie and Cousin James, with Mom and DS Merle: the Blinn College Buccaneers play a spring baseball game. The track around the football field is open, but one lap in the east central Texas sun is enough today. A two-car freight train pauses for a crewman to climb down, flip a switch, and watch while the engines reverse to drop off boxcars on a siding. Lizards scurry across the sidewalk and hide under rocks.<br />&gt; Important observation: //jalape&amp;ntilde;o poppers are **suboptimal** for dinner and breakfast before a brisk run!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/778750175|trackfile]])// - //**^z**// - 2016-05-17</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

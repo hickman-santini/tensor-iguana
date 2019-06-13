@@ -1,0 +1,18 @@
+flags: 0
+blocks: <h3>8+ miles @ 11:00 min/mi</h3><p>Temperatures in the lower 70's but humidity of ~60% equals a somewhat sweaty outing &mdash; my last, if I have any sense, before Sunday's George Washington Birthday Marathon. I set off at 8pm along the bike path by the coast road and jog:walk::4:1 eastwards. There are plenty of pedestrians and a few other joggers and in-line skaters out this evening. The full moon in front of me first plays peek-a-boo through high clouds and then vanishes. After I've gone about 3.5 miles by the GPS odometer, past the neighborhood of the restaurant where friends and I ate dinner last night, I enter a construction zone where the absence of streetlights makes me begin to get a bit nervous about tripping, and besides which my water supply is now mostly consumed. So I turn around at the 4-mile point and head back, carefully stepping over loose bricks and small ditches. The water fountains I try aren't functional, but a soda machine near mile 5 produces a can of low-carbonation orange beverage that I use to refill my bottle, and so I'm happily hydrated for the return journey.</p>
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 8+ miles @ 11:00 min/mi<br />&gt; Temperatures in the lower 70's but humidity of ~60% equals a somewhat sweaty outing &amp;mdash; my last, if I have any sense, before Sunday's George Washington Birthday Marathon. I set off at 8pm along the bike path by the coast road and jog:walk::4:1 eastwards. There are plenty of pedestrians and a few other joggers and in-line skaters out this evening. The full moon in front of me first plays peek-a-boo through high clouds and then vanishes. After I've gone about 3.5 miles by the GPS odometer, past the neighborhood of the restaurant where friends and I ate dinner last night, I enter a construction zone where the absence of streetlights makes me begin to get a bit nervous about tripping, and besides which my water supply is now mostly consumed. So I turn around at the 4-mile point and head back, carefully stepping over loose bricks and small ditches. The water fountains I try aren't functional, but a soda machine near mile 5 produces a can of low-carbonation orange beverage that I use to refill my bottle, and so I'm happily hydrated for the return journey.</p></div>
+ip: 108.48.209.126
+ts: 1528057705
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 4
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 8+ miles @ 11:00 min/mi
+	
+	Temperatures in the lower 70's but humidity of ~60% equals a somewhat sweaty outing &mdash; my last, if I have any sense, before Sunday's George Washington Birthday Marathon. I set off at 8pm along the bike path by the coast road and jog:walk::4:1 eastwards. There are plenty of pedestrians and a few other joggers and in-line skaters out this evening. The full moon in front of me first plays peek-a-boo through high clouds and then vanishes. After I've gone about 3.5 miles by the GPS odometer, past the neighborhood of the restaurant where friends and I ate dinner last night, I enter a construction zone where the absence of streetlights makes me begin to get a bit nervous about tripping, and besides which my water supply is now mostly consumed. So I turn around at the 4-mile point and head back, carefully stepping over loose bricks and small ditches. The water fountains I try aren't functional, but a soda machine near mile 5 produces a can of low-carbonation orange beverage that I use to refill my bottle, and so I'm happily hydrated for the return journey.
+	
+languages: 
+keep-ts: 1528057705

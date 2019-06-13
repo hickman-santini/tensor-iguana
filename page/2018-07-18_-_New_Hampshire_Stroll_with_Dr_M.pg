@@ -1,0 +1,24 @@
+flags: 0
+blocks: <h3>~3.1 mi @ ~19.6 min/mi</h3><p><a class="image outside" href="http://zhurnaly.com/images/Beaver_lake_2_spofford_NH_Mary_Ewell_2018-07-18a.jpg"><img class="upload" title="Beaver Lake Number 2" src="http://zhurnaly.com/images/Beaver_lake_2_spofford_NH_Mary_Ewell_2018-07-18_t.jpg" alt="Beaver Lake Number 2" /></a></p><p>"Beaver Lake #2!" says Dr Mary Ewell. We're walking in her new neighborhood, an out-and-back past lovely homes, dirt roads, dense stands of trees, narrow streams, and rough-hewn hand-painted wooden signs. Towns in the southwest corner of New Hampshire bear names like Spofford, Westmoreland, and Keene. Ducks and turtles paddle in the ponds. The Vermont 100 race, where Mary will crew for Roadkill, looms in a few days. <em>Time to take it easy!</em></p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1198750937">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-08-07</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Beaver Lake #2!" says Dr Mary Ewell. We're walking in her new neighborhood, an out-and-back past lovely homes, <strong class="changes">narrow</strong> dirt roads, dense stands of trees, narrow streams, and rough-hewn hand-painted wooden signs. Towns in the southwest corner of New Hampshire bear names like Spofford, Westmoreland, and Keene. Ducks and turtles paddle in the ponds. The Vermont 100 race, where Mary will crew for Roadkill, looms in a few days. //Time to take it easy!//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "Beaver Lake #2!" says Dr Mary Ewell. We're walking in her new neighborhood, an out-and-back past lovely homes, dirt roads, dense stands of trees, narrow streams, and rough-hewn hand-painted wooden signs. Towns in the southwest corner of New Hampshire bear names like Spofford, Westmoreland, and Keene. Ducks and turtles paddle in the ponds. The Vermont 100 race, where Mary will crew for Roadkill, looms in a few days. //Time to take it easy!//</p></div>
+lastmajorsummary: tweak
+ts: 1533636722
+minor: 
+host: 166.137.240.85
+username: z
+revision: 2
+diff-major: 1
+summary: tweak
+languages: 
+text: === ~3.1 mi @ ~19.6 min/mi
+	
+	[[image:http://zhurnaly.com/images/Beaver_lake_2_spofford_NH_Mary_Ewell_2018-07-18_t.jpg|Beaver Lake Number 2|http://zhurnaly.com/images/Beaver_lake_2_spofford_NH_Mary_Ewell_2018-07-18a.jpg]]
+	
+	"Beaver Lake #2!" says Dr Mary Ewell. We're walking in her new neighborhood, an out-and-back past lovely homes, dirt roads, dense stands of trees, narrow streams, and rough-hewn hand-painted wooden signs. Towns in the southwest corner of New Hampshire bear names like Spofford, Westmoreland, and Keene. Ducks and turtles paddle in the ponds. The Vermont 100 race, where Mary will crew for Roadkill, looms in a few days. //Time to take it easy!//
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1198750937|trackfile]])// - //**^z**// - 2018-08-07
+	
+lastmajor: 2
+keep-ts: 1533636722

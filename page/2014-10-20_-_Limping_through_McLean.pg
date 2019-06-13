@@ -1,0 +1,23 @@
+blocks: <h3>~3.5 miles @ ~15.8 min/mi</h3><p>We are the walking wounded: Kerry's back is troublesome after her workouts pumping iron on Saturday and Sunday, Kristin's hip <em>(psoas? flexor?)</em> hurts since last week, and my cold has me sniffling and achy. So under the circumstances we're sensible: run two miles to warm up, admire an old crescent moon and crisp stars, observe the lights at McLean HS track, give thanks that we can enjoy being here without judgment or expectation, share stories of family events from the past weekend &mdash; and when things still feel crummy, walk back. With temps in the low 40s, a hot shower feels good! <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/456377864">Runkeeper</a> tells the tale.</p><p><em><strong>^z</strong></em> - 2014-11-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.89.236
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.5 miles @ ~15.8 min/mi
+	
+	We are the walking wounded: Kerry's back is troublesome after her workouts pumping iron on Saturday and Sunday, Kristin's hip //(psoas? flexor?)// hurts since last week, and my cold has me sniffling and achy. So under the circumstances we're sensible: run two miles to warm up, admire an old crescent moon and crisp stars, observe the lights at McLean HS track, give thanks that we can enjoy being here without judgment or expectation, share stories of family events from the past weekend &mdash; and when things still feel crummy, walk back. With temps in the low 40s, a hot shower feels good! [[http://runkeeper.com/user/zhurnaly/activity/456377864|Runkeeper]] tells the tale.
+	
+	//**^z**// - 2014-11-18
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.5 miles @ ~15.8 min/mi<br />&gt; We are the walking wounded: Kerry's back is troublesome after her workouts pumping iron on Saturday and Sunday, Kristin's hip //(psoas? flexor?)// hurts since last week, and my cold has me sniffling and achy. So under the circumstances we're sensible: run two miles to warm up, admire an old crescent moon and crisp stars, observe the lights at McLean HS track, give thanks that we can enjoy being here without judgment or expectation, share stories of family events from the past weekend &amp;mdash; and when things still feel crummy, walk back. With temps in the low 40s, a hot shower feels good! [[http://runkeeper.com/user/zhurnaly/activity/456377864|Runkeeper]] tells the tale.<br />&gt; //**^z**// - 2014-11-18</strong></p></div>
+flags: 0
+ts: 1528057694
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057694

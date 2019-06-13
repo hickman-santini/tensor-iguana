@@ -1,0 +1,25 @@
+flags: 0
+blocks: <p>Recently posted on <a class="url http outside" href="http://ted.com">TED</a> is an entertaining 10-minute talk by Australian Nigel Marsh, "<a class="url http outside" href="http://www.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work.html">How to Make Work-Life Balance Work</a>". He postulates four key points:<br /></p><ul><li>"... if society's to make any progress on this issue, we need an honest debate ..."</li><li>"... we need to face the truth that governments and corporations aren't going to solve this issue for us. We should stop looking outside; it's up to us as individuals to take control and responsibility for the type of lives that we want to lead. ..."</li><li>"... we have to be careful with the time frame that we choose upon which to judge our balance. ... A day is too short, after I retire is too long. There's got to be a middle way."</li><li>"... We need to approach balance in a balanced way. ..."</li></ul><p>Marsh concludes:<br /></p><blockquote><p>Now my point is the small things matter. Being more balanced doesn't mean dramatic upheaval in your life. With the smallest investment in the right places, you can radically transform the quality of your relationships and the quality of your life. Moreover, I think, it can transform society. Because if enough people do it, we can change society's definition of success away from the moronically simplistic notion that the person with the most money when he dies wins, to a more thoughtful and balanced definition of what a life well-lived looks like.<br /></p></blockquote><p><em><strong>^z</strong></em> - 2011-02-25</p>
+ip: 141.156.92.198
+ts: 1326047140
+minor: 0
+host: pool-141-156-92-198.res.east.verizon.net
+username: Zimm
+revision: 16
+summary: Rollback to 2012-01-08 13:19 UTC
+languages: 
+text: Recently posted on [[http://ted.com|TED]] is an entertaining 10-minute talk by Australian Nigel Marsh, "[[http://www.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work.html|How to Make Work-Life Balance Work]]". He postulates four key points:
+	* "... if society's to make any progress on this issue, we need an honest debate ..."
+	* "... we need to face the truth that governments and corporations aren't going to solve this issue for us. We should stop looking outside; it's up to us as individuals to take control and responsibility for the type of lives that we want to lead. ..."
+	* "... we have to be careful with the time frame that we choose upon which to judge our balance. ... A day is too short, after I retire is too long. There's got to be a middle way."
+	* "... We need to approach balance in a balanced way. ..."
+	
+	Marsh concludes:
+	"""
+	Now my point is the small things matter. Being more balanced doesn't mean dramatic upheaval in your life. With the smallest investment in the right places, you can radically transform the quality of your relationships and the quality of your life. Moreover, I think, it can transform society. Because if enough people do it, we can change society's definition of success away from the moronically simplistic notion that the person with the most money when he dies wins, to a more thoughtful and balanced definition of what a life well-lived looks like.
+	"""
+	
+	//**^z**// - 2011-02-25
+	
+lastmajor: 16
+keep-ts: 1326047140

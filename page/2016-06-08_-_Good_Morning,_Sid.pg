@@ -1,0 +1,25 @@
+blocks: <h3>~9.0 miles @ ~12.7 min/mi</h3><p><em><strong>Puppy Play Day!</strong></em> Sid is six months old, a black labrador-boxer mix with maybe a bonus bit of Rottweiler and what-not on the side. We pause to give Kerry's new family member a chance to meet Kristin, and they bond instantly. "If he ever vanishes," I tell Kerry, "you'll know where to find him!" Sid's surname has varied from "Phillips" (Toy Story) to "Vicious" (punk rock). Or maybe he's secretly "El Cid"?</p><p>The morning is delightfully cool and low-humidity. We ramble along the Dead Run forest path, where blue-and-white striped ribbons indicate trees slated for removal as part of stream and underground pipe maintenance. Lying on the shoulder of Dolley Madison Boulevard: a 28-ounce unopened bottle of "Glacier Freeze" turquoise-colored Gatorade. <em>Woot!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/803595531">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-06-30</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.17
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.0 miles @ ~12.7 min/mi
+	
+	//**Puppy Play Day!**// Sid is six months old, a black labrador-boxer mix with maybe a bonus bit of Rottweiler and what-not on the side. We pause to give Kerry's new family member a chance to meet Kristin, and they bond instantly. "If he ever vanishes," I tell Kerry, "you'll know where to find him!" Sid's surname has varied from "Phillips" (Toy Story) to "Vicious" (punk rock). Or maybe he's secretly "El Cid"?
+	
+	The morning is delightfully cool and low-humidity. We ramble along the Dead Run forest path, where blue-and-white striped ribbons indicate trees slated for removal as part of stream and underground pipe maintenance. Lying on the shoulder of Dolley Madison Boulevard: a 28-ounce unopened bottle of "Glacier Freeze" turquoise-colored Gatorade. //Woot!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/803595531|trackfile]])// - //**^z**// - 2016-06-30
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.0 miles @ ~12.7 min/mi<br />&gt; //**Puppy Play Day!**// Sid is six months old, a black labrador-boxer mix with maybe a bonus bit of Rottweiler and what-not on the side. We pause to give Kerry's new family member a chance to meet Kristin, and they bond instantly. "If he ever vanishes," I tell Kerry, "you'll know where to find him!" Sid's surname has varied from "Phillips" (Toy Story) to "Vicious" (punk rock). Or maybe he's secretly "El Cid"?<br />&gt; The morning is delightfully cool and low-humidity. We ramble along the Dead Run forest path, where blue-and-white striped ribbons indicate trees slated for removal as part of stream and underground pipe maintenance. Lying on the shoulder of Dolley Madison Boulevard: a 28-ounce unopened bottle of "Glacier Freeze" turquoise-colored Gatorade. //Woot!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/803595531|trackfile]])// - //**^z**// - 2016-06-30</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

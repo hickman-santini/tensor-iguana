@@ -1,0 +1,24 @@
+flags: 0
+blocks: <p>From the chapter "Keeping It Simple" of <strong>Wherever You Go, There You Are</strong> by Jon Kabat-Zinn:<br /></p><blockquote><p>Every time you get a strong impulse to talk about meditation and how wonderful it is, or how hard it is, or what it's doing for you these days, or what it's not, or you want to convince someone else how wonderful it would be for them, just look at it as more thinking and go meditate some more. The impulse will pass and everybody will be better off&mdash;especially you.<br /></p></blockquote><p><em><strong>^z</strong></em> - 2008-11-19</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Every time you get a strong impulse to talk about meditation and how wonderful it is, or how hard it is, or what it's doing for you these days, or what it's not, or you want to convince someone else how wonderful it would be for them, just look at it as more thinking and go meditate some more. The impulse will pass and <strong class="changes">evereybody</strong> will be better off&amp;mdash;especially you.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Every time you get a strong impulse to talk about meditation and how wonderful it is, or how hard it is, or what it's doing for you these days, or what it's not, or you want to convince someone else how wonderful it would be for them, just look at it as more thinking and go meditate some more. The impulse will pass and <strong class="changes">everybody</strong> will be better off&amp;mdash;especially you.</p></div>
+ip: 70.21.38.24
+ts: 1228185226
+minor: 1
+host: pool-70-21-38-24.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: typo fix
+languages: 
+text: From the chapter "Keeping It Simple" of **Wherever You Go, There You Are** by Jon Kabat-Zinn:
+	"""
+	Every time you get a strong impulse to talk about meditation and how wonderful it is, or how hard it is, or what it's doing for you these days, or what it's not, or you want to convince someone else how wonderful it would be for them, just look at it as more thinking and go meditate some more. The impulse will pass and everybody will be better off&mdash;especially you.
+	"""
+	
+	//**^z**// - 2008-11-19
+	
+	
+lastmajor: 1
+keep-ts: 1228185226

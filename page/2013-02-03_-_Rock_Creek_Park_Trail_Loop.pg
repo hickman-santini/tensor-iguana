@@ -1,0 +1,25 @@
+blocks: <h3>~11 miles @ ~14 min/mi</h3><p>Light snow flurries stutter and stop during today's trek. From home, midday, I take the Capital Crescent Trail to Candy Cane City and trot a big "Z" on the ballfields while awaiting Barry Smith and Rebecca Rosenberg. Pause GPS until we're all ready to set out. Temps in the low 30's have turned yesterday afternoon's light snowfall into slippery mud. Soggy paths lead from Candy Cane to the DC line, and then the Western Ridge Trail drops us at Rock Creek Park Nature Center, where the clock keeps running during restroom visits. The Horse Center at the end of the south parking lot introduces a wide trail east to Rock Creek.</p><p>"Hmmm, my keen tracking skills tell me that <em>horses</em> have passed along here!" I comment, as we zig-zag around manure mountains and blast down a long slope. The Valley Trail ambles northward, with a digression onto the Holly Trail at Barry's suggestion for bonus hillwork. <a class="url http outside" href="http://connect.garmin.com/activity/269454745">Garmin</a> and <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/146644903">Runkeeper</a> concur to within 2%; Barry's GPS is more conservative by another 3%, so we do an extra jog along the Candy Cane parking lot to make sure he has at least 8 miles. I accept Rebecca's kind offer of a ride home.</p><p><em><strong>^z</strong></em> - 2013-02-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.98.104
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~11 miles @ ~14 min/mi
+	
+	Light snow flurries stutter and stop during today's trek. From home, midday, I take the Capital Crescent Trail to Candy Cane City and trot a big "Z" on the ballfields while awaiting Barry Smith and Rebecca Rosenberg. Pause GPS until we're all ready to set out. Temps in the low 30's have turned yesterday afternoon's light snowfall into slippery mud. Soggy paths lead from Candy Cane to the DC line, and then the Western Ridge Trail drops us at Rock Creek Park Nature Center, where the clock keeps running during restroom visits. The Horse Center at the end of the south parking lot introduces a wide trail east to Rock Creek.
+	
+	"Hmmm, my keen tracking skills tell me that //horses// have passed along here!" I comment, as we zig-zag around manure mountains and blast down a long slope. The Valley Trail ambles northward, with a digression onto the Holly Trail at Barry's suggestion for bonus hillwork. [[http://connect.garmin.com/activity/269454745|Garmin]] and [[http://runkeeper.com/user/zhurnaly/activity/146644903|Runkeeper]] concur to within 2%; Barry's GPS is more conservative by another 3%, so we do an extra jog along the Candy Cane parking lot to make sure he has at least 8 miles. I accept Rebecca's kind offer of a ride home.
+	
+	//**^z**// - 2013-02-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~11 miles @ ~14 min/mi<br />&gt; Light snow flurries stutter and stop during today's trek. From home, midday, I take the Capital Crescent Trail to Candy Cane City and trot a big "Z" on the ballfields while awaiting Barry Smith and Rebecca Rosenberg. Pause GPS until we're all ready to set out. Temps in the low 30's have turned yesterday afternoon's light snowfall into slippery mud. Soggy paths lead from Candy Cane to the DC line, and then the Western Ridge Trail drops us at Rock Creek Park Nature Center, where the clock keeps running during restroom visits. The Horse Center at the end of the south parking lot introduces a wide trail east to Rock Creek.<br />&gt; "Hmmm, my keen tracking skills tell me that //horses// have passed along here!" I comment, as we zig-zag around manure mountains and blast down a long slope. The Valley Trail ambles northward, with a digression onto the Holly Trail at Barry's suggestion for bonus hillwork. [[http://connect.garmin.com/activity/269454745|Garmin]] and [[http://runkeeper.com/user/zhurnaly/activity/146644903|Runkeeper]] concur to within 2%; Barry's GPS is more conservative by another 3%, so we do an extra jog along the Candy Cane parking lot to make sure he has at least 8 miles. I accept Rebecca's kind offer of a ride home.<br />&gt; //**^z**// - 2013-02-16</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057688

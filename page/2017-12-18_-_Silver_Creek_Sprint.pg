@@ -1,0 +1,25 @@
+blocks: <h3>~4.3 mi @ ~10.7 min/mi</h3><p>"Tempo run ... is faster than ... 'conversational' pace ... only can talk ... in short phrases ...". The breathless Dawn Patrol duo blitzes Caitlin's neighborhood, starting off with a shortcut through Cedar Lane Unitarian Church parking lots. Suburban home windows feature wreaths and the occasional menorah.</p><p>"We were <strong>meant</strong> to be here!" Reconnoitering the grounds of the brand-new super-spiffy Silver Creek Middle School, we find an unlocked back gate - <em>yay!</em> Cut through a senior-residence complex, and then via Kensington Parkway to the classic 1891 B&amp;O train station designed by architect Ephraim Francis Baldwin. On the other side of the tracks, sprint to Cait's home via KenGar. Her final final exam of the semester is today - time to hit the books!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1098240482">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-01-12</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.99
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.3 mi @ ~10.7 min/mi
+	
+	"Tempo run ... is faster than ... 'conversational' pace ... only can talk ... in short phrases ...". The breathless Dawn Patrol duo blitzes Caitlin's neighborhood, starting off with a shortcut through Cedar Lane Unitarian Church parking lots. Suburban home windows feature wreaths and the occasional menorah.
+	
+	"We were **meant** to be here!" Reconnoitering the grounds of the brand-new super-spiffy Silver Creek Middle School, we find an unlocked back gate - //yay!// Cut through a senior-residence complex, and then via Kensington Parkway to the classic 1891 B&O train station designed by architect Ephraim Francis Baldwin. On the other side of the tracks, sprint to Cait's home via KenGar. Her final final exam of the semester is today - time to hit the books!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1098240482|trackfile]])// - //**^z**// - 2018-01-12
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.3 mi @ ~10.7 min/mi<br />&gt; "Tempo run ... is faster than ... 'conversational' pace ... only can talk ... in short phrases ...". The breathless Dawn Patrol duo blitzes Caitlin's neighborhood, starting off with a shortcut through Cedar Lane Unitarian Church parking lots. Suburban home windows feature wreaths and the occasional menorah.<br />&gt; "We were **meant** to be here!" Reconnoitering the grounds of the brand-new super-spiffy Silver Creek Middle School, we find an unlocked back gate - //yay!// Cut through a senior-residence complex, and then via Kensington Parkway to the classic 1891 B&amp;O train station designed by architect Ephraim Francis Baldwin. On the other side of the tracks, sprint to Cait's home via KenGar. Her final final exam of the semester is today - time to hit the books!<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1098240482|trackfile]])// - //**^z**// - 2018-01-12</strong></p></div>
+flags: 0
+ts: 1528057682
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057682

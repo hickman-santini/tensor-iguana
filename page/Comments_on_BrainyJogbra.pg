@@ -1,0 +1,27 @@
+blocks: <h3>1 Comment.</h3><p>cf. <a class="url http outside" href="https://www.google.com/patents/US6198204">Piezoelectrically controlled active wear</a>, US Patent 6198204 B1, with abstract:<br /></p><blockquote><p>An article of clothing including a piezoelectric transducer and an electrical component restrains movement of a first body portion relative to a second body portion. The article of clothing can be a sports bra that controls the wearer's breast movement relative to the wearer's torso. As the breast moves, the piezoelectric transducer deforms and induces a voltage that is passed to the electrical component. The electrical component provides either a resistance or a control signal to the transducer. The transducer stiffens in response to the electrical component and reduces the movement of the breast by placing an external force on the breast.<br /></p></blockquote><p>... as cited in "<a class="url http outside" href="http://regressing.deadspin.com/a-brief-history-of-the-sports-bra-1444194875">A Brief History Of The Sports Bra</a>"</p><p>-- <a class="url http outside" href="http://zhurnaly.com">ZZzzzz</a> 2014-07-22 02:36 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 107.214.80.107
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	cf. [[https://www.google.com/patents/US6198204|Piezoelectrically controlled active wear]], US Patent 6198204 B1, with abstract:
+	"""
+	An article of clothing including a piezoelectric transducer and an electrical component restrains movement of a first body portion relative to a second body portion. The article of clothing can be a sports bra that controls the wearer's breast movement relative to the wearer's torso. As the breast moves, the piezoelectric transducer deforms and induces a voltage that is passed to the electrical component. The electrical component provides either a resistance or a control signal to the transducer. The transducer stiffens in response to the electrical component and reduces the movement of the breast by placing an external force on the breast.
+	"""
+	... as cited in "[[http://regressing.deadspin.com/a-brief-history-of-the-sports-bra-1444194875|A Brief History Of The Sports Bra]]"
+	
+	-- [http://zhurnaly.com ZZzzzz] 2014-07-22 02:36 UTC
+	
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; cf. [[https://www.google.com/patents/US6198204|Piezoelectrically controlled active wear]], US Patent 6198204 B1, with abstract:<br />&gt; """<br />&gt; An article of clothing including a piezoelectric transducer and an electrical component restrains movement of a first body portion relative to a second body portion. The article of clothing can be a sports bra that controls the wearer's breast movement relative to the wearer's torso. As the breast moves, the piezoelectric transducer deforms and induces a voltage that is passed to the electrical component. The electrical component provides either a resistance or a control signal to the transducer. The transducer stiffens in response to the electrical component and reduces the movement of the breast by placing an external force on the breast.<br />&gt; """<br />&gt; ... as cited in "[[http://regressing.deadspin.com/a-brief-history-of-the-sports-bra-1444194875|A Brief History Of The Sports Bra]]"<br />&gt; -- [http://zhurnaly.com ZZzzzz] 2014-07-22 02:36 UTC</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

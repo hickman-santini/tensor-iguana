@@ -1,0 +1,27 @@
+blocks: <h3>~12.3 miles @ ~13.6 min/mi</h3><p>"Lions? Tigers? Bears?" - "Sorry, no." - "Unexploded bombs?" - "No." - "Poorly secured facilities for the criminally insane?" - "Nope." - "Haunted cemeteries?" - "Not that I know of." - "Flash flood zones?" - "None." - "Fireswamps? Lightning sand?" - "Uh-uh." - "Homes for wayward ninjas?" - "Are you serious?" - "Chompers? Slowly rotating fans?" - "No and no."</p><p>This section of the Fairfax Cross Country Trail seems sadly lacking in danger, at least according to Lucas and Janet. Nonetheless, they give good directions to an access point in the Oakton area. Southbound the pathway is nicely shaded, rolling hills with occasional muddy bits churned up by mountain bikers. Birds and butterflies flit; cicadas whir.</p><p>"<strong>DANGER &nbsp; FLYING BALLS</strong>" warns a sign next to the Oak Marr golf course. At Jermantown Road I turn back. Continuing north of Vale Road the trail gets narrower and muddier, until it reaches a nontrivial stream crossing. <em>Reverse course!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/991518874">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-06-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.196
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12.3 miles @ ~13.6 min/mi
+	
+	"Lions? Tigers? Bears?" - "Sorry, no." - "Unexploded bombs?" - "No." - "Poorly secured facilities for the criminally insane?" - "Nope." - "Haunted cemeteries?" - "Not that I know of." - "Flash flood zones?" - "None." - "Fireswamps? Lightning sand?" - "Uh-uh." - "Homes for wayward ninjas?" - "Are you serious?" - "Chompers? Slowly rotating fans?" - "No and no."
+	
+	This section of the Fairfax Cross Country Trail seems sadly lacking in danger, at least according to Lucas and Janet. Nonetheless, they give good directions to an access point in the Oakton area. Southbound the pathway is nicely shaded, rolling hills with occasional muddy bits churned up by mountain bikers. Birds and butterflies flit; cicadas whir.
+	
+	"**DANGER &nbsp; FLYING BALLS**" warns a sign next to the Oak Marr golf course. At Jermantown Road I turn back. Continuing north of Vale Road the trail gets narrower and muddier, until it reaches a nontrivial stream crossing. //Reverse course!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/991518874|trackfile]])// - //**^z**// - 2017-06-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12.3 miles @ ~13.6 min/mi<br />&gt; "Lions? Tigers? Bears?" - "Sorry, no." - "Unexploded bombs?" - "No." - "Poorly secured facilities for the criminally insane?" - "Nope." - "Haunted cemeteries?" - "Not that I know of." - "Flash flood zones?" - "None." - "Fireswamps? Lightning sand?" - "Uh-uh." - "Homes for wayward ninjas?" - "Are you serious?" - "Chompers? Slowly rotating fans?" - "No and no."<br />&gt; This section of the Fairfax Cross Country Trail seems sadly lacking in danger, at least according to Lucas and Janet. Nonetheless, they give good directions to an access point in the Oakton area. Southbound the pathway is nicely shaded, rolling hills with occasional muddy bits churned up by mountain bikers. Birds and butterflies flit; cicadas whir.<br />&gt; "**DANGER &amp;nbsp; FLYING BALLS**" warns a sign next to the Oak Marr golf course. At Jermantown Road I turn back. Continuing north of Vale Road the trail gets narrower and muddier, until it reaches a nontrivial stream crossing. //Reverse course!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/991518874|trackfile]])// - //**^z**// - 2017-06-23</strong></p></div>
+flags: 0
+ts: 1528057687
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057687

@@ -1,0 +1,23 @@
+blocks: <h3>~4.0 miles @ ~15.4 min/mi</h3><p>"You're a big fat liar!" says Mary the third time I promise that we've reached the crest of the hill. After a brisk neighborhood walkabout with DD Gray, Mary and I go to Wheaton Regional Park, where traffic is heavy and fields are full with late-summer baseball games. We run 1.5 miles at ~12 min/mi pace in three laps around the paved loop at the southwest corner of the park, watched by a ~10 point buck in the woods nearby. Then after a recovery walk we do a mile in ~13 minutes. The Runkeeper track files and split data are suspiciously identical, in spite of the differences in our phone hardware. Does the system somehow merge information from multiple people who are running together?</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/655251078">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-05</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.0 miles @ ~15.4 min/mi
+	
+	"You're a big fat liar!" says Mary the third time I promise that we've reached the crest of the hill. After a brisk neighborhood walkabout with DD Gray, Mary and I go to Wheaton Regional Park, where traffic is heavy and fields are full with late-summer baseball games. We run 1.5 miles at ~12 min/mi pace in three laps around the paved loop at the southwest corner of the park, watched by a ~10 point buck in the woods nearby. Then after a recovery walk we do a mile in ~13 minutes. The Runkeeper track files and split data are suspiciously identical, in spite of the differences in our phone hardware. Does the system somehow merge information from multiple people who are running together?
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/655251078|trackfile]])// - //**^z**// - 2015-10-05
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.0 miles @ ~15.4 min/mi<br />&gt; "You're a big fat liar!" says Mary the third time I promise that we've reached the crest of the hill. After a brisk neighborhood walkabout with DD Gray, Mary and I go to Wheaton Regional Park, where traffic is heavy and fields are full with late-summer baseball games. We run 1.5 miles at ~12 min/mi pace in three laps around the paved loop at the southwest corner of the park, watched by a ~10 point buck in the woods nearby. Then after a recovery walk we do a mile in ~13 minutes. The Runkeeper track files and split data are suspiciously identical, in spite of the differences in our phone hardware. Does the system somehow merge information from multiple people who are running together?<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/655251078|trackfile]])// - //**^z**// - 2015-10-05</strong></p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057713

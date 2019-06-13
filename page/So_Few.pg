@@ -1,0 +1,31 @@
+blocks: <table class="user"><tr><td align="right"><em><strong> Most letters<br />Are angular<br />Sharp-cornered<br />&nbsp; &nbsp; </strong></em> WAVE <em><strong><br />Harsh<br />&nbsp; &nbsp; </strong></em> EXILE <em><strong><br />Edgy<br />&nbsp; &nbsp; </strong></em> KILL <em><strong><br />So few<br />Are soft<br />Pure curve<br />&nbsp; &nbsp; </strong></em> SO <em><strong> ... </strong></em></td></tr></table><p><em><strong>^z</strong></em> - 2016-12-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.75
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | //** Most letters
+	Are angular
+	Sharp-cornered
+	&nbsp; &nbsp; **// WAVE //**
+	Harsh
+	&nbsp; &nbsp; **// EXILE //**
+	Edgy
+	&nbsp; &nbsp; **// KILL //**
+	So few
+	Are soft
+	Pure curve
+	&nbsp; &nbsp; **// SO //** ... **// |
+	
+	//**^z**// - 2016-12-08
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; | //** Most letters<br />&gt; Are angular<br />&gt; Sharp-cornered<br />&gt; &amp;nbsp; &amp;nbsp; **// WAVE //**<br />&gt; Harsh<br />&gt; &amp;nbsp; &amp;nbsp; **// EXILE //**<br />&gt; Edgy<br />&gt; &amp;nbsp; &amp;nbsp; **// KILL //**<br />&gt; So few<br />&gt; Are soft<br />&gt; Pure curve<br />&gt; &amp;nbsp; &amp;nbsp; **// SO //** ... **// |<br />&gt; //**^z**// - 2016-12-08</p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057681

@@ -1,0 +1,27 @@
+blocks: <h3>~15 miles @ ~11.2 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/WOD_Trail_fluorescent_shorts_z.jpg" alt="http://zhurnaly.com/images/running/WOD_Trail_fluorescent_shorts_z.jpg" /></td><td align="center">"Those shorts glow like a neon sign!" Kate Abbott spots me from a block away as she drives up at dawn to rendezvous at the W&amp;OD Trail caboose in Vienna. We fill pockets of hydration backpacks and set off a little before 6:30am, eastward along the bikepath.</td></tr></table><table class="user"><tr><td align="center">In the humid warm morning we trot to milepost 4 and back, with great "trail talk" conversation along the way. Multiple electrolyte capsules and energy gels ward off cramps until the final miles. Kate spots some giant sunflowers by the path and we pause for the photo op.</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/WOD_Trail_Kate_Abbott_sunflowers.jpg" alt="http://zhurnaly.com/images/running/WOD_Trail_Kate_Abbott_sunflowers.jpg" /></td></tr></table><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/WOD_Trail_mile_4_Kate_Abbott_z.jpg" alt="http://zhurnaly.com/images/running/WOD_Trail_mile_4_Kate_Abbott_z.jpg" /></td><td align="right"><a class="url http outside" href="http://connect.garmin.com/activity/357079093">Garmin GPS</a> and <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/223402213">Runkeeper</a> roughly agree, with splits by the Garmin including all pauses of 11:53 + 11:05 + 10:40 + 10:38 + 10:30 + 10:31 + 11:06 + 12:26 + 10:59 + 10:51 + 11:00 + 11:54 + 12:14 + 10:59 + 10:07 and a final fraction at a similar pace.</td></tr></table><p><em><strong>^z</strong></em> - 2013-08-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.93.181
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~15 miles @ ~11.2 min/mi
+	
+	| http://zhurnaly.com/images/running/WOD_Trail_fluorescent_shorts_z.jpg | "Those shorts glow like a neon sign!" Kate Abbott spots me from a block away as she drives up at dawn to rendezvous at the W&OD Trail caboose in Vienna. We fill pockets of hydration backpacks and set off a little before 6:30am, eastward along the bikepath. |
+	
+	| In the humid warm morning we trot to milepost 4 and back, with great "trail talk" conversation along the way. Multiple electrolyte capsules and energy gels ward off cramps until the final miles. Kate spots some giant sunflowers by the path and we pause for the photo op. | http://zhurnaly.com/images/running/WOD_Trail_Kate_Abbott_sunflowers.jpg |
+	
+	| http://zhurnaly.com/images/running/WOD_Trail_mile_4_Kate_Abbott_z.jpg | [[http://connect.garmin.com/activity/357079093|Garmin GPS]] and [[http://runkeeper.com/user/zhurnaly/activity/223402213|Runkeeper]] roughly agree, with splits by the Garmin including all pauses of 11:53 + 11:05 + 10:40 + 10:38 + 10:30 + 10:31 + 11:06 + 12:26 + 10:59 + 10:51 + 11:00 + 11:54 + 12:14 + 10:59 + 10:07 and a final fraction at a similar pace. | 
+	
+	//**^z**// - 2013-08-22
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~15 miles @ ~11.2 min/mi<br />&gt; | http://zhurnaly.com/images/running/WOD_Trail_fluorescent_shorts_z.jpg | "Those shorts glow like a neon sign!" Kate Abbott spots me from a block away as she drives up at dawn to rendezvous at the W&amp;OD Trail caboose in Vienna. We fill pockets of hydration backpacks and set off a little before 6:30am, eastward along the bikepath. |<br />&gt; | In the humid warm morning we trot to milepost 4 and back, with great "trail talk" conversation along the way. Multiple electrolyte capsules and energy gels ward off cramps until the final miles. Kate spots some giant sunflowers by the path and we pause for the photo op. | http://zhurnaly.com/images/running/WOD_Trail_Kate_Abbott_sunflowers.jpg |<br />&gt; | http://zhurnaly.com/images/running/WOD_Trail_mile_4_Kate_Abbott_z.jpg | [[http://connect.garmin.com/activity/357079093|Garmin GPS]] and [[http://runkeeper.com/user/zhurnaly/activity/223402213|Runkeeper]] roughly agree, with splits by the Garmin including all pauses of 11:53 + 11:05 + 10:40 + 10:38 + 10:30 + 10:31 + 11:06 + 12:26 + 10:59 + 10:51 + 11:00 + 11:54 + 12:14 + 10:59 + 10:07 and a final fraction at a similar pace. | <br />&gt; //**^z**// - 2013-08-22</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

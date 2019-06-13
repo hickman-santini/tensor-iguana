@@ -1,0 +1,25 @@
+blocks: <h3>~4.3 mi @ ~12.2 min/mi</h3><p>"That's red meat!" is the instant response when Caitlin innocently asks, "I wonder where that road goes?" The Dawn Patrol duo swerves past St Luke's Methodist Church, discovers a stairway, connector path, then a road back into Pimmit Hills. Yay! It's a chilly-brisk morning, honey-marigold tints growing on the eastern horizon as sunrise looms.</p><p>"Oops!" A stray stone in the road makes a majorly rolled ankle. So at mile ~3.2 we change course, walk a bit, and jog-return to the start. And all's well!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1088181674">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-12-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.137
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.3 mi @ ~12.2 min/mi
+	
+	"That's red meat!" is the instant response when Caitlin innocently asks, "I wonder where that road goes?" The Dawn Patrol duo swerves past St Luke's Methodist Church, discovers a stairway, connector path, then a road back into Pimmit Hills. Yay! It's a chilly-brisk morning, honey-marigold tints growing on the eastern horizon as sunrise looms.
+	
+	"Oops!" A stray stone in the road makes a majorly rolled ankle. So at mile ~3.2 we change course, walk a bit, and jog-return to the start. And all's well!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1088181674|trackfile]])// - //**^z**// - 2017-12-14
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.3 mi @ ~12.2 min/mi<br />&gt; "That's red meat!" is the instant response when Caitlin innocently asks, "I wonder where that road goes?" The Dawn Patrol duo swerves past St Luke's Methodist Church, discovers a stairway, connector path, then a road back into Pimmit Hills. Yay! It's a chilly-brisk morning, honey-marigold tints growing on the eastern horizon as sunrise looms.<br />&gt; "Oops!" A stray stone in the road makes a majorly rolled ankle. So at mile ~3.2 we change course, walk a bit, and jog-return to the start. And all's well!<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1088181674|trackfile]])// - //**^z**// - 2017-12-14</strong></p></div>
+flags: 0
+ts: 1528057709
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057709

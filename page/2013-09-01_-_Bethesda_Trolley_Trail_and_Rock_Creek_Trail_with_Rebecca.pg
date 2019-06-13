@@ -1,0 +1,29 @@
+blocks: <h3>~9 miles @ ~11.2 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/RR_Crossing_at_Garrett_Park.jpg" alt="http://zhurnaly.com/images/running/RR_Crossing_at_Garrett_Park.jpg" /></td><td align="right">"Have you heard people using the word 'Ask' as a noun? That drives me crazy!" Rebecca Rosenberg says as we trek along the Bethesda Trolley Trail. We discuss linguistic back-formation (which I mistakenly call "back-construction"), neologisms, and Shakespeare's vocabulary. Rebecca confesses to coining "Funge" with reference to using something fungible; I approve. We concur on the misuse of apostrophes and the loss of the good/well and who/whom distinctions.</td></tr></table><p>It's a warm and humid Sunday morning. Rebecca will be doing the Marathon du Medoc in northern France next weekend. She tells of a 20 page detailed information packet that the race organizers sent her &mdash; entirely in French!</p><p>As we return to her neighborhood via Rock Creek Trail, Rebecca spies multiple rabbits and deer. Flocks of other runners greet her by name. "We're not TOO obsessive!" we agree, as we zig-zag to make both GPS units exceed 9 miles. At the Garrett Park train station we pause for a photo op: <em><strong>RR</strong> crossing!</em></p><p><a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/234872829">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/368764153">Garmin GPS</a> roughly agree on distance and splits. |</p><p><em><strong>^z</strong></em> - 2013-09-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.215.14
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9 miles @ ~11.2 min/mi
+	
+	| http://zhurnaly.com/images/running/RR_Crossing_at_Garrett_Park.jpg | "Have you heard people using the word 'Ask' as a noun? That drives me crazy!" Rebecca Rosenberg says as we trek along the Bethesda Trolley Trail. We discuss linguistic back-formation (which I mistakenly call "back-construction"), neologisms, and Shakespeare's vocabulary. Rebecca confesses to coining "Funge" with reference to using something fungible; I approve. We concur on the misuse of apostrophes and the loss of the good/well and who/whom distinctions.
+	
+	It's a warm and humid Sunday morning. Rebecca will be doing the Marathon du Medoc in northern France next weekend. She tells of a 20 page detailed information packet that the race organizers sent her &mdash; entirely in French!
+	
+	As we return to her neighborhood via Rock Creek Trail, Rebecca spies multiple rabbits and deer. Flocks of other runners greet her by name. "We're not TOO obsessive!" we agree, as we zig-zag to make both GPS units exceed 9 miles. At the Garrett Park train station we pause for a photo op: //**RR** crossing!//
+	
+	[[http://runkeeper.com/user/zhurnaly/activity/234872829|Runkeeper]] and [[http://connect.garmin.com/activity/368764153|Garmin GPS]] roughly agree on distance and splits. |
+	
+	//**^z**// - 2013-09-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9 miles @ ~11.2 min/mi<br />&gt; | http://zhurnaly.com/images/running/RR_Crossing_at_Garrett_Park.jpg | "Have you heard people using the word 'Ask' as a noun? That drives me crazy!" Rebecca Rosenberg says as we trek along the Bethesda Trolley Trail. We discuss linguistic back-formation (which I mistakenly call "back-construction"), neologisms, and Shakespeare's vocabulary. Rebecca confesses to coining "Funge" with reference to using something fungible; I approve. We concur on the misuse of apostrophes and the loss of the good/well and who/whom distinctions.<br />&gt; It's a warm and humid Sunday morning. Rebecca will be doing the Marathon du Medoc in northern France next weekend. She tells of a 20 page detailed information packet that the race organizers sent her &amp;mdash; entirely in French!<br />&gt; As we return to her neighborhood via Rock Creek Trail, Rebecca spies multiple rabbits and deer. Flocks of other runners greet her by name. "We're not TOO obsessive!" we agree, as we zig-zag to make both GPS units exceed 9 miles. At the Garrett Park train station we pause for a photo op: //**RR** crossing!//<br />&gt; [[http://runkeeper.com/user/zhurnaly/activity/234872829|Runkeeper]] and [[http://connect.garmin.com/activity/368764153|Garmin GPS]] roughly agree on distance and splits. |<br />&gt; //**^z**// - 2013-09-20</strong></p></div>
+flags: 0
+ts: 1528057698
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057698

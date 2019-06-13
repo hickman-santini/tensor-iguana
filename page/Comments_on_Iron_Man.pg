@@ -1,0 +1,26 @@
+blocks: <h3>1 Comment.</h3><p>"...but first, the cheeseburger."</p><p>I must say, I was really impressed when I saw this in the theaters. For all the little cool things there are in the movie, the real feat is how <em>tightly written</em> it is, especially with regards to characterization. A first-class popcorn movie, this is.</p><p>-- <a class="url http outside" href="http://packbat.livejournal.com/">RobinZimm</a> 2008-11-18 01:26 UTC</p><h4>1 person liked this</h4>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	"...but first, the cheeseburger."
+	
+	I must say, I was really impressed when I saw this in the theaters. For all the little cool things there are in the movie, the real feat is how //tightly written// it is, especially with regards to characterization. A first-class popcorn movie, this is.
+	
+	-- [http://packbat.livejournal.com/ RobinZimm] 2008-11-18 01:26 UTC
+	
+	
+	====1 person liked this====
+	
+languages: 
+lastmajor: 29
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; "...but first, the cheeseburger."<br />&gt; I must say, I was really impressed when I saw this in the theaters. For all the little cool things there are in the movie, the real feat is how //tightly written// it is, especially with regards to characterization. A first-class popcorn movie, this is.<br />&gt; -- [http://packbat.livejournal.com/ RobinZimm] 2008-11-18 01:26 UTC<br />&gt; ====1 person liked this====</p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 29
+keep-ts: 1528057690

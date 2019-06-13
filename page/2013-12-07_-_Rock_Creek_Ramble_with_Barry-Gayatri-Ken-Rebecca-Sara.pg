@@ -1,0 +1,23 @@
+blocks: <h3>~16 miles @ ~10.7 min/mi</h3><p>The day begins with brisk solo 10k warmup, rambling from home via 2nd Av and 16th St to North Portal Dr NW, where two deer graze just inside the DC line. Leland St provides solo hillwork before a rendezvous with the gang &mdash; Barry Smith, Gayatri Datta, Ken Swab, Rebecca Rosenberg, and Sara Crum &mdash; at Candy Cane City. We trot down Rock Creek ~6 miles to Broad Branch Rd, then return. Friendly Vee Hartenstein greets us near Military Rd, halfway through a long run from her Rosslyn home. Post-trek breakfast with Gayatri &amp; Barry &amp; Rebecca &amp; Ken is at the famous Parkway Deli, payoff from loser to winner of a fantasy football game. <a class="url http outside" href="http://connect.garmin.com/activity/413275620">Garmin</a> and <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/278468994">Runkeeper</a> differ by ~3% overall.</p><p><em><strong>^z</strong></em> - 2013-12-25</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.214.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~16 miles @ ~10.7 min/mi
+	
+	The day begins with brisk solo 10k warmup, rambling from home via 2nd Av and 16th St to North Portal Dr NW, where two deer graze just inside the DC line. Leland St provides solo hillwork before a rendezvous with the gang &mdash; Barry Smith, Gayatri Datta, Ken Swab, Rebecca Rosenberg, and Sara Crum &mdash; at Candy Cane City. We trot down Rock Creek ~6 miles to Broad Branch Rd, then return. Friendly Vee Hartenstein greets us near Military Rd, halfway through a long run from her Rosslyn home. Post-trek breakfast with Gayatri & Barry & Rebecca & Ken is at the famous Parkway Deli, payoff from loser to winner of a fantasy football game. [[http://connect.garmin.com/activity/413275620|Garmin]] and [[http://runkeeper.com/user/zhurnaly/activity/278468994|Runkeeper]] differ by ~3% overall.
+	
+	//**^z**// - 2013-12-25
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~16 miles @ ~10.7 min/mi<br />&gt; The day begins with brisk solo 10k warmup, rambling from home via 2nd Av and 16th St to North Portal Dr NW, where two deer graze just inside the DC line. Leland St provides solo hillwork before a rendezvous with the gang &amp;mdash; Barry Smith, Gayatri Datta, Ken Swab, Rebecca Rosenberg, and Sara Crum &amp;mdash; at Candy Cane City. We trot down Rock Creek ~6 miles to Broad Branch Rd, then return. Friendly Vee Hartenstein greets us near Military Rd, halfway through a long run from her Rosslyn home. Post-trek breakfast with Gayatri &amp; Barry &amp; Rebecca &amp; Ken is at the famous Parkway Deli, payoff from loser to winner of a fantasy football game. [[http://connect.garmin.com/activity/413275620|Garmin]] and [[http://runkeeper.com/user/zhurnaly/activity/278468994|Runkeeper]] differ by ~3% overall.<br />&gt; //**^z**// - 2013-12-25</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

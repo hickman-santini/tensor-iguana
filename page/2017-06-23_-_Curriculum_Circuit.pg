@@ -1,0 +1,25 @@
+blocks: <h3>~4.4 miles @ ~11.9 min/mi</h3><p>"Bottom Line Up Front! Minimum Viable Product!" McLean rain makes for a soggy jog around Dr Kerry's extended 'hood, with dawn's glow low between clouds on the eastern horizon. We muse about elements of a good sales pitch for a new initiative. Little stone statuettes of rabbits are the only bunnies spied this morning. Conversation turns to curricula to enhance thinking and help people analyze hard problems. <em>(As a friend notes later, there's a big difference between teaching individual methods versus designing a proper program of study. "Courses pop up like mushrooms after a rainfall", SMB notes - but they aren't integrated to help learners acquire key "knowledge, skills, and abilities".)</em></p><p>"Wonder who lives there?" Secret Service agents, or clones thereof, stand watch next to black limos in front of a mansion with gold-filigreed gateways. We're thankful for health, families, friendships, and the chance to help others in need.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1005816765">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-07-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.55
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.4 miles @ ~11.9 min/mi
+	
+	"Bottom Line Up Front! Minimum Viable Product!" McLean rain makes for a soggy jog around Dr Kerry's extended 'hood, with dawn's glow low between clouds on the eastern horizon. We muse about elements of a good sales pitch for a new initiative. Little stone statuettes of rabbits are the only bunnies spied this morning. Conversation turns to curricula to enhance thinking and help people analyze hard problems. //(As a friend notes later, there's a big difference between teaching individual methods versus designing a proper program of study. "Courses pop up like mushrooms after a rainfall", SMB notes - but they aren't integrated to help learners acquire key "knowledge, skills, and abilities".)//
+	
+	"Wonder who lives there?" Secret Service agents, or clones thereof, stand watch next to black limos in front of a mansion with gold-filigreed gateways. We're thankful for health, families, friendships, and the chance to help others in need.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1005816765|trackfile]])// - //**^z**// - 2017-07-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.4 miles @ ~11.9 min/mi<br />&gt; "Bottom Line Up Front! Minimum Viable Product!" McLean rain makes for a soggy jog around Dr Kerry's extended 'hood, with dawn's glow low between clouds on the eastern horizon. We muse about elements of a good sales pitch for a new initiative. Little stone statuettes of rabbits are the only bunnies spied this morning. Conversation turns to curricula to enhance thinking and help people analyze hard problems. //(As a friend notes later, there's a big difference between teaching individual methods versus designing a proper program of study. "Courses pop up like mushrooms after a rainfall", SMB notes - but they aren't integrated to help learners acquire key "knowledge, skills, and abilities".)//<br />&gt; "Wonder who lives there?" Secret Service agents, or clones thereof, stand watch next to black limos in front of a mansion with gold-filigreed gateways. We're thankful for health, families, friendships, and the chance to help others in need.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1005816765|trackfile]])// - //**^z**// - 2017-07-15</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057711

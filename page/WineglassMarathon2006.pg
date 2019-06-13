@@ -1,0 +1,14 @@
+diff-minor: 
+ip: 70.21.102.87
+ts: 1222565664
+minor: 1
+host: pool-70-21-102-87.res.east.verizon.net
+username: MarkZimmermann
+revision: 7
+diff-major: 
+summary: \[\[Wineglass Marathon 2006]] -> [[Wineglass Marathon 2006]]
+languages: 
+text: #REDIRECT [[Wineglass Marathon 2006]]
+	
+lastmajor: 2
+keep-ts: 1222565664

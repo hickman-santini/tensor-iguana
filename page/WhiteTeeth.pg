@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; #<strong class="changes">redirect</strong> [[White Teeth]]</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; #<strong class="changes">REDIRECT</strong> [[White Teeth]]</p></div>
+ip: 63.125.4.210
+ts: 1210677454
+minor: 1
+host: 63.125.4.210
+username: ZZ
+revision: 4
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">[-//(</strong>correlates: [[GoingSolo]], [[PsychologicalUndead]], [[MySpeciality]], <strong class="changes">...)//-]</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">//(</strong>correlates: [[GoingSolo]], [[PsychologicalUndead]], [[MySpeciality]], <strong class="changes">...)//</strong></p></div>
+summary: fix WikiWord title
+languages: 
+text: #REDIRECT [[White Teeth]]
+	
+lastmajor: 2
+keep-ts: 1210677454

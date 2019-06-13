@@ -1,0 +1,27 @@
+blocks: <h3>~10.3 mi @ ~17 min/mi</h3><p>"Integrity, and Competence!" Stephanie highlights two key qualities needed for a person to be worthy. Integrity includes honesty and caring; competence implies responsibility and learning. She and John take turns leading the way over snowy slopes in Rock Creek Park, downstream along the Valley Trail and back via the Western Ridge. Temperatures rise slowly from the low 20s. Rocks are slippery; beards grow icicles. We pause for photos. John spies a red fox. Happy birds chirp.</p><p>"No, not <strong>all</strong> your personal habits are disgusting - a Bayesian might say <strong>most</strong>, and would update that estimate as new data come in!" Frequentists are mocked, as are those who make all-or-nothing judgments. And that includes self-judging, which all we plead guilty to and vow to reduce. The hyper-ambitious schedule of ultramarathons that one of us proposes is critiqued for its high risk of injury. <em>Two pots call a kettle black!</em></p><p>"Your blockchain is sagging!" - "Yeah, and your elliptic curves are showing!" Crypto-currency jokes abound, as we plan to capture more processors and mine more Bitcoins. Or maybe it's more important to be with friends, listen to each other, and offer support as we all aspire to be a bit better in 2018 ...</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1102207723">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-01-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.163
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10.3 mi @ ~17 min/mi
+	
+	"Integrity, and Competence!" Stephanie highlights two key qualities needed for a person to be worthy. Integrity includes honesty and caring; competence implies responsibility and learning. She and John take turns leading the way over snowy slopes in Rock Creek Park, downstream along the Valley Trail and back via the Western Ridge. Temperatures rise slowly from the low 20s. Rocks are slippery; beards grow icicles. We pause for photos. John spies a red fox. Happy birds chirp.
+	
+	"No, not **all** your personal habits are disgusting - a Bayesian might say **most**, and would update that estimate as new data come in!" Frequentists are mocked, as are those who make all-or-nothing judgments. And that includes self-judging, which all we plead guilty to and vow to reduce. The hyper-ambitious schedule of ultramarathons that one of us proposes is critiqued for its high risk of injury. //Two pots call a kettle black!//
+	
+	"Your blockchain is sagging!" - "Yeah, and your elliptic curves are showing!" Crypto-currency jokes abound, as we plan to capture more processors and mine more Bitcoins. Or maybe it's more important to be with friends, listen to each other, and offer support as we all aspire to be a bit better in 2018 ...
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1102207723|trackfile]])// - //**^z**// - 2018-01-26
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10.3 mi @ ~17 min/mi<br />&gt; "Integrity, and Competence!" Stephanie highlights two key qualities needed for a person to be worthy. Integrity includes honesty and caring; competence implies responsibility and learning. She and John take turns leading the way over snowy slopes in Rock Creek Park, downstream along the Valley Trail and back via the Western Ridge. Temperatures rise slowly from the low 20s. Rocks are slippery; beards grow icicles. We pause for photos. John spies a red fox. Happy birds chirp.<br />&gt; "No, not **all** your personal habits are disgusting - a Bayesian might say **most**, and would update that estimate as new data come in!" Frequentists are mocked, as are those who make all-or-nothing judgments. And that includes self-judging, which all we plead guilty to and vow to reduce. The hyper-ambitious schedule of ultramarathons that one of us proposes is critiqued for its high risk of injury. //Two pots call a kettle black!//<br />&gt; "Your blockchain is sagging!" - "Yeah, and your elliptic curves are showing!" Crypto-currency jokes abound, as we plan to capture more processors and mine more Bitcoins. Or maybe it's more important to be with friends, listen to each other, and offer support as we all aspire to be a bit better in 2018 ...<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1102207723|trackfile]])// - //**^z**// - 2018-01-26</strong></p></div>
+flags: 0
+ts: 1528057686
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057686

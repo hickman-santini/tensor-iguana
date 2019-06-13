@@ -1,0 +1,21 @@
+blocks: <table class="user"><tr><td align="right"><a class="image outside" href="http://zhurnaly.com/images/flag_Mark_Zimmermann_2016-08.jpg"><img class="upload" title="Mark Zimmermann and US flag - by Jae Robinson" src="http://zhurnaly.com/images/flag_Mark_Zimmermann_2016-08_t.jpg" alt="Mark Zimmermann and US flag - by Jae Robinson" /></a></td><td align="center">... a fortuitous image taken by colleague Jae Robinson of me at the office after a stressful-but-successful briefing! <br /><br /><br /><br /><br /><em>(click for larger version)</em></td></tr></table><p><em><strong>^z</strong></em> - 2016-08-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.35
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | [[image:http://zhurnaly.com/images/flag_Mark_Zimmermann_2016-08_t.jpg|Mark Zimmermann and US flag - by Jae Robinson|http://zhurnaly.com/images/flag_Mark_Zimmermann_2016-08.jpg]] | ... a fortuitous image taken by colleague Jae Robinson of me at the office after a stressful-but-successful briefing! \\ \\ \\ \\ \\ //(click for larger version)// |
+	
+	//**^z**// - 2016-08-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| [[image:http://zhurnaly.com/images/flag_Mark_Zimmermann_2016-08_t.jpg|Mark Zimmermann and US flag - by Jae Robinson|http://zhurnaly.com/images/flag_Mark_Zimmermann_2016-08.jpg]] | ... a fortuitous image taken by colleague Jae Robinson of me at the office after a stressful-but-successful briefing! \\ \\ \\ \\ \\ //(click for larger version)// |<br />&gt; //**^z**// - 2016-08-23</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057700

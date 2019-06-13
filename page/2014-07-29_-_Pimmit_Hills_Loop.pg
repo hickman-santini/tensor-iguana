@@ -1,0 +1,23 @@
+blocks: <h3>~4.9 miles @ ~10.6 min/mi</h3><p>Kerry spots several deer grazing in Pimmit Run Stream Valley Park as we trot down Great Falls Rd to Idylwood. A flattened snake lies by the pathway under the Toll Rd connector. Amber and Kerry set a brisk pace; Kristin (injured) and I hang back. David plans to do an Olympic triathlon on Sunday. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/402594732">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/modern/activity/556141695">Garmin</a> map the route.</p><p><em><strong>^z</strong></em> - 2014-08-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.89
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 miles @ ~10.6 min/mi
+	
+	Kerry spots several deer grazing in Pimmit Run Stream Valley Park as we trot down Great Falls Rd to Idylwood. A flattened snake lies by the pathway under the Toll Rd connector. Amber and Kerry set a brisk pace; Kristin (injured) and I hang back. David plans to do an Olympic triathlon on Sunday. [[http://runkeeper.com/user/zhurnaly/activity/402594732|Runkeeper]] and [[http://connect.garmin.com/modern/activity/556141695|Garmin]] map the route.
+	
+	//**^z**// - 2014-08-17
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 miles @ ~10.6 min/mi<br />&gt; Kerry spots several deer grazing in Pimmit Run Stream Valley Park as we trot down Great Falls Rd to Idylwood. A flattened snake lies by the pathway under the Toll Rd connector. Amber and Kerry set a brisk pace; Kristin (injured) and I hang back. David plans to do an Olympic triathlon on Sunday. [[http://runkeeper.com/user/zhurnaly/activity/402594732|Runkeeper]] and [[http://connect.garmin.com/modern/activity/556141695|Garmin]] map the route.<br />&gt; //**^z**// - 2014-08-17</strong></p></div>
+flags: 0
+ts: 1528057710
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057710

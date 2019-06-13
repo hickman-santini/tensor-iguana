@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">The year 1852, a century before my birth, has become a tiny gateway into history for me ... a benign fixation, because of that personal (if distant) connection.  Many interesting things happened in 1852:<br />&lt; * **Gold production** in California peaked, sending silver prices up and driving silver coins out of circulation in the US.<br />&lt; * In an apt coincidence, **Wells Fargo** (bank) and **Smith &amp; Wesson** (guns) were founded, as was **Mt. Sinai Hospital** in New York City.<br />&lt; * **Roget's //Thesaurus**// was first published. So was the best-selling novel //**Uncle Tom's Cabin**// (a dramatic critique of slavery) by Harriet Beecher Stowe. The **sale of slaves** was outlawed in the District of Columbia.<br />&lt; * **Safety matches** were invented in Sweden by Johan Lundstrom, and the **safety elevator** was invented in the USA by Elisha Graves Otis.<br />&lt; * **"Uncle Sam"**, the cartoon personification of the USA, appeared for the first time in //The New York Lantern.//<br />&lt; * The **Duke of Wellington** and **Lady Ada Lovelace** died, as did the Prime Minister of Austria-Hungary, **Felix, F&amp;uuml;rst zu Schwarzenberg.** //(see</strong> [[<strong class="changes">InverseAphorisms]], the **^zhurnal** entry of 26 October 1999 for a noteworthy Schwarzenberg quote)//<br />&lt; * The **London Convention** was signed, putting an end to the war between Prussia and Denmark over Schleswig-Holstein.<br />&lt; * **Napoleon III** began his reign as Emperor of France; **Camillo Benso di Cavour** became the Piedmontese Prime Minister; **Millard Fillmore** finished his term as President of the United States.<br />&lt; * **Commodore Perry** visited Japan, beginning the end of that nation's isolation from the rest of the world.<br />&lt; * A propellor was used on a balloon, creating the first **airship.**<br />&lt; * The state</strong> of <strong class="changes">Massachusetts passed the first compulsory **school attendance** law in the USA.<br />&lt; For images of some coins in my 1852 collection, see http://www.his.com/~z/</strong>1852<strong class="changes">.html = "1852!" and http://www.his.com/~z/gallery1852.html = "Gallery of 1852 Coins". //(Thanks to Rudy Vonk for kind contributions of historical facts concerning my favorite year.)//<br />&lt; - Sunday, June 04, 2000 at 21:51:05 (EDT) = Datetag20000604<br />&lt; [[TopicSociety</strong>]] <strong class="changes">- [[TopicPersonalHistory]] - [[TopicProfiles]]<br />&lt; ----<br />&lt; //(correlates: [[InverseAphorisms]], [[MoreFrom1852]], [[ExcrementalTypo]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">NuimisTrivia</strong> of 1852]]</p></div>
+ip: 70.21.87.47
+ts: 1220186585
+minor: 1
+host: pool-70-21-87-47.res.east.verizon.net
+username: MarkZimmermann
+revision: 4
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; * **Roget's //Thesaurus**// was first published. So was the best-selling novel <strong class="changes">**//</strong>Uncle Tom's Cabin**// (a dramatic critique of slavery) by Harriet Beecher Stowe. The **sale of slaves** was outlawed in the District of Columbia.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; * **Roget's //Thesaurus**// was first published. So was the best-selling novel <strong class="changes">//**</strong>Uncle Tom's Cabin**// (a dramatic critique of slavery) by Harriet Beecher Stowe. The **sale of slaves** was outlawed in the District of Columbia.</p></div>
+summary: change to redirect
+languages: 
+text: #REDIRECT [[NuimisTrivia of 1852]]
+	
+lastmajor: 3
+keep-ts: 1220186585

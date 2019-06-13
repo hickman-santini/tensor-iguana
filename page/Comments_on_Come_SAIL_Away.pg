@@ -1,0 +1,27 @@
+blocks: <h3>1 Comment.</h3><p>see also Tara Brach's "<a class="url http outside" href="https://www.tarabrach.com/selfcompassion1/The">RAIN of Self-Compassion</a>":<br /></p><ul><li>Recognize what is going on;<br /></li><li>Allow the experience to be there, just as it is;<br /></li><li>Investigate with interest and care;<br /></li><li>Nourish with self-compassion.</li></ul><p>-- <a class="url http outside" href="http://zhurnaly.com">z</a> 2016-02-25 21:30 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.1
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	see also Tara Brach's "[[https://www.tarabrach.com/selfcompassion1/The RAIN of Self-Compassion]]":
+	*Recognize what is going on;
+	*Allow the experience to be there, just as it is;
+	*Investigate with interest and care;
+	*Nourish with self-compassion.
+	
+	-- [http://zhurnaly.com z] 2016-02-25 21:30 UTC
+	
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; see also Tara Brach's "[[https://www.tarabrach.com/selfcompassion1/The RAIN of Self-Compassion]]":<br />&gt; *Recognize what is going on;<br />&gt; *Allow the experience to be there, just as it is;<br />&gt; *Investigate with interest and care;<br />&gt; *Nourish with self-compassion.<br />&gt; -- [http://zhurnaly.com z] 2016-02-25 21:30 UTC</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057712

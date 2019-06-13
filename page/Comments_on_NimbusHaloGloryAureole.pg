@@ -1,0 +1,59 @@
+flags: 0
+blocks: <h3>1 Comment.</h3><p>see <a class="url http" href="https://writersalmanac.publicradio.org/index.php%3Fdate=2001%252F10%252F30.html">https://writersalmanac.publicradio.org/index.php%3Fdate=2001%252F10%252F30.html</a></p><p><strong>After a Movie</strong></p><p> The last small credits fade<br /> as house lights rise. Dazed in that radiant instant<br /> of transition, you dwindle through the lobby<br /> and out to curbside, pulling on a glove<br /> with the decisive competence<br /> of the scarred detective</p><p> or his quarry. Scanning<br /> the rainlit street for taxicabs, you visualize,<br /> without looking, your image in the window<br /> of the jeweler's shop, where white hands hover<br /> above the string of luminous pearls<br /> on a faceless velvet bust.</p><p> Someone across the street<br /> enters a bar, leaving behind a charged vacancy<br /> in which you cut to the dim booth inside,<br /> where you are seated, glancing at the door.<br /> You lift an eyebrow, recognizing<br /> the unnamed colleague</p><p> who will conspire with you<br /> against whatever the volatile script provides…<br /> A cab pulls up. You stoop into the dark<br /> and settle toward a version of yourself.<br /> Your profile cruises past the city<br /> on a home-drifting stream</p><p> through whose surface, sometimes,<br /> you glimpse the life between the streambed and the ripples,<br /> as, when your gestures are your own again,<br /> your fingers lift a cup beyond whose rim<br /> a room bursts into clarity<br /> and light falls on all things.</p><p>-- z 2018-05-22 12:39 UTC</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; see https://writersalmanac.publicradio.org/index.php%3Fdate=2001%252F10%252F30.html <br />&gt; **After a Movie**<br />&gt;     The last small credits fade<br />&gt;  as house lights rise. Dazed in that radiant instant<br />&gt;      of transition, you dwindle through the lobby<br />&gt;      and out to curbside, pulling on a glove<br />&gt;           with the decisive competence<br />&gt;      of the scarred detective<br />&gt;     or his quarry. Scanning<br />&gt;  the rainlit street for taxicabs, you visualize,<br />&gt;      without looking, your image in the window<br />&gt;      of the jeweler's shop, where white hands hover<br />&gt;           above the string of luminous pearls<br />&gt;      on a faceless velvet bust.<br />&gt;     Someone across the street<br />&gt;  enters a bar, leaving behind a charged vacancy<br />&gt;      in which you cut to the dim booth inside,<br />&gt;      where you are seated, glancing at the door.<br />&gt;           You lift an eyebrow, recognizing<br />&gt;      the unnamed colleague<br />&gt;     who will conspire with you<br />&gt;  against whatever the volatile script provides…<br />&gt;     A cab pulls up. You stoop into the dark<br />&gt;      and settle toward a version of yourself.<br />&gt;           Your profile cruises past the city<br />&gt;      on a home-drifting stream<br />&gt;     through whose surface, sometimes,<br />&gt;  you glimpse the life between the streambed and the ripples,<br />&gt;      as, when your gestures are your own again,<br />&gt;      your fingers lift a cup beyond whose rim<br />&gt;           a room bursts into clarity<br />&gt;      and light falls on all things.<br />&gt; -- z 2018-05-22 12:39 UTC</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057684
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	see https://writersalmanac.publicradio.org/index.php%3Fdate=2001%252F10%252F30.html 
+	
+	**After a Movie**
+	
+	    The last small credits fade
+	 as house lights rise. Dazed in that radiant instant
+	     of transition, you dwindle through the lobby
+	     and out to curbside, pulling on a glove
+	          with the decisive competence
+	     of the scarred detective
+	
+	    or his quarry. Scanning
+	 the rainlit street for taxicabs, you visualize,
+	     without looking, your image in the window
+	     of the jeweler's shop, where white hands hover
+	          above the string of luminous pearls
+	     on a faceless velvet bust.
+	
+	    Someone across the street
+	 enters a bar, leaving behind a charged vacancy
+	     in which you cut to the dim booth inside,
+	     where you are seated, glancing at the door.
+	          You lift an eyebrow, recognizing
+	     the unnamed colleague
+	
+	    who will conspire with you
+	 against whatever the volatile script provides…
+	    A cab pulls up. You stoop into the dark
+	     and settle toward a version of yourself.
+	          Your profile cruises past the city
+	     on a home-drifting stream
+	
+	    through whose surface, sometimes,
+	 you glimpse the life between the streambed and the ripples,
+	     as, when your gestures are your own again,
+	     your fingers lift a cup beyond whose rim
+	          a room bursts into clarity
+	     and light falls on all things.
+	
+	-- z 2018-05-22 12:39 UTC
+	
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057684

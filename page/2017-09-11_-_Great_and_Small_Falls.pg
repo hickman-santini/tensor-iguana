@@ -1,0 +1,25 @@
+blocks: <h3>~4.4 miles @ ~14.8 min/mi</h3><p>"To save space shall we say 'Kerry did <strong>not</strong> fall down today' in the Dawn Patrol log when that happens - rather than note all the times she does?" Early this morning Dr K stumbles on the gloomy path beside Churchill Road, where tree roots make for a ripply-rough surface. Fortunately she vectors onto a grassy lawn and escapes unscathed. <em>Whew!</em> Venus glitters brilliant-cut in the east as a pastel sunrise glows, with crisp long-sleeve-worthy temps in the 50s.</p><p>"My bad!" Abject apologies to the missing member of this morning's ramble, Dr Kristin. Text messaging is an unreliable transmission protocol, and she didn't get word of today's starting point. Cait leads a loop around West Langley, after which we arc to Starbucks. During the return trip sororities and their culture (and cost) are analyzed. Apparently it's an urban legend that Brothel Laws ban them in Boston.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1051582479">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-10-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.91.8
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === ~4.4 miles @ ~14.8 min/mi
+	
+	"To save space shall we say 'Kerry did **not** fall down today' in the Dawn Patrol log when that happens - rather than note all the times she does?" Early this morning Dr K stumbles on the gloomy path beside Churchill Road, where tree roots make for a ripply-rough surface. Fortunately she vectors onto a grassy lawn and escapes unscathed. //Whew!// Venus glitters brilliant-cut in the east as a pastel sunrise glows, with crisp long-sleeve-worthy temps in the 50s.
+	
+	"My bad!" Abject apologies to the missing member of this morning's ramble, Dr Kristin. Text messaging is an unreliable transmission protocol, and she didn't get word of today's starting point. Cait leads a loop around West Langley, after which we arc to Starbucks. During the return trip sororities and their culture (and cost) are analyzed. Apparently it's an urban legend that Brothel Laws ban them in Boston.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1051582479|trackfile]])// - //**^z**// - 2017-10-10
+	
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.4 miles @ ~14.8 min/mi<br />&gt; "To save space shall we say 'Kerry did **not** fall down today' in the Dawn Patrol log when that happens - rather than note all the times she does?" Early this morning Dr K stumbles on the gloomy path beside Churchill Road, where tree roots make for a ripply-rough surface. Fortunately she vectors onto a grassy lawn and escapes unscathed. //Whew!// Venus glitters brilliant-cut in the east as a pastel sunrise glows, with crisp long-sleeve-worthy temps in the 50s.<br />&gt; "My bad!" Abject apologies to the missing member of this morning's ramble, Dr Kristin. Text messaging is an unreliable transmission protocol, and she didn't get word of today's starting point. Cait leads a loop around West Langley, after which we arc to Starbucks. During the return trip sororities and their culture (and cost) are analyzed. Apparently it's an urban legend that Brothel Laws ban them in Boston.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1051582479|trackfile]])// - //**^z**// - 2017-10-10</strong></p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057675

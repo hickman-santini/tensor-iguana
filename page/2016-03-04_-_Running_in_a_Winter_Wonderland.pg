@@ -1,0 +1,31 @@
+blocks: <h3>~7.6 miles @ ~12.8 min/mi</h3><p>"I know I'm completely biased &mdash; but it's still true!" Kerry observes, metacognitively. Trees are limned by last night's snowfall. Kristin and I sprint to the rendezvous, a downtown McLean Starbucks, second mile at sub-10 pace. The Dawn Patrol meanders and discovers a path through Bryn Mawr Park between Laughlin and Tennyson. On Longfellow Street, quote Robert Frost's "Stopping by Woods on a Snowy Evening". At Tucker Avenue divert to view the funky Victorian house with lavender trim and helical downspouts. Pavement dead-ends at Kent Gardens Park, where muddy path leads to stream crossing and the Pimmit Run Trail. Stream crossing is safe enough for Kristin to traverse it twice and pose for a photo with Kerry. Cite the final-of-all-time "Calvin and Hobbes" comic strip by Bill Watterson:<br /></p><blockquote><p>"Wow, it really snowed last night! Isn't it wonderful?"<br />"Everything familiar has disappeared. The world looks brand-new!"<br />...<br />"A day full of possibilities!"<br />"It's a magical world, Hobbes, ol' buddy ... let's go exploring!".<br /></p></blockquote><p>Sure is &mdash; today and always!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/744222634">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-03-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.81.196
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.6 miles @ ~12.8 min/mi
+	
+	"I know I'm completely biased &mdash; but it's still true!" Kerry observes, metacognitively. Trees are limned by last night's snowfall. Kristin and I sprint to the rendezvous, a downtown McLean Starbucks, second mile at sub-10 pace. The Dawn Patrol meanders and discovers a path through Bryn Mawr Park between Laughlin and Tennyson. On Longfellow Street, quote Robert Frost's "Stopping by Woods on a Snowy Evening". At Tucker Avenue divert to view the funky Victorian house with lavender trim and helical downspouts. Pavement dead-ends at Kent Gardens Park, where muddy path leads to stream crossing and the Pimmit Run Trail. Stream crossing is safe enough for Kristin to traverse it twice and pose for a photo with Kerry. Cite the final-of-all-time "Calvin and Hobbes" comic strip by Bill Watterson:
+	"""
+	"Wow, it really snowed last night! Isn't it wonderful?"
+	"Everything familiar has disappeared. The world looks brand-new!"
+	...
+	"A day full of possibilities!"
+	"It's a magical world, Hobbes, ol' buddy ... let's go exploring!".
+	"""
+	
+	Sure is &mdash; today and always!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/744222634|trackfile]])// - //**^z**// - 2016-03-20
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~7.6 miles @ ~12.8 min/mi<br />&gt; "I know I'm completely biased &amp;mdash; but it's still true!" Kerry observes, metacognitively. Trees are limned by last night's snowfall. Kristin and I sprint to the rendezvous, a downtown McLean Starbucks, second mile at sub-10 pace. The Dawn Patrol meanders and discovers a path through Bryn Mawr Park between Laughlin and Tennyson. On Longfellow Street, quote Robert Frost's "Stopping by Woods on a Snowy Evening". At Tucker Avenue divert to view the funky Victorian house with lavender trim and helical downspouts. Pavement dead-ends at Kent Gardens Park, where muddy path leads to stream crossing and the Pimmit Run Trail. Stream crossing is safe enough for Kristin to traverse it twice and pose for a photo with Kerry. Cite the final-of-all-time "Calvin and Hobbes" comic strip by Bill Watterson:<br />&gt; """<br />&gt; "Wow, it really snowed last night! Isn't it wonderful?"<br />&gt; "Everything familiar has disappeared. The world looks brand-new!"<br />&gt; ...<br />&gt; "A day full of possibilities!"<br />&gt; "It's a magical world, Hobbes, ol' buddy ... let's go exploring!".<br />&gt; """<br />&gt; Sure is &amp;mdash; today and always!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/744222634|trackfile]])// - //**^z**// - 2016-03-20</p></div>
+flags: 0
+ts: 1528057685
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057685

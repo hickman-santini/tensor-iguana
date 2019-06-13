@@ -1,0 +1,40 @@
+blocks: <table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/H-Mart_chips.jpg" alt="http://zhurnaly.com/images/H-Mart_chips.jpg" /></td><td align="right">DW sends me to H-Mart, the local Korean grocery, for "chips". What comes home?<br /><br />&nbsp;* Rice-veggie puffs<br /><br />&nbsp;* hot-and-spicy crispy seaweed<br /><br />&nbsp;* sweet potato<br /><br />&nbsp;* shrimp<br /><br />&nbsp;* onion baguette<br /><br />and ...<br /><br />&nbsp;* octopus!</td></tr></table><p><em><strong>^z</strong></em> - 2013-08-24</p>
+lastmajorsummary: \\
+ip: 107.214.80.107
+summary: \\
+diff-major: 1
+languages: 
+text: | http://zhurnaly.com/images/H-Mart_chips.jpg | DW sends me to H-Mart, the local Korean grocery, for "chips". What comes home?
+	\\
+	&nbsp;* Rice-veggie puffs
+	\\
+	&nbsp;* hot-and-spicy crispy seaweed
+	\\
+	&nbsp;* sweet potato
+	\\
+	&nbsp;* shrimp
+	\\
+	&nbsp;* onion baguette
+	\\
+	and ...
+	\\
+	&nbsp;* octopus! |
+	
+	//**^z**// - 2013-08-24
+	
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div>
+flags: 0
+ts: 1529627175
+minor: 
+host: 166.137.240.125
+username: z
+revision: 4
+keep-ts: 1529627175

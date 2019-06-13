@@ -1,0 +1,25 @@
+blocks: <h3>~10 miles @ ~9.7 min/mi</h3><p>Light rain, big puddles on the sidewalk: it's a solo afternoon jog from home to Union Station along the Metropolitan Branch Trail in DC. There's one functional water fountain at the Takoma Rec Center tennis courts, 3rd &amp; Van Buren Sts NW. The sun only comes out during the ride home on the Metro, when air conditioned cars make for post-run shivers &mdash; <em>brrrrr!</em></p><p>Mile splits are 10:40-11:23-9:32-9:42-10:13-10:18-9:06-9:20-8:40-7:42 &mdash; pushing on the  final flat stretch past the NoMa Station, where a friendly bystander cheers. The <a class="url http outside" href="http://connect.garmin.com/activity/421475636">Garmin</a> GPS provides the only record of the journey, since sleeping the iPhone before <em>Runtastic</em> finishes its countdown apparently freezes the countdown &mdash; <em>oops!</em></p><p><em><strong>^z</strong></em> - 2014-01-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.211.54
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10 miles @ ~9.7 min/mi
+	
+	Light rain, big puddles on the sidewalk: it's a solo afternoon jog from home to Union Station along the Metropolitan Branch Trail in DC. There's one functional water fountain at the Takoma Rec Center tennis courts, 3rd & Van Buren Sts NW. The sun only comes out during the ride home on the Metro, when air conditioned cars make for post-run shivers &mdash; //brrrrr!//
+	
+	Mile splits are 10:40-11:23-9:32-9:42-10:13-10:18-9:06-9:20-8:40-7:42 &mdash; pushing on the  final flat stretch past the NoMa Station, where a friendly bystander cheers. The [[http://connect.garmin.com/activity/421475636|Garmin]] GPS provides the only record of the journey, since sleeping the iPhone before //Runtastic// finishes its countdown apparently freezes the countdown &mdash; //oops!//
+	
+	//**^z**// - 2014-01-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10 miles @ ~9.7 min/mi<br />&gt; Light rain, big puddles on the sidewalk: it's a solo afternoon jog from home to Union Station along the Metropolitan Branch Trail in DC. There's one functional water fountain at the Takoma Rec Center tennis courts, 3rd &amp; Van Buren Sts NW. The sun only comes out during the ride home on the Metro, when air conditioned cars make for post-run shivers &amp;mdash; //brrrrr!//<br />&gt; Mile splits are 10:40-11:23-9:32-9:42-10:13-10:18-9:06-9:20-8:40-7:42 &amp;mdash; pushing on the  final flat stretch past the NoMa Station, where a friendly bystander cheers. The [[http://connect.garmin.com/activity/421475636|Garmin]] GPS provides the only record of the journey, since sleeping the iPhone before //Runtastic// finishes its countdown apparently freezes the countdown &amp;mdash; //oops!//<br />&gt; //**^z**// - 2014-01-23</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057712

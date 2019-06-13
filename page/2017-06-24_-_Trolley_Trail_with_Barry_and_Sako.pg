@@ -1,0 +1,25 @@
+blocks: <h3>~8.2 miles @ ~13.0 min/mi</h3><p>"Before I was human, I was a frog!" Sakurako listens to loud croaks as they carom and echo across the wetlands at KenGar. In downtown Tokyo, when she was an infant and fretful, her mother would calm her by taking her to a local pond where she could hear the frogs calling. We run up the hill together, then circle back to meet Barry and head south. Rock Creek Trail is busy with marathon training groups. Huge puddles on the pathway are the remnants of tropical storm Cindy's passage early this morning.</p><p>"Change is the only constant!" At Beach Drive one of us <em>(guess who?)</em> calls for unpredictability, adventure, something different, a new route. Sako and Barry humor him: <em><strong>Westward ho!</strong></em> At the Bethesda Trolley Trail we turn north, then close the loop via Garrett Park.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1006394415">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-07-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 70.123.50.169
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.2 miles @ ~13.0 min/mi
+	
+	"Before I was human, I was a frog!" Sakurako listens to loud croaks as they carom and echo across the wetlands at KenGar. In downtown Tokyo, when she was an infant and fretful, her mother would calm her by taking her to a local pond where she could hear the frogs calling. We run up the hill together, then circle back to meet Barry and head south. Rock Creek Trail is busy with marathon training groups. Huge puddles on the pathway are the remnants of tropical storm Cindy's passage early this morning.
+	
+	"Change is the only constant!" At Beach Drive one of us //(guess who?)// calls for unpredictability, adventure, something different, a new route. Sako and Barry humor him: //**Westward ho!**// At the Bethesda Trolley Trail we turn north, then close the loop via Garrett Park.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1006394415|trackfile]])// - //**^z**// - 2017-07-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.2 miles @ ~13.0 min/mi<br />&gt; "Before I was human, I was a frog!" Sakurako listens to loud croaks as they carom and echo across the wetlands at KenGar. In downtown Tokyo, when she was an infant and fretful, her mother would calm her by taking her to a local pond where she could hear the frogs calling. We run up the hill together, then circle back to meet Barry and head south. Rock Creek Trail is busy with marathon training groups. Huge puddles on the pathway are the remnants of tropical storm Cindy's passage early this morning.<br />&gt; "Change is the only constant!" At Beach Drive one of us //(guess who?)// calls for unpredictability, adventure, something different, a new route. Sako and Barry humor him: //**Westward ho!**// At the Bethesda Trolley Trail we turn north, then close the loop via Garrett Park.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1006394415|trackfile]])// - //**^z**// - 2017-07-16</strong></p></div>
+flags: 0
+ts: 1528057701
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057701

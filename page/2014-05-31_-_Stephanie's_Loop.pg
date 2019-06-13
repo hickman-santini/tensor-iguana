@@ -1,0 +1,23 @@
+blocks: <h3>~17 miles @ ~12.8 min/mi</h3><p>Join Stephanie for a 7 mile afternoon loop around her neighborhood, dodging cyclists and sharing geeky-analytic conversation: ketogenic diets, neurophysiology, pro- and pre-biotics, ultramarathon training, etc. Dr Fonda is finishing another awesome 70-mile week before starting to taper for the Mohican 100 miler in late June &mdash; <em>wow!</em> During the solo trek home, greet family friend Elie at her Kensington bookstore, and trot down the Mormon Temple hill (Stoneybrook St) behind a young lady with a flaming red ponytail. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/364851248">Runkeeper</a> inexplicably pauses when the iPhone takes a photo and so misses the first 4+ miles to Stephanie's home; <a class="url http outside" href="http://connect.garmin.com/modern/activity/511006537">Garmin</a> records the entire route.</p><p><em><strong>^z</strong></em> - 2014-06-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.213.42
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~17 miles @ ~12.8 min/mi
+	
+	Join Stephanie for a 7 mile afternoon loop around her neighborhood, dodging cyclists and sharing geeky-analytic conversation: ketogenic diets, neurophysiology, pro- and pre-biotics, ultramarathon training, etc. Dr Fonda is finishing another awesome 70-mile week before starting to taper for the Mohican 100 miler in late June &mdash; //wow!// During the solo trek home, greet family friend Elie at her Kensington bookstore, and trot down the Mormon Temple hill (Stoneybrook St) behind a young lady with a flaming red ponytail. [[http://runkeeper.com/user/zhurnaly/activity/364851248|Runkeeper]] inexplicably pauses when the iPhone takes a photo and so misses the first 4+ miles to Stephanie's home; [[http://connect.garmin.com/modern/activity/511006537|Garmin]] records the entire route.
+	
+	//**^z**//  - 2014-06-23
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~17 miles @ ~12.8 min/mi<br />&gt; Join Stephanie for a 7 mile afternoon loop around her neighborhood, dodging cyclists and sharing geeky-analytic conversation: ketogenic diets, neurophysiology, pro- and pre-biotics, ultramarathon training, etc. Dr Fonda is finishing another awesome 70-mile week before starting to taper for the Mohican 100 miler in late June &amp;mdash; //wow!// During the solo trek home, greet family friend Elie at her Kensington bookstore, and trot down the Mormon Temple hill (Stoneybrook St) behind a young lady with a flaming red ponytail. [[http://runkeeper.com/user/zhurnaly/activity/364851248|Runkeeper]] inexplicably pauses when the iPhone takes a photo and so misses the first 4+ miles to Stephanie's home; [[http://connect.garmin.com/modern/activity/511006537|Garmin]] records the entire route.<br />&gt; //**^z**//  - 2014-06-23</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057690

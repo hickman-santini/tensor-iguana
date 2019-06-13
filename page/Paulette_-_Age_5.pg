@@ -1,0 +1,23 @@
+blocks: <p><img class="url http" src="http://zhurnaly.com/images/Paulette_Dickerson_age_5.jpg" alt="http://zhurnaly.com/images/Paulette_Dickerson_age_5.jpg" /></p><p>... a sweet photo of DW from a few years ago!</p><p><em><strong>^z</strong></em> - 2015-10-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: http://zhurnaly.com/images/Paulette_Dickerson_age_5.jpg
+	
+	... a sweet photo of DW from a few years ago!
+	
+	//**^z**// - 2015-10-06
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">http://zhurnaly.com/images/Paulette_Dickerson_age_5.jpg<br />&gt; ... a sweet photo of DW from a few years ago!<br />&gt; //**^z**// - 2015-10-06</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057688

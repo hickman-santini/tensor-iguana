@@ -1,0 +1,24 @@
+flags: 0
+blocks: <p><h3>3.1 miles @ ~7.7 min/mi</h3></p><p>"Mulberries!" speedy Pete Darmody tells me, revealing his secret. "Maybe I'll write a book about them!" I'm early for this morning's humid 5k <a class="url http outside" href="http://mcrrc.org">MCRRC</a> race on the CCT, so I do a warm-up jog to loosen my stiff right knee. Mical Honigfort and Lorrin Harvey chat with me and are humorously evasive about their target paces. They talk more freely about their young sons, respectively Erik and Eddie, who are both doing great. <em>Congratulations!</em></p><p>It's a multi-wave chip-timed out-and-back run today, with hundreds of participants, and quite a few are overly optimistic. I set off briskly and weave to pass people. The course is downhill out, uphill back. Splits on my watch say 7:15 + 7:50 for the first two miles. The final ~1.1 mile segment goes by in 8:35 (= ~7:50 min/mi pace). Official total time for me is <a class="url http outside" href="http://www.mcrrc.org/racing/2010/20100606CapitalCrescent5km.htm">23:38</a>, maybe a minute slower than I had fantasized. Apparently long runs on Friday and Saturday aren't the best way to prepare for a short fast race on Sunday!</p><p><em><strong>^z</strong></em> - 2010-06-16</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "Mulberries!" speedy Pete Darmody tells me, revealing his secret. "Maybe I'll write a book about them!" I'm early for this morning's humid 5k [[http://mcrrc.org|MCRRC]] race on the CCT, so I do a warm-up jog to loosen my stiff right knee. Mical Honigfort and Lorrin Harvey chat with me and are humorously evasive about their target paces. They talk more freely about their young sons, respectively Erik and Eddie, who are both doing great.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "Mulberries!" speedy Pete Darmody tells me, revealing his secret. "Maybe I'll write a book about them!" I'm early for this morning's humid 5k [[http://mcrrc.org|MCRRC]] race on the CCT, so I do a warm-up jog to loosen my stiff right knee. Mical Honigfort and Lorrin Harvey chat with me and are humorously evasive about their target paces. They talk more freely about their young sons, respectively Erik and Eddie, who are both doing great. <strong class="changes">//Congratulations!//</strong></p></div>
+ip: 141.156.147.224
+ts: 1276680641
+minor: 1
+host: pool-141-156-147-224.res.east.verizon.net
+username: zz
+revision: 3
+diff-major: 
+summary: tweaks 2
+languages: 
+text: === 3.1 miles @ ~7.7 min/mi
+	
+	"Mulberries!" speedy Pete Darmody tells me, revealing his secret. "Maybe I'll write a book about them!" I'm early for this morning's humid 5k [[http://mcrrc.org|MCRRC]] race on the CCT, so I do a warm-up jog to loosen my stiff right knee. Mical Honigfort and Lorrin Harvey chat with me and are humorously evasive about their target paces. They talk more freely about their young sons, respectively Erik and Eddie, who are both doing great. //Congratulations!//
+	
+	It's a multi-wave chip-timed out-and-back run today, with hundreds of participants, and quite a few are overly optimistic. I set off briskly and weave to pass people. The course is downhill out, uphill back. Splits on my watch say 7:15 + 7:50 for the first two miles. The final ~1.1 mile segment goes by in 8:35 (= ~7:50 min/mi pace). Official total time for me is [[http://www.mcrrc.org/racing/2010/20100606CapitalCrescent5km.htm|23:38]], maybe a minute slower than I had fantasized. Apparently long runs on Friday and Saturday aren't the best way to prepare for a short fast race on Sunday!
+	
+	//**^z**// - 2010-06-16
+	
+lastmajor: 1
+keep-ts: 1276680641

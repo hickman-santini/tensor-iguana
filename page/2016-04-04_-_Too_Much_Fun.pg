@@ -1,0 +1,23 @@
+blocks: <h3>~6.3 miles @ ~12.2 min/mi</h3><p>"Let's run into the sunrise!" Kristin suggests, as the Dawn Patrol trots along Leesburg Pike toward a thin crescent moon low above the coral-peach horizon. So we abandon prior plans and continue eastward. And it just keeps getting better! We catch up on news (Kerry is back from visiting friends) and share the peaceful morning. In a back yard on Haycock Rd a black-and-white dog stands on hind legs and leaps to play with a dangling toy. Kids awaiting the school bus step aside for us to pass. A woman emerging from her apartment catches us laughing and smiles. "You're all having too much fun!" she says.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/762075233">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.137
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.3 miles @ ~12.2 min/mi
+	
+	"Let's run into the sunrise!" Kristin suggests, as the Dawn Patrol trots along Leesburg Pike toward a thin crescent moon low above the coral-peach horizon. So we abandon prior plans and continue eastward. And it just keeps getting better! We catch up on news (Kerry is back from visiting friends) and share the peaceful morning. In a back yard on Haycock Rd a black-and-white dog stands on hind legs and leaps to play with a dangling toy. Kids awaiting the school bus step aside for us to pass. A woman emerging from her apartment catches us laughing and smiles. "You're all having too much fun!" she says.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/762075233|trackfile]])// - //**^z**// - 2016-04-26
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.3 miles @ ~12.2 min/mi<br />&gt; "Let's run into the sunrise!" Kristin suggests, as the Dawn Patrol trots along Leesburg Pike toward a thin crescent moon low above the coral-peach horizon. So we abandon prior plans and continue eastward. And it just keeps getting better! We catch up on news (Kerry is back from visiting friends) and share the peaceful morning. In a back yard on Haycock Rd a black-and-white dog stands on hind legs and leaps to play with a dangling toy. Kids awaiting the school bus step aside for us to pass. A woman emerging from her apartment catches us laughing and smiles. "You're all having too much fun!" she says.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/762075233|trackfile]])// - //**^z**// - 2016-04-26</strong></p></div>
+flags: 0
+ts: 1528057681
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057681

@@ -1,0 +1,25 @@
+blocks: <h3>~4.0 miles @ ~11.9 min/mi</h3><p>"Nothing Special!" A dawn run around Dr Kerry's extended 'hood is uneventful, an opportunity for quiet conversation and peaceful musings about work, life, and progress. Mansions under construction inch toward completion ... road and pipeline workers emerge from trucks and gather tools ... two Pok&eacute;mon eggs hatch ... plans for the future slowly mature, and perhaps evolve.</p><p>We reverse a route oft taken and enjoy climbs that become descents. Kristin, chained to her desk all day finishing a priority deliverable, texts to share sunrise beauty with us. Reply: "<strong>TY! HILL!!</strong>".</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/837472752">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-08-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.105
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.0 miles @ ~11.9 min/mi
+	
+	"Nothing Special!" A dawn run around Dr Kerry's extended 'hood is uneventful, an opportunity for quiet conversation and peaceful musings about work, life, and progress. Mansions under construction inch toward completion ... road and pipeline workers emerge from trucks and gather tools ... two Pok&eacute;mon eggs hatch ... plans for the future slowly mature, and perhaps evolve.
+	
+	We reverse a route oft taken and enjoy climbs that become descents. Kristin, chained to her desk all day finishing a priority deliverable, texts to share sunrise beauty with us. Reply: "**TY! HILL!!**".
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/837472752|trackfile]])// - //**^z**// - 2016-08-26
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.0 miles @ ~11.9 min/mi<br />&gt; "Nothing Special!" A dawn run around Dr Kerry's extended 'hood is uneventful, an opportunity for quiet conversation and peaceful musings about work, life, and progress. Mansions under construction inch toward completion ... road and pipeline workers emerge from trucks and gather tools ... two Pok&amp;eacute;mon eggs hatch ... plans for the future slowly mature, and perhaps evolve.<br />&gt; We reverse a route oft taken and enjoy climbs that become descents. Kristin, chained to her desk all day finishing a priority deliverable, texts to share sunrise beauty with us. Reply: "**TY! HILL!!**".<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/837472752|trackfile]])// - //**^z**// - 2016-08-26</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057700

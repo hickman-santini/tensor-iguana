@@ -1,0 +1,25 @@
+blocks: <h3>~17.8 mi @ ~13.9 min/mi</h3><p>"America is an idea, not a race!" US Senator Lindsay Graham says recently. As we ramble down Beach Drive into Rock Creek Park, Barry &amp; Kerry &amp; Rebecca chat about politics, TV series "marathons", past &amp; future running plans, local trails, and the Disneyworld "Dopey" series of events. Temps plunge into the low 30's, with gusty north winds. Kerry &amp; Barry visit the northernmost point of the DC diamond to inspect the boundary stone placed there in 1792. Stephanie brings foster dog Gunther who runs ahead with her, Ken, and Emaad.</p><p>"They said a Wendy's Frosty is a healthy meal, so I drank a LOT of them!" and "When the vet told me that eating rice wouldn't give my dog enough calories, I figured it didn't have too many calories for me either!" We analyze dietary myths and legends, then turn to current speech-recognition technology. How much of what is said near Alexa, Siri, etc. gets sent to marketers? The answer could be scary.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1107883495">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-02-10</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.84.151
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~17.8 mi @ ~13.9 min/mi
+	
+	"America is an idea, not a race!" US Senator Lindsay Graham says recently. As we ramble down Beach Drive into Rock Creek Park, Barry & Kerry & Rebecca chat about politics, TV series "marathons", past & future running plans, local trails, and the Disneyworld "Dopey" series of events. Temps plunge into the low 30's, with gusty north winds. Kerry & Barry visit the northernmost point of the DC diamond to inspect the boundary stone placed there in 1792. Stephanie brings foster dog Gunther who runs ahead with her, Ken, and Emaad.
+	
+	"They said a Wendy's Frosty is a healthy meal, so I drank a LOT of them!" and "When the vet told me that eating rice wouldn't give my dog enough calories, I figured it didn't have too many calories for me either!" We analyze dietary myths and legends, then turn to current speech-recognition technology. How much of what is said near Alexa, Siri, etc. gets sent to marketers? The answer could be scary.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1107883495|trackfile]])// - //**^z**// - 2018-02-10
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~17.8 mi @ ~13.9 min/mi<br />&gt; "America is an idea, not a race!" US Senator Lindsay Graham says recently. As we ramble down Beach Drive into Rock Creek Park, Barry &amp; Kerry &amp; Rebecca chat about politics, TV series "marathons", past &amp; future running plans, local trails, and the Disneyworld "Dopey" series of events. Temps plunge into the low 30's, with gusty north winds. Kerry &amp; Barry visit the northernmost point of the DC diamond to inspect the boundary stone placed there in 1792. Stephanie brings foster dog Gunther who runs ahead with her, Ken, and Emaad.<br />&gt; "They said a Wendy's Frosty is a healthy meal, so I drank a LOT of them!" and "When the vet told me that eating rice wouldn't give my dog enough calories, I figured it didn't have too many calories for me either!" We analyze dietary myths and legends, then turn to current speech-recognition technology. How much of what is said near Alexa, Siri, etc. gets sent to marketers? The answer could be scary.<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1107883495|trackfile]])// - //**^z**// - 2018-02-10</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057700

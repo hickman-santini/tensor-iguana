@@ -1,0 +1,25 @@
+blocks: <h3>~8.4 miles @ ~12.6 min/mi</h3><p>"It's been a while since we ...", begins Dr Kristin.</p><p>"Hold it right there! You <strong>KNOW</strong> that when you say that the reply <strong>HAS</strong> to be, 'I'm in!'." So begins a Dawn Patrol trek, as sprinkles turn to drizzle and then full-up rain showers. Monday morning streets are quiet, almost empty. A soggy fox crosses Magarity Road just ahead of us. Brick sidewalks are slippery-slick, coated with fallen flowers and the occasional cicada husk from currently-emerging Brood X. A store in Falls Church features a big display of selfie sticks in the front window. Pastel wall art on a Broad Street yoga studio offers a mystical vision.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/987047523">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-06-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.81
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.4 miles @ ~12.6 min/mi
+	
+	"It's been a while since we ...", begins Dr Kristin.
+	
+	"Hold it right there! You **KNOW** that when you say that the reply **HAS** to be, 'I'm in!'." So begins a Dawn Patrol trek, as sprinkles turn to drizzle and then full-up rain showers. Monday morning streets are quiet, almost empty. A soggy fox crosses Magarity Road just ahead of us. Brick sidewalks are slippery-slick, coated with fallen flowers and the occasional cicada husk from currently-emerging Brood X. A store in Falls Church features a big display of selfie sticks in the front window. Pastel wall art on a Broad Street yoga studio offers a mystical vision.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/987047523|trackfile]])// - //**^z**// - 2017-06-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.4 miles @ ~12.6 min/mi<br />&gt; "It's been a while since we ...", begins Dr Kristin.<br />&gt; "Hold it right there! You **KNOW** that when you say that the reply **HAS** to be, 'I'm in!'." So begins a Dawn Patrol trek, as sprinkles turn to drizzle and then full-up rain showers. Monday morning streets are quiet, almost empty. A soggy fox crosses Magarity Road just ahead of us. Brick sidewalks are slippery-slick, coated with fallen flowers and the occasional cicada husk from currently-emerging Brood X. A store in Falls Church features a big display of selfie sticks in the front window. Pastel wall art on a Broad Street yoga studio offers a mystical vision.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/987047523|trackfile]])// - //**^z**// - 2017-06-19</strong></p></div>
+flags: 0
+ts: 1528057693
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057693

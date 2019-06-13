@@ -1,0 +1,23 @@
+blocks: <h3>~11.1 miles @ ~12.2 min/mi</h3><p>"Nothing can stop us!" Kristin cheerfully quotes a children's book that she has read aloud far too many times in recent years. It's also the perfect sentiment on a beautiful brisk morning. A sleek red fox trots across Westmoreland St just in front of us. Stiff breezes make us say "Brrrrr!" whenever we run northwest. Quiet stretching fills the hot yoga studio picture window, and although the main water fountain on the W&amp;OD Trail near Route 7 is turned off, the dog-water tap on the side works. Pink-lined clouds decorate the sunrise.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/753918737">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.93.243
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~11.1 miles @ ~12.2 min/mi
+	
+	"Nothing can stop us!" Kristin cheerfully quotes a children's book that she has read aloud far too many times in recent years. It's also the perfect sentiment on a beautiful brisk morning. A sleek red fox trots across Westmoreland St just in front of us. Stiff breezes make us say "Brrrrr!" whenever we run northwest. Quiet stretching fills the hot yoga studio picture window, and although the main water fountain on the W&OD Trail near Route 7 is turned off, the dog-water tap on the side works. Pink-lined clouds decorate the sunrise.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/753918737|trackfile]])// - //**^z**// - 2016-04-14
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~11.1 miles @ ~12.2 min/mi<br />&gt; "Nothing can stop us!" Kristin cheerfully quotes a children's book that she has read aloud far too many times in recent years. It's also the perfect sentiment on a beautiful brisk morning. A sleek red fox trots across Westmoreland St just in front of us. Stiff breezes make us say "Brrrrr!" whenever we run northwest. Quiet stretching fills the hot yoga studio picture window, and although the main water fountain on the W&amp;OD Trail near Route 7 is turned off, the dog-water tap on the side works. Pink-lined clouds decorate the sunrise.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/753918737|trackfile]])// - //**^z**// - 2016-04-14</strong></p></div>
+flags: 0
+ts: 1528057713
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057713

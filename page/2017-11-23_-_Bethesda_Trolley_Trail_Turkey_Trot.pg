@@ -1,0 +1,25 @@
+blocks: <h3>~6.3 miles @ ~13.7 min/mi</h3><p>"I made a broom out of a pine tree branch, and my son won a prize for best costume!" Evergreens along Edson Lane remind Gayatri of a Halloween triumph by her eldest a few decades ago. Hoarfrost glitters on parked cars. As the sun rises we pause for selfies after a 1:45 lap around the Tilden Middle School track. The Trolley Trail leads us to the Bethesda YMCA, where runners warm up for today's 10k Turkey Trot and the announcer repeats, "Hello test" on the loudspeakers.</p><p>"Look, there's Anny!" Gayatri spies our friend. We pause to give her fist-bumps of encouragement for the race. And as our loop almost closes we meet "Fast Harold" followed by Ken, Rebecca, Barry, Emaad, and Jennifer heading toward the starting line. Run like the wind, comrades!</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1089444358">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-12-18</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.40
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.3 miles @ ~13.7 min/mi
+	
+	"I made a broom out of a pine tree branch, and my son won a prize for best costume!" Evergreens along Edson Lane remind Gayatri of a Halloween triumph by her eldest a few decades ago. Hoarfrost glitters on parked cars. As the sun rises we pause for selfies after a 1:45 lap around the Tilden Middle School track. The Trolley Trail leads us to the Bethesda YMCA, where runners warm up for today's 10k Turkey Trot and the announcer repeats, "Hello test" on the loudspeakers.
+	
+	"Look, there's Anny!" Gayatri spies our friend. We pause to give her fist-bumps of encouragement for the race. And as our loop almost closes we meet "Fast Harold" followed by Ken, Rebecca, Barry, Emaad, and Jennifer heading toward the starting line. Run like the wind, comrades!
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1089444358|trackfile]])// - //**^z**// - 2017-12-18
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.3 miles @ ~13.7 min/mi<br />&gt; "I made a broom out of a pine tree branch, and my son won a prize for best costume!" Evergreens along Edson Lane remind Gayatri of a Halloween triumph by her eldest a few decades ago. Hoarfrost glitters on parked cars. As the sun rises we pause for selfies after a 1:45 lap around the Tilden Middle School track. The Trolley Trail leads us to the Bethesda YMCA, where runners warm up for today's 10k Turkey Trot and the announcer repeats, "Hello test" on the loudspeakers.<br />&gt; "Look, there's Anny!" Gayatri spies our friend. We pause to give her fist-bumps of encouragement for the race. And as our loop almost closes we meet "Fast Harold" followed by Ken, Rebecca, Barry, Emaad, and Jennifer heading toward the starting line. Run like the wind, comrades!<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1089444358|trackfile]])// - //**^z**// - 2017-12-18</strong></p></div>
+flags: 0
+ts: 1528057712
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057712

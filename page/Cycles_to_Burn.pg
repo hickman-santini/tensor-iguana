@@ -1,0 +1,21 @@
+blocks: <p>At the end of a long slow run a month ago I'm fretting and criticizing myself about a variety of old issues &mdash; mistakes I've made, unskillful behavior, over-attachment and clinging to expectations, inadvertent brain glitches, obsessions, persistent complaints, etc., etc. Dear friend Stephanie suggests that I cut myself some slack, and observes kindly that my brain may be a bit over-active: "You have more cycles to burn than most people!" <em>Hmmmm ... thanks, Dr Fonda!</em></p><p><em><strong>^z</strong></em> - 2014-06-08</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: At the end of a long slow run a month ago I'm fretting and criticizing myself about a variety of old issues &mdash; mistakes I've made, unskillful behavior, over-attachment and clinging to expectations, inadvertent brain glitches, obsessions, persistent complaints, etc., etc. Dear friend Stephanie suggests that I cut myself some slack, and observes kindly that my brain may be a bit over-active: "You have more cycles to burn than most people!" //Hmmmm ... thanks, Dr Fonda!//
+	
+	//**^z**// - 2014-06-08
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">At the end of a long slow run a month ago I'm fretting and criticizing myself about a variety of old issues &amp;mdash; mistakes I've made, unskillful behavior, over-attachment and clinging to expectations, inadvertent brain glitches, obsessions, persistent complaints, etc., etc. Dear friend Stephanie suggests that I cut myself some slack, and observes kindly that my brain may be a bit over-active: "You have more cycles to burn than most people!" //Hmmmm ... thanks, Dr Fonda!//<br />&gt; //**^z**// - 2014-06-08</strong></p></div>
+flags: 0
+ts: 1528057682
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057682

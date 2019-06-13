@@ -1,0 +1,23 @@
+blocks: <h3>~3 miles @ ~10.1 min/mi</h3><p>Kristin wins a free cup of coffee with a sub-10 final mile! The full moon sets behind thickening clouds as we start at 5:23am; the temperature is 30&deg;F. Hard candies rattle in my windbreaker pocket. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/152351993">Runkeeper</a> and <a class="url http outside" href="http://connect.garmin.com/activity/278059716">Garmin</a> concur on pace and splits of roughly 10.5 + 10.1 + 9.7 min/mi.</p><p><em><strong>^z</strong></em> - 2013-03-16</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.56
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3 miles @ ~10.1 min/mi
+	
+	Kristin wins a free cup of coffee with a sub-10 final mile! The full moon sets behind thickening clouds as we start at 5:23am; the temperature is 30&deg;F. Hard candies rattle in my windbreaker pocket. [[http://runkeeper.com/user/zhurnaly/activity/152351993|Runkeeper]] and [[http://connect.garmin.com/activity/278059716|Garmin]] concur on pace and splits of roughly 10.5 + 10.1 + 9.7 min/mi. 
+	
+	//**^z**// - 2013-03-16
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3 miles @ ~10.1 min/mi<br />&gt; Kristin wins a free cup of coffee with a sub-10 final mile! The full moon sets behind thickening clouds as we start at 5:23am; the temperature is 30&amp;deg;F. Hard candies rattle in my windbreaker pocket. [[http://runkeeper.com/user/zhurnaly/activity/152351993|Runkeeper]] and [[http://connect.garmin.com/activity/278059716|Garmin]] concur on pace and splits of roughly 10.5 + 10.1 + 9.7 min/mi. <br />&gt; //**^z**// - 2013-03-16</strong></p></div>
+flags: 0
+ts: 1528057710
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057710

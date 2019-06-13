@@ -1,0 +1,27 @@
+blocks: <h3>~9.1 miles @ ~13.0 min/mi</h3><p>"Is my derri&egrave;re flashing?"</p><p>"Uh, yes &mdash; if you mean, is your red blinky tail light working!" <em>&lt;blushes&gt;</em> The Dawn Patrol gathers at 0550 to ramble, no plan whatsoever in mind. It's one of the Latest Sunrise of the Year days, with clouds blanketing the sky. Kristin's feet feel frisky and lead us at a brisk pace along wet sidewalks. Cait reports on a recent wedding <em>(hers! &mdash; Best Wishes!)</em>. Kerry's left knee has been twingy, but the new brace she's experimenting with seems to do magic.</p><p>"How did we get here?" we ask, after an hour, and pause to cross I-66 offramps. "Is it ok to do 7 miles? How about 8? Or 9?" The hot yoga studio picture-window doesn't slow <em>(most of)</em> us down <em>(much)</em>. We finish happy.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/915025704">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-01-30</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 70.117.106.239
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.1 miles @ ~13.0 min/mi
+	
+	"Is my derri&egrave;re flashing?"
+	
+	"Uh, yes &mdash; if you mean, is your red blinky tail light working!" //<blushes>// The Dawn Patrol gathers at 0550 to ramble, no plan whatsoever in mind. It's one of the Latest Sunrise of the Year days, with clouds blanketing the sky. Kristin's feet feel frisky and lead us at a brisk pace along wet sidewalks. Cait reports on a recent wedding //(hers! &mdash; Best Wishes!)//. Kerry's left knee has been twingy, but the new brace she's experimenting with seems to do magic.
+	
+	"How did we get here?" we ask, after an hour, and pause to cross I-66 offramps. "Is it ok to do 7 miles? How about 8? Or 9?" The hot yoga studio picture-window doesn't slow //(most of)// us down //(much)//. We finish happy.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/915025704|trackfile]])// - //**^z**// - 2017-01-30
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.1 miles @ ~13.0 min/mi<br />&gt; "Is my derri&amp;egrave;re flashing?"<br />&gt; "Uh, yes &amp;mdash; if you mean, is your red blinky tail light working!" //&lt;blushes&gt;// The Dawn Patrol gathers at 0550 to ramble, no plan whatsoever in mind. It's one of the Latest Sunrise of the Year days, with clouds blanketing the sky. Kristin's feet feel frisky and lead us at a brisk pace along wet sidewalks. Cait reports on a recent wedding //(hers! &amp;mdash; Best Wishes!)//. Kerry's left knee has been twingy, but the new brace she's experimenting with seems to do magic.<br />&gt; "How did we get here?" we ask, after an hour, and pause to cross I-66 offramps. "Is it ok to do 7 miles? How about 8? Or 9?" The hot yoga studio picture-window doesn't slow //(most of)// us down //(much)//. We finish happy.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/915025704|trackfile]])// - //**^z**// - 2017-01-30</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057699

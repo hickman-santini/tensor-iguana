@@ -1,0 +1,25 @@
+blocks: <p>A tiny triumph yesterday evening, recorded just because it had a happy ending as well as taught a wee lesson in systematic thinking. Situation: water on the basement floor at the house where my sons live. Even though it occurs during torrential rain outside, one DS soon identifies the air conditioner as the likely culprit. Apparently the part where humidity condenses and drips down has overflowed. The whole system suddenly stops. But why?</p><p>I show up late the next day, with no tools except a curious attitude and a mental model of how A/C's sometimes work, or fail. All circuit breakers look normal. A test of an outlet on the side of the unit, where a small pump is plugged in to take water away, shows power.</p><p>Is there a safety cut-off somewhere that has triggered? Yep &mdash; or at least, there on the front of the unit is a mysterious device with a button sticking up and a U-shaped tube with a funny long-handled brush clipped to it. <em>Hmmmm!</em> Loosen the brush and push it through the U-shaped tube: a bunch of gunk comes loose, the button goes down, and soon the air conditioner decides to start running again. Look a little farther, and see a sticker nearby with instructions on how the unit should be cleaned every few months, "especially in the summer". Problem apparently solved, without the need to call a repairman &mdash; <em>yay!</em></p><p><em><strong>^z</strong></em> - 2014-07-17</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.1
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: A tiny triumph yesterday evening, recorded just because it had a happy ending as well as taught a wee lesson in systematic thinking. Situation: water on the basement floor at the house where my sons live. Even though it occurs during torrential rain outside, one DS soon identifies the air conditioner as the likely culprit. Apparently the part where humidity condenses and drips down has overflowed. The whole system suddenly stops.  But why?
+	
+	I show up late the next day, with no tools except a curious attitude and a mental model of how A/C's sometimes work, or fail. All circuit breakers look normal. A test of an outlet on the side of the unit, where a small pump is plugged in to take water away, shows power.
+	
+	Is there a safety cut-off somewhere that has triggered? Yep &mdash; or at least, there on the front of the unit is a mysterious device with a button sticking up and a U-shaped tube with a funny long-handled brush clipped to it. //Hmmmm!// Loosen the brush and push it through the U-shaped tube: a bunch of gunk comes loose, the button goes down, and soon the air conditioner decides to start running again. Look a little farther, and see a sticker nearby with instructions on how the unit should be cleaned every few months, "especially in the summer". Problem apparently solved, without the need to call a repairman &mdash; //yay!//
+	
+	//**^z**// - 2014-07-17
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">A tiny triumph yesterday evening, recorded just because it had a happy ending as well as taught a wee lesson in systematic thinking. Situation: water on the basement floor at the house where my sons live. Even though it occurs during torrential rain outside, one DS soon identifies the air conditioner as the likely culprit. Apparently the part where humidity condenses and drips down has overflowed. The whole system suddenly stops.  But why?<br />&gt; I show up late the next day, with no tools except a curious attitude and a mental model of how A/C's sometimes work, or fail. All circuit breakers look normal. A test of an outlet on the side of the unit, where a small pump is plugged in to take water away, shows power.<br />&gt; Is there a safety cut-off somewhere that has triggered? Yep &amp;mdash; or at least, there on the front of the unit is a mysterious device with a button sticking up and a U-shaped tube with a funny long-handled brush clipped to it. //Hmmmm!// Loosen the brush and push it through the U-shaped tube: a bunch of gunk comes loose, the button goes down, and soon the air conditioner decides to start running again. Look a little farther, and see a sticker nearby with instructions on how the unit should be cleaned every few months, "especially in the summer". Problem apparently solved, without the need to call a repairman &amp;mdash; //yay!//<br />&gt; //**^z**// - 2014-07-17</strong></p></div>
+flags: 0
+ts: 1528057711
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057711

@@ -1,0 +1,26 @@
+blocks: <h3>~9.0 miles @ ~9.7 min/mi</h3><table class="user"><tr><td align="right">"Was that Meb Keflezighi?" I ask Dr Amber as we run across the 14th St Bridge into DC. Heading the opposite way are three fast runners, one of whom looks rather like the elite American Olympian, in town for tomorrow's Cherry Blossom 10 mile race. When we see the trio again a few miles later, cooldown-stretching at Graveley Point, Amber urges me to work up my courage and ask. They deny it, but I cling to the fantasy. "Maybe he's traveling incognito!"<br /><br />Raindrops wet our faces when we set out, zig along Four Mile Run, then zag to join the Mount Vernon Trail. We pause mid-course for selfies under the dome of the Jefferson Memorial <em>(Tom photo-bombs us).</em> Amber goes slower than her usual pace, for which I thank her every mile. Tulips blossom at National Airport, so bright an alizarin-crimson that they look artificial. Post-trek the Alexandria farmers' market provides yoghurt, scones, and cookies.</td><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Jefferson_Memorial_Amber_z_2016-04-02.jpg" alt="http://zhurnaly.com/images/running/Jefferson_Memorial_Amber_z_2016-04-02.jpg" /></td></tr></table><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/760832972">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-04-23</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.1
+summary: \\
+diff-major: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.0 miles @ ~9.7 min/mi<br />&gt; | "Was that Meb Keflezighi?" I ask Dr Amber as we run across the 14th St Bridge into DC. Heading the opposite way are three fast runners, one of whom looks rather like the elite American Olympian, in town for tomorrow's Cherry Blossom 10 mile race. When we see the trio again a few miles later, cooldown-stretching at Graveley Point, Amber urges me to work up my courage and ask. They deny it, but I cling to the fantasy. "Maybe he's traveling incognito!"<br />&gt; Raindrops wet our faces when we set out, zig along Four Mile Run, then zag to join the Mount Vernon Trail. We pause mid-course for selfies under the dome of the Jefferson Memorial //(Tom photo-bombs us).// Amber goes slower than her usual pace, for which I thank her every mile. Tulips blossom at National Airport, so bright an alizarin-crimson that they look artificial. Post-trek the Alexandria farmers' market provides yoghurt, scones, and cookies. | http://zhurnaly.com/images/running/Jefferson_Memorial_Amber_z_2016-04-02.jpg |<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/760832972|trackfile]])// - //**^z**// - 2016-04-23</strong></p></div>
+languages: 
+text: === ~9.0 miles @ ~9.7 min/mi
+	
+	| "Was that Meb Keflezighi?" I ask Dr Amber as we run across the 14th St Bridge into DC. Heading the opposite way are three fast runners, one of whom looks rather like the elite American Olympian, in town for tomorrow's Cherry Blossom 10 mile race. When we see the trio again a few miles later, cooldown-stretching at Graveley Point, Amber urges me to work up my courage and ask. They deny it, but I cling to the fantasy. "Maybe he's traveling incognito!"
+	\\
+	Raindrops wet our faces when we set out, zig along Four Mile Run, then zag to join the Mount Vernon Trail. We pause mid-course for selfies under the dome of the Jefferson Memorial //(Tom photo-bombs us).// Amber goes slower than her usual pace, for which I thank her every mile. Tulips blossom at National Airport, so bright an alizarin-crimson that they look artificial. Post-trek the Alexandria farmers' market provides yoghurt, scones, and cookies. | http://zhurnaly.com/images/running/Jefferson_Memorial_Amber_z_2016-04-02.jpg |
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/760832972|trackfile]])// - //**^z**// - 2016-04-23
+	
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div>
+flags: 0
+ts: 1551444295
+minor: 1
+host: 128.29.43.1
+username: z
+revision: 5
+keep-ts: 1551444295

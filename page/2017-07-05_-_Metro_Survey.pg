@@ -1,0 +1,22 @@
+blocks: <h3>~5.9 miles @ ~13.8 min/mi</h3><p>"Whoa!" A misoriented sprinkler suddenly spews a stream across the sidewalk and wets our shins as Dr Kristin and I trot along Idlywood Rd. Oppressive humidity turns into a few drops of light rain. Bunny count in the 'hood is 2, both spied on the path in Pimmit View Park. Looking down from an overpass we speculate about the function of extra rails visible on the Metro tracks between the main rails <em>(guard rails to prevent or limit a derailment?)</em>.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1012701178">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-07-31</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.193
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.9 miles @ ~13.8 min/mi
+	
+	"Whoa!" A misoriented sprinkler suddenly spews a stream across the sidewalk and wets our shins as Dr Kristin and I trot along Idlywood Rd. Oppressive humidity turns into a few drops of light rain. Bunny count in the 'hood is 2, both spied on the path in Pimmit View Park. Looking down from an overpass we speculate about the function of extra rails visible on the Metro tracks between the main rails //(guard rails to prevent or limit a derailment?)//.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1012701178|trackfile]])// - //**^z**// - 2017-07-31
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~5.9 miles @ ~13.8 min/mi<br />&gt; "Whoa!" A misoriented sprinkler suddenly spews a stream across the sidewalk and wets our shins as Dr Kristin and I trot along Idlywood Rd. Oppressive humidity turns into a few drops of light rain. Bunny count in the 'hood is 2, both spied on the path in Pimmit View Park. Looking down from an overpass we speculate about the function of extra rails visible on the Metro tracks between the main rails //(guard rails to prevent or limit a derailment?)//.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1012701178|trackfile]])// - //**^z**// - 2017-07-31</p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057689

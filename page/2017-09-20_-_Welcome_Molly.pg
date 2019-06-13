@@ -1,0 +1,25 @@
+blocks: <h3>~9.7 miles @ ~12.7 min/mi</h3><p>"Cold water makes me happy!" says Kristin when we pause to sip from the fountain at the end of our run. Molly Hickman dips a toe into the Dawn Patrol ocean and joins us at 0545 for a 2.8+ mile loop around Pimmit Hills. Hawk-eyed Kristin spies a rabbit in her flashlight's beam; I saw a fox as I drove in. After Molly is safely back to our starting point from her initial experiment, the Patrol continues into downtown McLean to revisit Waggaman Circle. A couple out for a walk gives us directions <em>(and advises, "It's <strong>hilly</strong>!")</em> as we enter and greets us again as we emerge.</p><p>"Look &mdash; two candles and a plate of food on a table outside the front door!" Rosh Hashanah Eve begins at sunset today. Perhaps it's an early celebration tradition? "Shanah Tovah Umetukah" to us all!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1056914308">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-10-19</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.192
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~9.7 miles @ ~12.7 min/mi
+	
+	"Cold water makes me happy!" says Kristin when we pause to sip from the fountain at the end of our run. Molly Hickman dips a toe into the Dawn Patrol ocean and joins us at 0545 for a 2.8+ mile loop around Pimmit Hills. Hawk-eyed Kristin spies a rabbit in her flashlight's beam; I saw a fox as I drove in. After Molly is safely back to our starting point from her initial experiment, the Patrol continues into downtown McLean to revisit Waggaman Circle. A couple out for a walk gives us directions //(and advises, "It's **hilly**!")// as we enter and greets us again as we emerge.
+	
+	"Look &mdash; two candles and a plate of food on a table outside the front door!" Rosh Hashanah Eve begins at sunset today. Perhaps it's an early celebration tradition? "Shanah Tovah Umetukah" to us all!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1056914308|trackfile]])// - //**^z**// - 2017-10-19
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~9.7 miles @ ~12.7 min/mi<br />&gt; "Cold water makes me happy!" says Kristin when we pause to sip from the fountain at the end of our run. Molly Hickman dips a toe into the Dawn Patrol ocean and joins us at 0545 for a 2.8+ mile loop around Pimmit Hills. Hawk-eyed Kristin spies a rabbit in her flashlight's beam; I saw a fox as I drove in. After Molly is safely back to our starting point from her initial experiment, the Patrol continues into downtown McLean to revisit Waggaman Circle. A couple out for a walk gives us directions //(and advises, "It's **hilly**!")// as we enter and greets us again as we emerge.<br />&gt; "Look &amp;mdash; two candles and a plate of food on a table outside the front door!" Rosh Hashanah Eve begins at sunset today. Perhaps it's an early celebration tradition? "Shanah Tovah Umetukah" to us all!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1056914308|trackfile]])// - //**^z**// - 2017-10-19</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057700

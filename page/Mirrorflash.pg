@@ -1,0 +1,28 @@
+blocks: <table class="user"><tr><td align="right">I envision my mind as brilliant<br />A sun, a supernova<br />And most of the time, I hide<br />To keep from blinding others<br />Or so I imagine<br />Yet could it be that<br />Huddled in my cave<br />I've already blinded myself?</td></tr></table><p><em><strong>^z</strong></em> - 2013-11-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | I envision my mind as brilliant
+	A sun, a supernova
+	And most of the time, I hide
+	To keep from blinding others
+	Or so I imagine
+	Yet could it be that
+	Huddled in my cave
+	I've already blinded myself? |
+	
+	//**^z**// - 2013-11-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| I envision my mind as brilliant<br />&gt; A sun, a supernova<br />&gt; And most of the time, I hide<br />&gt; To keep from blinding others<br />&gt; Or so I imagine<br />&gt; Yet could it be that<br />&gt; Huddled in my cave<br />&gt; I've already blinded myself? |<br />&gt; //**^z**// - 2013-11-03</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057690

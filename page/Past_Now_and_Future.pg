@@ -1,0 +1,50 @@
+flags: 0
+blocks: <table class="user"><tr><td align="right">Stuck in traffic, I mute the radio<br />And think how primitive my world will seem<br />To someone living a thousand years from now:<br />"They drove their own <strong>cars</strong>! They got <strong>sick</strong>!"<p>And then I wonder how our life today<br />Might have been imagined by people<br />A century, or ten centuries ago:<br />"Airships! Free clothes for all! No need to work!"</p><p>And how would it have felt, I ask, if one<br />Could see plains dark with herds of buffalo,<br />Meet Shakespeare drinking in a London pub,<br />Sail the Pacific on a tiny raft.</p><p>Maybe the future will marvel and be moved<br />At all we take for granted and ignore:<br />Great cities, peaceful protest marches,<br />Freeways through fields of corn, TV sitcoms.</p><p>And when a life is drawing to its close<br />What will one remember? Not the electronics,<br />Roller-coaster rides, engineered foods,<br />Income tax forms, or pop-up ads.</p><p>No, the memories will be eternal:<br />Moonrise; a lover's kiss; the wind in trees;<br />Taste of a fresh-picked berry; birth of a child;<br />Wading through a stream; and warmth of home.</p></td></tr></table><p><em><strong>^z</strong></em> - 2010-03-17</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; At all <strong class="changes">I</strong> take for granted and ignore:</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; At all <strong class="changes">we</strong> take for granted and ignore:</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; And when <strong class="changes">my</strong> life is drawing to its close<br />&lt; What will <strong class="changes">I</strong> remember? Not the electronics,</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; And when <strong class="changes">a</strong> life is drawing to its close<br />&gt; What will <strong class="changes">one</strong> remember? Not the electronics,</p></div>
+ip: 138.88.114.105
+ts: 1268815905
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 3
+diff-major: 
+summary: tweaks - 2
+languages: 
+text: | Stuck in traffic, I mute the radio
+	And think how primitive my world will seem
+	To someone living a thousand years from now:
+	"They drove their own **cars**! They got **sick**!"
+	
+	And then I wonder how our life today
+	Might have been imagined by people
+	A century, or ten centuries ago:
+	"Airships! Free clothes for all! No need to work!"
+	
+	And how would it have felt, I ask, if one
+	Could see plains dark with herds of buffalo,
+	Meet Shakespeare drinking in a London pub,
+	Sail the Pacific on a tiny raft.
+	
+	Maybe the future will marvel and be moved
+	At all we take for granted and ignore:
+	Great cities, peaceful protest marches,
+	Freeways through fields of corn, TV sitcoms.
+	
+	And when a life is drawing to its close
+	What will one remember? Not the electronics,
+	Roller-coaster rides, engineered foods,
+	Income tax forms, or pop-up ads.
+	
+	No, the memories will be eternal:
+	Moonrise; a lover's kiss; the wind in trees;
+	Taste of a fresh-picked berry; birth of a child;
+	Wading through a stream; and warmth of home. |
+	
+	//**^z**// - 2010-03-17
+	
+lastmajor: 1
+keep-ts: 1268815905

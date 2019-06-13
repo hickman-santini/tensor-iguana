@@ -1,0 +1,42 @@
+flags: 0
+blocks: <p>At a lecture I attended not long ago a psychologist talked about major personality characteristics and how they're measured. He offered his audience a chance to take the "Hogan Personality Inventory" and of course I couldn't resist. The results along its seven major dimensions are rather like a horoscope reading, with no major surprises and lots of ambiguity. <em>(Do I sound like a believer in modern psychology?)</em> The numbers are derived from a few hundred yes-no questions. My profile, sorted high-to-low:</p><ul><li>Very High<ul><li><strong>Learning Approach</strong> - enjoyment of academic activities, valuing of educational achievement <em>(a no-brainer, given my school background)</em></li></ul></li><li>High<ul><li><strong>Adjustment</strong> - confidence, calmness, self-esteem, stability under pressure <em>(probably not true, but it's what I try to be and maybe I answered the questions accordingly)</em></li><li><strong>Inquisitive</strong> - imagination, creativity, curiosity, interest in intellectual matters, high tolerance of complexity <em>(definitely ather thing I strive for)</em></li></ul></li><li>Average<ul><li><strong>Interpersonal Sensitivity</strong> - tact, perceptiveness, ability to maintain relationships <em>(yes, I need to work on this!)</em></li></ul></li><li>Low<ul><li><strong>Prudence</strong> - self-discipline, responsibility, conscientiousness <em>(yep, I procrastinate!)</em></li><li><strong>Sociability</strong> - extraversion, gregariousness, need for social interaction <em>(true &mdash; I don't like crowds)</em></li><li><strong>Ambition</strong> - initiative, competitiveness, and desire for leadership roles <em>(also right &mdash; it's part of my attempt to avoid responsibility)</em></li></ul></li></ul><p>And the shrink offered us another personality test, the Hogan Development Scale. More on that later ...</p><p><em><strong>^z</strong></em> - 2010-04-04</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; At a lecture I attended not long ago a psychologist talked about major personality characteristics and how they're measured. He offered his audience a chance to take the "Hogan Personality Inventory" and of course I <strong class="changes">bit</strong>. The results along its seven major dimensions are rather like a horoscope reading<strong class="changes">:</strong> no major surprises<strong class="changes">,</strong> lots of ambiguity. The numbers <strong class="changes">come</strong> from a few hundred yes-no questions. My profile, sorted high-to-low:</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; At a lecture I attended not long ago a psychologist talked about major personality characteristics and how they're measured. He offered his audience a chance to take the "Hogan Personality Inventory" and of course I <strong class="changes">couldn't resist</strong>. The results along its seven major dimensions are rather like a horoscope reading<strong class="changes">, with</strong> no major surprises <strong class="changes">and</strong> lots of ambiguity. <strong class="changes">//(Do I sound like a believer in modern psychology?)//</strong> The numbers <strong class="changes">are derived</strong> from a few hundred yes-no questions. My profile, sorted high-to-low:</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ** **Learning Approach** - enjoyment of academic activities, valuing educational achievement //(a no-brainer, given my school background)//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ** **Learning Approach** - enjoyment of academic activities, valuing <strong class="changes">of</strong> educational achievement //(a no-brainer, given my school background)//</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ** **Adjustment** - confidence, calmness, self-esteem, <strong class="changes">stable</strong> under pressure //(probably not true, but it's what I try to be and maybe I answered the questions accordingly)//<br />&lt; ** **Inquisitive** - imagination, creativity, curiosity, interest in intellectual matters, <strong class="changes">highly tolerant</strong> of complexity //(definitely ather thing I strive for)</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ** **Adjustment** - confidence, calmness, self-esteem, <strong class="changes">stability</strong> under pressure //(probably not true, but it's what I try to be and maybe I answered the questions accordingly)//<br />&gt; ** **Inquisitive** - imagination, creativity, curiosity, interest in intellectual matters, <strong class="changes">high tolerance</strong> of complexity //(definitely ather thing I strive for)</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ** **Interpersonal Sensitivity** - tact, perceptiveness, <strong class="changes">and</strong> ability to maintain relationships //(yes, I need to work on this<strong class="changes">)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ** **Interpersonal Sensitivity** - tact, perceptiveness, ability to maintain relationships //(yes, I need to work on this<strong class="changes">!)//</strong></p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; ** **Prudence** - self-discipline, responsibility <strong class="changes">and</strong> conscientiousness //(yep, I procrastinate!)//<br />&lt; ** **Sociability** - extraversion, <strong class="changes">gregarious</strong>, <strong class="changes">and</strong> need for social interaction //(true &amp;mdash; I don't like crowds)//<br />&lt; ** **Ambition** - initiative, competitiveness, and desire for leadership roles //(also <strong class="changes">true</strong> &amp;mdash; part of my attempt to avoid responsibility)//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; ** **Prudence** - self-discipline, responsibility<strong class="changes">,</strong> conscientiousness //(yep, I procrastinate!)//<br />&gt; ** **Sociability** - extraversion, <strong class="changes">gregariousness</strong>, need for social interaction //(true &amp;mdash; I don't like crowds)//<br />&gt; ** **Ambition** - initiative, competitiveness, and desire for leadership roles //(also <strong class="changes">right</strong> &amp;mdash; <strong class="changes">it's</strong> part of my attempt to avoid responsibility)//</p></div>
+ip: 138.88.114.105
+ts: 1270409503
+minor: 1
+host: pool-138-88-114-105.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: tweaks
+languages: 
+text: At a lecture I attended not long ago a psychologist talked about major personality characteristics and how they're measured. He offered his audience a chance to take the "Hogan Personality Inventory" and of course I couldn't resist. The results along its seven major dimensions are rather like a horoscope reading, with no major surprises and lots of ambiguity. //(Do I sound like a believer in modern psychology?)// The numbers are derived from a few hundred yes-no questions. My profile, sorted high-to-low:
+	
+	* Very High
+	** **Learning Approach** - enjoyment of academic activities, valuing of educational achievement //(a no-brainer, given my school background)//
+	* High
+	** **Adjustment** - confidence, calmness, self-esteem, stability under pressure //(probably not true, but it's what I try to be and maybe I answered the questions accordingly)//
+	** **Inquisitive** - imagination, creativity, curiosity, interest in intellectual matters, high tolerance of complexity //(definitely ather thing I strive for)
+	* Average
+	** **Interpersonal Sensitivity** - tact, perceptiveness, ability to maintain relationships //(yes, I need to work on this!)//
+	* Low
+	** **Prudence** - self-discipline, responsibility, conscientiousness //(yep, I procrastinate!)//
+	** **Sociability** - extraversion, gregariousness, need for social interaction //(true &mdash; I don't like crowds)//
+	** **Ambition** - initiative, competitiveness, and desire for leadership roles //(also right &mdash; it's part of my attempt to avoid responsibility)//
+	
+	And the shrink offered us another personality test, the Hogan Development Scale. More on that later ...
+	
+	//**^z**// - 2010-04-04
+	
+lastmajor: 1
+keep-ts: 1270409503

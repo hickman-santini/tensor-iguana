@@ -1,0 +1,39 @@
+flags: 0
+blocks: <table class="user"><tr><td align="right">Walking home in the rain, umbrella forgotten, I decide that from now on<br />&nbsp;&nbsp;&nbsp;I make my own weather.<br /><br />In the midst of the doldrums<br />&nbsp;&nbsp;&nbsp;I'm a tornado of energy.<br /><br />If it's snowing and my fingers and toes start to freeze,<br />&nbsp;&nbsp;&nbsp;I relax and flood them with warm blood from my core.<br /><br />When it's scorching,<br />&nbsp;&nbsp;&nbsp;I'm the ice man, imperturbable, cool.<br /><br />And inside a thunderstorm<br />&nbsp;&nbsp;&nbsp;I am the unmoving pivot around which the world turns.</td></tr></table><p><em><strong>^z</strong></em> - 2009-04-17</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Walking home in the rain, umbrella forgotten, I decide that from now on</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">|</strong> Walking home in the rain, umbrella forgotten, I decide that from now on</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; \\</p></div><p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; &amp;nbsp;&amp;nbsp;&amp;nbsp;I am the unmoving pivot around which the world turns<strong class="changes">.</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;I am the unmoving pivot around which the world turns<strong class="changes">.|</strong></p></div>
+ip: 128.29.43.3
+ts: 1528057691
+minor: 1
+host: 166.137.240.115
+username: z
+revision: 5
+diff-major: 
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Walking home in the rain, umbrella forgotten, I decide that from now on
+	&nbsp;&nbsp;&nbsp;I make my own weather.
+	\\
+	In the midst of the doldrums
+	&nbsp;&nbsp;&nbsp;I'm a tornado of energy.
+	\\
+	If it's snowing and my fingers and toes start to freeze,
+	&nbsp;&nbsp;&nbsp;I relax and flood them with warm blood from my core.
+	\\
+	When it's scorching,
+	&nbsp;&nbsp;&nbsp;I'm the ice man, imperturbable, cool.
+	\\
+	And inside a thunderstorm
+	&nbsp;&nbsp;&nbsp;I am the unmoving pivot around which the world turns.|
+	
+	//**^z**// - 2009-04-17
+	
+languages: 
+lastmajor: 1
+keep-ts: 1528057691

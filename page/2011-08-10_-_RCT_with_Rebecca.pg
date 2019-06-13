@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~4.7 miles @ ~10.1 min/mi</h3></p><p>Rebecca Rosenberg is exactly like me: she has a hard time accepting a favor. After much haggling she lets me pick her up at her home abut 7am on the way to KenGar where we set off upstream from milepost 7 on Rock Creek Trail. It's cool but humid, dewpoint above 60&deg;F. The trek feels tough. <em>"Maybe we're tired from yesterday's training runs?" &mdash; "Maybe I'm coming down with something?" &mdash; "Maybe it's the company today?" &mdash; "Maybe I'm still recovering from the Catoctin 50k?" &mdash; "Maybe I need vitamins?" &mdash; "Maybe it was the blood donation a couple of weeks ago?"</em> Lots of excuses, none plausible. Rebecca describes her recent dental saga. She unconsciously speeds up, she says, when she's talking; me too. I suggest a rule for us both: after somebody offers three times to do something for you, just say <em><strong>Yes</strong>!</em> Back at KenGar we do a cooldown walk to the water fountain where a woman with a big Lab shows us how her dog can drink out of the palm of her hand. "You should take a photo of that!" Rebecca recommends.</p><p><em>(<a class="url http outside" href="http://connect.garmin.com/activity/105392774">GPS trackfile</a>, ...)</em> - <em><strong>^z</strong></em> - 2011-08-24</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //([[http://connect.garmin.com/activity/105392774|GPS trackfile]], <strong class="changes">...//</strong> - //**^z**// - 2011-08-24</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; //([[http://connect.garmin.com/activity/105392774|GPS trackfile]], <strong class="changes">...)//</strong> - //**^z**// - 2011-08-24</p></div>
+ip: 138.88.28.180
+ts: 1314196141
+minor: 1
+host: pool-138-88-28-180.res.east.verizon.net
+username: Mark Zimmermann
+revision: 3
+diff-major: 
+summary: typo fix
+languages: 
+text: === ~4.7 miles @ ~10.1 min/mi
+	
+	Rebecca Rosenberg is exactly like me: she has a hard time accepting a favor. After much haggling she lets me pick her up at her home abut 7am on the way to KenGar where we set off upstream from milepost 7 on Rock Creek Trail.  It's cool but humid, dewpoint above 60&deg;F. The trek feels tough. //"Maybe we're tired from yesterday's training runs?" &mdash; "Maybe I'm coming down with something?" &mdash; "Maybe it's the company today?" &mdash; "Maybe I'm still recovering from the Catoctin 50k?" &mdash; "Maybe I need vitamins?" &mdash; "Maybe it was the blood donation a couple of weeks ago?"// Lots of excuses, none plausible. Rebecca describes her recent dental saga. She unconsciously speeds up, she says, when she's talking; me too. I suggest a rule for us both: after somebody offers three times to do something for you, just say //**Yes**!// Back at KenGar we do a cooldown walk to the water fountain where a woman with a big Lab shows us how her dog can drink out of the palm of her hand. "You should take a photo of that!" Rebecca recommends.
+	
+	//([[http://connect.garmin.com/activity/105392774|GPS trackfile]], ...)// - //**^z**// - 2011-08-24
+	
+lastmajor: 1
+keep-ts: 1314196141

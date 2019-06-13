@@ -1,0 +1,25 @@
+blocks: <h3>~3.9 miles @ ~15.5 min/mi</h3><p>"Spring is just around the corner!" Dr Kristin promises, quoting the Arnold Lobel <strong>Frog and Toad</strong> story titled "The Corner". A few wet snowflakes fribble down as the Dawn Patrol not-so-dynamic duo prepares to ramble around Pimmit Hills. Green decorative lights glow along the eaves of a home. Early commuters swerve to give us a wide berth. The kids are OK today, despite headaches and stress, bureaucratic snafus, and everything else in life. It's simply wonderful to just be out for quiet conversation with a trusted friend. Sunrise tickles the underside of clouds rose-pink.</p><p>Which one of us is "Frog" and which is "Toad"?</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/941960254">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-04-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.151
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.9 miles @ ~15.5 min/mi
+	
+	"Spring is just around the corner!" Dr Kristin promises, quoting the Arnold Lobel **Frog and Toad** story titled "The Corner". A few wet snowflakes fribble down as the Dawn Patrol not-so-dynamic duo prepares to ramble around Pimmit Hills. Green decorative lights glow along the eaves of a home. Early commuters swerve to give us a wide berth. The kids are OK today, despite headaches and stress, bureaucratic snafus, and everything else in life. It's simply wonderful to just be out for quiet conversation with a trusted friend. Sunrise tickles the underside of clouds rose-pink.
+	
+	Which one of us is "Frog" and which is "Toad"?
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/941960254|trackfile]])// - //**^z**// - 2017-04-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.9 miles @ ~15.5 min/mi<br />&gt; "Spring is just around the corner!" Dr Kristin promises, quoting the Arnold Lobel **Frog and Toad** story titled "The Corner". A few wet snowflakes fribble down as the Dawn Patrol not-so-dynamic duo prepares to ramble around Pimmit Hills. Green decorative lights glow along the eaves of a home. Early commuters swerve to give us a wide berth. The kids are OK today, despite headaches and stress, bureaucratic snafus, and everything else in life. It's simply wonderful to just be out for quiet conversation with a trusted friend. Sunrise tickles the underside of clouds rose-pink.<br />&gt; Which one of us is "Frog" and which is "Toad"?<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/941960254|trackfile]])// - //**^z**// - 2017-04-02</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

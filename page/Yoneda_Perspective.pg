@@ -1,0 +1,35 @@
+flags: 0
+blocks: <p>From "<a class="url http outside" href="https://www.math3ma.com/blog/the-yoneda-perspective">The Yoneda Perspective</a>", a 2017 essay by Tai-Danae Bradley, discussing the Yoneda Lemma of Category Theory:</p><blockquote><p>... mathematical objects are completely determined by their relationships to other objects ...<br /></p></blockquote><p>... and:</p><blockquote><p>... the properties of a mathematical object are more important than its definition ...<br /></p></blockquote><p>... and in the remarks on that essay, a comment by David Roberts:<br /></p><table class="user"><tr><td align="right">Q: "What is the Yoneda lemma? And if it's just a <em>lemma</em> then - my gosh - what's the <em>theorem</em>?"<br /><br />A: "All of them."</td></tr></table><p><em>(cf <a class="url http outside" href="https://www.math3ma.com">Tai-Danae Bradley's blog</a> and her 2018 notes "<a class="url http outside" href="https://arxiv.org/pdf/1809.05923.pdf">What is Applied Category Theory?</a>"...)</em> - <em><strong>^z</strong></em> - 2018-10-03</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; //(cf [[https://www.math3ma.com|Tai-Danae Bradley's blog]] and her 2018 notes "[[https://arxiv.org/pdf/1809.05923.pdf|What is Applied Category Theory<strong class="changes">]]"...)//</strong> - //**^z**// - 2018-10-03</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; //(cf [[https://www.math3ma.com|Tai-Danae Bradley's blog]] and her 2018 notes "[[https://arxiv.org/pdf/1809.05923.pdf|What is Applied Category Theory<strong class="changes">?]]"...)//</strong> - //**^z**// - 2018-10-03</p></div>
+lastmajorsummary: fix typo
+ts: 1538556464
+minor: 
+host: 71.178.81.182
+username: z
+revision: 3
+diff-major: 1
+summary: fix typo
+languages: 
+text: From "[[https://www.math3ma.com/blog/the-yoneda-perspective|The Yoneda Perspective]]", a 2017 essay by Tai-Danae Bradley, discussing the Yoneda Lemma of Category Theory:
+	
+	"""
+	... mathematical objects are completely determined by their relationships to other objects ...
+	"""
+	
+	... and:
+	
+	"""
+	... the properties of a mathematical object are more important than its definition ...
+	"""
+	
+	... and in the remarks on that essay, a comment by David Roberts:
+	| Q: "What is the Yoneda lemma? And if it's just a //lemma// then - my gosh - what's the //theorem//?"
+	\\
+	A: "All of them." |
+	
+	//(cf [[https://www.math3ma.com|Tai-Danae Bradley's blog]] and her 2018 notes "[[https://arxiv.org/pdf/1809.05923.pdf|What is Applied Category Theory?]]"...)// - //**^z**// - 2018-10-03
+	
+lastmajor: 3
+keep-ts: 1538556464

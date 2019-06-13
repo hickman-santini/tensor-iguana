@@ -1,0 +1,25 @@
+blocks: <p>The film <strong><a class="url http outside" href="http://www.imdb.com/title/tt0188045/">Magicians</a></strong> (written and directed by James Merendino) is an offbeat comedy, staggering and stumbling ultimately to a perhaps-unsatisfying conclusion. But along the way, there are thoughtful moments as well as laughs. Most memorable are the words of Alan Arkin's character Milo about the ultimate mission of magicians:</p><table class="user"><tr><td align="center">"We are like doctors &mdash; Imagination Doctors!"</td></tr></table><p>... and everybody's imagination needs a bit of physic sometimes.</p><p><em><strong>^z</strong></em> - 2013-07-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.80.67
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: The film **[[http://www.imdb.com/title/tt0188045/|Magicians]]** (written and directed by James Merendino) is an offbeat comedy, staggering and stumbling ultimately to a perhaps-unsatisfying conclusion. But along the way, there are thoughtful moments as well as laughs. Most memorable are the words of Alan Arkin's character Milo about the ultimate mission of magicians:
+	
+	| "We are like doctors &mdash; Imagination Doctors!" |
+	
+	... and everybody's imagination needs a bit of physic sometimes.
+	
+	//**^z**// - 2013-07-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">The film **[[http://www.imdb.com/title/tt0188045/|Magicians]]** (written and directed by James Merendino) is an offbeat comedy, staggering and stumbling ultimately to a perhaps-unsatisfying conclusion. But along the way, there are thoughtful moments as well as laughs. Most memorable are the words of Alan Arkin's character Milo about the ultimate mission of magicians:<br />&gt; | "We are like doctors &amp;mdash; Imagination Doctors!" |<br />&gt; ... and everybody's imagination needs a bit of physic sometimes.<br />&gt; //**^z**// - 2013-07-15</strong></p></div>
+flags: 0
+ts: 1528057688
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057688

@@ -1,0 +1,30 @@
+blocks: <h3>1 Comment.</h3><p>following up on Robyn Dawes's article, "<a class="url http outside" href="http://www.niaoren.info/pdf/Beauty/9.pdf">The Robust Beauty of Improper Linear Models in Decision Making</a>" - hugely important reading! - consider a recommender system:</p><ul><li>identify simple (input) criteria for each (output) decision</li><li>assign simple weights <em>(+1, 0, -1, whatever, but keep it <strong>simple</strong>)</em></li><li>add up the weights selected for each decision</li><li>sort into descending order and recommend the top few!</li></ul><p>... a la <strong>SAnTA</strong> = "Structured Analytic Technique Advisor", the MITRE JavaScript browser-based "simplest recommender system that could possibly work" ... (^_^)</p><p>-- <a class="url http outside" href="http://zhurnaly.com">z</a> 2016-07-12 11:37 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	following up on Robyn Dawes's article, "[[http://www.niaoren.info/pdf/Beauty/9.pdf|The Robust Beauty of Improper Linear Models in Decision Making]]" - hugely important reading! - consider a recommender system:
+	
+	* identify simple (input) criteria for each (output) decision
+	* assign simple weights //(+1, 0, -1, whatever, but keep it **simple**)//
+	* add up the weights selected for each decision
+	* sort into descending order and recommend the top few!
+	
+	... a la **SAnTA** = "Structured Analytic Technique Advisor", the MITRE JavaScript browser-based "simplest recommender system that could possibly work" ... (^_^)
+	
+	-- [http://zhurnaly.com z] 2016-07-12 11:37 UTC
+	
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== 1 Comment. ===<br />&gt; following up on Robyn Dawes's article, "[[http://www.niaoren.info/pdf/Beauty/9.pdf|The Robust Beauty of Improper Linear Models in Decision Making]]" - hugely important reading! - consider a recommender system:<br />&gt; * identify simple (input) criteria for each (output) decision<br />&gt; * assign simple weights //(+1, 0, -1, whatever, but keep it **simple**)//<br />&gt; * add up the weights selected for each decision<br />&gt; * sort into descending order and recommend the top few!<br />&gt; ... a la **SAnTA** = "Structured Analytic Technique Advisor", the MITRE JavaScript browser-based "simplest recommender system that could possibly work" ... (^_^)<br />&gt; -- [http://zhurnaly.com z] 2016-07-12 11:37 UTC</strong></p></div>
+flags: 0
+ts: 1528057704
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057704

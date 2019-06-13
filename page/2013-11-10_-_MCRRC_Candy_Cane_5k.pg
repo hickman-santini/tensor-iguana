@@ -1,0 +1,25 @@
+blocks: <h3>~6.3 miles @ ~9 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/running/Candy_Cane_5k_2013_z.jpg" alt="http://zhurnaly.com/images/running/Candy_Cane_5k_2013_z.jpg" /></td><td align="right">No, it's not wise to run with eyes wide shut and mouth wide open! Image by Dan Reichmann is from the final stretch of the MCRRC "Candy Cane 5k", a fun run with good friends. Garmin GPS suggests the course was short, closer to 3.0 miles than 3.1, as does gun time of 21:50. The GPS estimates average pace of ~7.4 min/mi (with approx. splits: 7.5 + 7.5 + 7.2 min). Before the event I warm up by jogging from home; afterwards I stay to cheer runners coming in for the final 100 yards.</td></tr></table><p><a class="url http outside" href="http://www.mcrrc.org/candy-cane-city-5k-1">Official results</a> put me barely in the top 100, behind 80 men and 16 women, and 3rd of 15 among the 60-64 year old males. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/268572318">Runkeeper</a> has the entire day's trekking, with pauses but no splits between the trip down to the course, the race, and the return jog. The Garmin GPS records three separate trackfiles, <a class="url http outside" href="http://connect.garmin.com/activity/402341962">before</a> and <a class="url http outside" href="http://connect.garmin.com/activity/402341982">during the race</a> and <a class="url http outside" href="http://connect.garmin.com/activity/402341982">afterwards</a>. |</p><p><em><strong>^z</strong></em> - 2013-11-30</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 108.48.210.244
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~6.3 miles @ ~9 min/mi
+	
+	| http://zhurnaly.com/images/running/Candy_Cane_5k_2013_z.jpg | No, it's not wise to run with eyes wide shut and mouth wide open! Image by Dan Reichmann is from the final stretch of the MCRRC "Candy Cane 5k", a fun run with good friends. Garmin GPS suggests the course was short, closer to 3.0 miles than 3.1, as does gun time of 21:50. The GPS estimates average pace of ~7.4 min/mi (with approx. splits: 7.5 + 7.5 + 7.2 min). Before the event I warm up by jogging from home; afterwards I stay to cheer runners coming in for the final 100 yards.
+	
+	[[http://www.mcrrc.org/candy-cane-city-5k-1|Official results]] put me barely in the top 100, behind 80 men and 16 women, and 3rd of 15 among the 60-64 year old males. [[http://runkeeper.com/user/zhurnaly/activity/268572318|Runkeeper]] has the entire day's trekking, with pauses but no splits between the trip down to the course, the race, and the return jog. The Garmin GPS records three separate trackfiles, [[http://connect.garmin.com/activity/402341962|before]] and [[http://connect.garmin.com/activity/402341982|during the race]] and [[http://connect.garmin.com/activity/402341982|afterwards]]. |
+	
+	//**^z**// - 2013-11-30
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~6.3 miles @ ~9 min/mi<br />&gt; | http://zhurnaly.com/images/running/Candy_Cane_5k_2013_z.jpg | No, it's not wise to run with eyes wide shut and mouth wide open! Image by Dan Reichmann is from the final stretch of the MCRRC "Candy Cane 5k", a fun run with good friends. Garmin GPS suggests the course was short, closer to 3.0 miles than 3.1, as does gun time of 21:50. The GPS estimates average pace of ~7.4 min/mi (with approx. splits: 7.5 + 7.5 + 7.2 min). Before the event I warm up by jogging from home; afterwards I stay to cheer runners coming in for the final 100 yards.<br />&gt; [[http://www.mcrrc.org/candy-cane-city-5k-1|Official results]] put me barely in the top 100, behind 80 men and 16 women, and 3rd of 15 among the 60-64 year old males. [[http://runkeeper.com/user/zhurnaly/activity/268572318|Runkeeper]] has the entire day's trekking, with pauses but no splits between the trip down to the course, the race, and the return jog. The Garmin GPS records three separate trackfiles, [[http://connect.garmin.com/activity/402341962|before]] and [[http://connect.garmin.com/activity/402341982|during the race]] and [[http://connect.garmin.com/activity/402341982|afterwards]]. |<br />&gt; //**^z**// - 2013-11-30</strong></p></div>
+flags: 0
+ts: 1528057690
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057690

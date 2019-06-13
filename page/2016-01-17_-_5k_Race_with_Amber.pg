@@ -1,0 +1,23 @@
+blocks: <h3>~3.1 miles @ ~8.0 min/mi</h3><p>"Too bad the snow didn't start sooner!" Flurries commence during our cooldown walk after this morning's brisk "Celebrate Community - ALIVE!" 5k race. It's a calibration experiment for Dr Amber, who claims not to have trained but who nonetheless keeps up with me for a slightly sub-8 min/mi overall pace. Flashing red/blue strobes on police cars <em>(protecting the course)</em> contrast with leaden skies. A doppelg&auml;nger for colleague Dr Beth fools me during the race but turns out not to be her upon closer inspection afterwards. Both Amber and I finish in 2nd Place for our respective age/gender cadres. <em>Faster next time!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/720473697">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-02-02</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.90.111
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~3.1 miles @ ~8.0 min/mi
+	
+	"Too bad the snow didn't start sooner!" Flurries commence during our cooldown walk after this morning's brisk "Celebrate Community - ALIVE!" 5k race. It's a calibration experiment for Dr Amber, who claims not to have trained but who nonetheless keeps up with me for a slightly sub-8 min/mi overall pace. Flashing red/blue strobes on police cars //(protecting the course)// contrast with leaden skies. A doppelg&auml;nger for colleague Dr Beth fools me during the race but turns out not to be her upon closer inspection afterwards. Both Amber and I finish in 2nd Place for our respective age/gender cadres. //Faster next time!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/720473697|trackfile]])// - //**^z**// - 2016-02-02
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~3.1 miles @ ~8.0 min/mi<br />&gt; "Too bad the snow didn't start sooner!" Flurries commence during our cooldown walk after this morning's brisk "Celebrate Community - ALIVE!" 5k race. It's a calibration experiment for Dr Amber, who claims not to have trained but who nonetheless keeps up with me for a slightly sub-8 min/mi overall pace. Flashing red/blue strobes on police cars //(protecting the course)// contrast with leaden skies. A doppelg&amp;auml;nger for colleague Dr Beth fools me during the race but turns out not to be her upon closer inspection afterwards. Both Amber and I finish in 2nd Place for our respective age/gender cadres. //Faster next time!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/720473697|trackfile]])// - //**^z**// - 2016-02-02</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

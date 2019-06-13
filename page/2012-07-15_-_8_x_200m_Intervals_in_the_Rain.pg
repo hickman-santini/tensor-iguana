@@ -1,0 +1,23 @@
+blocks: <h3>~2 miles @ ~11 min/mi</h3><p>A lovely double rainbow rewards Robin and me as we wind down our speedwork. When we begin a light rain is falling and there are rumbles of thunder at the old asphalt track by the Silver Spring International Middle School. A soccer game continues unaffected in the infield, but there are only a couple of other silly runners braving the elements. Once Robin has decided to do 8 intervals he sticks doggedly to the number and won't let me persuade him to stop at 7. We start each one together but, except for the last which he finishes beside me, I come in a few seconds ahead of him, with splits 47 + 43 + 43 + 43 + 44 + 44 + 44 + 43 seconds. Afterwards I can't find the mechanical key-insert that the new MINI Cooper key fob plugs into. We search the car and Robin walks a loop around the track scanning for it, until suddenly I realize that it's still stuck inside the key fob &mdash; <em>duh!</em></p><p><em><strong>^z</strong></em> - 2012-08-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 141.156.138.10
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2 miles @ ~11 min/mi
+	
+	A lovely double rainbow rewards Robin and me as we wind down our speedwork. When we begin a light rain is falling and there are rumbles of thunder at the old asphalt track by the Silver Spring International Middle School. A soccer game continues unaffected in the infield, but there are only a couple of other silly runners braving the elements. Once Robin has decided to do 8 intervals he sticks doggedly to the number and won't let me persuade him to stop at 7. We start each one together but, except for the last which he finishes beside me, I come in a few seconds ahead of him, with splits 47 + 43 + 43 + 43 + 44 + 44 + 44 + 43 seconds. Afterwards I can't find the mechanical key-insert that the new MINI Cooper key fob plugs into. We search the car and Robin walks a loop around the track scanning for it, until suddenly I realize that it's still stuck inside the key fob &mdash; //duh!//
+	
+	//**^z**// - 2012-08-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2 miles @ ~11 min/mi<br />&gt; A lovely double rainbow rewards Robin and me as we wind down our speedwork. When we begin a light rain is falling and there are rumbles of thunder at the old asphalt track by the Silver Spring International Middle School. A soccer game continues unaffected in the infield, but there are only a couple of other silly runners braving the elements. Once Robin has decided to do 8 intervals he sticks doggedly to the number and won't let me persuade him to stop at 7. We start each one together but, except for the last which he finishes beside me, I come in a few seconds ahead of him, with splits 47 + 43 + 43 + 43 + 44 + 44 + 44 + 43 seconds. Afterwards I can't find the mechanical key-insert that the new MINI Cooper key fob plugs into. We search the car and Robin walks a loop around the track scanning for it, until suddenly I realize that it's still stuck inside the key fob &amp;mdash; //duh!//<br />&gt; //**^z**// - 2012-08-07</strong></p></div>
+flags: 0
+ts: 1528057709
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057709

@@ -1,0 +1,25 @@
+blocks: <h3>~2.5 miles @ ~9.2 min/mi</h3><p>Crescent moon hangs low. "Is it waxing or waning?" Robin asks as we circle the University of Maryland track. We've just dropped Gray off at orchestra rehearsal and dropped a toaster and a toaster-oven off at Value Village as donations.</p><p>"Waxing!" I pant out as I pass by during an interval sprint. No lights at the track mean that I have to click the button on the wrist GPS in order to see my times. Pairs of laps for 800m intervals are fast, 3:49 + 3:31 + 3:27 + 3:26 splits. Two young women chat during recovery between their hundred meter sprints. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/119291335">Runkeeper</a> roughly concurs with the <a class="url http outside" href="http://connect.garmin.com/activity/226034032">Garmin GPS</a>.</p><p><em><strong>^z</strong></em> - 2012-10-03</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.170.21
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~2.5 miles @ ~9.2 min/mi
+	
+	Crescent moon hangs low. "Is it waxing or waning?" Robin asks as we circle the University of Maryland track. We've just dropped Gray off at orchestra rehearsal and dropped a toaster and a toaster-oven off at Value Village as donations.
+	
+	"Waxing!" I pant out as I pass by during an interval sprint. No lights at the track mean that I have to click the button on the wrist GPS in order to see my times. Pairs of laps for 800m intervals are fast, 3:49 + 3:31 + 3:27 + 3:26 splits. Two young women chat during recovery between their hundred meter sprints. [[http://runkeeper.com/user/zhurnaly/activity/119291335|Runkeeper]] roughly concurs with the [[http://connect.garmin.com/activity/226034032|Garmin GPS]].
+	
+	//**^z**// - 2012-10-03
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~2.5 miles @ ~9.2 min/mi<br />&gt; Crescent moon hangs low. "Is it waxing or waning?" Robin asks as we circle the University of Maryland track. We've just dropped Gray off at orchestra rehearsal and dropped a toaster and a toaster-oven off at Value Village as donations.<br />&gt; "Waxing!" I pant out as I pass by during an interval sprint. No lights at the track mean that I have to click the button on the wrist GPS in order to see my times. Pairs of laps for 800m intervals are fast, 3:49 + 3:31 + 3:27 + 3:26 splits. Two young women chat during recovery between their hundred meter sprints. [[http://runkeeper.com/user/zhurnaly/activity/119291335|Runkeeper]] roughly concurs with the [[http://connect.garmin.com/activity/226034032|Garmin GPS]].<br />&gt; //**^z**// - 2012-10-03</strong></p></div>
+flags: 0
+ts: 1528057695
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057695

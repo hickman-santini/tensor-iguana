@@ -1,0 +1,31 @@
+flags: 0
+blocks: <p>Rafting down a long, lazy river &mdash; Pearl S. Buck's 1931 novel <strong>The Good Earth</strong> is a beautifully-written journey through protagonist Wang Lung's life in rural China during the late 19th and early 20th centuries. Vistas like flowers slowly unfold, then shrink and fade. Social structures exist and persist unquestioned: women are horribly mistreated, poor families starve, bandits steal, merchants cheat, the wealthy rule. The gods are worshiped, the elders are obeyed. Marriages are arranged, slaves are sold.</p><p>The story's language is artful in its simplicity, an extended minimalist poem. Consider a typical brief exchange in Chapter 2, when the protagonist's new wife unexpectedly brings him a bowl of hot tea:<br /></p><blockquote><p>Wang Lung saw that she was afraid of him and he was pleased and he answered before she finished, "I like it&mdash;I like it," and he drew his tea into his mouth with loud sups of pleasure.</p><p>In himself there was this new exultation which he was ashamed to make articulate even to his own heart, "This woman of mine likes me well enough!"<br /></p></blockquote><p>Wang works hard, makes foolish mistakes, prospers, fails, recovers, flourishes, and fades. The plot-river meanders into side channels and returns to the main course. Infrequently, white water tosses characters apart and rejoins them in new configurations.</p><p>And always, there's the land to plow and harvest, to build homes upon and journey across, to buy and sell, and ultimately to be buried in. Wars and revolutions pass. The good earth abides.</p><p><em><strong>^z</strong></em> - 2019-04-15</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; And always, there's the land<strong class="changes">&amp;mdash;</strong>to plow and harvest, to build homes upon and journey across, to buy and sell, and ultimately to be buried in. Wars and revolutions pass. The good earth abides.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; And always, there's the land to plow and harvest, to build homes upon and journey across, to buy and sell, and ultimately to be buried in. Wars and revolutions pass. The good earth abides.</p></div>
+lastmajorsummary: tweaks 3
+ts: 1555327288
+minor: 
+host: 107.77.76.26
+username: z
+revision: 4
+diff-major: 1
+summary: tweaks 3
+languages: 
+text: Rafting down a long, lazy river &mdash; Pearl S. Buck's 1931 novel **The Good Earth** is a beautifully-written journey through protagonist Wang Lung's life in rural China during the late 19th and early 20th centuries. Vistas like flowers slowly unfold, then shrink and fade. Social structures exist and persist unquestioned: women are horribly mistreated, poor families starve, bandits steal, merchants cheat, the wealthy rule. The gods are worshiped, the elders are obeyed. Marriages are arranged, slaves are sold.
+	
+	The story's language is artful in its simplicity, an extended minimalist poem. Consider a typical brief exchange in Chapter 2, when the protagonist's new wife unexpectedly brings him a bowl of hot tea:
+	"""
+	Wang Lung saw that she was afraid of him and he was pleased and he answered before she finished, "I like it&mdash;I like it," and he drew his tea into his mouth with loud sups of pleasure.
+	
+	In himself there was this new exultation which he was ashamed to make articulate even to his own heart, "This woman of mine likes me well enough!"
+	"""
+	
+	Wang works hard, makes foolish mistakes, prospers, fails, recovers, flourishes, and fades. The plot-river meanders into side channels and returns to the main course. Infrequently, white water tosses characters apart and rejoins them in new configurations.
+	
+	And always, there's the land to plow and harvest, to build homes upon and journey across, to buy and sell, and ultimately to be buried in. Wars and revolutions pass. The good earth abides.
+	
+	//**^z**// - 2019-04-15
+	
+lastmajor: 4
+keep-ts: 1555327288

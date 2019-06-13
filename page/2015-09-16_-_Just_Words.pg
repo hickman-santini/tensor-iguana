@@ -1,0 +1,25 @@
+blocks: <h3>~8.9 miles @ ~12.3 min/mi</h3><p>"It looked better in the dark!" Today is trash day in Pimmit Hills, and my explanation for picking up a slightly soggy stained "Where the Shops Are" bag makes Kristin laugh out loud. Kerry spies two rabbits within the first mile by the glow of her cellphone. Her son's first weeks in college have gone well, thanks in part to his little sister's helpful fashion advice. Stars swim overhead: Betelgeuse, Rigel, Sirius, the Pleiades. "But those are just words for their <strong>names</strong>!"</p><p>We loop back and at 7am rendezvous with Beth to run a concentric loop, crude GPS cave art. She describes her volunteer work at last weekend's half-marathon, timing runners at the 10k point. Long shadows dance the path ahead of us.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/657151789">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-10-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.9 miles @ ~12.3 min/mi
+	
+	"It looked better in the dark!" Today is trash day in Pimmit Hills, and my explanation for picking up a slightly soggy stained "Where the Shops Are" bag makes Kristin laugh out loud. Kerry spies two rabbits within the first mile by the glow of her cellphone. Her son's first weeks in college have gone well, thanks in part to his little sister's helpful fashion advice. Stars swim overhead: Betelgeuse, Rigel, Sirius, the Pleiades. "But those are just words for their **names**!"
+	
+	We loop back and at 7am rendezvous with Beth to run a concentric loop, crude GPS cave art. She describes her volunteer work at last weekend's half-marathon, timing runners at the 10k point. Long shadows dance the path ahead of us.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/657151789|trackfile]])// - //**^z**// - 2015-10-09
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.9 miles @ ~12.3 min/mi<br />&gt; "It looked better in the dark!" Today is trash day in Pimmit Hills, and my explanation for picking up a slightly soggy stained "Where the Shops Are" bag makes Kristin laugh out loud. Kerry spies two rabbits within the first mile by the glow of her cellphone. Her son's first weeks in college have gone well, thanks in part to his little sister's helpful fashion advice. Stars swim overhead: Betelgeuse, Rigel, Sirius, the Pleiades. "But those are just words for their **names**!"<br />&gt; We loop back and at 7am rendezvous with Beth to run a concentric loop, crude GPS cave art. She describes her volunteer work at last weekend's half-marathon, timing runners at the 10k point. Long shadows dance the path ahead of us.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/657151789|trackfile]])// - //**^z**// - 2015-10-09</strong></p></div>
+flags: 0
+ts: 1528057706
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057706

@@ -1,0 +1,18 @@
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">{{{<br />&lt;  Make me an arrow when I am gone,<br />&lt;  With head of flint and shaft of birch<br />&lt;    And swallow-feathered tail.<br />&lt;  Make it as you remember me,<br />&lt;  Not over-fancy, straight, or strong &amp;mdash;<br />&lt;    Since I was none of those.<br />&lt;  At midnight in the wilderness<br />&lt;  Where we first met, go, draw your bow,<br />&lt;    And aim the arrow high.<br />&lt;  Whisper my name, release the string,<br />&lt;  And launch it toward the stars. It will<br />&lt;    Not reach them &amp;mdash; nor did I.<br />&lt;  An arc ... then stone returns to stone.<br />&lt;  The shattered shaft decays to soil<br />&lt;    In which new trees shall grow.<br />&lt;  Tailfeathers soon tear loose to drift,<br />&lt;  And gathered will then line a nest<br />&lt;    For some small creature's young.<br />&lt;  These endings worthy of a tool,<br />&lt;  And of a life: to serve, and then<br />&lt;    Complete the circle. Home.<br />&lt; }}}<br />&lt; ----<br />&lt; [[TopicPoetry]] -</strong> [[<strong class="changes">TopicLife</strong>]] <strong class="changes">- Datetag20071016<br />&lt; ----<br />&lt; ----<br />&lt; //(correlates: [[HighTension]], [[SilverAnniversary]], [[HearingShapes]], ...)//</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">#REDIRECT</strong> [[<strong class="changes">In Memoriam</strong>]]</p></div>
+ip: 141.156.150.174
+ts: 1234657178
+minor: 1
+host: pool-141-156-150-174.res.east.verizon.net
+username: MarkZimmermann
+revision: 7
+diff-major: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt;  Make me an arrow when I am gone,</p></div><p><strong>Added:</strong></p>
+	<div class="new"><p>&gt;  Make me an arrow when I am gone,</p></div>
+summary: fmt fix
+languages: 
+text: #REDIRECT [[In Memoriam]]
+	
+lastmajor: 4
+keep-ts: 1234657178

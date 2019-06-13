@@ -1,0 +1,40 @@
+blocks: <table class="user"><tr><td align="right">Lately<br />I think of Lawrence<br />standing on a bluff<br />above the dunes<br />at dusk<br />glowing campfire smoke spiraling<br />through gathering mist.<br />He's holding a handful of sand<br />and in it sees <br />a desert<br />holding him<br />holding a desert<br />and dreams <br />for a moment<br />before<br />spreading his fingers<br />letting the sand<br />spill<br />like a broken<br />hourglass.</td></tr></table><p><em>(by Ed Covannon - October 2013)</em></p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.47
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Lately
+	I think of Lawrence
+	standing on a bluff
+	above the dunes
+	at dusk
+	glowing campfire smoke spiraling
+	through gathering mist.
+	He's holding a handful of sand
+	and in it sees 
+	a desert
+	holding him
+	holding a desert
+	and dreams 
+	for a moment
+	before
+	spreading his fingers
+	letting the sand
+	spill
+	like a broken
+	hourglass. |
+	
+	//(by Ed Covannon - October 2013)//
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Lately<br />&gt; I think of Lawrence<br />&gt; standing on a bluff<br />&gt; above the dunes<br />&gt; at dusk<br />&gt; glowing campfire smoke spiraling<br />&gt; through gathering mist.<br />&gt; He's holding a handful of sand<br />&gt; and in it sees <br />&gt; a desert<br />&gt; holding him<br />&gt; holding a desert<br />&gt; and dreams <br />&gt; for a moment<br />&gt; before<br />&gt; spreading his fingers<br />&gt; letting the sand<br />&gt; spill<br />&gt; like a broken<br />&gt; hourglass. |<br />&gt; //(by Ed Covannon - October 2013)//</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057697

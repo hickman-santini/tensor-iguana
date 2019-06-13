@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p>The new Holiday Season sensation at the Dickerson-Zimmermann household: <em><strong>Falafel Cookies</strong>!</em> Just add excess water to the powered chickpea-spice mix when making falafel, as I did on Christmas Eve, so the batter is too liquid to cohere. Bake in the oven at 375&deg;F for ~20 minutes, flip to brown the other side, and &mdash; <em>voil&agrave;!</em></p><p>They look just like oatmeal cookies, but they taste just like falafel. <em>Instant Cognitive Dissonance!</em> Next year maybe I'll put colored-sugar sprinkles on them for a festive glow. Paulette calls them "falookies". And strangely enough, they don't vanish like ordinary cookies. The next day there were plenty of them left for me to nibble ... and the day after ... and the day after that.</p><p><em><strong>^z</strong></em> - 2012-01-01</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; The new Holiday Season sensation at the Dickerson-Zimmermann household: //**Falafel Cookies**!// Just add excess water to the powered chickpea-spice mix when making falafel, as I did on Christmas Eve, so the batter is too liquid to cohere. Bake in the oven at 375<strong class="changes">°</strong>F for ~20 minutes, flip to brown the other side, and &amp;mdash; //voil&amp;agrave;!//</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; The new Holiday Season sensation at the Dickerson-Zimmermann household: //**Falafel Cookies**!// Just add excess water to the powered chickpea-spice mix when making falafel, as I did on Christmas Eve, so the batter is too liquid to cohere. Bake in the oven at 375<strong class="changes">&amp;deg;</strong>F for ~20 minutes, flip to brown the other side, and &amp;mdash; //voil&amp;agrave;!//</p></div>
+ip: 138.88.175.123
+ts: 1325411559
+minor: 1
+host: pool-138-88-175-123.res.east.verizon.net
+username: Zimm
+revision: 2
+diff-major: 
+summary: character fix
+languages: 
+text: The new Holiday Season sensation at the Dickerson-Zimmermann household: //**Falafel Cookies**!// Just add excess water to the powered chickpea-spice mix when making falafel, as I did on Christmas Eve, so the batter is too liquid to cohere. Bake in the oven at 375&deg;F for ~20 minutes, flip to brown the other side, and &mdash; //voil&agrave;!//
+	
+	They look just like oatmeal cookies, but they taste just like falafel. //Instant Cognitive Dissonance!// Next year maybe I'll put colored-sugar sprinkles on them for a festive glow. Paulette calls them "falookies". And strangely enough, they don't vanish like ordinary cookies. The next day there were plenty of them left for me to nibble ... and the day after ... and the day after that.
+	
+	//**^z**// - 2012-01-01
+	
+lastmajor: 1
+keep-ts: 1325411559

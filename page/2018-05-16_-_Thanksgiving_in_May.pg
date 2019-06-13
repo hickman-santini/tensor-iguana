@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~4.4 mi @ ~13.0 min/mi</h3><p>"Privileged!" is the Dawn Patrol Word o' the Day, as we give thanks for safe neighborhoods, good health, ample food, meaningful jobs, solid shelter, and fine families. Drizzle pauses for most of today's warm and humid trek. A chipmunk huddles under the bushes, then scampers away. Trail talk shares stories of less-lucky people who have a hard time finding time to finish tasks, file taxes, or in general figure out their lives. <em>How fortunate we are!</em></p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1165060195">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-05-29</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.4 mi @ ~13.0 min/mi<br />&gt; "Privileged!" is the Dawn Patrol Word o' the Day, as we give thanks for safe neighborhoods, good health, ample food, meaningful jobs, solid shelter, and fine families. Drizzle pauses for most of today's warm and humid trek. A chipmunk huddles under the bushes, then scampers away. Trail talk shares stories of less-lucky people who have a hard time finding time to finish tasks, file taxes, or in general figure out their lives. //How fortunate we are!//<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1165060195|trackfile]])// - //**^z**// - 2018-05-29</strong></p></div>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ts: 1528057688
+minor: 
+host: 166.137.240.115
+username: z
+revision: 3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.4 mi @ ~13.0 min/mi
+	
+	"Privileged!" is the Dawn Patrol Word o' the Day, as we give thanks for safe neighborhoods, good health, ample food, meaningful jobs, solid shelter, and fine families. Drizzle pauses for most of today's warm and humid trek. A chipmunk huddles under the bushes, then scampers away. Trail talk shares stories of less-lucky people who have a hard time finding time to finish tasks, file taxes, or in general figure out their lives. //How fortunate we are!//
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1165060195|trackfile]])// - //**^z**// - 2018-05-29
+	
+languages: 
+lastmajor: 3
+keep-ts: 1528057688

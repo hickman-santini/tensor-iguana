@@ -1,0 +1,23 @@
+blocks: <h3>~4.4 mi @ ~12.0 min/mi</h3><p>"Fishbowl families!" Dr Kristin describes folks who leave window shades up and lights on in early morning. The Dawn Patrol treads quietly as a gray moon fades and a rosy sunrise blossoms. Temps in the mid-20s make for a brisk pace. Eight pairs of beetle-green eyes glitter in headlamp glow as a herd of deer nibble grass on the McLean High School soccer field; crunchy noises suggest at least one more is feeding on the other side of the hedge. <em>#blessed</em></p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1119139904">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2018-03-09</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.175
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.4 mi @ ~12.0 min/mi
+	
+	"Fishbowl families!" Dr Kristin describes folks who leave window shades up and lights on in early morning. The Dawn Patrol treads quietly as a gray moon fades and a rosy sunrise blossoms. Temps in the mid-20s make for a brisk pace. Eight pairs of beetle-green eyes glitter in headlamp glow as a herd of deer nibble grass on the McLean High School soccer field; crunchy noises suggest at least one more is feeding on the other side of the hedge. //#blessed//
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1119139904|trackfile]])// - //**^z**// - 2018-03-09
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.4 mi @ ~12.0 min/mi<br />&gt; "Fishbowl families!" Dr Kristin describes folks who leave window shades up and lights on in early morning. The Dawn Patrol treads quietly as a gray moon fades and a rosy sunrise blossoms. Temps in the mid-20s make for a brisk pace. Eight pairs of beetle-green eyes glitter in headlamp glow as a herd of deer nibble grass on the McLean High School soccer field; crunchy noises suggest at least one more is feeding on the other side of the hedge. //#blessed//<br />&gt; //([[https://runkeeper.com/user/zhurnaly/activity/1119139904|trackfile]])// - //**^z**// - 2018-03-09</strong></p></div>
+flags: 0
+ts: 1528057700
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057700

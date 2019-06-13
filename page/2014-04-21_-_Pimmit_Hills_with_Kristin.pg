@@ -1,0 +1,23 @@
+blocks: <h3>~5 miles @ ~10.6 min/mi</h3><p>Venus shines low in the east on a lovely brisk morning, setting for a delightful dawn Pimmit Hills meander with Dr K, including trail talk about fluorescent lime-green running gear, quantum electrodynamics and renormalization theory, useful acronyms <em>("AFGO!" = "Another F'ing Growth Opportunity!")</em>, cars, The 84th Problem, scar tissue, and more. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/339271090">Runkeeper</a> records the route.</p><p><em><strong>^z</strong></em> - 2014-05-28</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.87.85
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5 miles @ ~10.6 min/mi
+	
+	Venus shines low in the east on a lovely brisk morning, setting for a delightful dawn Pimmit Hills meander with Dr K, including trail talk about fluorescent lime-green running gear, quantum electrodynamics and renormalization theory, useful acronyms //("AFGO!" = "Another F'ing Growth Opportunity!")//, cars, The 84th Problem, scar tissue, and more. [[http://runkeeper.com/user/zhurnaly/activity/339271090|Runkeeper]] records the route.
+	
+	//**^z**// - 2014-05-28
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5 miles @ ~10.6 min/mi<br />&gt; Venus shines low in the east on a lovely brisk morning, setting for a delightful dawn Pimmit Hills meander with Dr K, including trail talk about fluorescent lime-green running gear, quantum electrodynamics and renormalization theory, useful acronyms //("AFGO!" = "Another F'ing Growth Opportunity!")//, cars, The 84th Problem, scar tissue, and more. [[http://runkeeper.com/user/zhurnaly/activity/339271090|Runkeeper]] records the route.<br />&gt; //**^z**// - 2014-05-28</strong></p></div>
+flags: 0
+ts: 1528057708
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057708

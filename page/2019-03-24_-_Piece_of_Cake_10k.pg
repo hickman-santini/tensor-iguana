@@ -1,0 +1,26 @@
+flags: 0
+blocks: <h3>~6.2 mi @ ~8.6 min/mi</h3><table class="user"><tr><td align="right"><a class="image outside" href="http://zhurnaly.com/images/running/mile_1_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24.jpg"><img class="upload" title="Dan Reichman photo - MCRRC Piece of Cake mile 1 - Mark Zimmermann" src="http://zhurnaly.com/images/running/mile_1_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24_t.jpg" alt="Dan Reichman photo - MCRRC Piece of Cake mile 1 - Mark Zimmermann" /></a></td><td align="right">"Start your kick now!" At mile 3 Roadkill trash-talks friendly former rival Tom Young, who now runs almost a minute per mile faster. "I took a short-cut and you're still ahead!" Our paths cross repeatedly as the 10k course loops. Before the event begins: "This is a triathlon, isn't it? Just jump into Clopper Lake and start swimming!"<br /><br />Contrails decorate the sky at dawn above Seneca Creek State Park on a crisp Sunday morning for MCRRC's "Piece of Cake" 10k race. Ace lensman Dan Reichmann captures runners at mile 1 and again at mile 6.</td></tr></table><table class="user"><tr><td align="center">"You can still win!" says Tom, as he lies on the ground near the finish line and pretends to be crawling toward it. Alas, not today! But even though he's half a minute slower than last year, Roadkill is happy at a gun time of 53:19, behind 89 men and 39 women, first of eight in the 65-69 male age group. <em>And he doesn't fall down!</em></td><td align="right"><a class="image outside" href="http://zhurnaly.com/images/running/mile_6_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24_cropped.jpg"><img class="upload" title="Dan Reichman photo - MCRRC Piece of Cake mile 6 - Mark Zimmermann" src="http://zhurnaly.com/images/running/mile_6_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24_cropped_t.jpg" alt="Dan Reichman photo - MCRRC Piece of Cake mile 6 - Mark Zimmermann" /></a></td></tr></table><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1305329736">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2019-04-14</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; | [[image:http://zhurnaly.com/images/running/mile_1_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24_t.jpg|Dan Reichman photo - MCRRC Piece of Cake mile 1 - Mark Zimmermann|http://zhurnaly.com/images/running/mile_1_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24.<strong class="changes">jpeg</strong>]] | "Start your kick now!" At mile 3 Roadkill trash-talks friendly former rival Tom Young, who now runs almost a minute per mile faster. "I took a short-cut and you're still ahead!" Our paths cross repeatedly as the 10k course loops. Before the event begins: "This is a triathlon, isn't it? Just jump into Clopper Lake and start swimming!"</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; | [[image:http://zhurnaly.com/images/running/mile_1_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24_t.jpg|Dan Reichman photo - MCRRC Piece of Cake mile 1 - Mark Zimmermann|http://zhurnaly.com/images/running/mile_1_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24.<strong class="changes">jpg</strong>]] | "Start your kick now!" At mile 3 Roadkill trash-talks friendly former rival Tom Young, who now runs almost a minute per mile faster. "I took a short-cut and you're still ahead!" Our paths cross repeatedly as the 10k course loops. Before the event begins: "This is a triathlon, isn't it? Just jump into Clopper Lake and start swimming!"</p></div>
+lastmajorsummary: URL fix jpeg->jpg
+ts: 1555237354
+minor: 
+host: 166.137.252.119
+username: z
+revision: 3
+diff-major: 1
+summary: URL fix jpeg->jpg
+languages: 
+text: === ~6.2 mi @ ~8.6 min/mi
+	
+	| [[image:http://zhurnaly.com/images/running/mile_1_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24_t.jpg|Dan Reichman photo - MCRRC Piece of Cake mile 1 - Mark Zimmermann|http://zhurnaly.com/images/running/mile_1_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24.jpg]] | "Start your kick now!" At mile 3 Roadkill trash-talks friendly former rival Tom Young, who now runs almost a minute per mile faster. "I took a short-cut and you're still ahead!" Our paths cross repeatedly as the 10k course loops. Before the event begins: "This is a triathlon, isn't it? Just jump into Clopper Lake and start swimming!"
+	\\
+	Contrails decorate the sky at dawn above Seneca Creek State Park on a crisp Sunday morning for MCRRC's "Piece of Cake" 10k race. Ace lensman Dan Reichmann captures runners at mile 1 and again at mile 6. |
+	
+	| "You can still win!" says Tom, as he lies on the ground near the finish line and pretends to be crawling toward it. Alas, not today! But even though he's half a minute slower than last year, Roadkill is happy at a gun time of 53:19, behind 89 men and 39 women, first of eight in the 65-69 male age group. //And he doesn't fall down!// | [[image:http://zhurnaly.com/images/running/mile_6_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24_cropped_t.jpg|Dan Reichman photo - MCRRC Piece of Cake mile 6 - Mark Zimmermann|http://zhurnaly.com/images/running/mile_6_z_by_D-Reichmann_mcrrc_piece_of_cake_2019-03-24_cropped.jpg]] |
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1305329736|trackfile]])// - //**^z**// - 2019-04-14
+	
+lastmajor: 3
+keep-ts: 1555237354

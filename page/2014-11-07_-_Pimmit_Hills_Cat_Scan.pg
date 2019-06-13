@@ -1,0 +1,23 @@
+blocks: <h3>~5.2 miles @ ~10.7 min/mi</h3><p>Cat Scan! Dr David &amp; Dr Kerry &amp; I meander around Pimmit Hills at sunrise, eying the underbrush in hopes of spotting friend Dr Amy's missing white-and-black kitty, "Ollie" <em>(no PhD yet)</em>. We shine flashlights at bushes and spy soccer balls, stone lawn-ornament rabbits, and a variety of other white-and-black objects, but sadly no Oliver during a double-loop through Pimmit View Park where he is rumored to be hanging out. A nearly-full moon sets over Tysons Corner as we return, reminding Kerry of one of her favorite Ansel Adams photos. David reports on his recent vacation in Panama to a handkerchief-sized private island. He woke up early today and invested the spare time in bleaching his dish drainer. Kerry has a 5k local race on Sunday, and David plans the 10k run across the Bay Bridge. <a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/466151877">Runkeeper</a> records route.</p><p><em><strong>^z</strong></em> - 2014-12-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.14
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.2 miles @ ~10.7 min/mi
+	
+	Cat Scan! Dr David & Dr Kerry & I meander around Pimmit Hills at sunrise, eying the underbrush in hopes of spotting friend Dr Amy's missing white-and-black kitty, "Ollie" //(no PhD yet)//. We shine flashlights at bushes and spy soccer balls, stone lawn-ornament rabbits, and a variety of other white-and-black objects, but sadly no Oliver during a double-loop through Pimmit View Park where he is rumored to be hanging out. A nearly-full moon sets over Tysons Corner as we return, reminding Kerry of one of her favorite Ansel Adams photos. David reports on his recent vacation in Panama to a handkerchief-sized private island. He woke up early today and invested the spare time in bleaching his dish drainer. Kerry has a 5k local race on Sunday, and David plans the 10k run across the Bay Bridge. [[http://runkeeper.com/user/zhurnaly/activity/466151877|Runkeeper]] records route.
+	
+	//**^z**// - 2014-12-01
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.2 miles @ ~10.7 min/mi<br />&gt; Cat Scan! Dr David &amp; Dr Kerry &amp; I meander around Pimmit Hills at sunrise, eying the underbrush in hopes of spotting friend Dr Amy's missing white-and-black kitty, "Ollie" //(no PhD yet)//. We shine flashlights at bushes and spy soccer balls, stone lawn-ornament rabbits, and a variety of other white-and-black objects, but sadly no Oliver during a double-loop through Pimmit View Park where he is rumored to be hanging out. A nearly-full moon sets over Tysons Corner as we return, reminding Kerry of one of her favorite Ansel Adams photos. David reports on his recent vacation in Panama to a handkerchief-sized private island. He woke up early today and invested the spare time in bleaching his dish drainer. Kerry has a 5k local race on Sunday, and David plans the 10k run across the Bay Bridge. [[http://runkeeper.com/user/zhurnaly/activity/466151877|Runkeeper]] records route.<br />&gt; //**^z**// - 2014-12-01</strong></p></div>
+flags: 0
+ts: 1528057685
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057685

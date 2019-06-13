@@ -1,0 +1,23 @@
+blocks: <table class="user"><tr><td align="right">Crimson beams glint<br />From steel guard rails<br />As we run into the sunrise </td></tr></table><p><em><strong>^z</strong></em> - 2013-04-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.97.56
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | Crimson beams glint
+	From steel guard rails
+	As we run into the sunrise |
+	
+	//**^z**// - 2013-04-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| Crimson beams glint<br />&gt; From steel guard rails<br />&gt; As we run into the sunrise |<br />&gt; //**^z**// - 2013-04-11</strong></p></div>
+flags: 0
+ts: 1528057704
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057704

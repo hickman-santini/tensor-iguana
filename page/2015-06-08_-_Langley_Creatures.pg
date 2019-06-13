@@ -1,0 +1,25 @@
+blocks: <h3>~10 miles @ ~12.5 min/mi</h3><p><em>"So cute!"</em> A tiny fawn stands nervously beside its mommy doe in the waters of Dead Run, just downstream of Benjamin St. Kerry and Kristin and I pause to stare and coo at the dear deer. At the crest of the next hill Kristin spies a wee bunny. It hops into the garden bushes as we approach.<em>"So cute!"</em></p><p>We experiment with the reverse of our usual McLean mansion route, adding a digression down Lawton St to an unexpected dead end. In this direction the paths feel new and maybe faster. Kristin leads us in a sprint for the final mile, to get Kerry back in time for morning meetings. A cool breeze feels great on the face!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/587650429">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-07-07</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.15
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~10 miles @ ~12.5 min/mi
+	
+	//"So cute!"// A tiny fawn stands nervously beside its mommy doe in the waters of Dead Run, just downstream of Benjamin St. Kerry and Kristin and I pause to stare and coo at the dear deer. At the crest of the next hill Kristin spies a wee bunny. It hops into the garden bushes as we approach.//"So cute!"//
+	
+	We experiment with the reverse of our usual McLean mansion route, adding a digression down Lawton St to an unexpected dead end. In this direction the paths feel new and maybe faster. Kristin leads us in a sprint for the final mile, to get Kerry back in time for morning meetings. A cool breeze feels great on the face!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/587650429|trackfile]])// - //**^z**// - 2015-07-07
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~10 miles @ ~12.5 min/mi<br />&gt; //"So cute!"// A tiny fawn stands nervously beside its mommy doe in the waters of Dead Run, just downstream of Benjamin St. Kerry and Kristin and I pause to stare and coo at the dear deer. At the crest of the next hill Kristin spies a wee bunny. It hops into the garden bushes as we approach.//"So cute!"//<br />&gt; We experiment with the reverse of our usual McLean mansion route, adding a digression down Lawton St to an unexpected dead end. In this direction the paths feel new and maybe faster. Kristin leads us in a sprint for the final mile, to get Kerry back in time for morning meetings. A cool breeze feels great on the face!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/587650429|trackfile]])// - //**^z**// - 2015-07-07</strong></p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057697

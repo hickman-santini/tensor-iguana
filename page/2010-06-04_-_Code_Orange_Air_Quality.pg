@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>8+ miles @ ~ 11 min/mi</h3></p><p>A big brown groundhog humps off the trailside as I approach. Nobody tells me that the air quality today is Code Orange, but soon enough after I start, about 4pm from Reston near the corner of Wiehle and Sunrise Valley, the heat and humidity start cooking my goose. Within a few miles I'm well-done. It's a bit over a mile to the W&amp;OD Trail, and from milepost 15.5 the first three miles are 9:51 + 10:20 + 10:31. I drink down my water supply and stop at the Trolley fountain in Vienna to refill and take an S! e-cap. The next three miles on the trail have involuntary walk breaks every few minutes, and pass by in 12:26 (including the water stop) + 11:12 + 11:06. Total time to tag the post at the Dunn Loring Metro is 1:30:33.</p><p><em><strong>^z</strong></em> - 2010-06-11</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; A big brown <strong class="changes">hedgehog (?)</strong> humps off the trailside as I approach. Nobody tells me that the air quality today is Code Orange, but soon enough after I start, about 4pm from Reston near the corner of Wiehle and Sunrise Valley, the heat and humidity start cooking my goose. Within a few miles I'm well-done. It's a bit over a mile to the W&amp;OD Trail, and from milepost 15.5 the first three miles are 9:51 + 10:20 + 10:31. I drink down my water supply and stop at the Trolley fountain in Vienna to refill and take an S! e-cap. The next three miles on the trail have involuntary walk breaks every few minutes, and pass by in 12:26 (including the water stop) + 11:12 + 11:06. Total time to tag the post at the Dunn Loring Metro is 1:30:33.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; A big brown <strong class="changes">groundhog</strong> humps off the trailside as I approach. Nobody tells me that the air quality today is Code Orange, but soon enough after I start, about 4pm from Reston near the corner of Wiehle and Sunrise Valley, the heat and humidity start cooking my goose. Within a few miles I'm well-done. It's a bit over a mile to the W&amp;OD Trail, and from milepost 15.5 the first three miles are 9:51 + 10:20 + 10:31. I drink down my water supply and stop at the Trolley fountain in Vienna to refill and take an S! e-cap. The next three miles on the trail have involuntary walk breaks every few minutes, and pass by in 12:26 (including the water stop) + 11:12 + 11:06. Total time to tag the post at the Dunn Loring Metro is 1:30:33.</p></div>
+ip: 141.156.147.224
+ts: 1276248057
+minor: 1
+host: pool-141-156-147-224.res.east.verizon.net
+username: zz
+revision: 2
+diff-major: 
+summary: fix hedgehog->groundhog
+languages: 
+text: === 8+ miles @ ~ 11 min/mi
+	
+	A big brown groundhog humps off the trailside as I approach. Nobody tells me that the air quality today is Code Orange, but soon enough after I start, about 4pm from Reston near the corner of Wiehle and Sunrise Valley, the heat and humidity start cooking my goose. Within a few miles I'm well-done. It's a bit over a mile to the W&OD Trail, and from milepost 15.5 the first three miles are 9:51 + 10:20 + 10:31. I drink down my water supply and stop at the Trolley fountain in Vienna to refill and take an S! e-cap. The next three miles on the trail have involuntary walk breaks every few minutes, and pass by in 12:26 (including the water stop) + 11:12 + 11:06. Total time to tag the post at the Dunn Loring Metro is 1:30:33.
+	
+	//**^z**// - 2010-06-11
+	
+lastmajor: 1
+keep-ts: 1276248057

@@ -1,0 +1,22 @@
+flags: 0
+blocks: <h3>~6.6 mi @ ~13.7 min/mi</h3><p>"It's like being a parent, but without the hugs and kisses!" K-Rex captures the essence of the manager's job in a busy high-performance organization. Dawn Patrol random-walks based on where Xmas lights catch our eyes. Suddenly we realize that we're touring a neighborhood via the reverse of a course we took one week ago. Everything looks so different when inverted! "That's a Category Theory principle," notes Roadkill, predictably. Trail talk includes the importance of safe places to live, shop, work, learn, and just <em><strong>be</strong></em> &mdash; especially valuable as catalysts of open, soft, joyful peace of mind.</p><p><em>(<a class="url http outside" href="https://runkeeper.com/user/zhurnaly/activity/1266021534">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2019-01-05</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; "It's like being a parent, but without the hugs and kisses!" K-Rex captures the essence of <strong class="changes">being a</strong> manager in a busy high-performance organization. Dawn Patrol random-walks based on where Xmas lights catch our eyes. Suddenly we realize that we're touring a neighborhood via the reverse of a course we took one week ago. Everything looks so different when inverted! "That's a Category Theory principle," notes Roadkill, predictably. Trail talk includes the importance of safe places to live, shop, work, learn, and just //**be**// &amp;mdash; especially valuable as catalysts of open, soft, joyful peace of mind.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; "It's like being a parent, but without the hugs and kisses!" K-Rex captures the essence of <strong class="changes">the</strong> manager<strong class="changes">'s job</strong> in a busy high-performance organization. Dawn Patrol random-walks based on where Xmas lights catch our eyes. Suddenly we realize that we're touring a neighborhood via the reverse of a course we took one week ago. Everything looks so different when inverted! "That's a Category Theory principle," notes Roadkill, predictably. Trail talk includes the importance of safe places to live, shop, work, learn, and just //**be**// &amp;mdash; especially valuable as catalysts of open, soft, joyful peace of mind.</p></div>
+lastmajorsummary: tweak
+ts: 1546690282
+minor: 
+host: 71.178.83.210
+username: z
+revision: 2
+diff-major: 1
+summary: tweak
+languages: 
+text: === ~6.6 mi @ ~13.7 min/mi
+	
+	"It's like being a parent, but without the hugs and kisses!" K-Rex captures the essence of the manager's job in a busy high-performance organization. Dawn Patrol random-walks based on where Xmas lights catch our eyes. Suddenly we realize that we're touring a neighborhood via the reverse of a course we took one week ago. Everything looks so different when inverted! "That's a Category Theory principle," notes Roadkill, predictably. Trail talk includes the importance of safe places to live, shop, work, learn, and just //**be**// &mdash; especially valuable as catalysts of open, soft, joyful peace of mind.
+	
+	//([[https://runkeeper.com/user/zhurnaly/activity/1266021534|trackfile]])// - //**^z**// - 2019-01-05
+	
+lastmajor: 2
+keep-ts: 1546690282

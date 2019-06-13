@@ -1,0 +1,25 @@
+blocks: <p>A dear friend's young child came home from Montessori preschool some years ago with an artistic, polite, and rather nonjudgmental way to turn down an offer:</p><table class="user"><tr><td align="center"><em>"<strong>That is not to my taste</strong>!"</em></td></tr></table><p>So whatever it may be &mdash; food, drink, entertainment, a political philosophy &mdash; it's not necessarily "bad". I just don't care for it right now!</p><p><em><strong>^z</strong></em> - 2014-08-24</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.86.89
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: A dear friend's young child came home from Montessori preschool some years ago with an artistic, polite, and rather nonjudgmental way to turn down an offer:
+	
+	| //"**That is not to my taste**!"// |
+	
+	So whatever it may be &mdash; food, drink, entertainment, a political philosophy &mdash; it's not necessarily "bad". I just don't care for it right now!
+	
+	//**^z**// - 2014-08-24
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">A dear friend's young child came home from Montessori preschool some years ago with an artistic, polite, and rather nonjudgmental way to turn down an offer:<br />&gt; | //"**That is not to my taste**!"// |<br />&gt; So whatever it may be &amp;mdash; food, drink, entertainment, a political philosophy &amp;mdash; it's not necessarily "bad". I just don't care for it right now!<br />&gt; //**^z**// - 2014-08-24</strong></p></div>
+flags: 0
+ts: 1528057680
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057680

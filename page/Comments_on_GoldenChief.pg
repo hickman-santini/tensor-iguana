@@ -1,0 +1,22 @@
+blocks: <h3>1 Comment.</h3><p>Recently, projects such as Wikis have been organized within companies for free exchange of data, and one of the key ideas that have been expressed is to allow anyone to answer anyone else's questions, even down to interns helping CEOs.</p><p> - Sept. 28, 2001</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 138.88.27.40
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 1 Comment. ===
+	
+	Recently, projects such as Wikis have been organized within companies for free exchange of data, and one of the key ideas that have been expressed is to allow anyone to answer anyone else's questions, even down to interns helping CEOs.
+	
+	 - Sept. 28, 2001
+	
+languages: 
+lastmajor: 11
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 1 Comment. ===<br />&gt; Recently, projects such as Wikis have been organized within companies for free exchange of data, and one of the key ideas that have been expressed is to allow anyone to answer anyone else's questions, even down to interns helping CEOs.<br />&gt;  - Sept. 28, 2001</p></div>
+flags: 0
+ts: 1528057707
+minor: 
+username: z
+host: 166.137.240.115
+revision: 11
+keep-ts: 1528057707

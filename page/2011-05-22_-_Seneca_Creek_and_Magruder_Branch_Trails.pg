@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~8.7 miles @ ~13.7 min/mi</h3></p><p>Jennifer Weiland is ready to go at 0505 when I arrive at her home, and we beat Caren Jew to the Watkins Mill Rd trailhead by 30 seconds, taking care along the way not to activate speed-cameras. Multiple big dogs dash through the woods, excited to see us. A small herd of deer watch from the ridge. At the deep-water Magruder Branch crossing I chicken out and ask Caren if there's not another route we can take, so she shows us a neighborhood side trail. We turn back near a back yard treehouse. The ladies are amused by how much better they are at cursing than I am.</p><p><em>(see GPS <a class="url http outside" href="http://connect.garmin.com/activity/87224800">trackfile</a> for details)</em> - <em><strong>^z</strong></em> - 2011-06-01</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Jennifer Weiland <strong class="changes">Zuckman</strong> is ready to go at 0505 when I arrive at her home, and we beat Caren Jew to the Watkins Mill Rd trailhead by 30 seconds, taking care along the way not to activate speed-cameras. Multiple big dogs dash through the woods, excited to see us. A small herd of deer watch from the ridge. At the deep-water Magruder Branch crossing I chicken out and ask Caren if there's not another route we can take, so she shows us a neighborhood side trail. We turn back near a back yard treehouse. The ladies are amused by how much better they are at cursing than I am.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Jennifer Weiland is ready to go at 0505 when I arrive at her home, and we beat Caren Jew to the Watkins Mill Rd trailhead by 30 seconds, taking care along the way not to activate speed-cameras. Multiple big dogs dash through the woods, excited to see us. A small herd of deer watch from the ridge. At the deep-water Magruder Branch crossing I chicken out and ask Caren if there's not another route we can take, so she shows us a neighborhood side trail. We turn back near a back yard treehouse. The ladies are amused by how much better they are at cursing than I am.</p></div>
+ip: 138.88.108.245
+ts: 1330203537
+minor: 1
+host: pool-138-88-108-245.res.east.verizon.net
+username: Zimm
+revision: 3
+diff-major: 
+summary: \sZuckman -> 
+languages: 
+text: === ~8.7 miles @ ~13.7 min/mi
+	
+	Jennifer Weiland is ready to go at 0505 when I arrive at her home, and we beat Caren Jew to the Watkins Mill Rd trailhead by 30 seconds, taking care along the way not to activate speed-cameras. Multiple big dogs dash through the woods, excited to see us. A small herd of deer watch from the ridge. At the deep-water Magruder Branch crossing I chicken out and ask Caren if there's not another route we can take, so she shows us a neighborhood side trail. We turn back near a back yard treehouse. The ladies are amused by how much better they are at cursing than I am.
+	
+	//(see GPS [http://connect.garmin.com/activity/87224800|trackfile] for details)// - //**^z**// - 2011-06-01
+	
+lastmajor: 1
+keep-ts: 1330203537

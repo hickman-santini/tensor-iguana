@@ -1,0 +1,25 @@
+blocks: <h3>~7.2 miles @ ~12.1 min/mi</h3><p>"Don't say <strong><em>that</em></strong> out loud!" Today's trail talk addresses how to listen better to somebody who needs validation and affirmation, not conversation or communication. Big raindrops fall, pause, then start again. Kristin sets a fast pace as we re-explore the under-construction zone between Hwy 123 and the Beltway, then loop east through McLean. From in front of Starbucks we send a GPS push-pin, "Free iced coffee if your name is Kerry!", but get no response from Dr K who has been away on travel for the past week.</p><p>"Hear the Happy Birds!" My boss Joe from 15 years ago drives past and waves. Clouds part for sunbeams to cast long shadows in front of us. What a lovely way to start the week!</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/966440369">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-05-13</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.212
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.2 miles @ ~12.1 min/mi
+	
+	"Don't say **//that//** out loud!" Today's trail talk addresses how to listen better to somebody who needs validation and affirmation, not conversation or communication. Big raindrops fall, pause, then start again. Kristin sets a fast pace as we re-explore the under-construction zone between Hwy 123 and the Beltway, then loop east through McLean. From in front of Starbucks we send a GPS push-pin, "Free iced coffee if your name is Kerry!", but get no response from Dr K who has been away on travel for the past week.
+	
+	"Hear the Happy Birds!" My boss Joe from 15 years ago drives past and waves. Clouds part for sunbeams to cast long shadows in front of us. What a lovely way to start the week!
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/966440369|trackfile]])// - //**^z**// - 2017-05-13
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.2 miles @ ~12.1 min/mi<br />&gt; "Don't say **//that//** out loud!" Today's trail talk addresses how to listen better to somebody who needs validation and affirmation, not conversation or communication. Big raindrops fall, pause, then start again. Kristin sets a fast pace as we re-explore the under-construction zone between Hwy 123 and the Beltway, then loop east through McLean. From in front of Starbucks we send a GPS push-pin, "Free iced coffee if your name is Kerry!", but get no response from Dr K who has been away on travel for the past week.<br />&gt; "Hear the Happy Birds!" My boss Joe from 15 years ago drives past and waves. Clouds part for sunbeams to cast long shadows in front of us. What a lovely way to start the week!<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/966440369|trackfile]])// - //**^z**// - 2017-05-13</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

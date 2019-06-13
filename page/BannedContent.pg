@@ -1,0 +1,20 @@
+flags: 0
+blocks: <pre># CONTACT z (at) his (dot) com if you find mistakes --- tnx!
+	# see Comment Page for earlier versions</pre>
+diff-minor: <p><strong>Deleted:</strong></p>
+	<div class="old"><p>&lt; lnaj7k8qspfmo2wq8go</p></div>
+ip: 71.178.91.229
+ts: 1518994292
+minor: 0
+host: pool-71-178-91-229.washdc.east.verizon.net
+username: z
+revision: 283
+diff-major: 1
+summary: Rollback to 2015-08-09 21:10 UTC
+languages: 
+text: # CONTACT z (at) his (dot) com if you find mistakes --- tnx!
+	# see Comment Page for earlier versions
+	
+	
+lastmajor: 283
+keep-ts: 1518994292

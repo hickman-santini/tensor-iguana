@@ -1,0 +1,22 @@
+flags: 0
+blocks: <p><h3>~3.5 miles @ ~13.5 min/mi</h3></p><p>Another comparison test between <a class="url http outside" href="http://connect.garmin.com/activity/172675387">Garmin</a> and <a class="url http outside" href="http://www.mapmyrun.com/routes/view/87529121">iPhone</a> gives 3.58 miles vs. 3.63 miles respectively, well within expected errors. Mary Ewell, like Caren Jew, has The Eye for wildlife: she spies rabbits and a groundhog. Other pedestrians point out a woodchuck in a tree, apparently feasting on berries. Mary hasn't run for weeks so today is a comeback. After I visit with comrade Eugene Miya of NASA/Ames and drop him off at Dulles Airport for his flight back to the San Francisco area, I go to Mary's home. We talk about family, and then she drives us to the W&amp;OD trail where we walk 10 minutes to warm up, run 10 minutes, then alternate 5 minutes running and running.</p><p><em><strong>^z</strong></em> - 2012-05-11</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Another comparison test between [[http://connect.garmin.com/activity/172675387|Garmin]] and [[http://www.mapmyrun.com/routes/view/87529121|iPhone]] gives 3.58 miles vs. 3.63 miles respectively, well within expected errors. Mary Ewell, like Caren Jew, has The Eye for wildlife: she spies rabbits and a groundhog. Other pedestrians point out a woodchuck in a tree, apparently feasting on berries. Mary hasn't run for weeks so today is a comeback. After I visit with comrade Eugene Miya of NASA/Ames and drop him off at Dulles Airport for his flight back to the San Francisco area, I go to Mary's home. We talk about family, and then she drives us to the W&amp;OD trail <strong class="changes">in Ashburton</strong> where we walk 10 minutes to warm up, run 10 minutes, then alternate 5 minutes running and running.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Another comparison test between [[http://connect.garmin.com/activity/172675387|Garmin]] and [[http://www.mapmyrun.com/routes/view/87529121|iPhone]] gives 3.58 miles vs. 3.63 miles respectively, well within expected errors. Mary Ewell, like Caren Jew, has The Eye for wildlife: she spies rabbits and a groundhog. Other pedestrians point out a woodchuck in a tree, apparently feasting on berries. Mary hasn't run for weeks so today is a comeback. After I visit with comrade Eugene Miya of NASA/Ames and drop him off at Dulles Airport for his flight back to the San Francisco area, I go to Mary's home. We talk about family, and then she drives us to the W&amp;OD trail where we walk 10 minutes to warm up, run 10 minutes, then alternate 5 minutes running and running.</p></div>
+ip: 128.29.43.3
+ts: 1336734020
+minor: 1
+host: mw-128-29-43-3.mitre.org
+username: zhurnaly
+revision: 2
+diff-major: 
+summary: tweak
+languages: 
+text: === ~3.5 miles @ ~13.5 min/mi
+	
+	Another comparison test between [[http://connect.garmin.com/activity/172675387|Garmin]] and [[http://www.mapmyrun.com/routes/view/87529121|iPhone]] gives 3.58 miles vs. 3.63 miles respectively, well within expected errors. Mary Ewell, like Caren Jew, has The Eye for wildlife: she spies rabbits and a groundhog. Other pedestrians point out a woodchuck in a tree, apparently feasting on berries. Mary hasn't run for weeks so today is a comeback. After I visit with comrade Eugene Miya of NASA/Ames and drop him off at Dulles Airport for his flight back to the San Francisco area, I go to Mary's home. We talk about family, and then she drives us to the W&OD trail where we walk 10 minutes to warm up, run 10 minutes, then alternate 5 minutes running and running.
+	
+	//**^z**// - 2012-05-11
+	
+lastmajor: 1
+keep-ts: 1336734020

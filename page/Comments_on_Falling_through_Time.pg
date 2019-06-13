@@ -1,0 +1,31 @@
+blocks: <h3>2 Comments.</h3><p>... one light-year radius -- whispy at the edge, rising to neutron-star density near the center ... 1 earth-gravity acceleration ... near-infinite time dilation at the middle ... observatory to watch the universe evolve, sped up arbitrarily ...</p><p>-- <a class="url http outside" href="http://zhurnaly.com">z</a> 2017-06-05 11:03 UTC</p><hr /><h3>... at the Center of the Universe</h3><p>The Ball: a few lights-year across. Whispy-thin at the edge, fading into nothing. Specks of ice and flecks of dust hang. From the center, a faint red glow, like a dying fire. Starlight bends around it. The Ball's gravity tugs ...</p><p>-- <a class="url http outside" href="http://zhurnaly.com">z</a> 2017-06-05 23:14 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.88.138
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === 2 Comments. ===
+	... one light-year radius -- whispy at the edge, rising to neutron-star density near the center ... 1 earth-gravity acceleration ... near-infinite time dilation at the middle ... observatory to watch the universe evolve, sped up arbitrarily ...
+	
+	-- [http://zhurnaly.com z] 2017-06-05 11:03 UTC
+	
+	
+	----
+	
+	=== ... at the Center of the Universe
+	
+	The Ball: a few lights-year across. Whispy-thin at the edge, fading into nothing. Specks of ice and flecks of dust hang. From the center, a faint red glow, like a dying fire. Starlight bends around it. The Ball's gravity tugs ...
+	
+	-- [http://zhurnaly.com z] 2017-06-05 23:14 UTC
+	
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 2 Comments. ===<br />&gt; ... one light-year radius -- whispy at the edge, rising to neutron-star density near the center ... 1 earth-gravity acceleration ... near-infinite time dilation at the middle ... observatory to watch the universe evolve, sped up arbitrarily ...<br />&gt; -- [http://zhurnaly.com z] 2017-06-05 11:03 UTC<br />&gt; ----<br />&gt; === ... at the Center of the Universe<br />&gt; The Ball: a few lights-year across. Whispy-thin at the edge, fading into nothing. Specks of ice and flecks of dust hang. From the center, a faint red glow, like a dying fire. Starlight bends around it. The Ball's gravity tugs ...<br />&gt; -- [http://zhurnaly.com z] 2017-06-05 23:14 UTC</p></div>
+flags: 0
+ts: 1528057697
+minor: 
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057697

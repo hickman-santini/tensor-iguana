@@ -1,0 +1,23 @@
+blocks: <h3>~8.3 miles @ ~11.2 min/mi</h3><p>"I can smell that fresh coffee brewing in my Mind's Nose!" We're stretching after laps at McLean HS track, where Beth joins Kristin and me as the rising sun casts long shadows. Passing the Safeway outbound we get the aroma of donuts cooking; returning it's more like pizza. Spring birds chirp loudly and a rabbit takes refuge under a parked car. Two young women run up and down the aluminum bleachers. Ten 400m speedwork intervals average ~1:50 each. A bald guy in a Navy shirt says "Hi Mark!" as he zips by.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/772348962">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-05-11</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.96.225
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~8.3 miles @ ~11.2 min/mi
+	
+	"I can smell that fresh coffee brewing in my Mind's Nose!" We're stretching after laps at McLean HS track, where Beth joins Kristin and me as the rising sun casts long shadows. Passing the Safeway outbound we get the aroma of donuts cooking; returning it's more like pizza. Spring birds chirp loudly and a rabbit takes refuge under a parked car. Two young women run up and down the aluminum bleachers. Ten 400m speedwork intervals average ~1:50 each. A bald guy in a Navy shirt says "Hi Mark!" as he zips by.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/772348962|trackfile]])// - //**^z**// - 2016-05-11
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~8.3 miles @ ~11.2 min/mi<br />&gt; "I can smell that fresh coffee brewing in my Mind's Nose!" We're stretching after laps at McLean HS track, where Beth joins Kristin and me as the rising sun casts long shadows. Passing the Safeway outbound we get the aroma of donuts cooking; returning it's more like pizza. Spring birds chirp loudly and a rabbit takes refuge under a parked car. Two young women run up and down the aluminum bleachers. Ten 400m speedwork intervals average ~1:50 each. A bald guy in a Navy shirt says "Hi Mark!" as he zips by.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/772348962|trackfile]])// - //**^z**// - 2016-05-11</strong></p></div>
+flags: 0
+ts: 1528057707
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057707

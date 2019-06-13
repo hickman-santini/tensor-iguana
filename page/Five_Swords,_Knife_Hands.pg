@@ -1,0 +1,23 @@
+blocks: <p>A cute-surprising T'ai Chi term, from "<a class="url http outside" href="http://naturespathways.com/editions/northeast-wi-edition/item/1283-the-5th-tai-chi-principle-the-beautiful-lady%25E2%2580%2599s-hand">The 5th Tai Chi principle: The beautiful lady's hand</a>", an essay by Andrew Mertens. "Beautiful lady's hand" usually just means a straight, relaxed wrist &mdash; but Mertens uses a much sharper metaphor: "We sometimes call it <strong>knife hands</strong> or <strong>five swords</strong> ...".</p><p>Now <em><strong>that's</strong></em> an image!</p><p><em><strong>^z</strong></em> - 2014-07-14</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.85.225
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: A cute-surprising T'ai Chi term, from "[[http://naturespathways.com/editions/northeast-wi-edition/item/1283-the-5th-tai-chi-principle-the-beautiful-lady%25E2%2580%2599s-hand|The 5th Tai Chi principle: The beautiful lady's hand]]", an essay by Andrew Mertens. "Beautiful lady's hand" usually just means a straight, relaxed wrist &mdash; but Mertens uses a much sharper metaphor: "We sometimes call it **knife hands** or **five swords** ...".
+	
+	Now //**that's**// an image!
+	
+	//**^z**// - 2014-07-14
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">A cute-surprising T'ai Chi term, from "[[http://naturespathways.com/editions/northeast-wi-edition/item/1283-the-5th-tai-chi-principle-the-beautiful-lady%25E2%2580%2599s-hand|The 5th Tai Chi principle: The beautiful lady's hand]]", an essay by Andrew Mertens. "Beautiful lady's hand" usually just means a straight, relaxed wrist &amp;mdash; but Mertens uses a much sharper metaphor: "We sometimes call it **knife hands** or **five swords** ...".<br />&gt; Now //**that's**// an image!<br />&gt; //**^z**// - 2014-07-14</strong></p></div>
+flags: 0
+ts: 1528057685
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057685

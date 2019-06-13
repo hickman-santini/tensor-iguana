@@ -1,0 +1,37 @@
+blocks: <table class="user"><tr><td align="right">What if we grew up on a planet<br />With cats a mile tall?<br />So petting one could build up a charge<br />That sent sparks shooting from fingertips<br />Into the next county?<br /><br />Would thunderstorms be trivial?<br />Obvious? Negligible? A joke?<br /><br />Or what if we came from a world<br />Without air, without weather?<br />Or grew up underwater, no electricity?<br /><br />Could anyone imagine clouds towering in a sky?<br />Lightning's crash, tornado's destruction?<br />Water forming droplets, even freezing into stones?<br />Pelting down in torrents and floods?</td></tr></table><p><em><strong>^z</strong></em> - 2012-07-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | What if we grew up on a planet
+	With cats a mile tall?
+	So petting one could build up a charge
+	That sent sparks shooting from fingertips
+	Into the next county?
+	\\
+	Would thunderstorms be trivial?
+	Obvious? Negligible? A joke?
+	\\
+	Or what if we came from a world
+	Without air, without weather?
+	Or grew up underwater, no electricity?
+	\\
+	Could anyone imagine clouds towering in a sky?
+	Lightning's crash, tornado's destruction?
+	Water forming droplets, even freezing into stones?
+	Pelting down in torrents and floods? |
+	
+	//**^z**// - 2012-07-22
+	
+languages: 
+lastmajor: 4
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| What if we grew up on a planet<br />&gt; With cats a mile tall?<br />&gt; So petting one could build up a charge<br />&gt; That sent sparks shooting from fingertips<br />&gt; Into the next county?<br />&gt; \\<br />&gt; Would thunderstorms be trivial?<br />&gt; Obvious? Negligible? A joke?<br />&gt; \\<br />&gt; Or what if we came from a world<br />&gt; Without air, without weather?<br />&gt; Or grew up underwater, no electricity?<br />&gt; \\<br />&gt; Could anyone imagine clouds towering in a sky?<br />&gt; Lightning's crash, tornado's destruction?<br />&gt; Water forming droplets, even freezing into stones?<br />&gt; Pelting down in torrents and floods? |<br />&gt; //**^z**// - 2012-07-22</strong></p></div>
+flags: 0
+ts: 1528057699
+minor: 0
+username: z
+host: 166.137.240.115
+revision: 4
+keep-ts: 1528057699

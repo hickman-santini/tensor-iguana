@@ -1,0 +1,25 @@
+blocks: <h3>~4.0 miles @ ~12.1 min/mi</h3><p>"Co-enablers in cold craziness!" Peer pressure combined with early morning meetings and stiff northerly breezes plus temps in the upper 20s make for a short Dawn Patrol ramble. Before lips go totally numb we catch up on weekend family news and mourn the passing of David Bowie. Kerry mentions the film <strong>The Linguini Incident</strong> in which he stars; her college roommate was involved in producing it. Other performances are saluted: <strong>The Prestige</strong>, <strong>Labyrinth</strong>, and <strong>Into the Night</strong>. Icy patches alternate with muddy puddles. A meteor streaks overhead &mdash; perhaps a late Quadrantid, perhaps Sir David checking that we're ok.</p><p>From the song "Let's Dance":<br /></p><table class="user"><tr><td align="center">If you say <em>run</em>, I'll run with you!</td></tr></table><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/717443294">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-01-29</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.94.125
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.0 miles @ ~12.1 min/mi
+	
+	"Co-enablers in cold craziness!" Peer pressure combined with early morning meetings and stiff northerly breezes plus temps in the upper 20s make for a short Dawn Patrol ramble. Before lips go totally numb we catch up on weekend family news and mourn the passing of David Bowie. Kerry mentions the film **The Linguini Incident** in which he stars; her college roommate was involved in producing it. Other performances are saluted: **The Prestige**, **Labyrinth**, and **Into the Night**. Icy patches alternate with muddy puddles. A meteor streaks overhead &mdash; perhaps a late Quadrantid, perhaps Sir David checking that we're ok.
+	
+	From the song "Let's Dance":
+	| If you say //run//, I'll run with you! |
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/717443294|trackfile]])// - //**^z**// - 2016-01-29
+	
+languages: 
+lastmajor: 5
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === ~4.0 miles @ ~12.1 min/mi<br />&gt; "Co-enablers in cold craziness!" Peer pressure combined with early morning meetings and stiff northerly breezes plus temps in the upper 20s make for a short Dawn Patrol ramble. Before lips go totally numb we catch up on weekend family news and mourn the passing of David Bowie. Kerry mentions the film **The Linguini Incident** in which he stars; her college roommate was involved in producing it. Other performances are saluted: **The Prestige**, **Labyrinth**, and **Into the Night**. Icy patches alternate with muddy puddles. A meteor streaks overhead &amp;mdash; perhaps a late Quadrantid, perhaps Sir David checking that we're ok.<br />&gt; From the song "Let's Dance":<br />&gt; | If you say //run//, I'll run with you! |<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/717443294|trackfile]])// - //**^z**// - 2016-01-29</p></div>
+flags: 0
+ts: 1528057680
+minor: 
+username: z
+host: 166.137.240.115
+revision: 5
+keep-ts: 1528057680

@@ -1,0 +1,55 @@
+blocks: <table class="user"><tr><td align="right">They used to be wooden cabinets<br />With black and white pictures <br />Under glass<br />Boxers<br />Wrestlers<br />Moving furiously<br /><br />Then color tvs<br />Bigger<br />In plastic cabinets<br />Tucked in corners <br />Warming the bar<br />On winter nights<br />The wrestlers disappeared<br />But nighttime football<br />And baseball<br />And vietnam<br />Were<br />Abundant<br /><br />Tonight<br />The tv is flat<br />Like a painting<br />Amidst the bottles<br />And the picture <br />Beautiful<br />Of oil gushing from the bottom of<br />The sea<br />Of terrorists being<br />Taken down<br />The news too huge<br />To hurt<br />Too lovely <br />To avert <br />My gaze </td></tr></table><p><em><strong>^z</strong></em> - 2015-06-22</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 12.234.128.141
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: | They used to be wooden cabinets
+	With black and white pictures 
+	Under glass
+	Boxers
+	Wrestlers
+	Moving furiously
+	\\
+	Then color tvs
+	Bigger
+	In plastic cabinets
+	Tucked in corners 
+	Warming the bar
+	On winter nights
+	The wrestlers disappeared
+	But nighttime football
+	And baseball
+	And vietnam
+	Were
+	Abundant
+	\\
+	Tonight
+	The tv is flat
+	Like a painting
+	Amidst the bottles
+	And the picture 
+	Beautiful
+	Of oil gushing from the bottom of
+	The sea
+	Of terrorists being
+	Taken down
+	The news too huge
+	To hurt
+	Too lovely 
+	To avert 
+	My gaze |
+	
+	//**^z**// - 2015-06-22
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">| They used to be wooden cabinets<br />&gt; With black and white pictures <br />&gt; Under glass<br />&gt; Boxers<br />&gt; Wrestlers<br />&gt; Moving furiously<br />&gt; \\<br />&gt; Then color tvs<br />&gt; Bigger<br />&gt; In plastic cabinets<br />&gt; Tucked in corners <br />&gt; Warming the bar<br />&gt; On winter nights<br />&gt; The wrestlers disappeared<br />&gt; But nighttime football<br />&gt; And baseball<br />&gt; And vietnam<br />&gt; Were<br />&gt; Abundant<br />&gt; \\<br />&gt; Tonight<br />&gt; The tv is flat<br />&gt; Like a painting<br />&gt; Amidst the bottles<br />&gt; And the picture <br />&gt; Beautiful<br />&gt; Of oil gushing from the bottom of<br />&gt; The sea<br />&gt; Of terrorists being<br />&gt; Taken down<br />&gt; The news too huge<br />&gt; To hurt<br />&gt; Too lovely <br />&gt; To avert <br />&gt; My gaze |<br />&gt; //**^z**// - 2015-06-22</strong></p></div>
+flags: 0
+ts: 1528057680
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057680

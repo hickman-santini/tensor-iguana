@@ -1,0 +1,23 @@
+blocks: <h3>~4.9 miles @ ~21.9 min/mi</h3><table class="user"><tr><td align="center"><img class="url http" src="http://zhurnaly.com/images/Mormon_Temple_garden_butterfly.jpg" alt="http://zhurnaly.com/images/Mormon_Temple_garden_butterfly.jpg" /></td><td align="center">"The Calla Lilies are in bloom again," Mary quotes Katherine Hepburn from <strong>Stage Door</strong>, as we pass the Mormon Temple gardens. Gray's neighborhood walkabout takes us on a pretty loop. The weather is marvelously cool for late August!</td></tr></table><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/645000364">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2015-09-15</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.95.3
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~4.9 miles @ ~21.9 min/mi
+	
+	| http://zhurnaly.com/images/Mormon_Temple_garden_butterfly.jpg | "The Calla Lilies are in bloom again," Mary quotes Katherine Hepburn from **Stage Door**, as we pass the Mormon Temple gardens. Gray's neighborhood walkabout takes us on a pretty loop. The weather is marvelously cool for late August! |
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/645000364|trackfile]])// - //**^z**// - 2015-09-15
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~4.9 miles @ ~21.9 min/mi<br />&gt; | http://zhurnaly.com/images/Mormon_Temple_garden_butterfly.jpg | "The Calla Lilies are in bloom again," Mary quotes Katherine Hepburn from **Stage Door**, as we pass the Mormon Temple gardens. Gray's neighborhood walkabout takes us on a pretty loop. The weather is marvelously cool for late August! |<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/645000364|trackfile]])// - //**^z**// - 2015-09-15</strong></p></div>
+flags: 0
+ts: 1528057677
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057677

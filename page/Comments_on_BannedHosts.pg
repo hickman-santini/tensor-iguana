@@ -1,0 +1,161 @@
+blocks: <h3>6 Comments.</h3><p>banned host list as of 2011-05-01:<br /></p><pre class="real">46\.17\.97\.74
+	91\.143\.58\.1</pre><p>an old banned host list:<br /></p><pre class="real">akaflieg\.uni-karlsruhe\.de
+	amber\.org\.uk
+	bezeqint\.net
+	choiceone\.net
+	ctinets\.com
+	dedic\.hosting-ie\.com
+	druid-dns\.com
+	dyn\.user\.ono\.com
+	eurocable\.ro
+	fregat\.net
+	giga-dns\.com
+	hol\.net\.ua
+	hometec\.com\.tw
+	i3d\.net
+	in-addr\.arpa
+	kimsufi\.com
+	mmm\.com
+	mtu-net\.ru
+	onet\.com\.ua
+	online\.ln\.cn
+	optonline\.net
+	orange\.sk
+	partypoker\.com
+	precisionelectricco\.com
+	radiohost\.pl
+	retail\.telecomitalia\.it
+	rialto\.ca
+	rima-tde\.net
+	servainet\.com
+	server4you\.de
+	softlayer\.com
+	speedy\.com\.ar
+	virgin\.net
+	virtua\.com\.br
+	your-server\.de</pre><hr /><p>a newer banned hosts list:<br /></p><pre class="real"># CONTACT z (at) his (dot) com if you find mistakes on this list
+	# old contents on comment page 
+	prodigy\.net\.mx
+	# strange spammer?
+	119\.111\.124\.194</pre><hr /><p>another old banned hosts list:</p><p>31\.184\.238\.15<br />38\.125\.95\.250<br />72-199-108-105<br />91\.201\.64\.26<br />91\.201\.64\.4<br />95\.143\.210\.211<br />amazonaws\.com<br />ghst\.net<br />giga-dns\.com<br />hosted-by\.leaseweb\.com<br />redstation\.co\.uk<br />redstation\.net\.uk<br />versaweb\.net<br />wildpark\.net</p><p>-- <a class="url http outside" href="http://zhurnaly.com">Mark Zimmermann</a> 2012-09-29 00:56 UTC</p><hr /><p>backup banned hosts:<br /></p><pre class="real"># no edits from these addresses
+	91\.232\.96\.
+	kimsufi</pre><p>-- <a class="url http outside" href="http://zhurnaly.com">Mark Zimmermann</a> 2012-10-25 08:07 UTC</p><hr /><p>deleted from prior BannedHosts:</p><p>91\.232\.96\.<br />91\.201\.64\.<br />91\.232\.96\.<br />kimsufi\.com</p><p>-- z 2015-08-09 17:45 UTC</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 128.29.43.2
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+languages: 
+text: === 6 Comments. ===
+	
+	banned host list as of 2011-05-01:
+	{{{
+	46\.17\.97\.74
+	91\.143\.58\.1
+	}}}
+	
+	an old banned host list:
+	{{{
+	akaflieg\.uni-karlsruhe\.de
+	amber\.org\.uk
+	bezeqint\.net
+	choiceone\.net
+	ctinets\.com
+	dedic\.hosting-ie\.com
+	druid-dns\.com
+	dyn\.user\.ono\.com
+	eurocable\.ro
+	fregat\.net
+	giga-dns\.com
+	hol\.net\.ua
+	hometec\.com\.tw
+	i3d\.net
+	in-addr\.arpa
+	kimsufi\.com
+	mmm\.com
+	mtu-net\.ru
+	onet\.com\.ua
+	online\.ln\.cn
+	optonline\.net
+	orange\.sk
+	partypoker\.com
+	precisionelectricco\.com
+	radiohost\.pl
+	retail\.telecomitalia\.it
+	rialto\.ca
+	rima-tde\.net
+	servainet\.com
+	server4you\.de
+	softlayer\.com
+	speedy\.com\.ar
+	virgin\.net
+	virtua\.com\.br
+	your-server\.de
+	}}}
+	
+	----
+	
+	a newer banned hosts list:
+	{{{
+	# CONTACT z (at) his (dot) com if you find mistakes on this list
+	# old contents on comment page 
+	prodigy\.net\.mx
+	# strange spammer?
+	119\.111\.124\.194
+	}}}
+	
+	----
+	
+	another old banned hosts list:
+	
+	31\.184\.238\.15
+	38\.125\.95\.250
+	72-199-108-105
+	91\.201\.64\.26
+	91\.201\.64\.4
+	95\.143\.210\.211
+	amazonaws\.com
+	ghst\.net
+	giga-dns\.com
+	hosted-by\.leaseweb\.com
+	redstation\.co\.uk
+	redstation\.net\.uk
+	versaweb\.net
+	wildpark\.net
+	
+	-- [http://zhurnaly.com Mark Zimmermann] 2012-09-29 00:56 UTC
+	
+	
+	----
+	
+	backup banned hosts:
+	{{{
+	# no edits from these addresses
+	91\.232\.96\.
+	kimsufi
+	}}}
+	
+	-- [http://zhurnaly.com Mark Zimmermann] 2012-10-25 08:07 UTC
+	
+	
+	----
+	
+	deleted from prior BannedHosts:
+	
+	91\.232\.96\.
+	91\.201\.64\.
+	91\.232\.96\.
+	kimsufi\.com
+	
+	-- z 2015-08-09 17:45 UTC
+	
+	
+lastmajor: 16
+diff-minor: <p><strong>Added:</strong></p>
+	<div class="new"><p>&gt; === 6 Comments. ===<br />&gt; banned host list as of 2011-05-01:<br />&gt; {{{<br />&gt; 46\.17\.97\.74<br />&gt; 91\.143\.58\.1<br />&gt; }}}<br />&gt; an old banned host list:<br />&gt; {{{<br />&gt; akaflieg\.uni-karlsruhe\.de<br />&gt; amber\.org\.uk<br />&gt; bezeqint\.net<br />&gt; choiceone\.net<br />&gt; ctinets\.com<br />&gt; dedic\.hosting-ie\.com<br />&gt; druid-dns\.com<br />&gt; dyn\.user\.ono\.com<br />&gt; eurocable\.ro<br />&gt; fregat\.net<br />&gt; giga-dns\.com<br />&gt; hol\.net\.ua<br />&gt; hometec\.com\.tw<br />&gt; i3d\.net<br />&gt; in-addr\.arpa<br />&gt; kimsufi\.com<br />&gt; mmm\.com<br />&gt; mtu-net\.ru<br />&gt; onet\.com\.ua<br />&gt; online\.ln\.cn<br />&gt; optonline\.net<br />&gt; orange\.sk<br />&gt; partypoker\.com<br />&gt; precisionelectricco\.com<br />&gt; radiohost\.pl<br />&gt; retail\.telecomitalia\.it<br />&gt; rialto\.ca<br />&gt; rima-tde\.net<br />&gt; servainet\.com<br />&gt; server4you\.de<br />&gt; softlayer\.com<br />&gt; speedy\.com\.ar<br />&gt; virgin\.net<br />&gt; virtua\.com\.br<br />&gt; your-server\.de<br />&gt; }}}<br />&gt; ----<br />&gt; a newer banned hosts list:<br />&gt; {{{<br />&gt; # CONTACT z (at) his (dot) com if you find mistakes on this list<br />&gt; # old contents on comment page <br />&gt; prodigy\.net\.mx<br />&gt; # strange spammer?<br />&gt; 119\.111\.124\.194<br />&gt; }}}<br />&gt; ----<br />&gt; another old banned hosts list:<br />&gt; 31\.184\.238\.15<br />&gt; 38\.125\.95\.250<br />&gt; 72-199-108-105<br />&gt; 91\.201\.64\.26<br />&gt; 91\.201\.64\.4<br />&gt; 95\.143\.210\.211<br />&gt; amazonaws\.com<br />&gt; ghst\.net<br />&gt; giga-dns\.com<br />&gt; hosted-by\.leaseweb\.com<br />&gt; redstation\.co\.uk<br />&gt; redstation\.net\.uk<br />&gt; versaweb\.net<br />&gt; wildpark\.net<br />&gt; -- [http://zhurnaly.com Mark Zimmermann] 2012-09-29 00:56 UTC<br />&gt; ----<br />&gt; backup banned hosts:<br />&gt; {{{<br />&gt; # no edits from these addresses<br />&gt; 91\.232\.96\.<br />&gt; kimsufi<br />&gt; }}}<br />&gt; -- [http://zhurnaly.com Mark Zimmermann] 2012-10-25 08:07 UTC<br />&gt; ----<br />&gt; deleted from prior BannedHosts:<br />&gt; 91\.232\.96\.<br />&gt; 91\.201\.64\.<br />&gt; 91\.232\.96\.<br />&gt; kimsufi\.com<br />&gt; -- z 2015-08-09 17:45 UTC</p></div>
+flags: 0
+ts: 1528057675
+minor: 
+username: z
+host: 166.137.240.115
+revision: 16
+keep-ts: 1528057675

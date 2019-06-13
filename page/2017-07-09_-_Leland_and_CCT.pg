@@ -1,0 +1,23 @@
+blocks: <h3>~12.0 miles @ ~12.9 min/mi</h3><p>Bunny count in the 'hood = 10, in front yards along hilly Leland Street on the way to Bethesda. Sako &amp; Barry each spy another during our final mile. Rebecca sends me on a sprint to catch Ken at mile 9 <em>(split 9:11, whew!)</em>. Gayatri ran long yesterday and enjoys this morning with us. We discuss the best local restaurants to get samosas and other Indian food.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1014944133">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-08-06</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.237
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~12.0 miles @ ~12.9 min/mi
+	
+	Bunny count in the 'hood = 10, in front yards along hilly Leland Street on the way to Bethesda. Sako & Barry each spy another during our final mile. Rebecca sends me on a sprint to catch Ken at mile 9 //(split 9:11, whew!)//. Gayatri ran long yesterday and enjoys this morning with us. We discuss the best local restaurants to get samosas and other Indian food.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1014944133|trackfile]])// - //**^z**// - 2017-08-06
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~12.0 miles @ ~12.9 min/mi<br />&gt; Bunny count in the 'hood = 10, in front yards along hilly Leland Street on the way to Bethesda. Sako &amp; Barry each spy another during our final mile. Rebecca sends me on a sprint to catch Ken at mile 9 //(split 9:11, whew!)//. Gayatri ran long yesterday and enjoys this morning with us. We discuss the best local restaurants to get samosas and other Indian food.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1014944133|trackfile]])// - //**^z**// - 2017-08-06</strong></p></div>
+flags: 0
+ts: 1528057694
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057694

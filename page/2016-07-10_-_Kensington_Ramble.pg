@@ -1,0 +1,27 @@
+blocks: <h3>~5.9 miles @ ~11.0 min/mi</h3><p>"Stick a fork in me!" Rebecca says, when asked if we're done after almost half a dozen miles on a warm and humid morning. <em>Well done!</em></p><p>Ken takes us along the streets and over the hills of Kensington and Chevy Chase View. At every corner we turn in the direction that offers the most shade. A dog-walking woman's shirt reads, <span style="font-variant: small-caps">Will Run for Cupcakes!</span> Someone wonders, "Is 'Cupcakes' your pup's name?" We cut through the Cedarbrook Swim and Tennis Club and hope that the friendly wave from a member will cancel out the <code>NO TRESPASSING</code> signs we see.</p><p>Meandering feet eventually find their way back to Rock Creek Trail, where packs of runners-in-training greet us as we pass. Then comes Nick who in his British accent warns, "Treats ahead!" Though he's from England this isn't (just) naughty British slang &mdash; there are indeed bunches of bananas and jugs of orange juice on the picnic table at KenGar, left there by the kind Montgomery County Road Runners club. <em>Thank you!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/822795740">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2016-08-01</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.91.155
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.9 miles @ ~11.0 min/mi
+	
+	"Stick a fork in me!" Rebecca says, when asked if we're done after almost half a dozen miles on a warm and humid morning. //Well done!//
+	
+	Ken takes us along the streets and over the hills of Kensington and Chevy Chase View. At every corner we turn in the direction that offers the most shade. A dog-walking woman's shirt reads, %%Will Run for Cupcakes!%% Someone wonders, "Is 'Cupcakes' your pup's name?" We cut through the Cedarbrook Swim and Tennis Club and hope that the friendly wave from a member will cancel out the ##NO TRESPASSING## signs we see.
+	
+	Meandering feet eventually find their way back to Rock Creek Trail, where packs of runners-in-training greet us as we pass. Then comes Nick who in his British accent warns, "Treats ahead!" Though he's from England this isn't (just) naughty British slang &mdash; there are indeed bunches of bananas and jugs of orange juice on the picnic table at KenGar, left there by the kind Montgomery County Road Runners club. //Thank you!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/822795740|trackfile]])// - //**^z**// - 2016-08-01
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.9 miles @ ~11.0 min/mi<br />&gt; "Stick a fork in me!" Rebecca says, when asked if we're done after almost half a dozen miles on a warm and humid morning. //Well done!//<br />&gt; Ken takes us along the streets and over the hills of Kensington and Chevy Chase View. At every corner we turn in the direction that offers the most shade. A dog-walking woman's shirt reads, %%Will Run for Cupcakes!%% Someone wonders, "Is 'Cupcakes' your pup's name?" We cut through the Cedarbrook Swim and Tennis Club and hope that the friendly wave from a member will cancel out the ##NO TRESPASSING## signs we see.<br />&gt; Meandering feet eventually find their way back to Rock Creek Trail, where packs of runners-in-training greet us as we pass. Then comes Nick who in his British accent warns, "Treats ahead!" Though he's from England this isn't (just) naughty British slang &amp;mdash; there are indeed bunches of bananas and jugs of orange juice on the picnic table at KenGar, left there by the kind Montgomery County Road Runners club. //Thank you!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/822795740|trackfile]])// - //**^z**// - 2016-08-01</strong></p></div>
+flags: 0
+ts: 1528057705
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057705

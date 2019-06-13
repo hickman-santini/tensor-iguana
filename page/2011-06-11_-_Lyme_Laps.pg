@@ -1,0 +1,24 @@
+flags: 0
+blocks: <p><h3>~4.5 miles @ ~9 min/mi</h3></p><p>Dermatologist Ilene Bloom yesterday argues with me that I've got Lyme Disease, based on rashes that first began almost three weeks ago. I take the contrary position that they're not the classic "bullseye". But she prescribes a month of doxycycline and refers me to the lab for blood tests; we'll see what they reveal.</p><p>Meanwhile, I'm feeling frisky and at 8:30am undertake three ~1.5 mile laps around the office parking lot. They feel fine in spite of warmth and humidity, with pace descending 9.2 &rArr; 8.6 &rArr; 8.1 min/mi. A feather rests on the sidewalk below the aircraft-sculpture. Segments of concrete are being replaced and force a brief cross-country diversion onto the grass.</p><p><em><strong>^z</strong></em> - 2011-06-20</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; Meanwhile, I'm feeling frisky and at 8:30am undertake three ~1.5 mile laps around the office parking lot. They feel fine in spite of warmth and humidity, with pace descending 9.2 &amp;rArr; 8.6 &amp;<strong class="changes">mdash</strong>; 8.1 min/mi. A feather rests on the sidewalk below the aircraft-sculpture. Segments of concrete are being replaced and force a brief cross-country diversion onto the grass.</p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; Meanwhile, I'm feeling frisky and at 8:30am undertake three ~1.5 mile laps around the office parking lot. They feel fine in spite of warmth and humidity, with pace descending 9.2 &amp;rArr; 8.6 &amp;<strong class="changes">rArr</strong>; 8.1 min/mi. A feather rests on the sidewalk below the aircraft-sculpture. Segments of concrete are being replaced and force a brief cross-country diversion onto the grass.</p></div>
+ip: 198.81.129.193
+ts: 1308589242
+minor: 1
+host: relay1.ucia.gov
+username: Mark Zimmermann
+revision: 2
+diff-major: 
+summary: fix right-arrow symbol
+languages: 
+text: === ~4.5 miles @ ~9 min/mi
+	
+	Dermatologist Ilene Bloom yesterday argues with me that I've got Lyme Disease, based on rashes that first began almost three weeks ago. I take the contrary position that they're not the classic "bullseye". But she prescribes a month of doxycycline and refers me to the lab for blood tests; we'll see what they reveal.
+	
+	Meanwhile, I'm feeling frisky and at 8:30am undertake three ~1.5 mile laps around the office parking lot. They feel fine in spite of warmth and humidity, with pace descending 9.2 &rArr; 8.6 &rArr; 8.1 min/mi. A feather rests on the sidewalk below the aircraft-sculpture. Segments of concrete are being replaced and force a brief cross-country diversion onto the grass.
+	
+	//**^z**// - 2011-06-20
+	
+lastmajor: 1
+keep-ts: 1308589242

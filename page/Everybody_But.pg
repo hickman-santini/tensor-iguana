@@ -1,0 +1,28 @@
+blocks: <p>Maybe pronouns are needed to indicate everyone <em><strong>Except</strong></em> a given person? That is, single words to represent:<br /></p><ul><li>everybody-but-me</li><li>everybody-but-you</li><li>everybody-but-her/him/it</li></ul><p>... and so forth? That way, a speaker can more easily and precisely indicate who is <em><strong>not</strong></em> included in a generalization, who lacks a certain quality, etc. &mdash; making for more compact and precise expression. And it completes the logical Venn diagram of possible references in a useful way.</p><p>Yes, and maybe everybody-but-me sees no need for that ...</p><p><em><strong>^z</strong></em> - 2015-10-26</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.82.156
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: Maybe pronouns are needed to indicate everyone //**Except**// a given person? That is, single words to represent:
+	* everybody-but-me
+	* everybody-but-you
+	* everybody-but-her/him/it
+	
+	... and so forth? That way, a speaker can more easily and precisely indicate who is //**not**// included in a generalization, who lacks a certain quality, etc. &mdash; making for more compact and precise expression. And it completes the logical Venn diagram of possible references in a useful way.
+	
+	Yes, and maybe everybody-but-me sees no need for that ...
+	
+	//**^z**// - 2015-10-26
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">Maybe pronouns are needed to indicate everyone //**Except**// a given person? That is, single words to represent:<br />&gt; * everybody-but-me<br />&gt; * everybody-but-you<br />&gt; * everybody-but-her/him/it<br />&gt; ... and so forth? That way, a speaker can more easily and precisely indicate who is //**not**// included in a generalization, who lacks a certain quality, etc. &amp;mdash; making for more compact and precise expression. And it completes the logical Venn diagram of possible references in a useful way.<br />&gt; Yes, and maybe everybody-but-me sees no need for that ...<br />&gt; //**^z**// - 2015-10-26</strong></p></div>
+flags: 0
+ts: 1528057689
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057689

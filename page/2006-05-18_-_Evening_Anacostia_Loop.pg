@@ -1,0 +1,21 @@
+flags: 0
+blocks: <p><h3>~11 miles @ ~11.5 min/mi</h3></p><p>A pair of pieces of pineapple pizza sit heavy in my stomach from dinner <em>(on top of a pair of soft tacos from lunch)</em> so I resolve to take it slow and pursue a 3:1::jog:walk ratio. At the UM Alumni Center I pat the bronze Testudo turtle on the nose and take Paint Branch Trail to Lake Artemesia. The ancient Asian lady who blew kisses at me two days ago is again sitting on her bench, this time wearing a red quilted jacket and a green Chairman Mao cap. She smiles, waves, blows kisses, and this time says "Bye-bye!" as I pass. Small clouds of midges drift above the stream and occasionally invade my eyes. Farther down the Northeast Branch there's the <em>clang</em> of aluminum bats and the hustle of soccer players on the ballfields. Latino toddlers wave at me and fishermen stow their gear as it begins to get dark.</p><p>During my upstream journey along Northwest Branch a group of kids at a basketball court call me "Forrest Gump". A fox crosses the trail and bats flit overhead. My LED headlamp comforts me in the darker woodsy areas, but it's unneeded after I emerge at University Blvd. and follow that street back to campus. I change clothes in a music building restroom and nap for a while in the car, awaiting my daughter until it turns out that she can get a ride home with a friend <em>(the one who almost ran over me on Tuesday)</em>.</p>
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; === ~11 miles @ ~11<strong class="changes">:30 pace</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; === ~11 miles @ ~11<strong class="changes">.5 min/mi</strong></p></div>
+ip: 138.88.113.83
+ts: 1310936520
+minor: 1
+host: pool-138-88-113-83.res.east.verizon.net
+username: MarkZimmermann
+revision: 2
+diff-major: 
+summary: factor
+languages: 
+text: === ~11 miles @ ~11.5 min/mi
+	
+	A pair of pieces of pineapple pizza sit heavy in my stomach from dinner //(on top of a pair of soft tacos from lunch)// so I resolve to take it slow and pursue a 3:1::jog:walk ratio. At the UM Alumni Center I pat the bronze Testudo turtle on the nose and take Paint Branch Trail to Lake Artemesia. The ancient Asian lady who blew kisses at me two days ago is again sitting on her bench, this time wearing a red quilted jacket and a green Chairman Mao cap. She smiles, waves, blows kisses, and this time says "Bye-bye!" as I pass. Small clouds of midges drift above the stream and occasionally invade my eyes. Farther down the Northeast Branch there's the //clang// of aluminum bats and the hustle of soccer players on the ballfields. Latino toddlers wave at me and fishermen stow their gear as it begins to get dark.
+	
+	During my upstream journey along Northwest Branch a group of kids at a basketball court call me "Forrest Gump". A fox crosses the trail and bats flit overhead. My LED headlamp comforts me in the darker woodsy areas, but it's unneeded after I emerge at University Blvd. and follow that street back to campus. I change clothes in a music building restroom and nap for a while in the car, awaiting my daughter until it turns out that she can get a ride home with a friend //(the one who almost ran over me on Tuesday)//.
+	
+keep-ts: 1310936520

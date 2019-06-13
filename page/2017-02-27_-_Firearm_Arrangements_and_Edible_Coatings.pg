@@ -1,0 +1,25 @@
+blocks: <h3>~5.0 miles @ ~14.3 min/mi</h3><p>"What are '<strong>Edible Arrangements</strong>'? And '<strong>Firearm Coatings</strong>'? This is a great planet we live on!" Shops across the street from each other offer diverse products. After a pause to snag hot coffee at Starbucks the Dawn Patrol continues its tour of downtown McLean. Temperatures are dozens of degrees colder than a few days ago: frost glitters on grass and parked cars. We explore a neighborhood but fail to find a way out that doesn't require climbing a fence. <em>Backtrack time!</em></p><p>"Good morning, Rainbow!" The pet dog we met on Friday is out for a walk, wearing his eponymous collar. An early morning meeting mandates a short loop. Kristin reports on a quick trip to the beach over the weekend, in honor of her daughter's latest lost tooth. Kerry tells of celebrations after Langley High School's hard-fought victory on Saturday, when for the first time ever the Saxons won the regional girls' basketball title. <em>Onward to the state championship tournament!</em></p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/940112769">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-03-27</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.83.157
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~5.0 miles @ ~14.3 min/mi
+	
+	"What are '**Edible Arrangements**'? And '**Firearm Coatings**'? This is a great planet we live on!" Shops across the street from each other offer diverse products. After a pause to snag hot coffee at Starbucks the Dawn Patrol continues its tour of downtown McLean. Temperatures are dozens of degrees colder than a few days ago: frost glitters on grass and parked cars. We explore a neighborhood but fail to find a way out that doesn't require climbing a fence. //Backtrack time!//
+	
+	"Good morning, Rainbow!" The pet dog we met on Friday is out for a walk, wearing his eponymous collar. An early morning meeting mandates a short loop. Kristin reports on a quick trip to the beach over the weekend, in honor of her daughter's latest lost tooth. Kerry tells of celebrations after Langley High School's hard-fought victory on Saturday, when for the first time ever the Saxons won the regional girls' basketball title. //Onward to the state championship tournament!//
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/940112769|trackfile]])// - //**^z**// - 2017-03-27
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~5.0 miles @ ~14.3 min/mi<br />&gt; "What are '**Edible Arrangements**'? And '**Firearm Coatings**'? This is a great planet we live on!" Shops across the street from each other offer diverse products. After a pause to snag hot coffee at Starbucks the Dawn Patrol continues its tour of downtown McLean. Temperatures are dozens of degrees colder than a few days ago: frost glitters on grass and parked cars. We explore a neighborhood but fail to find a way out that doesn't require climbing a fence. //Backtrack time!//<br />&gt; "Good morning, Rainbow!" The pet dog we met on Friday is out for a walk, wearing his eponymous collar. An early morning meeting mandates a short loop. Kristin reports on a quick trip to the beach over the weekend, in honor of her daughter's latest lost tooth. Kerry tells of celebrations after Langley High School's hard-fought victory on Saturday, when for the first time ever the Saxons won the regional girls' basketball title. //Onward to the state championship tournament!//<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/940112769|trackfile]])// - //**^z**// - 2017-03-27</strong></p></div>
+flags: 0
+ts: 1528057679
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057679

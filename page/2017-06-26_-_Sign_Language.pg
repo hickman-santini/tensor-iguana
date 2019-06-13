@@ -1,0 +1,23 @@
+blocks: <h3>~7.3 miles @ ~12.2 min/mi</h3><p>"They were signing to their dogs, and the dogs <em>UNDERSTOOD!</em>" As we cross Route 7 Kerry tells of a weekend encounter at a dog park, where hearing-impaired owners used ASL to communicate with their pets. Cait recalls taking her then-infant niece Riley to the Mardi Gras, where the 18-month-old kept signing "More! More!" when offered beads. We trot through Tysons Corner as the rising sun glints off glass-clad office buildings, air cool and relatively low-humidity. Kristin's kids have kept her well-grounded over the weekend.</p><p><em>(<a class="url http outside" href="http://runkeeper.com/user/zhurnaly/activity/1007499211">trackfile</a>)</em> - <em><strong>^z</strong></em> - 2017-07-20</p>
+lastmajorsummary: Rollback to 2018-06-03 10:40 UTC
+ip: 71.178.92.95
+diff-major: 1
+summary: Rollback to 2018-06-03 10:40 UTC
+text: === ~7.3 miles @ ~12.2 min/mi
+	
+	"They were signing to their dogs, and the dogs //UNDERSTOOD!//" As we cross Route 7 Kerry tells of a weekend encounter at a dog park, where hearing-impaired owners used ASL to communicate with their pets. Cait recalls taking her then-infant niece Riley to the Mardi Gras, where the 18-month-old kept signing "More! More!" when offered beads. We trot through Tysons Corner as the rising sun glints off glass-clad office buildings, air cool and relatively low-humidity. Kristin's kids have kept her well-grounded over the weekend.
+	
+	//([[http://runkeeper.com/user/zhurnaly/activity/1007499211|trackfile]])// - //**^z**// - 2017-07-20
+	
+languages: 
+lastmajor: 3
+diff-minor: <p><strong>Changed:</strong></p>
+	<div class="old"><p>&lt; <strong class="changes">DeletedPage</strong></p></div><p><strong>to</strong></p>
+	<div class="new"><p>&gt; <strong class="changes">=== ~7.3 miles @ ~12.2 min/mi<br />&gt; "They were signing to their dogs, and the dogs //UNDERSTOOD!//" As we cross Route 7 Kerry tells of a weekend encounter at a dog park, where hearing-impaired owners used ASL to communicate with their pets. Cait recalls taking her then-infant niece Riley to the Mardi Gras, where the 18-month-old kept signing "More! More!" when offered beads. We trot through Tysons Corner as the rising sun glints off glass-clad office buildings, air cool and relatively low-humidity. Kristin's kids have kept her well-grounded over the weekend.<br />&gt; //([[http://runkeeper.com/user/zhurnaly/activity/1007499211|trackfile]])// - //**^z**// - 2017-07-20</strong></p></div>
+flags: 0
+ts: 1528057707
+minor: 
+username: z
+host: 166.137.240.115
+revision: 3
+keep-ts: 1528057707
